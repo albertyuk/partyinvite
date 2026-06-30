@@ -1,0 +1,221 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   Design tokens — a refined art-deco luxury palette evoking the Peninsula era.
+   Ivory ground · deep heritage green · warm gold leaf. Elegance leads; the
+   July-4th nod is a whisper (a single restrained claret), never a flag.
+   ───────────────────────────────────────────────────────────────────────────── */
+:root {
+  --ivory: #f8f3e8;
+  --cream: #efe6d2;
+  --parchment: #e7dbc0;
+
+  --forest: #0e2a23;
+  --forest-700: #1a4334;
+  --midnight: #0a1722;
+
+  --gold: #c5a572;
+  --gold-light: #dcc79a;
+  --gold-deep: #9c7e4e;
+  --gold-ink: #6f5630;
+  --claret: #7c2e33;
+
+  --ink: #233028;
+  --ink-soft: #4a5750;
+
+  color-scheme: light;
+}
+
+@layer base {
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    margin: 0;
+    min-height: 100svh;
+    color: var(--ink);
+    font-family: theme('fontFamily.sans');
+    /* Warm parchment ground with a soft vignette so the card floats. */
+    background-color: var(--ivory);
+    background-image:
+      radial-gradient(120% 80% at 50% -10%, #fffaf0 0%, var(--ivory) 42%, var(--cream) 100%),
+      radial-gradient(80% 60% at 50% 120%, rgba(14, 42, 35, 0.06) 0%, rgba(14, 42, 35, 0) 60%);
+    background-attachment: fixed;
+  }
+
+  ::selection {
+    background: var(--gold);
+    color: var(--forest);
+  }
+
+  /* Quiet, gold focus ring — visible for keyboard users, calm for the rest. */
+  :focus-visible {
+    outline: 2px solid var(--gold);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: theme('fontFamily.display');
+    font-weight: 500;
+    margin: 0;
+  }
+}
+
+@layer components {
+  /* Small-caps eyebrow / label — tasteful tracking, the deco voice. */
+  .eyebrow {
+    font-family: theme('fontFamily.sans');
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.26em;
+    font-size: 0.7rem;
+    line-height: 1.4;
+  }
+
+  /* The primary gold action — leafed, with a slow shimmer sweep. */
+  .btn-primary {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: 52px;
+    padding: 0 2rem;
+    border-radius: 2px;
+    font-family: theme('fontFamily.sans');
+    font-weight: 500;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    font-size: 0.78rem;
+    color: var(--forest);
+    background:
+      linear-gradient(180deg, var(--gold-light) 0%, var(--gold) 52%, var(--gold-deep) 100%);
+    border: 1px solid rgba(111, 86, 48, 0.55);
+    box-shadow:
+      0 12px 26px -14px rgba(111, 86, 48, 0.85),
+      inset 0 1px 0 rgba(255, 255, 255, 0.45);
+    cursor: pointer;
+    overflow: hidden;
+    transition: transform 220ms cubic-bezier(0.22, 1, 0.36, 1),
+      box-shadow 220ms ease;
+  }
+  .btn-primary::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      105deg,
+      transparent 35%,
+      rgba(255, 255, 255, 0.55) 50%,
+      transparent 65%
+    );
+    background-size: 240% 100%;
+    transform: translateX(-30%);
+    opacity: 0.7;
+    pointer-events: none;
+    animation: shimmer 6s linear infinite;
+  }
+  .btn-primary:hover {
+    transform: translateY(-1px);
+    box-shadow:
+      0 16px 30px -14px rgba(111, 86, 48, 0.9),
+      inset 0 1px 0 rgba(255, 255, 255, 0.5);
+  }
+  .btn-primary:active {
+    transform: translateY(0);
+  }
+
+  /* Quiet secondary — a hairline outline on the dark or light ground. */
+  .btn-ghost {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: 48px;
+    padding: 0 1.5rem;
+    border-radius: 2px;
+    font-family: theme('fontFamily.sans');
+    font-weight: 500;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    font-size: 0.72rem;
+    color: var(--gold-deep);
+    background: transparent;
+    border: 1px solid rgba(156, 126, 78, 0.45);
+    cursor: pointer;
+    transition: background 200ms ease, border-color 200ms ease, color 200ms ease;
+  }
+  .btn-ghost:hover {
+    background: rgba(197, 165, 114, 0.1);
+    border-color: var(--gold);
+    color: var(--gold-ink);
+  }
+
+  /* Form fields — understated, with a gold underline that warms on focus. */
+  .field {
+    width: 100%;
+    background: rgba(255, 255, 255, 0.55);
+    border: 1px solid rgba(156, 126, 78, 0.3);
+    border-radius: 2px;
+    padding: 0.85rem 1rem;
+    font-family: theme('fontFamily.sans');
+    font-size: 1rem;
+    color: var(--ink);
+    transition: border-color 200ms ease, box-shadow 200ms ease, background 200ms ease;
+  }
+  .field::placeholder {
+    color: rgba(74, 87, 80, 0.5);
+  }
+  .field:focus {
+    outline: none;
+    border-color: var(--gold);
+    background: rgba(255, 255, 255, 0.85);
+    box-shadow: 0 0 0 3px rgba(197, 165, 114, 0.18);
+  }
+  .field-invalid {
+    border-color: var(--claret);
+    box-shadow: 0 0 0 3px rgba(124, 46, 51, 0.12);
+  }
+}
+
+@layer utilities {
+  /* Faint film-grain overlay for paper warmth (used on the dark hero too). */
+  .bg-grain::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.04;
+    mix-blend-mode: multiply;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Honor reduced-motion everywhere — gold-leaf-quiet means still, if asked. */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
