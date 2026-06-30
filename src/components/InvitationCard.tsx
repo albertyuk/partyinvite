@@ -1,4 +1,4 @@
-import { EVENT } from '../lib/event'
+import { useContent } from '../content/ContentContext'
 import { DecoCorner, DecoDivider, Monogram, SkylineSilhouette } from './Ornaments'
 
 interface InvitationCardProps {
@@ -14,6 +14,7 @@ export function InvitationCard({
   onRsvp,
   onViewPass,
 }: InvitationCardProps) {
+  const c = useContent()
   const firstName = guestName?.trim().split(/\s+/)[0]
 
   return (
@@ -32,54 +33,51 @@ export function InvitationCard({
         <div className="relative flex flex-col items-center text-center">
           <Monogram className="h-11 w-11 text-gold-deep" />
 
-          <p className="eyebrow mt-5 text-gold-ink">
-            The pleasure of your company
-          </p>
+          <p className="eyebrow mt-5 text-gold-ink">{c.eyebrow}</p>
 
           <h1 className="mt-3 break-words font-display text-[2.35rem] font-medium leading-[1.05] text-forest text-balance">
-            {EVENT.title}
+            {c.title}
           </h1>
 
-          <p className="eyebrow mt-3 text-forest/70">
-            On the Bund · the Fourth of July
-          </p>
+          {c.subEyebrow && (
+            <p className="eyebrow mt-3 text-forest/70">{c.subEyebrow}</p>
+          )}
 
           <DecoDivider className="my-6 h-3 w-44 text-gold" />
 
           {/* Where */}
           <h2 className="font-display text-[1.45rem] font-medium text-forest">
-            {EVENT.unitFull}
+            {c.unitFull}
           </h2>
-          <p className="eyebrow mt-2 text-gold-ink">{EVENT.venue}</p>
+          <p className="eyebrow mt-2 text-gold-ink">{c.venue}</p>
           <p className="mt-2 text-sm leading-relaxed text-ink-soft">
-            {EVENT.addressLine}
-            <br />
-            <span className="text-ink-soft/80">{EVENT.addressLineCn}</span>
+            {c.addressLine}
+            {c.addressLineCn && (
+              <>
+                <br />
+                <span className="text-ink-soft/80">{c.addressLineCn}</span>
+              </>
+            )}
           </p>
 
           {/* When — flanked by gold dots */}
           <div className="mt-6 flex items-center gap-3">
             <span className="h-1 w-1 rounded-full bg-gold" />
             <div>
-              <p className="font-display text-lg text-forest">{EVENT.dateLong}</p>
-              <p className="mt-0.5 text-sm italic text-ink-soft">
-                {EVENT.timeWords}
-              </p>
+              <p className="font-display text-lg text-forest">{c.dateLong}</p>
+              <p className="mt-0.5 text-sm italic text-ink-soft">{c.timeWords}</p>
             </div>
             <span className="h-1 w-1 rounded-full bg-gold" />
           </div>
 
           {/* Potluck ask */}
           <p className="mt-6 max-w-[22rem] text-[0.95rem] leading-relaxed text-ink text-balance">
-            An evening shared in kind. We ask each guest to bring{' '}
-            <span className="text-gold-ink">a dish for the table</span> or{' '}
-            <span className="text-gold-ink">a mix of spirits for the cocktail bar</span>
-            {' '}— whichever suits your hand.
+            {c.potluckAsk}
           </p>
 
           {/* Door note */}
           <p className="mt-5 text-xs leading-relaxed text-ink-soft/85">
-            {EVENT.lobbyInstructionShort}
+            {c.lobbyInstructionShort}
           </p>
 
           {/* CTA */}
@@ -100,7 +98,7 @@ export function InvitationCard({
               </>
             ) : (
               <button className="btn-primary w-full" onClick={onRsvp}>
-                Reply &amp; receive your pass
+                {c.ctaPrimary}
               </button>
             )}
           </div>

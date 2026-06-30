@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { EVENT } from '../lib/event'
+import { useContent } from '../content/ContentContext'
 import { calendarHref, contributionSummary, makeQrDataUrl } from '../lib/pass'
 import type { RsvpRecord } from '../lib/rsvp'
 import { DecoDivider, Monogram } from './Ornaments'
@@ -11,6 +11,7 @@ interface EntryPassProps {
 }
 
 export function EntryPass({ record, onEdit, onBack }: EntryPassProps) {
+  const c = useContent()
   const [qr, setQr] = useState<string | null>(null)
   const contribution = contributionSummary(record)
 
@@ -63,15 +64,15 @@ export function EntryPass({ record, onEdit, onBack }: EntryPassProps) {
               </p>
             )}
 
-            <p className="eyebrow mt-4 text-forest/70">{EVENT.admitLine}</p>
+            <p className="eyebrow mt-4 text-forest/70">{c.admitLine}</p>
 
             <DecoDivider className="mx-auto my-4 h-3 w-36 text-gold" />
 
             {/* When */}
             <div className="flex items-center justify-center gap-4 text-forest">
-              <span className="font-display text-lg">{EVENT.dateShort}</span>
+              <span className="font-display text-lg">{c.dateShort}</span>
               <span className="h-4 w-px bg-gold/50" />
-              <span className="font-display text-lg">{EVENT.time}</span>
+              <span className="font-display text-lg">{c.time}</span>
             </div>
 
             {/* Bringing */}
@@ -116,7 +117,7 @@ export function EntryPass({ record, onEdit, onBack }: EntryPassProps) {
               {record.confirmationCode}
             </p>
             <p className="mt-4 max-w-[18rem] text-[0.72rem] leading-relaxed text-ink-soft">
-              {EVENT.lobbyInstruction}
+              {c.lobbyInstruction}
             </p>
           </div>
         </article>
@@ -128,7 +129,7 @@ export function EntryPass({ record, onEdit, onBack }: EntryPassProps) {
           </p>
           <div className="flex w-full flex-col gap-2">
             <a
-              href={calendarHref(record)}
+              href={calendarHref(record, c)}
               download="peninsula-residence.ics"
               className="btn-ghost w-full !border-gold/35 !text-gold-light hover:!bg-white/5"
             >

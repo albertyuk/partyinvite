@@ -150,11 +150,41 @@ desired, ticks the `checked_in` column. Updating an RSVP never resets a guest's
 
 ---
 
-## Customizing the event
+## Editing the invitation — the live editor (no redeploy)
 
-All canonical facts (names, address, date/time, coordinates, door copy) live in
-one place: [`src/lib/event.ts`](./src/lib/event.ts). The invitation card and the
-entry pass both read from it, so they can't drift out of sync.
+Open **`https://your-site/?edit`** to change the wording and the date/time from a
+form, with a live preview of the card and the pass. Hitting **Publish** saves to
+your Apps Script backend and the change goes live for **everyone** — no GitHub or
+Vercel step.
+
+How it stays reliable:
+
+- The bundled copy renders **instantly**; the published copy loads in the
+  background (via JSONP, since Apps Script can't serve cross-origin JSON) and the
+  last seen copy is cached. A missing endpoint, slow network, or bad response
+  just leaves the current text in place — the invitation can't break.
+- Dates are edited as a **date + time picker**; the display strings ("Saturday,
+  July 4, 2026", "Six o'clock in the evening", the pass date, the calendar file)
+  are all derived automatically.
+- Publishing is gated by an **edit password** you set in the Apps Script
+  (`EDIT_PASSWORD`). The content is public (it's the invitation text); the guest
+  list stays private. After a save, the site re-reads the content to confirm it
+  took — a "couldn't confirm" message almost always means a wrong password.
+
+**To enable it:** in `apps-script/Code.gs`, change `EDIT_PASSWORD` to your own
+secret, then redeploy a **new version** of the web app (same `/exec` URL). That's
+it — `/?edit` will then publish.
+
+> The default values (used until you publish an edit, and as the always-available
+> fallback) live in [`src/lib/content.ts`](./src/lib/content.ts) and
+> [`src/lib/event.ts`](./src/lib/event.ts).
+
+## Customizing the event in code
+
+The fixed facts and the map target (coordinates) live in
+[`src/lib/event.ts`](./src/lib/event.ts); the editable defaults live in
+[`src/lib/content.ts`](./src/lib/content.ts). The card, pass, and intro all read
+through the content layer, so nothing drifts out of sync.
 
 ---
 

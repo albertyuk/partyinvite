@@ -5,7 +5,7 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 import QRCode from 'qrcode'
-import { CALENDAR, EVENT } from './event'
+import type { ResolvedContent } from './content'
 import type { RsvpRecord } from './rsvp'
 
 /**
@@ -49,8 +49,8 @@ function ics(value: string): string {
 }
 
 /** Build a downloadable .ics so guests can drop the evening into their calendar. */
-export function calendarHref(record: RsvpRecord): string {
-  const location = `${EVENT.venue}, ${EVENT.addressLine}, ${EVENT.unitFull}`
+export function calendarHref(record: RsvpRecord, c: ResolvedContent): string {
+  const location = `${c.venue}, ${c.addressLine}, ${c.unitFull}`
   const lines = [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
@@ -58,11 +58,11 @@ export function calendarHref(record: RsvpRecord): string {
     'CALSCALE:GREGORIAN',
     'BEGIN:VEVENT',
     `UID:${record.confirmationCode}@peninsula-residence`,
-    `SUMMARY:${ics(EVENT.title)}`,
-    `DTSTART;TZID=${CALENDAR.tz}:${CALENDAR.start}`,
-    `DTEND;TZID=${CALENDAR.tz}:${CALENDAR.end}`,
+    `SUMMARY:${ics(c.title)}`,
+    `DTSTART;TZID=${c.tz}:${c.calStart}`,
+    `DTEND;TZID=${c.tz}:${c.calEnd}`,
     `LOCATION:${ics(location)}`,
-    `DESCRIPTION:${ics(`${EVENT.lobbyInstruction} Your code: ${record.confirmationCode}.`)}`,
+    `DESCRIPTION:${ics(`${c.lobbyInstruction} Your code: ${record.confirmationCode}.`)}`,
     'END:VEVENT',
     'END:VCALENDAR',
   ]

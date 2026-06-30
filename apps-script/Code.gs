@@ -14,8 +14,20 @@
  *     Copy the "/exec" URL into the site's VITE_RSVP_ENDPOINT.
  *  4. Redeploy gotcha: after ANY edit here, Manage deployments → edit → deploy
  *     a NEW version (the /exec URL stays the same) or changes won't take effect.
+ *
+ * ── Live editor ──────────────────────────────────────────────────────────────
+ * The site's editor (yukinvite.com/?edit) saves the invitation's wording + dates
+ * here so changes go live with no redeploy. CHANGE `EDIT_PASSWORD` below to your
+ * own secret — it's the only thing stopping a stranger from editing the page.
+ * The content is public (it's the invitation text); the guest list stays private.
  * ─────────────────────────────────────────────────────────────────────────────
  */
+
+// 🔑 CHANGE THIS to your own password before deploying. Anyone who knows it can
+//     edit the invitation wording/dates from the /?edit page.
+var EDIT_PASSWORD = 'change-this-password';
+
+var CONTENT_KEY = 'site_content';
 
 var SHEET_NAME = 'RSVPs';
 var HEADERS = [
@@ -41,19 +53,45 @@ var COL = {
   checked_in: 8,
 };
 
-/** Health check only — deliberately returns NO guest data. */
-function doGet() {
-  return json({ ok: true, service: 'peninsula-rsvp' });
+/**
+ * GET: health check, or the public invitation content for the live editor.
+ * Served as JSONP (callback param) since Apps Script sends no CORS headers.
+ * NEVER returns guest data.
+ */
+function doGet(e) {
+  var params = (e && e.parameter) || {};
+  var payload;
+  if (params.type === 'content') {
+    var raw = PropertiesService.getScriptProperties().getProperty(CONTENT_KEY);
+    payload = { ok: true, content: raw ? JSON.parse(raw) : null };
+  } else {
+    payload = { ok: true, service: 'peninsula-rsvp' };
+  }
+  return reply_(payload, params.callback);
 }
 
-/** Receives an RSVP, dedupes on phone/code, appends or updates one row. */
+/** RSVP append/update, OR a token-gated save of the editable site content. */
 function doPost(e) {
   var lock = LockService.getScriptLock();
   try {
-    // Serialize concurrent RSVPs so two submissions can't double-append.
+    // Serialize concurrent writes so two submissions can't double-append.
     lock.waitLock(20000);
 
     var body = JSON.parse(e.postData.contents);
+
+    // ── Live editor save ──────────────────────────────────────────────────
+    if (body && body.kind === 'content') {
+      if (String(body.token || '') !== EDIT_PASSWORD) {
+        return json({ ok: false, error: 'unauthorized' });
+      }
+      PropertiesService.getScriptProperties().setProperty(
+        CONTENT_KEY,
+        JSON.stringify(body.content || {}),
+      );
+      return json({ ok: true, saved: true });
+    }
+
+    // ── RSVP ──────────────────────────────────────────────────────────────
     var record = {
       timestamp: body.timestamp || new Date().toISOString(),
       name: String(body.name || '').trim(),
@@ -163,6 +201,21 @@ function setupSheet() {
 
 function json(obj) {
   return ContentService.createTextOutput(JSON.stringify(obj)).setMimeType(
+    ContentService.MimeType.JSON,
+  );
+}
+
+/** JSON, or JSONP if a callback name is supplied (for cross-origin GET reads). */
+function reply_(obj, callback) {
+  var body = JSON.stringify(obj);
+  if (callback) {
+    // Only allow a safe JS identifier as the callback name.
+    var safe = String(callback).replace(/[^\w$.]/g, '');
+    return ContentService.createTextOutput(safe + '(' + body + ')').setMimeType(
+      ContentService.MimeType.JAVASCRIPT,
+    );
+  }
+  return ContentService.createTextOutput(body).setMimeType(
     ContentService.MimeType.JSON,
   );
 }

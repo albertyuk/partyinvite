@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import mapboxgl from 'mapbox-gl'
 import 'mapbox-gl/dist/mapbox-gl.css'
 import { EVENT } from '../lib/event'
+import { useContent } from '../content/ContentContext'
 import { Monogram, SkylineSilhouette } from './Ornaments'
 
 interface IntroSequenceProps {
@@ -286,6 +287,7 @@ function StaticHero({
   onEnter: () => void
   reduced: boolean
 }) {
+  const c = useContent()
   return (
     <div
       className="bg-grain absolute inset-0 flex flex-col items-center justify-center px-6 text-center"
@@ -310,9 +312,9 @@ function StaticHero({
         <Monogram className="h-12 w-12 text-gold-light" />
         <p className="eyebrow mt-5 text-gold-light/80">Shanghai · On the Bund</p>
         <h1 className="mt-3 font-display text-[2.5rem] font-medium leading-[1.05] text-ivory text-balance">
-          {EVENT.title}
+          {c.title}
         </h1>
-        <p className="eyebrow mt-4 text-gold/80">{EVENT.unitFull}</p>
+        <p className="eyebrow mt-4 text-gold/80">{c.unitFull}</p>
 
         <button onClick={onEnter} className="btn-primary mt-9">
           {reduced ? 'Enter' : 'Enter the evening'}
