@@ -73,12 +73,12 @@ const HOUR_WORDS = [
   'Seven', 'Eight', 'Nine', 'Ten', 'Eleven', 'Twelve',
 ]
 
-function partOfDay(h: number): string {
-  if (h < 5) return 'night'
-  if (h < 12) return 'morning'
-  if (h < 17) return 'afternoon'
-  if (h < 21) return 'evening'
-  return 'night'
+function periodPhrase(h: number): string {
+  if (h < 5) return 'at night'
+  if (h < 12) return 'in the morning'
+  if (h < 17) return 'in the afternoon'
+  if (h < 21) return 'in the evening'
+  return 'at night'
 }
 
 function twoDigit(n: number): string {
@@ -114,32 +114,35 @@ export function resolve(c: EditableContent): ResolvedContent {
 
   try {
     const [y, mo, d] = c.dateISO.split('-').map((n) => parseInt(n, 10))
-    if (y && mo && d) {
-      const date = new Date(Date.UTC(y, mo - 1, d, 12))
-      const long = new Intl.DateTimeFormat('en-US', {
-        weekday: 'long', month: 'long', day: 'numeric', year: 'numeric',
-        timeZone: 'UTC',
-      })
-      const wkShort = new Intl.DateTimeFormat('en-US', {
-        weekday: 'short', timeZone: 'UTC',
-      })
-      const monthLong = new Intl.DateTimeFormat('en-US', {
-        month: 'long', timeZone: 'UTC',
-      })
-      dateLong = long.format(date)
-      dateShort = `${wkShort.format(date)} · ${monthLong.format(date)} ${d}, ${y}`
+    const date = new Date(Date.UTC(y, mo - 1, d, 12))
+    // Reject impossible dates (e.g. 2026-13-40, 2026-02-30) so we fall back
+    // instead of silently rolling over to the wrong day.
+    const valid =
+      !!y && !!mo && !!d &&
+      date.getUTCFullYear() === y &&
+      date.getUTCMonth() === mo - 1 &&
+      date.getUTCDate() === d
+    if (valid) {
+      const fmt = (opts: Intl.DateTimeFormatOptions) =>
+        new Intl.DateTimeFormat('en-US', { ...opts, timeZone: 'UTC' }).format(date)
+      dateLong = fmt({ weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })
+      // Derive every part from the normalized Date so it can't disagree with dateLong.
+      dateShort = `${fmt({ weekday: 'short' })} · ${fmt({ month: 'long' })} ${date.getUTCDate()}, ${date.getUTCFullYear()}`
 
       const { h, m } = parseTime(c.startTime)
       time = to12h(h, m)
       timeWords =
         m === 0
-          ? `${HOUR_WORDS[h % 12 === 0 ? 12 : h % 12]} o’clock in the ${partOfDay(h)}`
-          : `${time} in the ${partOfDay(h)}`
+          ? `${HOUR_WORDS[h % 12 === 0 ? 12 : h % 12]} o’clock ${periodPhrase(h)}`
+          : `${time} ${periodPhrase(h)}`
 
       const end = parseTime(c.endTime)
+      const overnight = end.h * 60 + end.m <= h * 60 + m
+      const endDate = new Date(Date.UTC(y, mo - 1, d + (overnight ? 1 : 0), 12))
       const ymd = `${y}${twoDigit(mo)}${twoDigit(d)}`
+      const endYmd = `${endDate.getUTCFullYear()}${twoDigit(endDate.getUTCMonth() + 1)}${twoDigit(endDate.getUTCDate())}`
       calStart = `${ymd}T${twoDigit(h)}${twoDigit(m)}00`
-      calEnd = `${ymd}T${twoDigit(end.h)}${twoDigit(end.m)}00`
+      calEnd = `${endYmd}T${twoDigit(end.h)}${twoDigit(end.m)}00`
     }
   } catch {
     /* keep the bundled fallbacks */
@@ -161,9 +164,22 @@ export function resolve(c: EditableContent): ResolvedContent {
 
 const CACHE_KEY = 'peninsula_content'
 
-/** Merge stored (possibly partial) content over the defaults. */
+/**
+ * Merge stored content over the defaults, copying ONLY known keys and ONLY when
+ * the stored value is actually a string. A malformed remote payload (a null
+ * title, a number, an object, an injected `__proto__`) can never reach the UI —
+ * the bundled default is kept for that field. This is what guarantees the
+ * invitation can't white-screen on bad content.
+ */
 export function withDefaults(stored: Partial<EditableContent> | null): EditableContent {
-  return { ...DEFAULT_CONTENT, ...(stored ?? {}) }
+  const out: EditableContent = { ...DEFAULT_CONTENT }
+  if (stored && typeof stored === 'object') {
+    const src = stored as Record<string, unknown>
+    for (const k of Object.keys(DEFAULT_CONTENT) as (keyof EditableContent)[]) {
+      if (typeof src[k] === 'string') out[k] = src[k] as string
+    }
+  }
+  return out
 }
 
 export function loadCachedContent(): EditableContent {
@@ -222,64 +238,70 @@ function jsonp<T>(url: string, timeoutMs = 9000): Promise<T> {
   })
 }
 
-/** Fetch the live content. Returns null if absent/unreachable/malformed. */
-export async function fetchRemoteContent(): Promise<EditableContent | null> {
+interface ContentResponse {
+  ok?: boolean
+  content?: Partial<EditableContent> | null
+  rev?: string
+}
+
+async function fetchContentResponse(): Promise<ContentResponse | null> {
   if (!ENDPOINT) return null
   try {
-    const res = await jsonp<{ ok?: boolean; content?: Partial<EditableContent> | null }>(
-      `${ENDPOINT}?type=content`,
-    )
-    if (res && res.content && typeof res.content === 'object') {
-      return withDefaults(res.content)
-    }
-    return null
+    return await jsonp<ContentResponse>(`${ENDPOINT}?type=content`)
   } catch {
     return null
   }
 }
 
+/** Fetch the live content. Returns null if absent/unreachable/malformed. */
+export async function fetchRemoteContent(): Promise<EditableContent | null> {
+  const res = await fetchContentResponse()
+  if (res && res.content && typeof res.content === 'object') {
+    return withDefaults(res.content)
+  }
+  return null
+}
+
 export type SaveOutcome = 'saved' | 'unconfirmed' | 'no-endpoint'
 
 /**
- * Save edited content. The POST is a simple request (text/plain) so it lands
- * even though we can't read its cross-origin response; we then re-fetch and
- * compare to confirm. A mismatch usually means a wrong edit password.
+ * Save edited content. The POST is a fire-and-forget simple request — its
+ * cross-origin response can't be read, and a `cors`-mode attempt always rejects
+ * against an Apps Script /exec redirect, so we use `no-cors` directly.
+ *
+ * To CONFIRM the write actually landed (and wasn't silently rejected by a wrong
+ * password), each save carries a unique `rev`; we then poll the content endpoint
+ * until that exact rev comes back. Equality of content alone isn't enough —
+ * a rejected write would still leave the old content equal to the draft if it
+ * happened to match — so the rev is the authoritative proof THIS save persisted.
  */
 export async function saveContent(
   content: EditableContent,
   token: string,
 ): Promise<SaveOutcome> {
   if (!ENDPOINT) return 'no-endpoint'
-  const payload = JSON.stringify({ kind: 'content', token, content })
+  const rev = `${Date.now().toString(36)}-${Math.floor(Math.random() * 1e9).toString(36)}`
+  const payload = JSON.stringify({ kind: 'content', token, content, rev })
   try {
     await fetch(ENDPOINT, {
       method: 'POST',
+      mode: 'no-cors',
       headers: { 'Content-Type': 'text/plain;charset=utf-8' },
       body: payload,
       redirect: 'follow',
     })
   } catch {
-    try {
-      await fetch(ENDPOINT, {
-        method: 'POST', mode: 'no-cors',
-        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
-        body: payload, redirect: 'follow',
-      })
-    } catch {
-      /* fall through to verify */
+    /* request may still have been sent; confirm by polling below */
+  }
+  // Poll for our rev with backoff — tolerates an Apps Script cold start without
+  // a false 'unconfirmed', and never reports success on a rejected write.
+  for (const delay of [400, 800, 1600]) {
+    await new Promise((r) => window.setTimeout(r, delay))
+    const res = await fetchContentResponse()
+    if (res && res.rev === rev) {
+      cacheContent(content)
+      return 'saved'
     }
   }
-  // Give Apps Script a moment, then confirm the write took.
-  await new Promise((r) => window.setTimeout(r, 900))
-  const remote = await fetchRemoteContent()
-  if (remote && sameContent(remote, content)) {
-    cacheContent(content)
-    return 'saved'
-  }
   return 'unconfirmed'
-}
-
-function sameContent(a: EditableContent, b: EditableContent): boolean {
-  const keys = Object.keys(DEFAULT_CONTENT) as (keyof EditableContent)[]
-  return keys.every((k) => (a[k] ?? '') === (b[k] ?? ''))
 }

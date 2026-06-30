@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { ContentContext } from '../content/ContentContext'
 import {
   DEFAULT_CONTENT,
@@ -85,12 +85,15 @@ export function Editor() {
     'idle' | 'saving' | SaveOutcome
   >('idle')
   const [preview, setPreview] = useState<'card' | 'pass'>('card')
+  // Once the host touches anything, never let a late background fetch clobber it.
+  const touched = useRef(false)
 
-  // Pull the latest live copy in so edits start from what's published.
+  // Pull the latest live copy in so edits start from what's published — but only
+  // adopt it if the host hasn't started editing yet (no silent loss of work).
   useEffect(() => {
     let alive = true
     fetchRemoteContent().then((c) => {
-      if (alive && c) setDraft(c)
+      if (alive && c && !touched.current) setDraft(c)
     })
     return () => {
       alive = false
@@ -99,6 +102,7 @@ export function Editor() {
 
   const resolved = useMemo(() => resolve(draft), [draft])
   const set = (k: keyof EditableContent, v: string) => {
+    touched.current = true
     setDraft((d) => ({ ...d, [k]: v }))
     setStatus('idle')
   }
@@ -109,14 +113,6 @@ export function Editor() {
     const outcome = await saveContent(draft, token)
     setStatus(outcome)
   }
-
-  const dirty = useMemo(
-    () =>
-      (Object.keys(DEFAULT_CONTENT) as (keyof EditableContent)[]).some(
-        (k) => draft[k] !== loadCachedContent()[k],
-      ),
-    [draft],
-  )
 
   return (
     <div className="min-h-svh bg-ivory" style={{ backgroundColor: 'var(--ivory)' }}>
@@ -153,7 +149,7 @@ export function Editor() {
         </div>
         {status !== 'idle' && status !== 'saving' && (
           <div className="mx-auto max-w-6xl px-4 pb-2">
-            <StatusLine status={status} dirty={dirty} />
+            <StatusLine status={status} />
           </div>
         )}
       </header>
@@ -212,6 +208,7 @@ export function Editor() {
           <button
             className="btn-ghost self-start"
             onClick={() => {
+              touched.current = true
               setDraft({ ...DEFAULT_CONTENT })
               setStatus('idle')
             }}
@@ -264,17 +261,11 @@ export function Editor() {
   )
 }
 
-function StatusLine({
-  status,
-  dirty,
-}: {
-  status: 'idle' | 'saving' | SaveOutcome
-  dirty: boolean
-}) {
+function StatusLine({ status }: { status: 'idle' | 'saving' | SaveOutcome }) {
   if (status === 'saved')
     return (
       <p className="text-sm text-forest-700">
-        ✓ Published{dirty ? '' : ''} — live for everyone now.
+        ✓ Published — live for everyone now.
       </p>
     )
   if (status === 'unconfirmed')

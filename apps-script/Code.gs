@@ -28,6 +28,8 @@
 var EDIT_PASSWORD = 'change-this-password';
 
 var CONTENT_KEY = 'site_content';
+var CONTENT_REV_KEY = 'site_content_rev';
+var EDIT_PASSWORD_PLACEHOLDER = 'change-this-password';
 
 var SHEET_NAME = 'RSVPs';
 var HEADERS = [
@@ -62,8 +64,13 @@ function doGet(e) {
   var params = (e && e.parameter) || {};
   var payload;
   if (params.type === 'content') {
-    var raw = PropertiesService.getScriptProperties().getProperty(CONTENT_KEY);
-    payload = { ok: true, content: raw ? JSON.parse(raw) : null };
+    var props = PropertiesService.getScriptProperties();
+    var raw = props.getProperty(CONTENT_KEY);
+    payload = {
+      ok: true,
+      content: raw ? JSON.parse(raw) : null,
+      rev: props.getProperty(CONTENT_REV_KEY) || '',
+    };
   } else {
     payload = { ok: true, service: 'peninsula-rsvp' };
   }
@@ -81,13 +88,21 @@ function doPost(e) {
 
     // ── Live editor save ──────────────────────────────────────────────────
     if (body && body.kind === 'content') {
+      // Fail closed if the password was never changed from the shipped default.
+      if (EDIT_PASSWORD === EDIT_PASSWORD_PLACEHOLDER) {
+        return json({ ok: false, error: 'edit_password_not_configured' });
+      }
       if (String(body.token || '') !== EDIT_PASSWORD) {
         return json({ ok: false, error: 'unauthorized' });
       }
-      PropertiesService.getScriptProperties().setProperty(
-        CONTENT_KEY,
-        JSON.stringify(body.content || {}),
-      );
+      var serialized = JSON.stringify(body.content || {});
+      if (serialized.length > 9000) {
+        // Script Property values cap at 9KB — refuse rather than truncate.
+        return json({ ok: false, error: 'content_too_large' });
+      }
+      var props = PropertiesService.getScriptProperties();
+      props.setProperty(CONTENT_KEY, serialized);
+      props.setProperty(CONTENT_REV_KEY, String(body.rev || ''));
       return json({ ok: true, saved: true });
     }
 

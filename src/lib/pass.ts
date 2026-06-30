@@ -45,7 +45,7 @@ function ics(value: string): string {
     .replace(/\\/g, '\\\\')
     .replace(/;/g, '\\;')
     .replace(/,/g, '\\,')
-    .replace(/\r?\n/g, '\\n')
+    .replace(/\r\n|\r|\n/g, '\\n')
 }
 
 /** Build a downloadable .ics so guests can drop the evening into their calendar. */
