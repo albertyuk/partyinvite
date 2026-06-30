@@ -39,8 +39,18 @@ export function contributionSummary(record: RsvpRecord): {
   return { label, detail: record.contributionDetail.trim() }
 }
 
+/** Escape a TEXT value per RFC 5545 (backslash, semicolon, comma, newlines). */
+function ics(value: string): string {
+  return value
+    .replace(/\\/g, '\\\\')
+    .replace(/;/g, '\\;')
+    .replace(/,/g, '\\,')
+    .replace(/\r?\n/g, '\\n')
+}
+
 /** Build a downloadable .ics so guests can drop the evening into their calendar. */
 export function calendarHref(record: RsvpRecord): string {
+  const location = `${EVENT.venue}, ${EVENT.addressLine}, ${EVENT.unitFull}`
   const lines = [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
@@ -48,11 +58,11 @@ export function calendarHref(record: RsvpRecord): string {
     'CALSCALE:GREGORIAN',
     'BEGIN:VEVENT',
     `UID:${record.confirmationCode}@peninsula-residence`,
-    `SUMMARY:${EVENT.title}`,
+    `SUMMARY:${ics(EVENT.title)}`,
     `DTSTART;TZID=${CALENDAR.tz}:${CALENDAR.start}`,
     `DTEND;TZID=${CALENDAR.tz}:${CALENDAR.end}`,
-    `LOCATION:${EVENT.venue}\\, ${EVENT.addressLine}\\, ${EVENT.unitFull}`,
-    `DESCRIPTION:${EVENT.lobbyInstruction} Your code: ${record.confirmationCode}.`,
+    `LOCATION:${ics(location)}`,
+    `DESCRIPTION:${ics(`${EVENT.lobbyInstruction} Your code: ${record.confirmationCode}.`)}`,
     'END:VEVENT',
     'END:VCALENDAR',
   ]

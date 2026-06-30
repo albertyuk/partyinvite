@@ -69,22 +69,22 @@ function doPost(e) {
 
     if (rowIndex > 0) {
       // Update guest-editable fields; preserve timestamp, code, and check-in.
-      sheet.getRange(rowIndex, COL.name).setValue(record.name);
-      sheet.getRange(rowIndex, COL.phone).setValue(record.phone);
-      sheet.getRange(rowIndex, COL.contribution_type).setValue(record.contribution_type);
-      sheet.getRange(rowIndex, COL.contribution_detail).setValue(record.contribution_detail);
+      sheet.getRange(rowIndex, COL.name).setValue(safeCell_(record.name));
+      sheet.getRange(rowIndex, COL.phone).setValue(safeCell_(record.phone));
+      sheet.getRange(rowIndex, COL.contribution_type).setValue(safeCell_(record.contribution_type));
+      sheet.getRange(rowIndex, COL.contribution_detail).setValue(safeCell_(record.contribution_detail));
       sheet.getRange(rowIndex, COL.party_size).setValue(record.party_size);
       return json({ ok: true, row: rowIndex, updated: true });
     }
 
     sheet.appendRow([
-      record.timestamp,
-      record.name,
-      record.phone,
-      record.contribution_type,
-      record.contribution_detail,
+      safeCell_(record.timestamp),
+      safeCell_(record.name),
+      safeCell_(record.phone),
+      safeCell_(record.contribution_type),
+      safeCell_(record.contribution_detail),
       record.party_size,
-      record.confirmation_code,
+      safeCell_(record.confirmation_code),
       '', // checked_in — the attendant ticks this by hand on arrival.
     ]);
     return json({ ok: true, row: sheet.getLastRow(), updated: false });
@@ -95,7 +95,13 @@ function doPost(e) {
   }
 }
 
-/** Find an existing row by confirmation code, else by normalized phone. */
+/**
+ * Find an existing row for this guest. The NORMALIZED PHONE is the authoritative
+ * identity key — the confirmation code is only the first 4 hex of a hash (16
+ * bits), so two different phones can collide on a code. Matching on the code
+ * would let guest B overwrite guest A's row on such a collision; matching on the
+ * phone never does. The code is used only as a fallback when no phone is present.
+ */
 function findRow_(sheet, record) {
   var last = sheet.getLastRow();
   if (last < 2) return -1; // header only
@@ -108,13 +114,26 @@ function findRow_(sheet, record) {
   var wantCode = record.confirmation_code;
 
   for (var i = 0; i < values.length; i++) {
-    var rowCode = String(values[i][COL.confirmation_code - 1] || '').trim();
     var rowPhone = normalizePhone_(String(values[i][COL.phone - 1] || ''));
-    if ((wantCode && rowCode === wantCode) || (wantPhone && rowPhone === wantPhone)) {
-      return i + 2; // +2: skip header, convert to 1-based row number
-    }
+    var rowCode = String(values[i][COL.confirmation_code - 1] || '').trim();
+    var match = wantPhone
+      ? rowPhone === wantPhone
+      : !!wantCode && rowCode === wantCode;
+    if (match) return i + 2; // +2: skip header, convert to 1-based row number
   }
   return -1;
+}
+
+/**
+ * Neutralize spreadsheet formula injection. Google Sheets treats any cell value
+ * beginning with = + - @ (or a tab/CR) as a live formula — so a guest name like
+ * `=IMPORTRANGE(...)` would execute in the host's authenticated session, and an
+ * ordinary `+86…` phone would be parsed as a formula and render `#ERROR!`. A
+ * leading apostrophe forces literal text while displaying the same string.
+ */
+function safeCell_(value) {
+  var v = String(value == null ? '' : value);
+  return /^[=+\-@\t\r]/.test(v) ? "'" + v : v;
 }
 
 /** Digits-only canonical phone, mirroring the client's normalization. */

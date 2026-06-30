@@ -56,7 +56,7 @@ export function IntroSequence({ onComplete }: IntroSequenceProps) {
 
   const reduced = prefersReducedMotion()
   // Static hero when motion is off or there's no Mapbox token to fly with.
-  const [mode] = useState<'map' | 'static'>(
+  const [mode, setMode] = useState<'map' | 'static'>(
     !TOKEN || reduced ? 'static' : 'map',
   )
   const [label, setLabel] = useState('Shanghai')
@@ -65,9 +65,22 @@ export function IntroSequence({ onComplete }: IntroSequenceProps) {
   function finish() {
     if (doneRef.current) return
     doneRef.current = true
+    // Halt any in-flight flyTo so no further beat runs during the dissolve.
+    try {
+      mapRef.current?.stop()
+    } catch {
+      /* no-op */
+    }
     setFading(true)
     const t = window.setTimeout(onComplete, 650)
     timers.current.push(t)
+  }
+
+  // A failed map (bad token, WebGL off, offline) reveals the designed static
+  // hero — per spec, never a blank screen and never a silent skip to the card.
+  function fallBackToStatic() {
+    if (doneRef.current) return
+    setMode('static')
   }
 
   // ── Map flight ──────────────────────────────────────────────────────────────
@@ -94,16 +107,22 @@ export function IntroSequence({ onComplete }: IntroSequenceProps) {
         dragRotate: false,
       })
     } catch {
-      // WebGL unavailable etc. — fall back by finishing onto the card.
-      finish()
+      // WebGL unavailable etc. — show the designed static hero instead.
+      fallBackToStatic()
       return
     }
     mapRef.current = map
 
-    // If the style/tiles never load (bad token, offline), bail to the card.
+    // A pre-load auth/style error (invalid or unauthorized token) → static hero.
+    map.on('error', (e) => {
+      const status = (e as { error?: { status?: number } })?.error?.status
+      if (!loaded && (status === 401 || status === 403)) fallBackToStatic()
+    })
+
+    // If the style/tiles never load (bad token, offline), show the static hero.
     const loadGuard = window.setTimeout(() => {
-      if (!loaded) finish()
-    }, 6500)
+      if (!loaded) fallBackToStatic()
+    }, 6000)
     timers.current.push(loadGuard)
 
     // Absolute safety net: never strand the guest on the intro.
@@ -112,6 +131,7 @@ export function IntroSequence({ onComplete }: IntroSequenceProps) {
 
     let beat = -1
     const advance = () => {
+      if (doneRef.current) return // finished/skipped — don't run more beats
       beat += 1
       if (beat >= BEATS.length) {
         const settle = window.setTimeout(finish, 1500)
@@ -200,7 +220,11 @@ export function IntroSequence({ onComplete }: IntroSequenceProps) {
     return () => {
       timers.current.forEach((t) => window.clearTimeout(t))
       timers.current = []
-      map.remove()
+      try {
+        map.remove()
+      } catch {
+        /* map may already be gone — fine. */
+      }
       mapRef.current = null
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -253,8 +277,8 @@ export function IntroSequence({ onComplete }: IntroSequenceProps) {
       {!fading && (
         <button
           onClick={finish}
-          className="absolute right-4 top-4 z-10 rounded-full border border-gold/40 bg-black/20 px-4 py-2 text-[0.7rem] uppercase tracking-wide2 text-gold-light backdrop-blur-sm transition hover:bg-black/35"
-          style={{ paddingTop: 'max(0.5rem, env(safe-area-inset-top))' }}
+          className="absolute right-4 z-10 rounded-full border border-gold/40 bg-black/20 px-4 py-2 text-[0.7rem] uppercase tracking-wide2 text-gold-light backdrop-blur-sm transition hover:bg-black/35"
+          style={{ top: 'max(1rem, env(safe-area-inset-top))' }}
         >
           {mode === 'static' ? 'Enter' : 'Skip intro'}
         </button>

@@ -32,15 +32,15 @@ export function InvitationCard({
         <div className="relative flex flex-col items-center text-center">
           <Monogram className="h-11 w-11 text-gold-deep" />
 
-          <p className="eyebrow mt-5 text-gold-ink/80">
+          <p className="eyebrow mt-5 text-gold-ink">
             The pleasure of your company
           </p>
 
-          <h1 className="mt-3 font-display text-[2.35rem] font-medium leading-[1.05] text-forest text-balance">
+          <h1 className="mt-3 break-words font-display text-[2.35rem] font-medium leading-[1.05] text-forest text-balance">
             {EVENT.title}
           </h1>
 
-          <p className="eyebrow mt-3 text-forest/55">
+          <p className="eyebrow mt-3 text-forest/70">
             On the Bund · the Fourth of July
           </p>
 
@@ -50,7 +50,7 @@ export function InvitationCard({
           <h2 className="font-display text-[1.45rem] font-medium text-forest">
             {EVENT.unitFull}
           </h2>
-          <p className="eyebrow mt-2 text-gold-ink/75">{EVENT.venue}</p>
+          <p className="eyebrow mt-2 text-gold-ink">{EVENT.venue}</p>
           <p className="mt-2 text-sm leading-relaxed text-ink-soft">
             {EVENT.addressLine}
             <br />

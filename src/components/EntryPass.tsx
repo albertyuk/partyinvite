@@ -46,15 +46,15 @@ export function EntryPass({ record, onEdit, onBack }: EntryPassProps) {
           >
             <Monogram className="h-9 w-9 text-gold-light" />
             <p className="eyebrow mt-3 text-gold-light/85">Admit One</p>
-            <p className="mt-1 text-[0.62rem] uppercase tracking-luxe text-gold/70">
+            <p className="mt-1 text-[0.62rem] uppercase tracking-luxe text-gold-light/85">
               Peninsula Residence
             </p>
           </div>
 
           {/* Body */}
           <div className="px-6 pb-6 pt-6 text-center">
-            <p className="eyebrow text-gold-ink/70">This admits</p>
-            <h1 className="mt-2 font-display text-[2.1rem] font-medium leading-tight text-forest text-balance">
+            <p className="eyebrow text-gold-ink">This admits</p>
+            <h1 className="mt-2 break-words font-display text-[2.1rem] font-medium leading-tight text-forest text-balance">
               {record.name}
             </h1>
             {record.partySize > 1 && (
@@ -76,7 +76,7 @@ export function EntryPass({ record, onEdit, onBack }: EntryPassProps) {
 
             {/* Bringing */}
             <div className="mt-5 rounded-sm bg-forest/[0.04] px-4 py-3">
-              <p className="eyebrow text-gold-ink/70">Bringing</p>
+              <p className="eyebrow text-gold-ink">Bringing</p>
               <p className="mt-1 text-sm text-forest">{contribution.label}</p>
               {contribution.detail && (
                 <p className="mt-0.5 text-xs italic text-ink-soft">
@@ -94,7 +94,7 @@ export function EntryPass({ record, onEdit, onBack }: EntryPassProps) {
             />
             <span
               className="absolute right-[-12px] top-1/2 h-6 w-6 -translate-y-1/2 rounded-full"
-              style={{ backgroundColor: 'var(--midnight)' }}
+              style={{ backgroundColor: 'var(--forest)' }}
             />
             <div className="absolute inset-x-6 top-1/2 -translate-y-1/2 border-t border-dashed border-gold/50" />
           </div>
@@ -111,7 +111,7 @@ export function EntryPass({ record, onEdit, onBack }: EntryPassProps) {
                 style={{ backgroundColor: '#fbf7ee' }}
               />
             )}
-            <p className="eyebrow text-gold-ink/70">Confirmation</p>
+            <p className="eyebrow text-gold-ink">Confirmation</p>
             <p className="mt-1 font-display text-[2.4rem] font-semibold leading-none tracking-[0.12em] text-forest">
               {record.confirmationCode}
             </p>

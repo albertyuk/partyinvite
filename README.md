@@ -141,6 +141,13 @@ pass, the attendant finds the matching **confirmation code** (or name) and, if
 desired, ticks the `checked_in` column. Updating an RSVP never resets a guest's
 `checked_in` value.
 
+> The confirmation code is a short 4-character hash of the phone number, so on a
+> large guest list two different guests can occasionally share the same code.
+> The Sheet always dedupes on the **full phone number**, never the code, so no
+> RSVP is ever lost — if two passes happen to show the same code, the attendant
+> simply confirms by **name**. (Guest-entered fields are also written as plain
+> text, so a name or note can never run as a spreadsheet formula.)
+
 ---
 
 ## Customizing the event

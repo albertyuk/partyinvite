@@ -82,7 +82,7 @@ export function RsvpForm({ initial, onSubmit, onBack }: RsvpFormProps) {
         <form className="relative flex flex-col" onSubmit={handleSubmit} noValidate>
           <div className="flex flex-col items-center text-center">
             <Monogram className="h-9 w-9 text-gold-deep" />
-            <p className="eyebrow mt-4 text-gold-ink/80">Kindly reply</p>
+            <p className="eyebrow mt-4 text-gold-ink">Kindly reply</p>
             <h1 className="mt-2 font-display text-[1.9rem] font-medium leading-tight text-forest">
               Reserve your place
             </h1>
@@ -149,11 +149,9 @@ export function RsvpForm({ initial, onSubmit, onBack }: RsvpFormProps) {
             <legend className="eyebrow mb-2 text-forest/70">
               You’ll be bringing
             </legend>
-            <div
-              className="grid grid-cols-2 gap-2 rounded-sm border border-gold/30 p-1"
-              role="radiogroup"
-              aria-label="What you'll be bringing"
-            >
+            {/* Native radios (visually hidden) give arrow-key navigation,
+                roving tabindex, and screen-reader semantics for free. */}
+            <div className="grid grid-cols-2 gap-2 rounded-sm border border-gold/30 p-1">
               {(
                 [
                   { key: 'dish', label: 'A dish' },
@@ -162,20 +160,24 @@ export function RsvpForm({ initial, onSubmit, onBack }: RsvpFormProps) {
               ).map((opt) => {
                 const active = type === opt.key
                 return (
-                  <button
+                  <label
                     key={opt.key}
-                    type="button"
-                    role="radio"
-                    aria-checked={active}
-                    onClick={() => setType(opt.key)}
-                    className={`min-h-[44px] rounded-[2px] text-sm font-medium uppercase tracking-[0.16em] transition ${
+                    className={`flex min-h-[44px] cursor-pointer items-center justify-center rounded-[2px] text-sm font-medium uppercase tracking-[0.16em] transition focus-within:ring-2 focus-within:ring-gold ${
                       active
                         ? 'bg-forest text-gold-light shadow-inner'
                         : 'text-forest/70 hover:bg-forest/5'
                     }`}
                   >
+                    <input
+                      type="radio"
+                      name="contribution_type"
+                      value={opt.key}
+                      checked={active}
+                      onChange={() => setType(opt.key)}
+                      className="sr-only"
+                    />
                     {opt.label}
-                  </button>
+                  </label>
                 )
               })}
             </div>
