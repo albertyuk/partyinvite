@@ -249,7 +249,14 @@ export function IntroSequence({ onComplete }: IntroSequenceProps) {
     >
       {mode === 'map' ? (
         <>
-          <div ref={containerRef} className="absolute inset-0" />
+          {/* Inline position/size so mapbox-gl.css `.mapboxgl-map{position:relative}`
+              (added to this node, loaded after Tailwind) can't override `.absolute`
+              and collapse the container's height. Inline styles beat class rules. */}
+          <div
+            ref={containerRef}
+            className="absolute inset-0"
+            style={{ position: 'absolute', top: 0, right: 0, bottom: 0, left: 0 }}
+          />
           {/* edge vignette + caption legibility */}
           <div
             className="pointer-events-none absolute inset-0"
