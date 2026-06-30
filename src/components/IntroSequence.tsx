@@ -10,35 +10,26 @@ interface IntroSequenceProps {
 
 const TOKEN = (import.meta.env.VITE_MAPBOX_TOKEN ?? '').trim()
 
-// Camera beats: all of Shanghai → the Bund waterfront → onto The Peninsula.
-const CITY = { center: [121.482, 31.233] as [number, number], zoom: 10.4 }
-const BEATS: Array<{
-  label: string
-  center: [number, number]
-  zoom: number
-  pitch: number
-  bearing: number
-  duration: number
-  curve: number
-}> = [
-  {
-    label: 'The Bund',
-    center: [121.4925, 31.2425],
-    zoom: 14.7,
-    pitch: 62,
-    bearing: 22,
-    duration: 4000,
-    curve: 1.5,
-  },
-  {
-    label: 'The Peninsula',
-    center: [EVENT.coordinates.lng, EVENT.coordinates.lat],
-    zoom: 17.6,
-    pitch: 66,
-    bearing: 54,
-    duration: 4400,
-    curve: 1.3,
-  },
+// A single continuous descent: a wide view of the whole Shanghai region, then
+// one unbroken push down onto The Peninsula. There is intentionally NO mid-point
+// stop, so the camera never decelerates and re-accelerates — it's one smooth,
+// gently accelerating move. Captions change mid-flight on timers.
+const CITY = { center: [121.47, 31.235] as [number, number], zoom: 8.7 }
+const FLIGHT = {
+  // Land on The Peninsula (verified coords) looking ESE, so the building sits
+  // centre-frame with the Huangpu and the Pudong skyline (Oriental Pearl) beyond.
+  center: [EVENT.coordinates.lng, EVENT.coordinates.lat] as [number, number],
+  zoom: 16.7,
+  pitch: 58,
+  bearing: 116,
+  duration: 9000,
+  curve: 1,
+}
+const HOLD_MS = 1100
+// Mid-flight caption changes, as fractions of the flight duration.
+const CAPTIONS: Array<{ at: number; label: string }> = [
+  { at: 0.5, label: 'The Bund' },
+  { at: 0.84, label: 'The Peninsula' },
 ]
 
 function prefersReducedMotion(): boolean {
@@ -129,28 +120,6 @@ export function IntroSequence({ onComplete }: IntroSequenceProps) {
     const hardStop = window.setTimeout(finish, 16000)
     timers.current.push(hardStop)
 
-    let beat = -1
-    const advance = () => {
-      if (doneRef.current) return // finished/skipped — don't run more beats
-      beat += 1
-      if (beat >= BEATS.length) {
-        const settle = window.setTimeout(finish, 1500)
-        timers.current.push(settle)
-        return
-      }
-      const b = BEATS[beat]
-      setLabel(b.label)
-      map.flyTo({
-        center: b.center,
-        zoom: b.zoom,
-        pitch: b.pitch,
-        bearing: b.bearing,
-        duration: b.duration,
-        curve: b.curve,
-        essential: true,
-      })
-    }
-
     map.on('load', () => {
       loaded = true
       window.clearTimeout(loadGuard)
@@ -211,9 +180,24 @@ export function IntroSequence({ onComplete }: IntroSequenceProps) {
         /* fog unsupported on this style — fine. */
       }
 
-      map.on('moveend', advance)
-      // Hold on the city, then begin the descent.
-      const kickoff = window.setTimeout(advance, 1200)
+      // Hold on the wide city view, then one continuous push to the Peninsula.
+      let arrived = false
+      map.on('moveend', () => {
+        if (arrived || doneRef.current) return
+        arrived = true
+        const settle = window.setTimeout(finish, 1300)
+        timers.current.push(settle)
+      })
+      const kickoff = window.setTimeout(() => {
+        if (doneRef.current) return
+        map.flyTo({ ...FLIGHT, essential: true })
+        CAPTIONS.forEach(({ at, label }) => {
+          const t = window.setTimeout(() => {
+            if (!doneRef.current) setLabel(label)
+          }, FLIGHT.duration * at)
+          timers.current.push(t)
+        })
+      }, HOLD_MS)
       timers.current.push(kickoff)
     })
 

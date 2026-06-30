@@ -24,10 +24,11 @@ export const EVENT = {
   lobbyInstruction:
     'Present your pass to the attendant in the lobby, who will send you up to the residence.',
   lobbyInstructionShort: 'Present your pass to the attendant in the lobby.',
-  // Map target — The Peninsula Shanghai sits at the north end of the Bund,
-  // by Garden Bridge over Suzhou Creek. Coordinates verified against the
-  // north-Bund waterfront (mid-Bund references sit ~0.01° further south).
-  coordinates: { lng: 121.4894, lat: 31.2456 },
+  // Map target — verified on Mapbox satellite imagery (the spec's approximate
+  // 121.4894/31.2456 sat ~450m out in the river). The Peninsula building stands
+  // just south-west of Waibaidu (Garden) Bridge, beside the former British
+  // Consulate gardens and the Rockbund, set back from the Huangpu waterfront.
+  coordinates: { lng: 121.4851, lat: 31.2433 },
 } as const
 
 // ICS calendar payload (local Shanghai time, UTC+08). Used by the "add to
