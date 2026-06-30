@@ -23,9 +23,10 @@
  * ─────────────────────────────────────────────────────────────────────────────
  */
 
-// 🔑 CHANGE THIS to your own password before deploying. Anyone who knows it can
-//     edit the invitation wording/dates from the /?edit page.
-var EDIT_PASSWORD = 'change-this-password';
+// 🔑 The password for the /?edit page. Anyone who knows it can edit the
+//     invitation wording/dates. To change it, edit this line and redeploy a
+//     new version of the web app.
+var EDIT_PASSWORD = 'club91';
 
 var CONTENT_KEY = 'site_content';
 var CONTENT_REV_KEY = 'site_content_rev';
