@@ -1,0 +1,133 @@
+{
+  "key": "scalarfield",
+  "checkedAt": "2026-07-01T08:34:30.953Z",
+  "assets": [
+    {
+      "url": "https://scalarfield.io/_next/static/chunks/9a9ffc5ab9f3d0cc.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+      "harnessKB": 1194.6,
+      "realKB": 331,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://scalarfield.io/_next/static/chunks/57b142412f4dc1f4.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+      "harnessKB": 417.7,
+      "realKB": 95,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://scalarfield.io/_next/static/chunks/cb9f7f9047c4d488.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+      "harnessKB": 335.5,
+      "realKB": 128,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://scalarfield.io/_next/static/chunks/74f5f88b576d8633.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+      "harnessKB": 288.9,
+      "realKB": 94,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://scalarfield.io/_next/static/chunks/e166024e3f46ff59.css?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+      "harnessKB": 213.1,
+      "realKB": 34,
+      "status": 200,
+      "encoding": "text/css; charset=utf-8",
+      "type": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://scalarfield.io/_next/static/chunks/4fa395d360c87cc3.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+      "harnessKB": 197.3,
+      "realKB": 63,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://scalarfield.io/pricing",
+      "harnessKB": 143.6,
+      "realKB": 12,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://scalarfield.io/_next/static/chunks/ec4f3363b94f9967.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+      "harnessKB": 139.1,
+      "realKB": 44,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://scalarfield.io/_next/static/chunks/a36bbe15af4e6882.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+      "harnessKB": 133.7,
+      "realKB": 41,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://scalarfield.io/_next/static/chunks/2375e3fd2a9b8844.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+      "harnessKB": 108.7,
+      "realKB": 31,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://scalarfield.io/docs",
+      "harnessKB": 101.8,
+      "realKB": 26,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://scalarfield.io/_next/static/chunks/46111c44b23c9638.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+      "harnessKB": 98.5,
+      "realKB": 28,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    }
+  ],
+  "favicon": {
+    "status": 200,
+    "size": 0,
+    "type": "image/vnd.microsoft.icon",
+    "finalUrl": "https://scalarfield.io/favicon.ico",
+    "redirects": 0,
+    "url": "https://scalarfield.io/favicon.ico"
+  },
+  "firstPartyLinkFailuresReChecked": [],
+  "firstPartyAssetFailuresReChecked": [
+    {
+      "url": "https://air.scalarfield.io/auth/me",
+      "harnessStatus": 401,
+      "recheck": {
+        "status": 401,
+        "size": 43,
+        "type": "application/json",
+        "finalUrl": "https://air.scalarfield.io/auth/me",
+        "redirects": 0
+      }
+    }
+  ],
+  "notFoundProbe": {
+    "status": 404,
+    "size": 4995,
+    "type": "text/html; charset=utf-8",
+    "finalUrl": "https://scalarfield.io/this-page-does-not-exist-qa-audit-420000",
+    "redirects": 0,
+    "note": "expect 404"
+  },
+  "top12RealTotalMB": 0.9
+}

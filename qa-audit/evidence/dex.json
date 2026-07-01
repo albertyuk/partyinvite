@@ -1,0 +1,1691 @@
+{
+  "key": "dex",
+  "name": "Dex (Third Layer)",
+  "category": "AI browser",
+  "start": "https://www.joindex.com/",
+  "note": "getdexterity.com 301-redirects to joindex.com",
+  "startedAt": "2026-07-01T08:28:38.939Z",
+  "baseHost": "www.joindex.com",
+  "pages": {
+    "home": {
+      "url": "https://www.joindex.com/",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/"
+      },
+      "meta": {
+        "title": "Dex — The self-driving workspace for operators",
+        "titleLen": 46,
+        "metaDescription": "Dex is AI with full operational memory across your entire workspace. Every datapoint is ingested, synced, and structured into compounding context for high-leverage work.",
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "The self-drivingworkspace for operators."
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "The self-drivingworkspace for operators."
+          },
+          {
+            "level": 2,
+            "text": "Operational Graph"
+          },
+          {
+            "level": 3,
+            "text": "Autonomous Agents"
+          },
+          {
+            "level": 3,
+            "text": "Browser Control"
+          },
+          {
+            "level": 3,
+            "text": "Bring Your Context Anywhere"
+          },
+          {
+            "level": 2,
+            "text": "Across your favorite apps"
+          },
+          {
+            "level": 3,
+            "text": "Dreamer Agent"
+          },
+          {
+            "level": 3,
+            "text": "Skill Builder Agent"
+          },
+          {
+            "level": 2,
+            "text": "Own your intelligence."
+          },
+          {
+            "level": 3,
+            "text": "256-bit Encryption"
+          },
+          {
+            "level": 3,
+            "text": "Private Cloud Available"
+          },
+          {
+            "level": 3,
+            "text": "Multi-factor Auth"
+          },
+          {
+            "level": 3,
+            "text": "Full Data Control"
+          },
+          {
+            "level": 2,
+            "text": "Get Started with Dex"
+          }
+        ],
+        "og": {
+          "og:title": "Dex – Your Second Brain in Chrome",
+          "og:description": "Dex turns your browser into a single AI workspace — one brain that knows your tasks, your context, and how to move your work forward.",
+          "og:url": "https://joindex.com",
+          "og:site_name": "Dex",
+          "og:locale": "en_US",
+          "og:image": "https://joindex.com/og/og.webp",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Dex - Your Second Brain in Chrome",
+          "og:type": "website"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Dex – Your Second Brain in Chrome",
+          "twitter:description": "Dex turns your browser into a single AI workspace — one brain that knows your tasks, your context, and how to move your work forward.",
+          "twitter:image": "https://joindex.com/og/og.webp"
+        },
+        "favicons": [
+          "/favicon.ico",
+          "/favicon.ico"
+        ],
+        "imgCount": 22,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 1,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 2,
+        "headStyles": 2,
+        "headSyncScripts": 1,
+        "linkCount": 17,
+        "textSample": "Product Use Cases Pricing Blog Join Dex The self-driving workspace for operators. Dex is AI with full operational memory across your entire workspace. Every datapoint is ingested, synced, and structured into compounding context for high-leverage work. Join Dex Install Dex, then book your onboarding call. Browser-first. Where all your work already lives. Chrome iMessage Slack Desktop SOON Dex captures the operational reality of your workspace. Then it turns that context into action. How it Works The graph holds the record. The manual holds the judgment. Operational Graph The full organizational record across your operations. Every message, meeting, deal update, and workflow event — organized into entities, relationships, timelines, and dependencies. A living source of truth of how work connects and changes over time. Knowledge Manual The evolving understanding of what currently matters. Your priorities, open loops, relationship context, SOPs, and operating principles — captured as you work, updated as things change. Explicitly editable, automatically maintained. This is where judgment lives. Autonomous Agents Create automatic agents to orchestrate across Gmail, Slack, CRM, and 20+ tools—triggered by events or schedules. Browser Control Dex acts directly in your browser to navigate tabs, fill forms, and complete work where the context already lives. Bring Your Context Anywhere Use Dex's SDK and MCP to bring your operational context into any agent, tool, or workflow. Across your favorite apps Dex connects with power apps, acting across tabs to eliminate context switching. Proactive. Self-improving. Always on. Dex learns from your corrections, approvals, edits, and repeated patterns. The more you use it, the sharper it gets. ALWAYS RUNNING Dreamer Agent Reasons 24/7 over new data. Maintains your knowledge base, spots emerging patterns, keeps your operational context current — even when you're away. WEEKLY OUTPUT Skill Builder Agent Generates custom automations and skill suggestions each week, tailored to your repeated workflows to continuously optimize your setup. Bigger than agent memory.Retrieval surfaces facts. Execution requires reasoning across past precedent, relationships, and context to inform judgment in the next moment. Your second brain. For work that used to slip through the cracks. Meeting prep with full context Before every meeting, Dex pulls your full history — emails, past calls, open commitments. Afterwards, automatically send follow-ups using call notes, and writing tone. Task triage that learns your priorities CRM updates without the data entry Dex is changing how high-leverage teams work. “For the first time, my agents actually understand the deal. Not just the CRM fields — the history, the stakeholders, the nuance. Dex gave them operational clarity I didn’t think was possible.” P Partner Mid-market PE firm “I stopped scrambling before every call. Now I simply open Dex at the side and never forget to follow up after. That alone is worth it.” F Founder B2B SaaS · Series A “Dex is what I was trying to build manually with Notion and n8n for years. It just works — and it gets better every week.” H Head of BD Growth-stage startup “Dex is my go-to tool for immediate in-browser intelligence. A delightful product from a user-obsessed team :)” V VC Theory Ventures “Dex has been a game changing tool for me to build workflows and automations, quickly, and easily within Chrome. As someone who has dabbled with numerous tools, I can confidently say Dex’s user experience (and customer support!), is incredible.” C CEO Series B “Not in your way, but always helpful. Has helped me in countless ways I can’t even imagine. Invisibly fit into my life and couldn’t be more happier. A web agent that can actually do things.” F Founder “Compared favorably to Strawberry AI and other tools. Uses it to eliminate busy work instead of hiring an EA.” F Former CEO Series B “The meeting prep alone saved me 5 hours a week. But the real magic is how it connects dots across tools I didn’t even realize were related.” C COO Series B fintech “Built automated LinkedIn → Google Sheets CRM workflow processing 275+ DM conversations.” P Power User Trusted by operators at Google, OpenAI, Goldman Sachs, Salesforce, Palantir, Meta and 10,000+ more Own your intelligence. Every interaction compounds into an asset that belongs to you alone. Talk to us about private cloud → See Privacy Policy 256-bit Encryption All data encrypted at rest and in transit. Enterprise-grade security across every layer of the stack. Private Cloud Available Deploy Dex on your own infrastructure. Full data isolation for teams that need it. Multi-factor Auth MFA enforced across all accounts. Granular permissions for every tool, data source, and integration. Full Data Control You own everything. Export, delete, or disconnect anytime. Browser memory is off by default. Get Started with Dex We’re onboarding operators who run multiple deals, work across multiple tools, and need their context to compound. Join Dex Book onboarding after install Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".hero-subcopy"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"copy hero-subcopy w-full max-w-[680px] text-center text-[18px] font-normal leading-[1.5] tracking-[-0.3px] text-neutral-500\" data-figma-node-id=\"14036"
+            },
+            {
+              "target": [
+                ".limited-spots"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"limited-spots text-[18px] font-normal text-neutral-500\" data-figma-node-id=\"14036:74094\" data-figma-layer=\"Limited spots available\">Install Dex, then "
+            },
+            {
+              "target": [
+                ".tracking-\\[-0\\.02em\\]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"text-center text-[18px] tracking-[-0.02em] text-neutral-500\">Browser-first. Where all your work already lives.</p>"
+            },
+            {
+              "target": [
+                ".bg-neutral-100"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.36 (foreground color: #a1a1a1, background color: #f5f5f5, font size: 6.8pt (9px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<span class=\"rounded-full bg-neutral-100 px-1.5 py-0.5 text-[9px] font-medium uppercase tracking-[0.04em] text-neutral-400\">soon</span>"
+            },
+            {
+              "target": [
+                ".how-it-works-copy-block > .copy.landing-body-copy.font-normal"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"copy landing-body-copy font-normal\">The graph holds the record. The manual holds the judgment.</p>"
+            }
+          ],
+          "count": 27
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".page-sections > .landing-page-gutter:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section class=\"landing-page-gutter bg-[#f4f4f6]\">"
+            },
+            {
+              "target": [
+                ".integrations"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section class=\"integrations overflow-hidden bg-[#f4f4f6] py-12 md:py-24\">"
+            },
+            {
+              "target": [
+                ".landing-page-gutter:nth-child(5)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section class=\"landing-page-gutter bg-[#f4f4f6]\">"
+            }
+          ],
+          "count": 3
+        }
+      ],
+      "perf": {
+        "domContentLoaded": 898,
+        "load": 3367,
+        "fcp": 1048,
+        "lcp": null,
+        "cls": 0,
+        "resourceCount": 36
+      },
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 429,
+          "clientW": 375,
+          "overflowPx": 54,
+          "offenders": [
+            {
+              "tag": "div",
+              "cls": "size-12 md:size-[72px] shrink-0 !size-10 md:!size-15 mx-1 md",
+              "right": 480,
+              "id": "",
+              "text": ""
+            },
+            {
+              "tag": "img",
+              "cls": "size-full",
+              "right": 480,
+              "id": "",
+              "text": ""
+            },
+            {
+              "tag": "div",
+              "cls": "size-12 md:size-[72px] shrink-0 !size-10 md:!size-15 mx-1 md",
+              "right": 440,
+              "id": "",
+              "text": ""
+            },
+            {
+              "tag": "img",
+              "cls": "size-full",
+              "right": 440,
+              "id": "",
+              "text": ""
+            },
+            {
+              "tag": "a",
+              "cls": "inline-flex h-10 shrink-0 cursor-pointer items-center gap-1.",
+              "right": 431,
+              "id": "",
+              "text": "Join Dex"
+            },
+            {
+              "tag": "div",
+              "cls": "flex items-center gap-2 rounded-full border border-neutral-2",
+              "right": 429,
+              "id": "",
+              "text": "Desktopsoon"
+            },
+            {
+              "tag": "div",
+              "cls": "size-12 md:size-[72px] shrink-0",
+              "right": 428,
+              "id": "",
+              "text": ""
+            },
+            {
+              "tag": "img",
+              "cls": "size-full",
+              "right": 428,
+              "id": "",
+              "text": ""
+            }
+          ],
+          "tinyTapTargets": 3
+        },
+        {
+          "width": 768,
+          "scrollW": 753,
+          "clientW": 768,
+          "overflowPx": -15,
+          "offenders": [],
+          "tinyTapTargets": 4
+        },
+        {
+          "width": 1440,
+          "scrollW": 1425,
+          "clientW": 1440,
+          "overflowPx": -15,
+          "offenders": [],
+          "tinyTapTargets": 4
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.joindex.com/",
+          "text": "",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/#features",
+          "text": "Product",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/use-cases",
+          "text": "Use Cases",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/pricing",
+          "text": "Pricing",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/blog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://chromewebstore.google.com/detail/dex/ignaljemchdlmoimaliinmonecgbdnkk",
+          "text": "Join Dex",
+          "inNav": true
+        },
+        {
+          "href": "https://chromewebstore.google.com/detail/dex/ignaljemchdlmoimaliinmonecgbdnkk",
+          "text": "Join Dex",
+          "inNav": false
+        },
+        {
+          "href": "https://cal.com/thirdlayer-inc/dex-onboarding",
+          "text": "Talk to us about private cloud →",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/privacy",
+          "text": "See Privacy Policy",
+          "inNav": false
+        },
+        {
+          "href": "https://chromewebstore.google.com/detail/dex/ignaljemchdlmoimaliinmonecgbdnkk",
+          "text": "Join Dex",
+          "inNav": false
+        },
+        {
+          "href": "https://discord.gg/TYzCjwsTnT",
+          "text": "Discord",
+          "inNav": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/thirdlayerinc/",
+          "text": "LinkedIn",
+          "inNav": true
+        },
+        {
+          "href": "https://www.instagram.com/dexbythirdlayer/",
+          "text": "Instagram",
+          "inNav": true
+        },
+        {
+          "href": "https://x.com/dexbythirdlayer",
+          "text": "X/Twitter",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/terms",
+          "text": "Terms of Use",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/privacy",
+          "text": "Privacy Policy",
+          "inNav": true
+        },
+        {
+          "href": "mailto:regina@thirdlayer.inc",
+          "text": "Contact",
+          "inNav": true
+        }
+      ]
+    },
+    "use-cases:/use-cases": {
+      "url": "https://www.joindex.com/use-cases",
+      "kind": "use-cases",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/use-cases"
+      },
+      "meta": {
+        "title": "Use Case Library | Dex",
+        "titleLen": 22,
+        "metaDescription": "A library of real things people automate with Dex — across meetings, CRM, sales, recruiting, and ops.",
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "Use Case Library"
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Use Case Library"
+          }
+        ],
+        "og": {
+          "og:title": "Dex – Your Second Brain in Chrome",
+          "og:description": "Dex turns your browser into a single AI workspace — one brain that knows your tasks, your context, and how to move your work forward.",
+          "og:url": "https://joindex.com",
+          "og:site_name": "Dex",
+          "og:locale": "en_US",
+          "og:image": "https://joindex.com/og/og.webp",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Dex - Your Second Brain in Chrome",
+          "og:type": "website"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Dex – Your Second Brain in Chrome",
+          "twitter:description": "Dex turns your browser into a single AI workspace — one brain that knows your tasks, your context, and how to move your work forward.",
+          "twitter:image": "https://joindex.com/og/og.webp"
+        },
+        "favicons": [
+          "/favicon.ico",
+          "/favicon.ico"
+        ],
+        "imgCount": 0,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 0,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 0,
+        "headStyles": 2,
+        "headSyncScripts": 1,
+        "linkCount": 45,
+        "textSample": "Product Use Cases Pricing Blog Join Dex Use Case Library Real prompts people send Dex every day. Copy one, tweak it, or use it as a starting point for your own workflow. All CRM Operations Inbox Recruiting GTM & Sales Support Research Knowledge After every Gong call, update the HubSpot deal with next steps and push a summary into Slack. CRM Keep your CRM up to date from call notes Account Executive Find deals in HubSpot with no activity in the last 10 days and draft a personalized nudge for each. CRM Follow up with every customer that went quiet Account Executive When a new lead hits HubSpot, enrich them with Apollo, then score them against our ICP. CRM Enrich and score inbound leads instantly SDR Lead Flag customers with renewals coming up in 30 days and draft a renewal outreach for each. CRM Never miss a renewal again Customer Success Every Monday at 8am, summarize what shipped in Linear, what's blocked, and which customers are waiting on a reply. Operations Weekly digest from every tool Operator Diff this contract against our standard MSA in Google Drive and flag anything non-standard. Operations Red-line contract changes instantly Legal Ops Pull receipts from my Gmail for this month, categorize them, and drop a CSV into Drive. Operations Expense reports without the spreadsheet Operator At month-end, pull revenue from QuickBooks, highlights from Linear, and wins from HubSpot — then draft our investor update. Operations Draft investor updates from your work Founder Archive newsletters, draft replies to customers, and label anything from investors as Priority. Inbox Triage your inbox while you sleep Founder Pull anything from our top 50 accounts to the top of my inbox and label them VIP. Inbox Pin VIP accounts to the top of your inbox Founder Give me a 1-line summary of every email that came in overnight, grouped by sender type. Inbox One-line summaries for every new email Founder Decline meetings that conflict with my focus blocks and suggest 2 alternative times. Inbox Auto-decline meetings that break focus Operator Find 20 senior React engineers in NYC who've worked at seed-to-Series-B startups and draft outreach for each. Recruiting Source candidates and draft outreach Recruiter Schedule interviews between this candidate and three interviewers when they're all free this week. Recruiting Coordinate interview panels, zero ping-pong Recruiter Find shared contacts with this candidate and draft a reference-check message to each. Recruiting Warm-path reference outreach Recruiter Pull every candidate from our Notion tracker, enrich with Apollo, and organize them onto a single Google Sheet. Recruiting Organize every candidate onto one sheet Recruiter Every morning, scan our competitors' sites and changelogs — post anything new into Slack and our Notion tracker. GTM & Sales Daily competitor intel, hands-free Product Marketing Find deals lost in the past year for reasons like 'timing' and draft a winback email for each. GTM & Sales Re-engage lost deals with a warm winback Account Executive For SaaStr next week, brief me on every scheduled 1:1 using Apollo and recent company news. GTM & Sales Brief yourself on every conference attendee Sales Lead Draft launch emails for the new product update — one for prospects, one for customers, one for the team. GTM & Sales Launch announcements, tailored to each audience Marketing Read the newest Intercom ticket, search our docs for the answer, and draft a reply in our support voice. Support Answer support tickets from your docs Support Lead Flag any ticket mentioning cancel, refund, or churn — route to me in Slack immediately. Support Catch churn signals before they escalate Support Lead Cluster this week's support conversations by theme and share a digest in #product. Support Weekly themed feedback digest Support Lead Find questions that keep coming up in support but don't have a doc — queue them up for the docs team. Support Find the docs gaps behind repeat tickets Support Ops Every morning, scan the news for anything about our top 20 customers and our space — send me a short brief. Research Daily industry brief, in your inbox Chief of Staff Before tomorrow's meeting with Acme, pull everything public on them in the past 6 months. Research Deep-dive brief for any prospect Founder Every Friday, summarize funding, moves, and product news in our sector into a Notion page. Research Weekly sector report, in Notion Chief of Staff Watch our research Drive folder for new papers and docs, summarize each, and add them to our Notion research index. Research Build a living research library from saved docs Researcher When someone asks a question in Slack, find the relevant Notion doc and drop the link in-thread. Knowledge Pull the right doc before you need it Operator Turn this week's all-hands into a Notion doc with decisions, owners, and action items. Knowledge Turn meetings into Notion docs Chief of Staff Find Notion docs not edited in 12+ months and flag them for review. Knowledge Find and refresh stale docs Operator Build a 2-week onboarding plan for this new hire from our existing docs and team calendar. Knowledge Build a new-hire onboarding plan People Ops Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".font-normal.text-neutral-500\\/80.hover\\:text-neutral-800:nth-child(2) > span:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.02 (foreground color: #8d8d8d, background color: #f4f4f6, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<span>CRM</span>"
+            },
+            {
+              "target": [
+                ".font-normal.text-neutral-500\\/80.hover\\:text-neutral-800:nth-child(3) > span:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.02 (foreground color: #8d8d8d, background color: #f4f4f6, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<span>Operations</span>"
+            },
+            {
+              "target": [
+                ".font-normal.text-neutral-500\\/80.hover\\:text-neutral-800:nth-child(4) > span:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.02 (foreground color: #8d8d8d, background color: #f4f4f6, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<span>Inbox</span>"
+            },
+            {
+              "target": [
+                ".font-normal.text-neutral-500\\/80.hover\\:text-neutral-800:nth-child(5) > span:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.02 (foreground color: #8d8d8d, background color: #f4f4f6, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<span>Recruiting</span>"
+            },
+            {
+              "target": [
+                ".font-normal.text-neutral-500\\/80.hover\\:text-neutral-800:nth-child(6) > span:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.02 (foreground color: #8d8d8d, background color: #f4f4f6, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<span>GTM &amp; Sales</span>"
+            }
+          ],
+          "count": 74
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 360,
+          "clientW": 375,
+          "overflowPx": -15,
+          "offenders": [],
+          "tinyTapTargets": 3
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.joindex.com/",
+          "text": "",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/#features",
+          "text": "Product",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/use-cases",
+          "text": "Use Cases",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/pricing",
+          "text": "Pricing",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/blog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://chromewebstore.google.com/detail/dex/ignaljemchdlmoimaliinmonecgbdnkk",
+          "text": "Join Dex",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/crm-update-from-calls",
+          "text": "After every Gong call, update the HubSpot deal with next ste",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/customer-followups",
+          "text": "Find deals in HubSpot with no activity in the last 10 days a",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/enrich-inbound-leads",
+          "text": "When a new lead hits HubSpot, enrich them with Apollo, then ",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/renewal-tracker",
+          "text": "Flag customers with renewals coming up in 30 days and draft ",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/weekly-digest",
+          "text": "Every Monday at 8am, summarize what shipped in Linear, what'",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/contract-diff",
+          "text": "Diff this contract against our standard MSA in Google Drive ",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/expense-reports",
+          "text": "Pull receipts from my Gmail for this month, categorize them,",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/investor-update",
+          "text": "At month-end, pull revenue from QuickBooks, highlights from ",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/inbox-triage",
+          "text": "Archive newsletters, draft replies to customers, and label a",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/vip-priority-sort",
+          "text": "Pull anything from our top 50 accounts to the top of my inbo",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/inbox-summary-morning",
+          "text": "Give me a 1-line summary of every email that came in overnig",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/meeting-invite-triage",
+          "text": "Decline meetings that conflict with my focus blocks and sugg",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/candidate-sourcing",
+          "text": "Find 20 senior React engineers in NYC who've worked at seed-",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/interview-scheduling",
+          "text": "Schedule interviews between this candidate and three intervi",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/reference-check-drafts",
+          "text": "Find shared contacts with this candidate and draft a referen",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/candidate-tracker-sheet",
+          "text": "Pull every candidate from our Notion tracker, enrich with Ap",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/competitor-intel",
+          "text": "Every morning, scan our competitors' sites and changelogs — ",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/lost-deal-winback",
+          "text": "Find deals lost in the past year for reasons like 'timing' a",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/event-prep-briefs",
+          "text": "For SaaStr next week, brief me on every scheduled 1:1 using ",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/product-launch-announce",
+          "text": "Draft launch emails for the new product update — one for pro",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/support-ticket-replies",
+          "text": "Read the newest Intercom ticket, search our docs for the ans",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/escalation-detection",
+          "text": "Flag any ticket mentioning cancel, refund, or churn — route ",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/customer-feedback-digest",
+          "text": "Cluster this week's support conversations by theme and share",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/docs-gap-finder",
+          "text": "Find questions that keep coming up in support but don't have",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/daily-industry-brief",
+          "text": "Every morning, scan the news for anything about our top 20 c",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/prospect-deep-dive",
+          "text": "Before tomorrow's meeting with Acme, pull everything public ",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/weekly-sector-report",
+          "text": "Every Friday, summarize funding, moves, and product news in ",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/research-library-index",
+          "text": "Watch our research Drive folder for new papers and docs, sum",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/notion-knowledge-lookup",
+          "text": "When someone asks a question in Slack, find the relevant Not",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/meeting-to-wiki",
+          "text": "Turn this week's all-hands into a Notion doc with decisions,",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/stale-doc-cleanup",
+          "text": "Find Notion docs not edited in 12+ months and flag them for ",
+          "inNav": false
+        },
+        {
+          "href": "https://www.joindex.com/use-cases/onboarding-tour-builder",
+          "text": "Build a 2-week onboarding plan for this new hire from our ex",
+          "inNav": false
+        },
+        {
+          "href": "https://discord.gg/TYzCjwsTnT",
+          "text": "Discord",
+          "inNav": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/thirdlayerinc/",
+          "text": "LinkedIn",
+          "inNav": true
+        },
+        {
+          "href": "https://www.instagram.com/dexbythirdlayer/",
+          "text": "Instagram",
+          "inNav": true
+        },
+        {
+          "href": "https://x.com/dexbythirdlayer",
+          "text": "X/Twitter",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/terms",
+          "text": "Terms of Use",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/privacy",
+          "text": "Privacy Policy",
+          "inNav": true
+        },
+        {
+          "href": "mailto:regina@thirdlayer.inc",
+          "text": "Contact",
+          "inNav": true
+        }
+      ]
+    },
+    "pricing:/pricing": {
+      "url": "https://www.joindex.com/pricing",
+      "kind": "pricing",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/pricing"
+      },
+      "meta": {
+        "title": "Pricing | Dex",
+        "titleLen": 13,
+        "metaDescription": "Dex turns your browser into a single AI workspace — one brain that knows your tasks, your context, and how to move your work forward.",
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "AI with your full operational knowledge."
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "AI with your full operational knowledge."
+          },
+          {
+            "level": 2,
+            "text": "Shared operational intelligence for teams."
+          }
+        ],
+        "og": {
+          "og:title": "Dex – Your Second Brain in Chrome",
+          "og:description": "Dex turns your browser into a single AI workspace — one brain that knows your tasks, your context, and how to move your work forward.",
+          "og:url": "https://joindex.com",
+          "og:site_name": "Dex",
+          "og:locale": "en_US",
+          "og:image": "https://joindex.com/og/og.webp",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Dex - Your Second Brain in Chrome",
+          "og:type": "website"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Dex – Your Second Brain in Chrome",
+          "twitter:description": "Dex turns your browser into a single AI workspace — one brain that knows your tasks, your context, and how to move your work forward.",
+          "twitter:image": "https://joindex.com/og/og.webp"
+        },
+        "favicons": [
+          "/favicon.ico",
+          "/favicon.ico"
+        ],
+        "imgCount": 0,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 0,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 0,
+        "headStyles": 2,
+        "headSyncScripts": 1,
+        "linkCount": 18,
+        "textSample": "Product Use Cases Pricing Blog Join Dex AI with your full operational knowledge. Guided onboarding included CORE Everything you need to get started $49 /month Monthly: 1.5M credits ✓ 3 integrations syncing to context system ✓ Automation runs & background agents ✓ Personal knowledge base ✓ Dex browser extension ✓ Dex iMessage ✓ Slack bot ✓ Email support Get Started MOST POPULAR MAX For operators running real workflows $99 /month Monthly: 3M credits Everything in Core, plus: ✓ 5 integrations syncing to context system ✓ Advanced automation & agent scheduling ✓ Priority support ✓ Research preview of new features ✓ Advanced action predictions Get Started ULTRA Full power for serious operators $199 /month Monthly: 6M credits Everything in Max, plus: ✓ 15 integrations syncing to context system ✓ Custom privacy & data controls ✓ Custom features & integrations ✓ Dedicated account manager ✓ 24/7 priority support Get Started FULL SERVICE Your personal agent team, fully built for you Custom Monthly: Unlimited Everything in Ultra, plus: ✓ White-glove onboarding & full agent system setup ✓ Built and managed like a team of EAs ✓ Custom privacy architecture & data isolation ✓ Dedicated build team ✓ Ongoing optimization & agent tuning ✓ Direct line to founders Book a Call TEAMS & ENTERPRISE Shared operational intelligence for teams. We’re building AI-native operations with select design partners. Shared operational graph, custom agents, and team permissions for organizations of 3–20+ people. What we’re building: ✓ Shared context across your entire team (everyone connected) ✓ Custom agents built specifically for your workflows ✓ Team permissions + admin controls ✓ Flat rate pricing (no seat gates) For enterprise: ✓ Data preparedness for custom model fine-tuning ✓ Private cloud deployment ✓ Dedicated engineering support ✓ Guided rollout Book a call → Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".mt-3.text-\\[13px\\].text-neutral-400"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.35 (foreground color: #a1a1a1, background color: #f4f4f6, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"mt-3 text-[13px] font-medium text-neutral-400\">Guided onboarding included</p>"
+            },
+            {
+              "target": [
+                ".p-6.border-\\[\\#e8e8e8\\].rounded-xl:nth-child(1) > .tracking-\\[0\\.06em\\].uppercase.text-\\[13px\\]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.58 (foreground color: #a1a1a1, background color: #ffffff, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"text-[13px] font-medium uppercase tracking-[0.06em] text-neutral-400\">Core</p>"
+            },
+            {
+              "target": [
+                ".p-6.border-\\[\\#e8e8e8\\].rounded-xl:nth-child(1) > .items-baseline.gap-1.mt-5 > .text-neutral-400.text-\\[14px\\]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.58 (foreground color: #a1a1a1, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<span class=\"text-[14px] text-neutral-400\">/month</span>"
+            },
+            {
+              "target": [
+                ".p-6.border-\\[\\#e8e8e8\\].rounded-xl:nth-child(1) > .mt-2.text-\\[13px\\].text-neutral-400"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.58 (foreground color: #a1a1a1, background color: #ffffff, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<div class=\"mt-2 text-[13px] text-neutral-400\">Monthly: <!-- -->1.5M credits</div>"
+            },
+            {
+              "target": [
+                ".absolute"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.87 (foreground color: #4a6cf7, background color: #edf0fe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<span class=\"absolute right-4 top-4 rounded-full bg-[#4A6CF7]/10 px-2.5 py-0.5 text-[11px] font-medium uppercase tracking-[0.06em] text-[#4A6CF7]\">Most popular<"
+            }
+          ],
+          "count": 17
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".pt-40"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section class=\"px-4 pt-40 pb-16 md:px-6\">"
+            },
+            {
+              "target": [
+                ".pb-24:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section class=\"px-4 pb-24 md:px-6\">"
+            },
+            {
+              "target": [
+                ".flex-1:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"flex-1\">"
+            },
+            {
+              "target": [
+                ".gap-10 > .flex-1.flex-col.flex"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"flex flex-1 flex-col\">"
+            }
+          ],
+          "count": 4
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 360,
+          "clientW": 375,
+          "overflowPx": -15,
+          "offenders": [],
+          "tinyTapTargets": 3
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.joindex.com/",
+          "text": "",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/#features",
+          "text": "Product",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/use-cases",
+          "text": "Use Cases",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/pricing",
+          "text": "Pricing",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/blog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://chromewebstore.google.com/detail/dex/ignaljemchdlmoimaliinmonecgbdnkk",
+          "text": "Join Dex",
+          "inNav": true
+        },
+        {
+          "href": "https://chromewebstore.google.com/detail/dex/ignaljemchdlmoimaliinmonecgbdnkk",
+          "text": "Get Started",
+          "inNav": false
+        },
+        {
+          "href": "https://chromewebstore.google.com/detail/dex/ignaljemchdlmoimaliinmonecgbdnkk",
+          "text": "Get Started",
+          "inNav": false
+        },
+        {
+          "href": "https://chromewebstore.google.com/detail/dex/ignaljemchdlmoimaliinmonecgbdnkk",
+          "text": "Get Started",
+          "inNav": false
+        },
+        {
+          "href": "https://cal.com/thirdlayer-inc/dex-onboarding",
+          "text": "Book a Call",
+          "inNav": false
+        },
+        {
+          "href": "https://cal.com/thirdlayer-inc/dex-onboarding",
+          "text": "Book a call →",
+          "inNav": false
+        },
+        {
+          "href": "https://discord.gg/TYzCjwsTnT",
+          "text": "Discord",
+          "inNav": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/thirdlayerinc/",
+          "text": "LinkedIn",
+          "inNav": true
+        },
+        {
+          "href": "https://www.instagram.com/dexbythirdlayer/",
+          "text": "Instagram",
+          "inNav": true
+        },
+        {
+          "href": "https://x.com/dexbythirdlayer",
+          "text": "X/Twitter",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/terms",
+          "text": "Terms of Use",
+          "inNav": true
+        },
+        {
+          "href": "https://www.joindex.com/privacy",
+          "text": "Privacy Policy",
+          "inNav": true
+        },
+        {
+          "href": "mailto:regina@thirdlayer.inc",
+          "text": "Contact",
+          "inNav": true
+        }
+      ]
+    },
+    "blog:/blog": {
+      "url": "https://www.joindex.com/blog",
+      "kind": "blog",
+      "nav": {
+        "ok": false,
+        "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://www.joindex.com/blog",
+        "finalUrl": "https://www.joindex.com/pricing"
+      }
+    }
+  },
+  "links": [
+    {
+      "url": "https://www.joindex.com/",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://www.joindex.com/use-cases",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ],
+      "text": "Use Cases"
+    },
+    {
+      "url": "https://www.joindex.com/pricing",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/pricing",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ],
+      "text": "Pricing"
+    },
+    {
+      "url": "https://www.joindex.com/blog",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/blog/topic/all-posts",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ],
+      "text": "Blog"
+    },
+    {
+      "url": "https://www.joindex.com/privacy",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/privacy-2",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ],
+      "text": "See Privacy Policy"
+    },
+    {
+      "url": "https://www.joindex.com/terms",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/terms",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ],
+      "text": "Terms of Use"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/crm-update-from-calls",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/crm-update-from-calls",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "After every Gong call, update the HubSpot deal with next ste"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/customer-followups",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/customer-followups",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Find deals in HubSpot with no activity in the last 10 days a"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/enrich-inbound-leads",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/enrich-inbound-leads",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "When a new lead hits HubSpot, enrich them with Apollo, then "
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/renewal-tracker",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/renewal-tracker",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Flag customers with renewals coming up in 30 days and draft "
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/weekly-digest",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/weekly-digest",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Every Monday at 8am, summarize what shipped in Linear, what'"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/contract-diff",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/contract-diff",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Diff this contract against our standard MSA in Google Drive "
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/expense-reports",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/expense-reports",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Pull receipts from my Gmail for this month, categorize them,"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/investor-update",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/investor-update",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "At month-end, pull revenue from QuickBooks, highlights from "
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/inbox-triage",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/inbox-triage",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Archive newsletters, draft replies to customers, and label a"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/vip-priority-sort",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/vip-priority-sort",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Pull anything from our top 50 accounts to the top of my inbo"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/inbox-summary-morning",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/inbox-summary-morning",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Give me a 1-line summary of every email that came in overnig"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/meeting-invite-triage",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/meeting-invite-triage",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Decline meetings that conflict with my focus blocks and sugg"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/candidate-sourcing",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/candidate-sourcing",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Find 20 senior React engineers in NYC who've worked at seed-"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/interview-scheduling",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/interview-scheduling",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Schedule interviews between this candidate and three intervi"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/reference-check-drafts",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/reference-check-drafts",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Find shared contacts with this candidate and draft a referen"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/candidate-tracker-sheet",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/candidate-tracker-sheet",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Pull every candidate from our Notion tracker, enrich with Ap"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/competitor-intel",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/competitor-intel",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Every morning, scan our competitors' sites and changelogs — "
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/lost-deal-winback",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/lost-deal-winback",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Find deals lost in the past year for reasons like 'timing' a"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/event-prep-briefs",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/event-prep-briefs",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "For SaaStr next week, brief me on every scheduled 1:1 using "
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/product-launch-announce",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/product-launch-announce",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Draft launch emails for the new product update — one for pro"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/support-ticket-replies",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/support-ticket-replies",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Read the newest Intercom ticket, search our docs for the ans"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/escalation-detection",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/escalation-detection",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Flag any ticket mentioning cancel, refund, or churn — route "
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/customer-feedback-digest",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/customer-feedback-digest",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Cluster this week's support conversations by theme and share"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/docs-gap-finder",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/docs-gap-finder",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Find questions that keep coming up in support but don't have"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/daily-industry-brief",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/daily-industry-brief",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Every morning, scan the news for anything about our top 20 c"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/prospect-deep-dive",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/prospect-deep-dive",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Before tomorrow's meeting with Acme, pull everything public "
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/weekly-sector-report",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/weekly-sector-report",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Every Friday, summarize funding, moves, and product news in "
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/research-library-index",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/research-library-index",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Watch our research Drive folder for new papers and docs, sum"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/notion-knowledge-lookup",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/notion-knowledge-lookup",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "When someone asks a question in Slack, find the relevant Not"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/meeting-to-wiki",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/meeting-to-wiki",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Turn this week's all-hands into a Notion doc with decisions,"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/stale-doc-cleanup",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/stale-doc-cleanup",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Find Notion docs not edited in 12+ months and flag them for "
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/onboarding-tour-builder",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/onboarding-tour-builder",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ],
+      "text": "Build a 2-week onboarding plan for this new hire from our ex"
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/dex/ignaljemchdlmoimaliinmonecgbdnkk",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://chromewebstore.google.com/detail/dex/ignaljemchdlmoimaliinmonecgbdnkk",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ],
+      "text": "Join Dex"
+    },
+    {
+      "url": "https://cal.com/thirdlayer-inc/dex-onboarding",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://cal.com/thirdlayer-inc/dex-onboarding",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/pricing"
+      ],
+      "text": "Talk to us about private cloud →"
+    },
+    {
+      "url": "https://discord.gg/TYzCjwsTnT",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://discord.com/invite/TYzCjwsTnT",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ],
+      "text": "Discord"
+    },
+    {
+      "url": "https://www.linkedin.com/company/thirdlayerinc/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/company/joindex",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ],
+      "text": "LinkedIn"
+    },
+    {
+      "url": "https://www.instagram.com/dexbythirdlayer/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/dexbythirdlayer/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ],
+      "text": "Instagram"
+    },
+    {
+      "url": "https://x.com/dexbythirdlayer",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://x.com/dexbythirdlayer",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ],
+      "text": "X/Twitter"
+    }
+  ],
+  "robots": {
+    "status": 404,
+    "present": false,
+    "looksLikeHtml": true,
+    "sample": "<!DOCTYPE html><!--3bxT43dfzA__5TslVj4lg--><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/fonts/Aeonik Pro Full Family Website/aeonikprovf.woff2\" as=\"font\" crossorigin=\"anonymous\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/fonts/Aeonik Pro Full Family Website/aeonikprovf-italic.woff2\" as=\"font\" crossor"
+  },
+  "sitemap": {
+    "status": 404,
+    "present": false,
+    "looksLikeXml": false
+  },
+  "redirectNote": "getdexterity.com 301-redirects to joindex.com",
+  "keyPagesDiscovered": [
+    {
+      "url": "https://www.joindex.com/use-cases",
+      "kind": "use-cases",
+      "text": "Use Cases"
+    },
+    {
+      "url": "https://www.joindex.com/pricing",
+      "kind": "pricing",
+      "text": "Pricing"
+    },
+    {
+      "url": "https://www.joindex.com/blog",
+      "kind": "blog",
+      "text": "Blog"
+    }
+  ],
+  "linkCounts": {
+    "firstPartyTotal": 38,
+    "externalTotal": 6,
+    "checkedFP": 38,
+    "checkedEXT": 6
+  },
+  "network": {
+    "totalRequests": 104,
+    "firstPartyFailures": [],
+    "thirdPartyFailures": [],
+    "mixedContent": [],
+    "largestFirstParty": [
+      {
+        "url": "https://www.joindex.com/landing-page-2/meeting-prep.mp4",
+        "kb": 20126.2,
+        "type": "video/mp4"
+      },
+      {
+        "url": "https://www.joindex.com/landing-page-2/hero-media.png",
+        "kb": 4968.8,
+        "type": "image/png"
+      },
+      {
+        "url": "https://www.joindex.com/_next/static/chunks/4307aa3aa08ea768.js?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j",
+        "kb": 1120.3,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://www.joindex.com/_next/static/chunks/3350933b3d8989ff.js?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j",
+        "kb": 209.8,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://www.joindex.com/",
+        "kb": 119.4,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "url": "https://www.joindex.com/_next/static/chunks/036ca2f21b9195b1.js?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j",
+        "kb": 115.3,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://www.joindex.com/fonts/Aeonik%20Pro%20Full%20Family%20Website/aeonikprovf-italic.woff2",
+        "kb": 104.7,
+        "type": "font/woff2"
+      },
+      {
+        "url": "https://www.joindex.com/fonts/Aeonik%20Pro%20Full%20Family%20Website/aeonikprovf.woff2",
+        "kb": 99.9,
+        "type": "font/woff2"
+      },
+      {
+        "url": "https://www.joindex.com/_next/static/chunks/54737fa05340051c.js?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j",
+        "kb": 96.4,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://www.joindex.com/use-cases",
+        "kb": 87.2,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "url": "https://www.joindex.com/fonts/Aeonik%20Fono%20Pro%20Full%20Family%20Website/aeonikfonoprovf.woff2",
+        "kb": 86.7,
+        "type": "font/woff2"
+      },
+      {
+        "url": "https://www.joindex.com/_next/static/chunks/66965b442d1d0629.css?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j",
+        "kb": 86.2,
+        "type": "text/css; charset=utf-8"
+      }
+    ]
+  },
+  "console": {
+    "errors": [],
+    "warnings": [
+      {
+        "type": "warning",
+        "text": "Deprecated API for given entry type.",
+        "onPage": "https://www.joindex.com/",
+        "location": ""
+      }
+    ],
+    "pageErrors": []
+  },
+  "finishedAt": "2026-07-01T08:29:55.349Z"
+}

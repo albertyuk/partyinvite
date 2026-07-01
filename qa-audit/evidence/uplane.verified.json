@@ -1,0 +1,81 @@
+{
+  "key": "uplane",
+  "checkedAt": "2026-07-01T08:34:25.920Z",
+  "assets": [
+    {
+      "url": "https://static.uplane.com/c/uplane/HeroWebsiteOp.mp4",
+      "harnessKB": 6537.9,
+      "realKB": 6538,
+      "status": 200,
+      "encoding": "video/mp4",
+      "type": "video/mp4"
+    },
+    {
+      "url": "https://uplane.com/",
+      "harnessKB": 514.8,
+      "realKB": 42,
+      "status": 200,
+      "encoding": "text/html",
+      "type": "text/html"
+    },
+    {
+      "url": "https://uplane.com/product",
+      "harnessKB": 486.8,
+      "realKB": 37,
+      "status": 200,
+      "encoding": "text/html",
+      "type": "text/html"
+    },
+    {
+      "url": "https://uplane.com/about-us",
+      "harnessKB": 434.8,
+      "realKB": 37,
+      "status": 200,
+      "encoding": "text/html",
+      "type": "text/html"
+    },
+    {
+      "url": "https://uplane.com/blogs",
+      "harnessKB": 388.3,
+      "realKB": 35,
+      "status": 200,
+      "encoding": "text/html",
+      "type": "text/html"
+    },
+    {
+      "url": "https://uplane.com/carrees",
+      "harnessKB": 366,
+      "realKB": 33,
+      "status": 200,
+      "encoding": "text/html",
+      "type": "text/html"
+    },
+    {
+      "url": "https://uplane.com/talk-to-us",
+      "harnessKB": 351.3,
+      "realKB": 33,
+      "status": 200,
+      "encoding": "text/html",
+      "type": "text/html"
+    }
+  ],
+  "favicon": {
+    "status": 404,
+    "size": 0,
+    "type": "text/html; charset=utf-8",
+    "finalUrl": "https://uplane.com/favicon.ico",
+    "redirects": 0,
+    "url": "https://uplane.com/favicon.ico"
+  },
+  "firstPartyLinkFailuresReChecked": [],
+  "firstPartyAssetFailuresReChecked": [],
+  "notFoundProbe": {
+    "status": 404,
+    "size": 7384,
+    "type": "text/html; charset=utf-8",
+    "finalUrl": "https://uplane.com/this-page-does-not-exist-qa-audit-420000",
+    "redirects": 0,
+    "note": "expect 404"
+  },
+  "top12RealTotalMB": 6.6
+}

@@ -1,0 +1,1176 @@
+{
+  "key": "scalarfield",
+  "name": "Scalar Field",
+  "category": "agentic trading",
+  "start": "https://scalarfield.io/",
+  "note": "",
+  "startedAt": "2026-07-01T08:28:38.951Z",
+  "baseHost": "scalarfield.io",
+  "pages": {
+    "home": {
+      "url": "https://scalarfield.io/",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/"
+      },
+      "meta": {
+        "title": "Scalar Field | AI Agentic Trading Desk",
+        "titleLen": 38,
+        "metaDescription": "ScalarField is an AI agentic trading desk for market research, backtesting, brokerage-connected trading agents, and execution across equities, options, prediction markets, and pre-IPO names.",
+        "canonical": "https://scalarfield.io",
+        "robotsMeta": "index, follow",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "Scalar Field: Your AI Agentic Trading DeskReinventing TradingResearch, backtest, and deploy intelligent trading agents f"
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Scalar Field: Your AI Agentic Trading DeskReinventing TradingResearch, backtest,"
+          },
+          {
+            "level": 2,
+            "text": "One platform. Every venue."
+          },
+          {
+            "level": 2,
+            "text": "Where institutional-grade financial agents think, act, and adapt."
+          },
+          {
+            "level": 2,
+            "text": "See it in action"
+          },
+          {
+            "level": 2,
+            "text": "Sub-300ms from event to live trade."
+          },
+          {
+            "level": 3,
+            "text": "Corporate Insider Transactions"
+          },
+          {
+            "level": 3,
+            "text": "Institutional Holdings (13F)"
+          },
+          {
+            "level": 3,
+            "text": "Real-Time News Wire"
+          },
+          {
+            "level": 3,
+            "text": "Options with Full Greeks"
+          },
+          {
+            "level": 3,
+            "text": "Economic Releases"
+          },
+          {
+            "level": 3,
+            "text": "FRED + Macro"
+          },
+          {
+            "level": 3,
+            "text": "Tokenized Pre-IPO Equities"
+          },
+          {
+            "level": 3,
+            "text": "Analyst Ratings"
+          },
+          {
+            "level": 2,
+            "text": "What will your agent trade?"
+          },
+          {
+            "level": 3,
+            "text": "Gamma-Squeeze ML"
+          },
+          {
+            "level": 3,
+            "text": "Congressional Mirror"
+          },
+          {
+            "level": 3,
+            "text": "Polymarket Whale Copy"
+          },
+          {
+            "level": 3,
+            "text": "Short-Squeeze Hunter"
+          },
+          {
+            "level": 3,
+            "text": "Momentum Rotation"
+          },
+          {
+            "level": 3,
+            "text": "Pre-IPO Basket"
+          },
+          {
+            "level": 3,
+            "text": "Post-Earnings Drift"
+          },
+          {
+            "level": 3,
+            "text": "Macro Regime Rotation"
+          }
+        ],
+        "og": {
+          "og:title": "Scalar Field | AI Agentic Trading Desk",
+          "og:description": "ScalarField is an AI agentic trading desk for market research, backtesting, brokerage-connected trading agents, and execution across equities, options, prediction markets, and pre-IPO names.",
+          "og:url": "https://scalarfield.io",
+          "og:image": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Scalar Field - AI Agentic Trading Desk",
+          "og:type": "website"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Scalar Field | AI Agentic Trading Desk",
+          "twitter:description": "ScalarField is an AI agentic trading desk for market research, backtesting, brokerage-connected trading agents, and execution across equities, options, prediction markets, and pre-IPO names.",
+          "twitter:image": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png"
+        },
+        "favicons": [
+          "/favicon.svg",
+          "/favicon.svg"
+        ],
+        "imgCount": 81,
+        "imgMissingAlt": [
+          "https://d32mg6h25qsrpf.cloudfront.net/general_assets/scalarfield-logo.png"
+        ],
+        "imgMissingAltCount": 1,
+        "imgEmptyAlt": 0,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 80,
+        "headStyles": 3,
+        "headSyncScripts": 1,
+        "linkCount": 16,
+        "textSample": "Scalar Field Legal Docs Pricing Login Try Now Scalar Field: Your AI Agentic Trading Desk Reinventing Trading Research, backtest, and deploy intelligent trading agents from idea to live execution. Your agentic trading desk, from research to live execution. ScalarField helps traders turn market ideas into AI agents that analyze data, connect brokerages, and trade equities, options, prediction markets, and pre-IPO names across venues. Run an actively managed agentic portfolio of the fastest AI-capex growers, rebalanced weekly. Build a Trump-hype agentic portfolio that buys the stocks he publicly champions. Sell weekly cash-secured puts on AAPL 5% OTM, rolling or taking assignment. Let Opus 4.7 actively manage my stock portfolio. Run an actively managed agentic portfolio of the highest-sentiment stocks trending on Reddit, rebalanced | Add Trading Platforms Add Data Sources Ultra Backed by Combinator One platform. Every venue. Connect your brokerage. Your agent handles the rest. Where institutional-grade financial agents think, act, and adapt. Supercharge your edge with automated insight and action — not just data. Talk to Us See it in action Sub-300ms from event to live trade. Every dataset is timestamped at ingestion, so your agent reacts in under 300ms to place live trades the moment a filing or headline lands, and you can backtest that same tick-to-trade edge on history before going live. Corporate Insider Transactions SUB-300MS FROM SEC FORM 4 FILING TO YOUR AGENT. Every insider trade carries both our pipeline timestamp and the official SEC filing time. Your agent sees the delta — that's the latency edge. Institutional Holdings (13F) SUB-300MS FROM EDGAR SUBMISSION TO YOUR AGENT. Pipeline timestamp vs EDGAR filing time on every record. Detect position changes before the rest of the street parses the filing. Real-Time News Wire 63+ PROVIDERS. SUB-300MS PIPELINE DELIVERY. Reuters, Dow Jones, Quartr, TradingView, and 59 more. Full-text search across tickers, geographies, topics, and urgency levels. Options with Full Greeks LIVE AND HISTORICAL. SUB-300MS QUOTE SNAPSHOTS. Screen the entire options universe by strike, expiry, and Greek ranges. Complete implied volatility surface at any point in history. Economic Releases POINT-IN-TIME SNAPSHOTS AT EVERY OBSERVATION. CPI, GDP, rates, employment — with full revision history. Know what the market knew at any given moment, not what was later revised. FRED + Macro THOUSANDS OF SERIES. SUB-300MS ON UPDATE. Rates, inflation, employment, GDP, money supply, housing, trade balance. The backbone for macro factor construction and regime detection. Tokenized Pre-IPO Equities SPACEX. OPENAI. ANTHROPIC. ANDURIL. Trade tokenized pre-IPO names via Jupiter on Solana. Full OHLCV and live pricing. Plus 48 tokenized public equities. Analyst Ratings SUB-300MS FROM FEED REFRESH TO AGENT DELIVERY. Pipeline timestamp and rating issuance time on every record. Enriched with analyst-level performance metrics — success rate, average return. What will your agent trade? Click any strategy to get started. Or type your own. DEEP LEARNING Gamma-Squeeze ML Your agent trains a model on price and options history, validates it on a backtest, then trades the live signal. COPY TRADING Congressional Mirror Your agent parses disclosures the moment they hit and mirrors the trades automatically. PREDICTION MARKETS Polymarket Whale Copy Your agent watches on-chain Polymarket activity and mirrors high-conviction bets within seconds. SHORT INTEREST Short-Squeeze Hunter Your agent screens short interest and days-to-cover, then rides momentum as crowded shorts unwind. BACKTESTED Momentum Rotation Factor-based with survivorship-bias-free data. Backtest across decades, then deploy live. TOKENIZED Pre-IPO Basket Diversified pre-IPO exposure via tokenized equities on Solana. Your agent rebalances and reports NAV. EVENT-DRIVEN Post-Earnings Drift Your agent reads the print and the reaction, then captures the post-earnings drift that follows big beats. MACRO Macro Regime Rotation Your agent reads FRED and economic releases to size risk up or down as the macro regime shifts. Scalar Field Scalar Field, Inc. is an SEC-registered investment adviser. Registration with the U.S. Securities and Exchange Commission does not imply a certain level of skill or training. Scalar Field provides AI-assisted trade execution technology infrastructure through its platform. All trade executions are initiated at the user's discretion. All investments involve risk, including possible loss of principal, and past performance does not guarantee future results. Information provided through Scalar Field's website and platform is for informational purposes only and should not be construed as investment advice, or a recommendation, offer, or solicitation to buy or sell any security. Scalar Field does not provide investment, legal, or tax advice. Users should consult their own legal, tax, or financial advisors before making investment decisions. Services are offered only to users in jurisdictions where Scalar Field is registered or exempt from registration. For additional disclosures and important information, please visit https://www.scalarfield.io/legal. Company Docs Blogs Agentic Trading Strategies What Is AI Agentic Trading? Product Pricing Terms of Service Privacy Policy Cybersecurity Policy AI Disclosure Socials Discord X / Twitter Email"
+      },
+      "axe": [
+        {
+          "id": "button-name",
+          "impact": "critical",
+          "help": "Buttons must have discernible text",
+          "description": "Ensure buttons have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/button-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".group.p-2.rounded-md"
+              ],
+              "summary": "Fix any of the following: Element does not have inner text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attribute does not exist, references elements that do not exist or references eleme",
+              "html": "<button type=\"button\" class=\"relative aspect-square isolate group hover:bg-surface-subtler text-quiet p-2 text-sm rounded-md border border-stroke-subtler\">"
+            },
+            {
+              "target": [
+                "button[aria-controls=\"radix-_r_7_\"]"
+              ],
+              "summary": "Fix any of the following: Element does not have inner text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attribute does not exist, references elements that do not exist or references eleme",
+              "html": "<button type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-_r_7_\" data-state=\"closed\" class=\"outline-none focus:outline-none\">"
+            }
+          ],
+          "count": 2
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".text-xl.font-normal.text-muted"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.95 (foreground color: #89999d, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<span class=\"text-xl font-normal text-muted\">Your agentic trading desk, from research to live execution.</span>"
+            },
+            {
+              "target": [
+                "span[data-testid=\"react-typed\"] > span:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.98 (foreground color: #b8b8b8, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<span>Run an actively managed agentic portfolio of the highest-sentiment </span>"
+            }
+          ],
+          "count": 2
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "help": "Form elements must have labels",
+          "description": "Ensure every form element has a label",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/label?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "textarea"
+              ],
+              "summary": "Fix any of the following: Element does not have an implicit (wrapped) <label> Element does not have an explicit <label> aria-label attribute does not exist or is empty aria-labelledby attribute does not exist, references elements that do no",
+              "html": "<textarea placeholder=\"\" class=\"p-2 box-border outline-none w-full flex items-center font-sans resize-none selection:bg-superDuper selection:text-textMain bg-[i"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en\" class=\"hanken_grotesk_ea9f3...\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".ml-2"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<span class=\"ml-2 font-semibold text-xl sm:text-2xl whitespace-nowrap\">Scalar Field</span>"
+            },
+            {
+              "target": [
+                ".sm\\:inline-block.hidden:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<li class=\"hidden sm:inline-block cursor-pointer\">Legal</li>"
+            },
+            {
+              "target": [
+                ".sm\\:inline-block.hidden:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<li class=\"hidden sm:inline-block cursor-pointer\"><a href=\"https://scalarfield.io/docs\" target=\"_blank\" rel=\"noopener noreferrer\">Docs</a></li>"
+            },
+            {
+              "target": [
+                ".sm\\:inline-block.hidden:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<li class=\"hidden sm:inline-block cursor-pointer\">Pricing</li>"
+            },
+            {
+              "target": [
+                "h1"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<h1 class=\"flex flex-col text-2xl md:text-3xl lg:text-4xl gap-y-1 font-bold\">"
+            }
+          ],
+          "count": 20
+        }
+      ],
+      "perf": {
+        "domContentLoaded": 1178,
+        "load": 1784,
+        "fcp": 1952,
+        "lcp": null,
+        "cls": 0.017,
+        "resourceCount": 92
+      },
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 12
+        },
+        {
+          "width": 768,
+          "scrollW": 768,
+          "clientW": 768,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 16
+        },
+        {
+          "width": 1440,
+          "scrollW": 1440,
+          "clientW": 1440,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 16
+        }
+      ],
+      "links": [
+        {
+          "href": "https://scalarfield.io/docs",
+          "text": "Docs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.ycombinator.com/launches/NSw-scalar-field-reinventing-the-trading-terminal-one-intelligent-agent-at-a-time",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://calendly.com/aman-dvds/30min",
+          "text": "Talk to Us",
+          "inNav": false
+        },
+        {
+          "href": "https://www.scalarfield.io/legal",
+          "text": "https://www.scalarfield.io/legal",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/docs",
+          "text": "Docs",
+          "inNav": false
+        },
+        {
+          "href": "https://blogs.scalarfield.io/",
+          "text": "Blogs",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/agentic-etfs",
+          "text": "Agentic Trading Strategies",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/ai-agentic-trading",
+          "text": "What Is AI Agentic Trading?",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/pricing",
+          "text": "Pricing",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/terms-of-use",
+          "text": "Terms of Service",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/privacy",
+          "text": "Privacy Policy",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/cybersecurity-policy",
+          "text": "Cybersecurity Policy",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/ai-disclosure",
+          "text": "AI Disclosure",
+          "inNav": false
+        },
+        {
+          "href": "https://discord.gg/rhW3BBaWzx",
+          "text": "Discord",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/scalar_field_",
+          "text": "X / Twitter",
+          "inNav": false
+        },
+        {
+          "href": "mailto:info@scalarfield.io",
+          "text": "Email",
+          "inNav": false
+        }
+      ]
+    },
+    "docs:/docs": {
+      "url": "https://scalarfield.io/docs",
+      "kind": "docs",
+      "nav": {
+        "ok": false,
+        "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://scalarfield.io/docs",
+        "finalUrl": "https://scalarfield.io/"
+      }
+    },
+    "pricing:/pricing": {
+      "url": "https://scalarfield.io/pricing",
+      "kind": "pricing",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/pricing"
+      },
+      "meta": {
+        "title": "Pricing | ScalarField",
+        "titleLen": 21,
+        "metaDescription": "Explore ScalarField pricing plans for your agentic trading desk: Pro, Ultra, and Enterprise.",
+        "canonical": "https://scalarfield.io/pricing",
+        "robotsMeta": "index, follow",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "The next great trader isn't a person.Pick your plan."
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "The next great trader isn't a person.Pick your plan."
+          },
+          {
+            "level": 3,
+            "text": "Pro Plan"
+          },
+          {
+            "level": 3,
+            "text": "Ultra Plan"
+          },
+          {
+            "level": 3,
+            "text": "Enterprise Plan"
+          },
+          {
+            "level": 2,
+            "text": "Your Investment Journey, Our Expert Compass"
+          }
+        ],
+        "og": {
+          "og:title": "Pricing | ScalarField",
+          "og:description": "Choose the right ScalarField plan for agentic trading across assets and venues.",
+          "og:image": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Scalar Field - AI Agentic Trading Desk"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:site": "@scalar_field_",
+          "twitter:creator": "@scalar_field_",
+          "twitter:title": "Scalar Field | AI Agentic Trading Desk",
+          "twitter:description": "Scalar Field is an AI agentic trading desk for market research, backtesting, and intelligent trading agents.",
+          "twitter:image": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png"
+        },
+        "favicons": [
+          "/favicon.svg",
+          "/favicon.svg"
+        ],
+        "imgCount": 31,
+        "imgMissingAlt": [
+          "https://d32mg6h25qsrpf.cloudfront.net/general_assets/scalarfield-logo.png"
+        ],
+        "imgMissingAltCount": 1,
+        "imgEmptyAlt": 0,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 31,
+        "headStyles": 3,
+        "headSyncScripts": 1,
+        "linkCount": 17,
+        "textSample": "Scalar Field Legal Docs Login Try Now The next great trader isn't a person. Pick your plan. It's an agent that researches, decides, and executes — 24/7, across every venue. Build yours. Monthly Annually Save 17% Pro Plan $66 per month Save $13 $79 Subscribe 440 credits / month Usage & Limits 200K context window Up to 10 minutes compute time per query Automation Strategies (automated trading) Monitors (alerts & signals) Strategy templates marketplace Market Data Options data (quotes, greeks, IV, screener) · live + history since 2007 Equities, indices, crypto, forex OHLCV · live + history since 2003 Earnings calendar & results · live + historical Congress & insider trades · live + history since 2009 Institutional holdings & flows · live + history since 1987 Analyst ratings & price targets · live + historical Polymarket prediction markets (events, OHLCV, trades, wallet analytics) · live + historical Economic event releases with revision history · live + historical FRED — 10M+ economic time series (GDP, CPI, unemployment, rates, and more) · live + full history Trading Alpaca (US equities & options) Robinhood (US equities, options & crypto) Polymarket (prediction markets) — 1% fee on trades Jupiter DEX (tokenized assets on Solana) — 1% fee on trades Public.com (coming soon) Webull (coming soon) Research & Reference Real-time news wire (Reuters, Dow Jones, Quartr, and 60+ more) Fundamentals & SEC filings ETF holdings & government bonds Web search Ultra Plan Most Popular $167 per month Save $33 $200 Subscribe 1100 credits / month All Pro features, plus: Usage & Limits 1M context window Up to 15 minutes compute time per query Trading 1% trade fee refunded on Polymarket & Jupiter DEX Market Data 1-minute OHLCV & L1 quotes for options Fundamental data (Morningstar + FactSet) Support & Services 24/7 premium support & SLAs Enterprise Plan Custom Contact Us All Pro features, plus: Usage & Scale Unlimited queries Custom compute and context limits Automation Custom strategy and monitor limits Private team workspaces Brokerage Integrations Custom integrations (Interactive Brokers, Ameritrade, Schwab, and more) Bring-your-own brokerage API Security & Compliance SSO, SAML, RBAC SOC 2, GDPR, HIPAA-ready Support & Services 24/7 premium support & SLAs Dedicated account manager Data & Deployment Private cloud / VPC deployment Custom data source additions Expanded connectors (Bloomberg) Bring-your-own data & custom APIs Your Investment Journey, Our Expert Compass Try for free Scalar Field Company Pricing Blog & updates Terms of Use Social"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"text-center text-muted\">It's an agent that researches, decides, and executes — 24/7, across every venue.<br> Build yours.</p>"
+            },
+            {
+              "target": [
+                ".bg-transparent"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.85 (foreground color: #849597, background color: #f5f5f3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<button class=\"w-full md:w-auto px-5 py-2 rounded-md leading-none bg-transparent\">Monthly</button>"
+            },
+            {
+              "target": [
+                ".lg\\:justify-self-end > .mt-4.items-start.flex > .flex-1.flex-col.flex > .gap-2.justify-between.items-center > .gap-2.items-center.flex > .text-left.text-sm.text-muted > span:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<span class=\" \">per</span>"
+            },
+            {
+              "target": [
+                ".lg\\:justify-self-end > .mt-4.items-start.flex > .flex-1.flex-col.flex > .gap-2.justify-between.items-center > .gap-2.items-center.flex > .text-left.text-sm.text-muted > .-translate-y-1"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<span class=\"-translate-y-1\">month</span>"
+            },
+            {
+              "target": [
+                ".lg\\:justify-self-end > .mt-4.items-start.flex > .flex-1.flex-col.flex > .text-lg.line-through.font-medium"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<span class=\"text-muted text-lg font-medium line-through\">$79</span>"
+            }
+          ],
+          "count": 9
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "help": "Heading levels should only increase by one",
+          "description": "Ensure the order of headings is semantically correct",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".lg\\:justify-self-end > .justify-between.items-center.flex > h3"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h3 class=\"text-xl font-semibold\">Pro Plan</h3>"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en\" class=\"hanken_grotesk_ea9f3...\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".sm\\:text-2xl"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<span class=\"ml-2 font-semibold text-xl sm:text-2xl whitespace-nowrap\">Scalar Field</span>"
+            },
+            {
+              "target": [
+                ".hidden.sm\\:inline-block.cursor-pointer:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<li class=\"hidden sm:inline-block cursor-pointer\">Legal</li>"
+            },
+            {
+              "target": [
+                ".hidden.sm\\:inline-block.cursor-pointer:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<li class=\"hidden sm:inline-block cursor-pointer\"><a href=\"https://scalarfield.io/docs\" target=\"_blank\" rel=\"noopener noreferrer\">Docs</a></li>"
+            },
+            {
+              "target": [
+                ".my-14"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"px-4 flex flex-col space-y-4 my-14\">"
+            },
+            {
+              "target": [
+                ".lg\\:justify-self-end > .justify-between.items-center.flex"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"flex items-center justify-between\"><h3 class=\"text-xl font-semibold\">Pro Plan</h3></div>"
+            }
+          ],
+          "count": 76
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 15
+        }
+      ],
+      "links": [
+        {
+          "href": "https://scalarfield.io/",
+          "text": "Scalar Field",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/docs",
+          "text": "Docs",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/docs/market-data/options-quotes",
+          "text": "Options data",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/docs/market-data/equity-ohlcv",
+          "text": "Equities, indices, crypto, forex OHLCV",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/docs/market-data/earnings",
+          "text": "Earnings calendar & results",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/docs/market-data/insider-trades",
+          "text": "Congress & insider trades",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/docs/market-data/institutional-holdings",
+          "text": "Institutional holdings & flows",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/docs/market-data/overview",
+          "text": "Analyst ratings & price targets",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/docs/market-data/polymarket-data",
+          "text": "Polymarket prediction markets",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/docs/market-data/economic-releases",
+          "text": "Economic event releases",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/docs/market-data/fred-data",
+          "text": "FRED",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/pricing",
+          "text": "Pricing",
+          "inNav": false
+        },
+        {
+          "href": "https://blog.scalarfield.io/",
+          "text": "Blog & updates",
+          "inNav": false
+        },
+        {
+          "href": "https://scalarfield.io/terms-of-use",
+          "text": "Terms of Use",
+          "inNav": false
+        },
+        {
+          "href": "https://discord.gg/rhW3BBaWzx",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/scalar_field_",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "mailto:info@scalarfield.io",
+          "text": "",
+          "inNav": false
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "url": "https://scalarfield.io/docs",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/introduction",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/",
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Docs"
+    },
+    {
+      "url": "https://www.scalarfield.io/legal",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/legal",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ],
+      "text": "https://www.scalarfield.io/legal"
+    },
+    {
+      "url": "https://blogs.scalarfield.io/",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://blogs.scalarfield.io/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ],
+      "text": "Blogs"
+    },
+    {
+      "url": "https://scalarfield.io/agentic-etfs",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/agentic-etfs",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ],
+      "text": "Agentic Trading Strategies"
+    },
+    {
+      "url": "https://scalarfield.io/ai-agentic-trading",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/ai-agentic-trading",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ],
+      "text": "What Is AI Agentic Trading?"
+    },
+    {
+      "url": "https://scalarfield.io/pricing",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/pricing",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/",
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Pricing"
+    },
+    {
+      "url": "https://scalarfield.io/terms-of-use",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/terms-of-use",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/",
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Terms of Service"
+    },
+    {
+      "url": "https://scalarfield.io/privacy",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/privacy",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ],
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://scalarfield.io/cybersecurity-policy",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/cybersecurity-policy",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ],
+      "text": "Cybersecurity Policy"
+    },
+    {
+      "url": "https://scalarfield.io/ai-disclosure",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/ai-disclosure",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ],
+      "text": "AI Disclosure"
+    },
+    {
+      "url": "https://scalarfield.io/",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Scalar Field"
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/options-quotes",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/options-quotes",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Options data"
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/equity-ohlcv",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/equity-ohlcv",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Equities, indices, crypto, forex OHLCV"
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/earnings",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/earnings",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Earnings calendar & results"
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/insider-trades",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/insider-trades",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Congress & insider trades"
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/institutional-holdings",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/institutional-holdings",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Institutional holdings & flows"
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/overview",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/overview",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Analyst ratings & price targets"
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/polymarket-data",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/polymarket-data",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Polymarket prediction markets"
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/economic-releases",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/economic-releases",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Economic event releases"
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/fred-data",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/fred-data",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "FRED"
+    },
+    {
+      "url": "https://blog.scalarfield.io/",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://blog.scalarfield.io/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Blog & updates"
+    },
+    {
+      "url": "https://www.ycombinator.com/launches/NSw-scalar-field-reinventing-the-trading-terminal-one-intelligent-agent-at-a-time",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/launches/NSw-scalar-field-reinventing-the-trading-terminal-one-intelligent-agent-at-a-time",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://calendly.com/aman-dvds/30min",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://calendly.com/aman-dvds/30min",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ],
+      "text": "Talk to Us"
+    },
+    {
+      "url": "https://discord.gg/rhW3BBaWzx",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://discord.com/invite/rhW3BBaWzx",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/",
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "Discord"
+    },
+    {
+      "url": "https://x.com/scalar_field_",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://x.com/scalar_field_",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/",
+        "https://scalarfield.io/pricing"
+      ],
+      "text": "X / Twitter"
+    }
+  ],
+  "robots": {
+    "status": 200,
+    "present": true,
+    "looksLikeHtml": false,
+    "sample": "User-Agent: *\nAllow: /\nAllow: /api/og/\nDisallow: /api/\nDisallow: /account\nDisallow: /checkout/\nDisallow: /redirecting\nDisallow: /alpaca-oauth\nDisallow: /onboarding\nDisallow: /authenticate-email\nDisallow: /institutional-login\nDisallow: /editor/\nDisallow: /portfolio/\nDisallow: /search/\nDisallow: /library\nDisallow: /ticker\nDisallow: /ticker/\nDisallow: /agents/\nDisallow: /wallet\n\nSitemap: https://scal"
+  },
+  "sitemap": {
+    "status": 200,
+    "present": true,
+    "looksLikeXml": true
+  },
+  "redirectNote": null,
+  "keyPagesDiscovered": [
+    {
+      "url": "https://scalarfield.io/docs",
+      "kind": "docs",
+      "text": "Docs"
+    },
+    {
+      "url": "https://scalarfield.io/pricing",
+      "kind": "pricing",
+      "text": "Pricing"
+    }
+  ],
+  "linkCounts": {
+    "firstPartyTotal": 21,
+    "externalTotal": 4,
+    "checkedFP": 21,
+    "checkedEXT": 4
+  },
+  "network": {
+    "totalRequests": 247,
+    "firstPartyFailures": [
+      {
+        "url": "https://air.scalarfield.io/auth/me",
+        "host": "air.scalarfield.io",
+        "firstParty": true,
+        "status": 401,
+        "type": "application/json",
+        "bytes": 43,
+        "onPage": "https://scalarfield.io/"
+      }
+    ],
+    "thirdPartyFailures": [],
+    "mixedContent": [],
+    "largestFirstParty": [
+      {
+        "url": "https://scalarfield.io/_next/static/chunks/9a9ffc5ab9f3d0cc.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+        "kb": 1194.6,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://scalarfield.io/_next/static/chunks/57b142412f4dc1f4.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+        "kb": 417.7,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://scalarfield.io/_next/static/chunks/cb9f7f9047c4d488.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+        "kb": 335.5,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://scalarfield.io/_next/static/chunks/74f5f88b576d8633.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+        "kb": 288.9,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://scalarfield.io/_next/static/chunks/e166024e3f46ff59.css?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+        "kb": 213.1,
+        "type": "text/css; charset=utf-8"
+      },
+      {
+        "url": "https://scalarfield.io/_next/static/chunks/4fa395d360c87cc3.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+        "kb": 197.3,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://scalarfield.io/pricing",
+        "kb": 143.6,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "url": "https://scalarfield.io/_next/static/chunks/ec4f3363b94f9967.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+        "kb": 139.1,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://scalarfield.io/_next/static/chunks/a36bbe15af4e6882.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+        "kb": 133.7,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://scalarfield.io/_next/static/chunks/2375e3fd2a9b8844.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+        "kb": 108.7,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://scalarfield.io/docs",
+        "kb": 101.8,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "url": "https://scalarfield.io/_next/static/chunks/46111c44b23c9638.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo",
+        "kb": 98.5,
+        "type": "application/javascript; charset=utf-8"
+      }
+    ]
+  },
+  "console": {
+    "errors": [
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+        "onPage": "https://scalarfield.io/",
+        "location": "https://air.scalarfield.io/auth/me:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+        "onPage": "https://scalarfield.io/docs",
+        "location": "https://auth.privy.io/cdn-cgi/challenge-platform/h/g/scripts/jsd/37d84357f321/main.js?:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+        "onPage": "https://scalarfield.io/pricing",
+        "location": "https://air.scalarfield.io/auth/me:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: net::ERR_CONNECTION_CLOSED",
+        "onPage": "https://scalarfield.io/pricing",
+        "location": "https://auth.privy.io/cdn-cgi/challenge-platform/h/g/scripts/jsd/37d84357f321/main.js?:0"
+      }
+    ],
+    "warnings": [
+      {
+        "type": "warning",
+        "text": "WalletConnect Core is already initialized. This is probably a mistake and can lead to unexpected behavior. Init() was called 2 times.",
+        "onPage": "https://scalarfield.io/",
+        "location": "https://scalarfield.io/_next/static/chunks/9a9ffc5ab9f3d0cc.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo:35"
+      },
+      {
+        "type": "warning",
+        "text": "Deprecated API for given entry type.",
+        "onPage": "https://scalarfield.io/",
+        "location": ""
+      },
+      {
+        "type": "warning",
+        "text": "WalletConnect Core is already initialized. This is probably a mistake and can lead to unexpected behavior. Init() was called 2 times.",
+        "onPage": "https://scalarfield.io/pricing",
+        "location": "https://scalarfield.io/_next/static/chunks/9a9ffc5ab9f3d0cc.js?dpl=dpl_8r8piJKmjktdBozhxbSRCTcp5Pvo:35"
+      }
+    ],
+    "pageErrors": []
+  },
+  "finishedAt": "2026-07-01T08:29:38.002Z"
+}

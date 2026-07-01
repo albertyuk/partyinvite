@@ -1,0 +1,73 @@
+{
+  "key": "contrario",
+  "checkedAt": "2026-07-01T08:34:56.335Z",
+  "assets": [
+    {
+      "url": "https://www.contrario.ai/",
+      "harnessKB": 587.9,
+      "realKB": 47,
+      "status": 200,
+      "encoding": "text/html",
+      "type": "text/html"
+    },
+    {
+      "url": "https://www.contrario.ai/careers",
+      "harnessKB": 429.2,
+      "realKB": 40,
+      "status": 200,
+      "encoding": "text/html",
+      "type": "text/html"
+    },
+    {
+      "url": "https://www.contrario.ai/book-a-demo",
+      "harnessKB": 401,
+      "realKB": 38,
+      "status": 200,
+      "encoding": "text/html",
+      "type": "text/html"
+    },
+    {
+      "url": "https://www.contrario.ai/customers",
+      "harnessKB": 340,
+      "realKB": 38,
+      "status": 200,
+      "encoding": "text/html",
+      "type": "text/html"
+    },
+    {
+      "url": "https://www.contrario.ai/blogs",
+      "harnessKB": 268.2,
+      "realKB": 33,
+      "status": 200,
+      "encoding": "text/html",
+      "type": "text/html"
+    },
+    {
+      "url": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+      "harnessKB": 247.7,
+      "realKB": 30,
+      "status": 200,
+      "encoding": "text/html",
+      "type": "text/html"
+    }
+  ],
+  "favicon": {
+    "status": 404,
+    "size": 0,
+    "type": "text/html; charset=utf-8",
+    "finalUrl": "https://www.contrario.ai/favicon.ico",
+    "redirects": 0,
+    "url": "https://www.contrario.ai/favicon.ico"
+  },
+  "firstPartyLinkFailuresReChecked": [],
+  "firstPartyAssetFailuresReChecked": [],
+  "notFoundProbe": {
+    "status": 404,
+    "size": 26799,
+    "type": "text/html",
+    "finalUrl": "https://www.contrario.ai/this-page-does-not-exist-qa-audit-420000",
+    "redirects": 0,
+    "note": "expect 404"
+  },
+  "top12RealTotalMB": 0.2
+}

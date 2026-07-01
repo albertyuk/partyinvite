@@ -1,0 +1,57 @@
+{
+  "key": "yondu",
+  "checkedAt": "2026-07-01T08:34:52.748Z",
+  "assets": [
+    {
+      "url": "https://www.yondu.ai/",
+      "harnessKB": 68.3,
+      "realKB": 13,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.yondu.ai/about",
+      "harnessKB": 52.4,
+      "realKB": 10,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.yondu.ai/careers",
+      "harnessKB": 42.9,
+      "realKB": 8,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.yondu.ai/ourblog",
+      "harnessKB": 35.9,
+      "realKB": 7,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    }
+  ],
+  "favicon": {
+    "status": 404,
+    "size": 0,
+    "type": "text/html; charset=utf-8",
+    "finalUrl": "https://www.yondu.ai/favicon.ico",
+    "redirects": 0,
+    "url": "https://www.yondu.ai/favicon.ico"
+  },
+  "firstPartyLinkFailuresReChecked": [],
+  "firstPartyAssetFailuresReChecked": [],
+  "notFoundProbe": {
+    "status": 404,
+    "size": 2629,
+    "type": "text/html; charset=utf-8",
+    "finalUrl": "https://www.yondu.ai/this-page-does-not-exist-qa-audit-420000",
+    "redirects": 0,
+    "note": "expect 404"
+  },
+  "top12RealTotalMB": 0
+}

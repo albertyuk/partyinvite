@@ -1,0 +1,167 @@
+{
+  "key": "naive",
+  "checkedAt": "2026-07-01T08:35:00.759Z",
+  "assets": [
+    {
+      "url": "https://usenaive.ai/blog",
+      "harnessKB": 5620.2,
+      "realKB": 191,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://usenaive.ai/templates",
+      "harnessKB": 4148.1,
+      "realKB": 98,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://usenaive.ai/_next/static/chunks/01-px06-ghit9.js?dpl=dpl_HtVjD5R2uMPyFADB4QYkfutYP1Q8",
+      "harnessKB": 748.1,
+      "realKB": 85,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://usenaive.ai/",
+      "harnessKB": 514.6,
+      "realKB": 43,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://usenaive.ai/_next/static/chunks/0gfvws390jm4g.js?dpl=dpl_HtVjD5R2uMPyFADB4QYkfutYP1Q8",
+      "harnessKB": 422.4,
+      "realKB": 138,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://usenaive.ai/blog/introducing-phone?_rsc=Z2-Fs-_yUgQi5-lm",
+      "harnessKB": 317.6,
+      "realKB": 36,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    },
+    {
+      "url": "https://usenaive.ai/blog/introducing-the-naive-sdk?_rsc=Z2-Fs-_yUgQi5-lm",
+      "harnessKB": 258.6,
+      "realKB": 30,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    },
+    {
+      "url": "https://usenaive.ai/docs",
+      "harnessKB": 246,
+      "realKB": 53,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://usenaive.ai/docs/getting-started/introduction?_rsc=qebfISYXrqA-JuXh",
+      "harnessKB": 228.4,
+      "realKB": 59,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    },
+    {
+      "url": "https://usenaive.ai/docs/getting-started/cards?_rsc=qptEv0OG919dgZuw",
+      "harnessKB": 228.4,
+      "realKB": 63,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    },
+    {
+      "url": "https://usenaive.ai/docs/getting-started/apps?_rsc=y9DS7rAB_N9httLa",
+      "harnessKB": 228.4,
+      "realKB": 60,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    },
+    {
+      "url": "https://usenaive.ai/?_rsc=g2GogwnnB0r-HJi1",
+      "harnessKB": 217.1,
+      "realKB": 43,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    }
+  ],
+  "favicon": {
+    "status": 404,
+    "size": 0,
+    "type": "text/html; charset=utf-8",
+    "finalUrl": "https://usenaive.ai/favicon.ico",
+    "redirects": 0,
+    "url": "https://usenaive.ai/favicon.ico"
+  },
+  "firstPartyLinkFailuresReChecked": [
+    {
+      "url": "https://status.usenaive.ai/",
+      "harnessStatus": 404,
+      "recheck": {
+        "status": 404,
+        "size": 107,
+        "type": "text/plain; charset=utf-8",
+        "finalUrl": "https://status.usenaive.ai/",
+        "redirects": 0
+      }
+    }
+  ],
+  "firstPartyAssetFailuresReChecked": [
+    {
+      "url": "https://usenaive.ai/docs/getting-started/introduction?_rsc=qebfISYXrqA-JuXh",
+      "harnessStatus": 404,
+      "recheck": {
+        "status": 200,
+        "size": 60361,
+        "type": "text/html; charset=utf-8",
+        "finalUrl": "https://usenaive.ai/docs/getting-started/introduction?_rsc=qebfISYXrqA-JuXh",
+        "redirects": 0
+      }
+    },
+    {
+      "url": "https://usenaive.ai/docs/getting-started/apps?_rsc=y9DS7rAB_N9httLa",
+      "harnessStatus": 404,
+      "recheck": {
+        "status": 200,
+        "size": 61527,
+        "type": "text/html; charset=utf-8",
+        "finalUrl": "https://usenaive.ai/docs/getting-started/apps?_rsc=y9DS7rAB_N9httLa",
+        "redirects": 0
+      }
+    },
+    {
+      "url": "https://usenaive.ai/docs/getting-started/cards?_rsc=qptEv0OG919dgZuw",
+      "harnessStatus": 404,
+      "recheck": {
+        "status": 200,
+        "size": 64054,
+        "type": "text/html; charset=utf-8",
+        "finalUrl": "https://usenaive.ai/docs/getting-started/cards?_rsc=qptEv0OG919dgZuw",
+        "redirects": 0
+      }
+    }
+  ],
+  "notFoundProbe": {
+    "status": 404,
+    "size": 4937,
+    "type": "text/html; charset=utf-8",
+    "finalUrl": "https://usenaive.ai/this-page-does-not-exist-qa-audit-420000",
+    "redirects": 0,
+    "note": "expect 404"
+  },
+  "top12RealTotalMB": 0.9
+}
