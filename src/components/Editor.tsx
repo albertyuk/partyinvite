@@ -78,9 +78,13 @@ const TOKEN_KEY = 'peninsula_edit_token'
 
 export function Editor() {
   const [draft, setDraft] = useState<EditableContent>(() => loadCachedContent())
-  const [token, setToken] = useState(
-    () => sessionStorage.getItem(TOKEN_KEY) ?? '',
-  )
+  const [token, setToken] = useState(() => {
+    try {
+      return sessionStorage.getItem(TOKEN_KEY) ?? ''
+    } catch {
+      return ''
+    }
+  })
   const [status, setStatus] = useState<
     'idle' | 'saving' | SaveOutcome
   >('idle')
@@ -109,7 +113,11 @@ export function Editor() {
 
   async function onSave() {
     setStatus('saving')
-    sessionStorage.setItem(TOKEN_KEY, token)
+    try {
+      sessionStorage.setItem(TOKEN_KEY, token)
+    } catch {
+      /* private-mode storage may throw — the save still works */
+    }
     const outcome = await saveContent(draft, token)
     setStatus(outcome)
   }
@@ -119,9 +127,9 @@ export function Editor() {
       {/* Header */}
       <header className="sticky top-0 z-20 border-b border-gold/30 bg-ivory/95 backdrop-blur"
         style={{ backgroundColor: 'rgba(248,243,232,0.95)' }}>
-        <div className="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-3">
+        <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-3 px-4 py-3">
           <div className="flex items-center gap-3">
-            <Monogram className="h-7 w-7 text-gold-deep" />
+            <Monogram className="h-7 w-7 shrink-0 text-gold-deep" />
             <div>
               <p className="eyebrow text-gold-ink">Invitation editor</p>
               <p className="text-xs text-ink-soft">
@@ -129,17 +137,19 @@ export function Editor() {
               </p>
             </div>
           </div>
-          <div className="flex items-center gap-2">
+          {/* Controls wrap to their own full-width row on narrow screens so the
+              password field and Publish button are never clipped off-screen. */}
+          <div className="flex w-full items-center gap-2 sm:w-auto">
             <input
               type="password"
-              className="field !w-40 !py-2 text-sm"
+              className="field !py-2 text-sm min-w-0 flex-1 sm:!w-40 sm:flex-none"
               placeholder="Edit password"
               value={token}
               onChange={(e) => setToken(e.target.value)}
               aria-label="Edit password"
             />
             <button
-              className="btn-primary !min-h-[44px] !px-5"
+              className="btn-primary !min-h-[44px] shrink-0 !px-5"
               onClick={onSave}
               disabled={status === 'saving' || !token}
             >

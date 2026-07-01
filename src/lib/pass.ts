@@ -36,7 +36,7 @@ export function contributionSummary(record: RsvpRecord): {
     record.contributionType === 'spirits'
       ? 'A mix of spirits for the cocktail bar'
       : 'A dish to share at the table'
-  return { label, detail: record.contributionDetail.trim() }
+  return { label, detail: String(record.contributionDetail ?? '').trim() }
 }
 
 /** Escape a TEXT value per RFC 5545 (backslash, semicolon, comma, newlines). */

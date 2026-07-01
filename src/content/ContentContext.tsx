@@ -51,7 +51,36 @@ export function ContentProvider({ children }: { children: ReactNode }) {
 
   const resolved = useMemo(() => resolve(content), [content])
 
+  // Keep the browser tab title + meta/OG tags in sync with edited content, so a
+  // changed title or date isn't stale in the tab or JS-capable share previews.
+  // (Static crawlers still read index.html's defaults — an inherent SPA limit.)
+  useEffect(() => {
+    syncDocumentMeta(resolved)
+  }, [resolved])
+
   return (
     <ContentContext.Provider value={resolved}>{children}</ContentContext.Provider>
   )
+}
+
+function setMeta(attr: 'name' | 'property', key: string, value: string) {
+  let el = document.head.querySelector(`meta[${attr}="${key}"]`)
+  if (!el) {
+    el = document.createElement('meta')
+    el.setAttribute(attr, key)
+    document.head.appendChild(el)
+  }
+  el.setAttribute('content', value)
+}
+
+function syncDocumentMeta(c: ReturnType<typeof resolve>) {
+  try {
+    const summary = `${c.unitFull} · ${c.dateLong} · ${c.time}`
+    document.title = `${c.title} · ${c.unitFull}`
+    setMeta('name', 'description', summary)
+    setMeta('property', 'og:title', c.title)
+    setMeta('property', 'og:description', summary)
+  } catch {
+    /* non-browser / locked-down environment — ignore */
+  }
 }

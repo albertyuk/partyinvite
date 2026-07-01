@@ -152,16 +152,20 @@ export function loadRsvp(): RsvpRecord | null {
     if (!raw) return null
     const parsed = JSON.parse(raw) as Partial<RsvpRecord>
     if (!parsed || !parsed.confirmationCode || !parsed.name) return null
-    // Backfill fields that may be missing from an older saved shape.
+    // Coerce every string field to a real string, and backfill missing ones,
+    // so a hand-edited or older/corrupt saved shape can never crash a render
+    // (e.g. a numeric name would throw on `.trim()`).
+    const str = (v: unknown, fallback = ''): string =>
+      typeof v === 'string' ? v : v == null ? fallback : String(v)
     return {
-      name: parsed.name,
-      phone: parsed.phone ?? '',
-      phoneDisplay: parsed.phoneDisplay ?? parsed.phone ?? '',
+      name: str(parsed.name),
+      phone: str(parsed.phone),
+      phoneDisplay: str(parsed.phoneDisplay, str(parsed.phone)),
       contributionType: parsed.contributionType === 'spirits' ? 'spirits' : 'dish',
-      contributionDetail: parsed.contributionDetail ?? '',
+      contributionDetail: str(parsed.contributionDetail),
       partySize: Number(parsed.partySize) > 0 ? Number(parsed.partySize) : 1,
-      confirmationCode: parsed.confirmationCode,
-      timestamp: parsed.timestamp ?? new Date().toISOString(),
+      confirmationCode: str(parsed.confirmationCode),
+      timestamp: str(parsed.timestamp, new Date().toISOString()),
     }
   } catch {
     return null

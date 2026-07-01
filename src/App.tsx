@@ -1,5 +1,6 @@
 import { Suspense, lazy, useState } from 'react'
 import { ContentProvider } from './content/ContentContext'
+import { ErrorBoundary } from './components/ErrorBoundary'
 import { InvitationCard } from './components/InvitationCard'
 import { RsvpForm } from './components/RsvpForm'
 import { EntryPass } from './components/EntryPass'
@@ -40,15 +41,17 @@ const isEditMode =
 
 export default function App() {
   return (
-    <ContentProvider>
-      {isEditMode ? (
-        <Suspense fallback={<IntroFallback />}>
-          <Editor />
-        </Suspense>
-      ) : (
-        <GuestFlow />
-      )}
-    </ContentProvider>
+    <ErrorBoundary>
+      <ContentProvider>
+        {isEditMode ? (
+          <Suspense fallback={<IntroFallback />}>
+            <Editor />
+          </Suspense>
+        ) : (
+          <GuestFlow />
+        )}
+      </ContentProvider>
+    </ErrorBoundary>
   )
 }
 
