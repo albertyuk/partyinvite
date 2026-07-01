@@ -1,0 +1,239 @@
+{
+  "key": "uplane",
+  "name": "Uplane",
+  "start": "https://uplane.com/",
+  "checkedAt": "2026-07-01T08:53:43.568Z",
+  "canonicalization": {
+    "httpToHttps": {
+      "status": 308,
+      "ttfbMs": 153,
+      "httpVersion": "1.1",
+      "redirectUrl": "https://uplane.com/",
+      "scheme": "HTTP",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "date": "Wed, 01 Jul 2026 08:53:43 GMT",
+        "location": "https://uplane.com/",
+        "strict-transport-security": "max-age=31536000",
+        "x-content-type-options": "nosniff",
+        "transfer-encoding": "chunked"
+      },
+      "setCookies": [],
+      "redirectBlocks": 1
+    },
+    "apex": {
+      "status": 200,
+      "ttfbMs": 710,
+      "httpVersion": "2",
+      "redirectUrl": "",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-type": "text/html",
+        "date": "Wed, 01 Jul 2026 08:53:43 GMT",
+        "etag": "\"e1ee5983981624abc5d65d92c9dde3a0\"",
+        "last-modified": "Wed, 03 Jun 2026 21:02:36 GMT",
+        "link": "<https://framerusercontent.com>; rel=\"preconnect\", <https://framerusercontent.com>; rel=\"preconnect\"; crossorigin=\"\"",
+        "server": "Framer/d8a9258",
+        "server-timing": "region;desc=\"us-east-1\", cache;desc=\"cached\", ssg-status;desc=\"optimized\", version;desc=\"d8a9258\", route;dur=1;desc=\"id=HBEqmjBB1&locale=default\", country;desc=\"US\"",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding, Accept",
+        "x-content-type-options": "nosniff",
+        "content-length": "527165"
+      },
+      "setCookies": [],
+      "redirectBlocks": 2
+    },
+    "www": {
+      "status": 308,
+      "ttfbMs": 534,
+      "httpVersion": "2",
+      "redirectUrl": "https://uplane.com/",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 01 Jul 2026 08:53:44 GMT",
+        "location": "https://uplane.com/",
+        "server": "Framer/d8a9258",
+        "strict-transport-security": "max-age=31536000",
+        "x-content-type-options": "nosniff"
+      },
+      "setCookies": [],
+      "redirectBlocks": 2
+    }
+  },
+  "pages": {
+    "https://uplane.com/": {
+      "status": 200,
+      "ttfbMs": 465,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000",
+          "x-content-type-options": "nosniff"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Framer/d8a9258",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "Accept-Encoding, Accept"
+      },
+      "cookies": []
+    },
+    "https://uplane.com/blogs": {
+      "status": 200,
+      "ttfbMs": 501,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000",
+          "x-content-type-options": "nosniff"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Framer/d8a9258",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "Accept-Encoding, Accept"
+      },
+      "cookies": []
+    },
+    "https://uplane.com/about-us": {
+      "status": 200,
+      "ttfbMs": 449,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000",
+          "x-content-type-options": "nosniff"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Framer/d8a9258",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "Accept-Encoding, Accept"
+      },
+      "cookies": []
+    },
+    "https://uplane.com/carrees": {
+      "status": 200,
+      "ttfbMs": 419,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000",
+          "x-content-type-options": "nosniff"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Framer/d8a9258",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "Accept-Encoding, Accept"
+      },
+      "cookies": []
+    },
+    "https://uplane.com/talk-to-us": {
+      "status": 200,
+      "ttfbMs": 446,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000",
+          "x-content-type-options": "nosniff"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Framer/d8a9258",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "Accept-Encoding, Accept"
+      },
+      "cookies": []
+    },
+    "https://uplane.com/product": {
+      "status": 200,
+      "ttfbMs": 459,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000",
+          "x-content-type-options": "nosniff"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Framer/d8a9258",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "Accept-Encoding, Accept"
+      },
+      "cookies": []
+    }
+  },
+  "assets": {
+    "https://static.uplane.com/c/uplane/HeroWebsiteOp.mp4": {
+      "status": 200,
+      "ttfbMs": 663,
+      "sizeKB": 6538,
+      "contentEncoding": "(none)",
+      "cacheControl": "max-age=14400",
+      "etag": "yes",
+      "contentType": "video/mp4",
+      "immutable": false
+    }
+  },
+  "notes": []
+}

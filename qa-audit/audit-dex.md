@@ -36,3 +36,62 @@ _Outside-in review of publicly served pages, 2026-07-01. Non-intrusive: logged-o
 **C. Founder-ready paragraph**
 
 > I've been using Dex and genuinely like where it's going, so I poked at the marketing site from a user's-eye view and noticed a few small things worth a look. The biggest one: on my phone the top nav doesn't collapse, so the "Join Dex" button gets cut off and the homepage scrolls sideways (about 54px of overflow at 375px) — an easy fix once the nav goes to a hamburger under ~768px. The homepage also loads ~25MB of media up front (a 20MB video and a ~5MB hero PNG), which would be a quick win to compress and lazy-load. Minor but easy: there's no robots.txt, sitemap, or canonical tag yet, which matters more now that you're moving onto joindex.com. Happy to send over the full list if it's useful.
+
+## Deep-dive addendum (pass 2)
+_A second, deeper pass: full-site crawl, security/best-practice headers, forms, mobile-viewport accessibility, structured data, extra breakpoints, and copy._
+
+### 1. Color-contrast failures are site-wide and deeper on interior pages (worst 1.95:1), not just the home page
+- **Severity:** Low
+- **Type:** Bug (a11y)
+- **What & where:** Low-contrast muted-gray text fails WCAG AA across interior routes, worse than anything caught on the home page — `/use-cases` (74 nodes), `/pricing` (17 nodes), each `/use-cases/*` detail page (11 nodes), and `/terms` (2 nodes). Extends pass-1 #4.
+- **Evidence:** axe `color-contrast` (serious) in `dex.deep.json`: `/use-cases` count=74 at 3.02:1 (#8d8d8d on #f4f4f6); every `/use-cases/*` detail page has an 11-node violation including `.md:text-sm` at **1.95:1** (#b1b1b2 on #f4f4f6, 14px) — below any home-page node; `/pricing` count=17 down to 2.35:1 (#a1a1a1 on #f4f4f6) and 2.58:1 on #ffffff; `/terms` count=2 at 2.58:1. Pass-1 #4 reported color-contrast ONLY on home (27 nodes).
+- **Fix:** Darken the shared muted-gray tokens (#b1b1b2/#a1a1a1/#8d8d8d) to clear 4.5:1 against both #f4f4f6 and #ffffff so the fix propagates across use-cases, pricing, all detail pages, and terms.
+
+### 2. Footer copyright uses "@" instead of "©" site-wide
+- **Severity:** Low
+- **Type:** Bug (content/copy)
+- **What & where:** The shared footer copyright line reads with an "@" where the copyright symbol should be, on all 12 crawled pages — e.g. "ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact".
+- **Evidence:** The exact string "@ 2026" appears in `pages[].data.text` on all 12 pages with captured text (grep count=12); the "©" symbol is absent from the file. Not in pass-1.
+- **Fix:** Replace "@" with "©" (or `&copy;`) in the shared footer component.
+
+### 3. No structured data / JSON-LD on any page site-wide
+- **Severity:** Low
+- **Type:** Suggestion (SEO)
+- **What & where:** No page emits any JSON-LD structured data — all 13 captured pages (home, pricing, use-cases index, `/terms`, 9 use-case detail pages).
+- **Evidence:** `dex.deep.json`: `data.jsonldCount=0` and `jsonld=[]` on 13/13 pages (grep `jsonldCount:0` = 13). Pass-1 #3 only covered robots.txt/sitemap/canonical, not JSON-LD.
+- **Fix:** Add Organization/SoftwareApplication JSON-LD on home/product pages and Article/HowTo on use-case detail pages.
+
+### 4. Double-comparative "couldn't be more happier" in homepage testimonial
+- **Severity:** Low
+- **Type:** Bug (grammar/typo)
+- **What & where:** The "F Founder" testimonial on the homepage contains a double comparative — `https://www.joindex.com/`.
+- **Evidence:** Homepage `data.text` contains the exact string "couldn't be more happier" (grep confirmed, 1 occurrence); "more happier" is a double comparative.
+- **Fix:** Change to "couldn't be happier".
+
+### 5. Subjectless/dangling sentence in homepage meeting-prep copy
+- **Severity:** Low
+- **Type:** Bug (grammar)
+- **What & where:** The "Meeting prep with full context" block on the homepage has a subjectless imperative with a dangling fragment — `https://www.joindex.com/`.
+- **Evidence:** Homepage `data.text` contains the exact string "Afterwards, automatically send follow-ups using call notes, and writing tone." (grep confirmed, 1 occurrence) — subjectless with a dangling ", and writing tone" fragment.
+- **Fix:** Rewrite, e.g. "Afterwards, Dex automatically sends follow-ups using your call notes and writing tone."
+
+### 6. Missing canonical extends beyond pass-1's 3 pages to /terms and all 9 use-case detail pages
+- **Severity:** Polish
+- **Type:** Bug (SEO/canonical)
+- **What & where:** No `<link rel="canonical">` on `/terms` or the 9 `/use-cases/*` detail pages (e.g. `/use-cases/renewal-tracker`, `/use-cases/crm-update-from-calls`). Extends pass-1 #3.
+- **Evidence:** `dex.deep.json` `data.canonical=null` on 13/13 captured pages (grep count=13). Pass-1 #3 named only home, use-cases index, and pricing; this adds the /terms and detail routes.
+- **Fix:** Emit a self-referential `<link rel="canonical">` from the shared layout so every route ships one.
+
+### 7. Pricing page `<title>` is only 13 chars ("Pricing | Dex")
+- **Severity:** Polish
+- **Type:** Suggestion (SEO)
+- **What & where:** The `<title>` on the pricing page is generic and short — `https://www.joindex.com/pricing`.
+- **Evidence:** `dex.deep.json`: `data.titleLen=13` for `/pricing` (line 204), generic vs descriptive interior titles elsewhere. Not in pass-1.
+- **Fix:** Expand to a descriptive, keyword-bearing title, e.g. "Pricing — Dex, the self-driving workspace for operators".
+
+### 8. axe 'region' + landmark-one-main also fire on the Pricing interior page
+- **Severity:** Polish
+- **Type:** Bug (a11y)
+- **What & where:** Content sits outside landmarks on the pricing interior page as well as home — `https://www.joindex.com/pricing` (region count=4, landmark-one-main count=1) and home (region count=3). Extends pass-1 #4.
+- **Evidence:** `dex.deep.json`: `/pricing` axe includes `region` (moderate) count=4 and `landmark-one-main` count=1; home includes `region` count=3. Pass-1 #4 reported landmark-one-main on home only and did not mention 'region'.
+- **Fix:** Add a single `<main>` plus section/header/footer landmarks so no content sits outside a landmark, applied per-route including /pricing.

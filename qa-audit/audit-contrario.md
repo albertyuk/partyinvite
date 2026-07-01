@@ -44,3 +44,153 @@ _Outside-in review of publicly served pages, 2026-07-01. Non-intrusive: logged-o
 > I've been looking at Contrario as both a potential user and someone hoping to join the team, and I really like what you've built — the site is genuinely fast and the story is sharp. Poking around the front end, I noticed a few small accessibility things that seem worth a quick pass: a number of your icon and logo links (the header logo, the customer logos, the footer social icons) have no text label, so screen readers just announce an empty "link," and the duplicated customer-quote carousel slides are marked hidden but still catch keyboard focus. There's also some light-grey text — customer names/roles and the footer labels — that dips below the WCAG contrast minimum, plus the page is missing a `<main>` landmark. None of it is breaking anything, and they're the kind of fixes that mostly matter for candidates using assistive tech, which feels on-brand for a recruiting product. Happy to share the full list with exact selectors if it's useful.
 
 _Notes on scope: SEO is in good shape (title, meta description, canonical, Open Graph/Twitter cards, robots.txt and sitemap.xml all present). Performance is strong — real compressed page transfers are ~47 KB (home) and 40 KB or less elsewhere, with negligible layout shift (CLS 0.003). External link "failures" (Product Hunt, LinkedIn, VentureBeat) are bot-blocks/rate-limits, and the console 403/400 lines are third-party analytics beacons blocked in the capture environment — none are site bugs._
+
+## Deep-dive addendum (pass 2)
+_A second, deeper pass: full-site crawl, security/best-practice headers, forms, mobile-viewport accessibility, structured data, extra breakpoints, and copy._
+
+### 1. `aria-hidden-focus` carousel bug ships site-wide (4 interior pages, not just home)
+- **Severity:** High
+- **Type:** Suggestion (a11y) — extends pass-1 #2
+- **What & where:** The same duplicated testimonial-carousel clones flagged on home in pass-1 #2 recur on every interior page that embeds the shared carousel. — `https://www.contrario.ai/customers`, `/book-a-demo`, `/domains`, `/companies` — e.g. `li[aria-hidden="true"]:nth-child(12)`..`nth-child(16)`.
+- **Evidence:** `deep.json` per-page axe: `aria-hidden-focus` (serious) = 22 nodes on EACH of `/customers`, `/book-a-demo`, `/domains`, `/companies` — "Focusable content should have tabindex=\"-1\" or be removed from the DOM." The defect lives in the shared carousel component, so it propagates to every page embedding it.
+- **Fix:** Apply the pass-1 #2 fix (`tabindex="-1"` or remove clones from tab order) once in the shared carousel component so all pages inherit it.
+
+### 2. Interior pages have wrong `<h1>` count: 8 pages have zero, `/customers` renders 13
+- **Severity:** Medium
+- **Type:** Bug (a11y + SEO / heading structure)
+- **What & where:** Eight pages ship no `<h1>` at all, and `/customers` marks 12 stat numbers up as `<h1>`. — `h1Count==0`: `/book-a-demo`, `/referral`, `/privacy-policy`, `/terms-of-service`, `/faqs`, `/blogs/announcement/better-recruiting-built-on-contrario`, `/blogs/case-studies/listenlabs`, `/blogs/case-studies/gallium`; `h1Count==13`: `/customers`.
+- **Evidence:** `deep.json` `data.h1Count`: those 8 pages report 0 with `h1==[]` (book-a-demo headingLevels `[2,4,4,4,4]`; privacy-policy `[3,4,...]`; case studies start at `h3`), and axe `page-has-heading-one` (moderate) = 1 node `['html']` on each. `/customers` `h1` = `['Customer Stories','10+','90+ days','5 tools','100%','20+ hrs/week','4 days','80%','45 days','40%','100+ hours','4 engineers','50%']` — stat numbers as `<h1>` (axe `heading-order`=3). Pass-1 only covered h4-skips on home.
+- **Fix:** Add exactly one descriptive `<h1>` to each of the 8 pages missing it, and on `/customers` demote the 12 stat-number `<h1>`s to non-heading text, leaving only 'Customer Stories' as the H1.
+
+### 3. Privacy Policy inline links not distinguishable from body text
+- **Severity:** Medium
+- **Type:** Bug (a11y / link distinguishability)
+- **What & where:** Inline links in the policy body rely on color alone (no underline) and don't contrast enough with the surrounding text. — `https://www.contrario.ai/privacy-policy` — e.g. `[href="mailto:founders@contrario.ai"]` and the `[rel="noopener"]` policy-body links.
+- **Evidence:** `deep.json` axe `link-in-text-block` (serious) = 6 nodes, only on `/privacy-policy`. "The link has insufficient color contrast of 1.31:1 with the surrounding text" (one node 2.47:1); link color `#2f2cff`, no underline.
+- **Fix:** Underline (or otherwise non-color-distinguish) inline links in policy body text, or raise link-vs-text contrast to at least 3:1.
+
+### 4. Terms of Service section 6 heading is a copy-paste from the Privacy Policy
+- **Severity:** Medium
+- **Type:** Bug (content/copy)
+- **What & where:** The ToS section-6 heading is the Privacy Policy's section-6 title, contradicting the page's own table of contents and its subsections. — `https://www.contrario.ai/terms-of-service` — body section 6 heading, immediately before '6.1 User Submissions'.
+- **Evidence:** `deep.json` text renders '...6. California Privacy Rights 6.1 User Submissions Any content you post, upload, or share...' while the page's own TOC lists '5. Rights in the Services 6. User Content and Licensing 7. Copyright...'. The 6.1/6.2 subsections are about user content, so the section-6 title 'California Privacy Rights' is wrong.
+- **Fix:** Change the ToS section-6 heading from 'California Privacy Rights' to 'User Content and Licensing' to match its TOC and subsections.
+
+### 5. Same meta description copied across 5 pages
+- **Severity:** Medium
+- **Type:** Bug (SEO/metadata)
+- **What & where:** One generic description is served on five topically-distinct pages, including the blog index. — `https://www.contrario.ai/`, `/blogs`, `/domains`, `/referral`, `/blogs/announcement/better-recruiting-built-on-contrario` — `<meta name="description">`.
+- **Evidence:** `deep.json` `duplicates.descriptions`: 'Contrario is the AI Recruiting Platform powered by expert recruiters. Trusted by companies at every stage for their most critical hires.' (len 136) is served on exactly those 5 pages, including the blog index and the topically-distinct `/domains` and `/referral` pages.
+- **Fix:** Write a unique meta description per page (blog index, referral, domains, announcement post) reflecting each page's content.
+
+### 6. `/domains` reuses the generic homepage `<title>` (duplicate title)
+- **Severity:** Medium
+- **Type:** Bug (SEO/metadata)
+- **What & where:** `/domains` is a distinct page but carries the homepage title verbatim. — `https://www.contrario.ai/domains` — `<title>`.
+- **Evidence:** `deep.json` `duplicates.titles`: 'Contrario | AI Recruiting Platform' is shared by `['https://www.contrario.ai/','https://www.contrario.ai/domains']`. `/domains` has `h1==['Domains']`, body 'Every Contrario search is matched to domain-expert recruiters...', yet the homepage title.
+- **Fix:** Give `/domains` a unique, descriptive title such as 'Hiring Domains | Contrario'.
+
+### 7. No JSON-LD / structured data on any page (all 15)
+- **Severity:** Medium
+- **Type:** Suggestion (SEO/structured data)
+- **What & where:** No structured data anywhere on the site. — Site-wide — no `<script type="application/ld+json">` on any crawled page.
+- **Evidence:** `deep.json`: all 15 crawled pages have `data.jsonldCount==0` and `data.jsonld==[]`. No Organization, Product/Service, Article, BreadcrumbList, or FAQPage markup anywhere — cross-page confirmation of the pass-1 homepage observation.
+- **Fix:** Add Organization schema sitewide (logo, sameAs), Article schema on blog/case-study posts, and FAQPage schema on `/faqs` so search engines can surface rich results.
+
+### 8. Dead outbound customer link to gigaml.com (404 / removed Framer site)
+- **Severity:** Low
+- **Type:** Bug (broken link)
+- **What & where:** A customer-showcase link points to a removed Framer site that returns 404. — `https://www.contrario.ai/domains` — anchor `href="https://gigaml.com/"`.
+- **Evidence:** `deep.json` `links[]`: `{url:'https://gigaml.com/', fp:false, status:404, sources:['https://www.contrario.ai/domains']}`. Re-verified with curl (Chrome UA): HEAD and GET return HTTP 404 serving Framer's `<title>Site Not Found | Framer</title>` — a genuine dead link, not a bot-block. (The finance.yahoo.com article link that showed status 0 re-verified as a live 200 and is NOT a defect.)
+- **Fix:** Update or remove the gigaml.com reference(s) on `/domains` so the showcase doesn't link visitors to a 404 'Site Not Found' page.
+
+### 9. Email/name/company form fields have no `autocomplete` attribute
+- **Severity:** Low
+- **Type:** Suggestion (a11y / forms — autofill)
+- **What & where:** Real form fields are labeled but lack the `autocomplete` purpose hint (WCAG 1.3.5). — `https://www.contrario.ai/book-a-demo` (`input[type=email]` name='Work email') and `https://www.contrario.ai/referral` (`input[type=email]` name='email').
+- **Evidence:** `deep.json` `forms[]`: on both pages the visible required email input has `autocomplete=""` (should be `'email'`); First/Last Name and Company fields likewise `autocomplete=""` instead of `given-name`/`family-name`/`organization`. Fields are `labeled=true`, so this is purely the missing purpose hint. (The unlabeled inputs with `autocomplete='one-time-code'` are honeypots and correctly not reported.)
+- **Fix:** Add autocomplete tokens to the real fields: `'email'` on the email input, and `given-name`/`family-name`/`organization` on the name/company inputs.
+
+### 10. Sub-24px tap targets at mobile widths, including 20px-tall form inputs on Book-a-Demo
+- **Severity:** Low
+- **Type:** Suggestion (a11y / mobile target size)
+- **What & where:** Multiple tap targets fall below the 24px WCAG 2.5.8 floor at mobile widths, notably 20px-tall form inputs. — `https://www.contrario.ai/book-a-demo` at 320/390/414px (also home at 390px).
+- **Evidence:** `deep.json` `responsiveExtra`: book-a-demo `tinyTapCount` = 10/11/10 at 320/390/414px. At 390px: `input.framer-form-input` w=99 h=20 and w=234 h=20 (fields only 20px tall), `a.framer-15xbc7q` w=85 h=22, `a.framer-r5hy08` w=72 h=20 — all below 24px. Home `tinyTapCount` 4-5 ('Spencer Mateega' link 125x18). `overflowPx=0` everywhere (no horizontal scroll).
+- **Fix:** Raise touch-target height to at least 24px (ideally ~44px) for form inputs and icon links on small viewports via min-height/padding.
+
+### 11. Nine page titles are too short and omit the brand suffix
+- **Severity:** Low
+- **Type:** Suggestion (SEO/metadata)
+- **What & where:** Nine titles are short and lack the '| Contrario' suffix the homepage title carries. — `/faqs`(4), `/blogs`(5), `/careers`(7), `/referral`(8), `/customers`(9), `/book-a-demo`(11), `/companies`(13), `/privacy-policy`(14), `/recruiters`(14) — `<title>`.
+- **Evidence:** `deep.json` `data.titleLen`: FAQs=4, Blogs=5, Careers=7, Referral=8, Customers=9, Book a Demo=11, For Companies=13, Privacy Policy=14, For Recruiters=14 — all short and none carry the '| Contrario' suffix.
+- **Fix:** Expand each to a keyword-rich, brand-suffixed title, e.g. 'FAQs | Contrario AI Recruiting', 'Careers at Contrario', 'Customer Stories | Contrario'.
+
+### 12. ListenLabs case-study meta description exceeds the ~160-char limit
+- **Severity:** Low
+- **Type:** Bug (SEO/metadata)
+- **What & where:** The meta description runs to 204 chars and will truncate in SERP snippets. — `https://www.contrario.ai/blogs/case-studies/listenlabs` — `<meta name="description">`.
+- **Evidence:** `deep.json` `metaDescriptionLen==204`: 'Listen Labs reached a $500M valuation in January 2026. Their hiring challenge was not finding candidates. It was finding the right ones, fast, without adding noise to their existing recruiting operations.'
+- **Fix:** Trim to roughly 150-160 characters so it displays in full.
+
+### 13. Best-practice security response headers missing site-wide
+- **Severity:** Low
+- **Type:** Bug (security headers)
+- **What & where:** Common security headers are absent on all HTML responses, so pages can be framed (clickjacking) and leak full referrers. — All HTML responses (home, `/customers`, `/careers`, `/blogs`, `/book-a-demo`, `/announcement`) — top-level document response headers.
+- **Evidence:** `headers.json` `security.missing` is identical on all 6 sampled pages: content-security-policy, x-frame-options, referrer-policy, permissions-policy, cross-origin-opener-policy, x-xss-protection. Only present: `strict-transport-security: max-age=31536000` (no includeSubDomains/preload) and `x-content-type-options: nosniff`. Severity kept Low — Framer-hosted marketing site, no auth/session/cookies.
+- **Fix:** Add site-wide headers in the Framer/CDN config: Content-Security-Policy (at minimum `frame-ancestors`), `X-Frame-Options: SAMEORIGIN`, `Referrer-Policy: strict-origin-when-cross-origin`, a Permissions-Policy, and extend HSTS to `includeSubDomains; preload`.
+
+### 14. Typo 'experties' (should be 'expertise') in the For Companies search field
+- **Severity:** Low
+- **Type:** Bug (content/copy)
+- **What & where:** A search-field placeholder is misspelled. — `https://www.contrario.ai/companies` — LIVE CANDIDATES search-field placeholder.
+- **Evidence:** `deep.json` text exact string: 'LIVE CANDIDATES Search experties (e.g. Fintech, Design)'.
+- **Fix:** Correct 'Search experties' to 'Search expertise'.
+
+### 15. Customer brand 'Wispr Flow' misspelled as 'WISP FLOW' in a product mockup
+- **Severity:** Low
+- **Type:** Bug (content/copy)
+- **What & where:** The brand is dropped an 'r' in a mockup chip. — `https://www.contrario.ai/companies` — 'Admin work handled' card, product-designer chip.
+- **Evidence:** `deep.json` text exact string: 'PRODUCT DESIGNER (WISP FLOW)'. The brand is spelled 'Wispr Flow'/'WISPR FLOW' in ~12 other mentions across the site; `/companies` itself contains one correct 'Wispr Flow'.
+- **Fix:** Change 'WISP FLOW' to 'WISPR FLOW' to match the brand used everywhere else.
+
+### 16. Gallium case study contradicts itself on Carlos Libardo's name and role
+- **Severity:** Low
+- **Type:** Bug (content/copy)
+- **What & where:** The team card's name and title disagree with the rest of the page. — `https://www.contrario.ai/blogs/case-studies/gallium` — team card vs THE IMPACT section vs ROLES HIRED list.
+- **Evidence:** `deep.json` text: team list 'Jose Thomaz Founding Data Engineer Carlos Libardo Founding Data Engineer' (duplicating Jose's title), but the Impact section says 'Carlos Eduardo Libardo, Founding AI Engineer', and 'ROLES HIRED VIA CONTRARIO' lists one each Founding AI/ML/Software/Data Engineer — so the team card's name+title is inconsistent.
+- **Fix:** Relabel the team card to 'Carlos Eduardo Libardo — Founding AI Engineer' so name and role are consistent across the page.
+
+### 17. Terms of Service on-page nav mislabeled 'Privacy policy sections'
+- **Severity:** Low
+- **Type:** Bug (content/copy)
+- **What & where:** A leftover from the Privacy Policy template labels the ToS sidebar. — `https://www.contrario.ai/terms-of-service` — 'On this page' sidebar heading.
+- **Evidence:** `deep.json` text exact string: 'On this page Privacy policy sections Overview 1.1 Using Contrario...' — a leftover from the Privacy Policy template on the Terms of Service page.
+- **Fix:** Relabel the ToS on-page nav from 'Privacy policy sections' to 'Terms sections' (or similar).
+
+### 18. Gallium case-study title slightly over 60 chars
+- **Severity:** Polish
+- **Type:** Suggestion (SEO/metadata)
+- **What & where:** The title is a couple characters over the ~60-char SERP display limit. — `https://www.contrario.ai/blogs/case-studies/gallium` — `<title>`.
+- **Evidence:** `deep.json` `titleLen==62` for 'How Gallium made 4 engineering hires in 15 days with Contrario'.
+- **Fix:** Shorten, e.g. 'Gallium: 4 engineering hires in 15 days with Contrario'.
+
+### 19. Inconsistent 'K' capitalization in Careers total-comp figures
+- **Severity:** Polish
+- **Type:** Bug (content/copy)
+- **What & where:** One comp figure uses lowercase 'k' while the rest use uppercase. — `https://www.contrario.ai/careers` — Open roles list (Talent Operator row).
+- **Evidence:** `deep.json` text: 'TOTAL COMP $140K - $220K' and 'TOTAL COMP $100K - $150K' (uppercase K) vs 'TOTAL COMP $80k - $200k' (lowercase k) for the Talent Operator role.
+- **Fix:** Normalize the Talent Operator figure to '$80K - $200K'.
+
+### 20. Article title rendered with different capitalization on blog index vs article
+- **Severity:** Polish
+- **Type:** Bug (content/copy)
+- **What & where:** The announcement's title case differs between the index link and the article itself. — `https://www.contrario.ai/blogs` (link) vs the announcement article (title/H1).
+- **Evidence:** `deep.json`: blog index text contains 'Better Recruiting. Built on Contrario.' twice (title-case 'Recruiting'), while the article's own page title is 'Better recruiting. Built on Contrario.' (lowercase 'recruiting'), which also appears in the article body.
+- **Fix:** Pick one canonical capitalization and use it in both the index link and the article heading.
+
+### 21. Missing article in announcement blog: 'recognize shape of a fit'
+- **Severity:** Polish
+- **Type:** Bug (content/copy)
+- **What & where:** A dropped article in a bullet on the announcement post. — `https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario` — 'Agents learn across many company workflows' bullet list.
+- **Evidence:** `deep.json` text exact string: "Holding a company's hiring bar deeply enough to recognize shape of a fit" — a dropped article before 'shape'.
+- **Fix:** Insert the missing article: '...to recognize the shape of a fit'.

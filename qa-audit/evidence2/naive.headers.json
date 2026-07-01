@@ -1,0 +1,277 @@
+{
+  "key": "naive",
+  "name": "Naive",
+  "start": "https://usenaive.ai/",
+  "checkedAt": "2026-07-01T08:54:13.085Z",
+  "canonicalization": {
+    "httpToHttps": {
+      "status": 308,
+      "ttfbMs": 221,
+      "httpVersion": "1.1",
+      "redirectUrl": "https://usenaive.ai/",
+      "scheme": "HTTP",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "content-type": "text/plain",
+        "location": "https://usenaive.ai/",
+        "refresh": "0;url=https://usenaive.ai/",
+        "server": "Vercel",
+        "date": "Wed, 01 Jul 2026 08:54:13 GMT",
+        "transfer-encoding": "chunked"
+      },
+      "setCookies": [],
+      "redirectBlocks": 1
+    },
+    "apex": {
+      "status": 200,
+      "ttfbMs": 433,
+      "httpVersion": "2",
+      "redirectUrl": "",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "44348",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-disposition": "inline",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 01 Jul 2026 08:54:13 GMT",
+        "etag": "\"8ea3c8a50584193bcc34f4b7a0a7e67f\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-matched-path": "/",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "iad1::qgqfd-1782896053804-53773c7f9c6f",
+        "content-length": "526957"
+      },
+      "setCookies": [],
+      "redirectBlocks": 2
+    },
+    "www": {
+      "status": 307,
+      "ttfbMs": 499,
+      "httpVersion": "2",
+      "redirectUrl": "https://usenaive.ai/",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-type": "text/plain",
+        "date": "Wed, 01 Jul 2026 08:54:14 GMT",
+        "location": "https://usenaive.ai/",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "x-vercel-id": "iad1::b22vl-1782896054321-1275e27ec0d6"
+      },
+      "setCookies": [],
+      "redirectBlocks": 2
+    }
+  },
+  "pages": {
+    "https://usenaive.ai/": {
+      "status": 200,
+      "ttfbMs": 426,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    },
+    "https://usenaive.ai/solutions/agent-native-governance": {
+      "status": 200,
+      "ttfbMs": 443,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    },
+    "https://usenaive.ai/solutions/agent-native-cloud-infrastructure": {
+      "status": 200,
+      "ttfbMs": 635,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    },
+    "https://usenaive.ai/solutions/agent-native-payments": {
+      "status": 200,
+      "ttfbMs": 461,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    },
+    "https://usenaive.ai/templates": {
+      "status": 200,
+      "ttfbMs": 520,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    },
+    "https://usenaive.ai/docs": {
+      "status": 308,
+      "ttfbMs": 633,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "(none)",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000",
+          "content-security-policy": "worker-src * blob: data: 'unsafe-eval' 'unsafe-inline'; object-src data: ; base-uri 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://dashboard.",
+          "x-frame-options": "DENY"
+        },
+        "missing": [
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    },
+    "https://usenaive.ai/pricing": {
+      "status": 200,
+      "ttfbMs": 529,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    }
+  },
+  "assets": {
+    "https://usenaive.ai/_next/static/chunks/01-px06-ghit9.js?dpl=dpl_HtVjD5R2uMPyFADB4QYkfutYP1Q8": {
+      "status": 200,
+      "ttfbMs": 407,
+      "sizeKB": 85,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": true
+    },
+    "https://usenaive.ai/_next/static/chunks/0gfvws390jm4g.js?dpl=dpl_HtVjD5R2uMPyFADB4QYkfutYP1Q8": {
+      "status": 200,
+      "ttfbMs": 489,
+      "sizeKB": 138,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": true
+    }
+  },
+  "notes": []
+}

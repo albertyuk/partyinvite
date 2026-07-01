@@ -1,0 +1,3192 @@
+{
+  "key": "uplane",
+  "name": "Uplane",
+  "start": "https://uplane.com/",
+  "checkedAt": "2026-07-01T09:01:08.686Z",
+  "pages": {
+    "https://uplane.com/": {
+      "url": "https://uplane.com/",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/"
+      },
+      "data": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "metaDescriptionLen": 47,
+        "canonical": "https://uplane.com/",
+        "robotsMeta": "max-image-preview:large",
+        "lang": "en-US",
+        "viewportMeta": "width=device-width",
+        "h1": [
+          "Full funnel AI marketing automation platform"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 73,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 73,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 5,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 0,
+        "text": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Full funnel AI marketing automation platform AI should run campagins, so that marketers can run marketing. Request a Demo Explore Features Uplane equips marketing teams with the infrastructure to win in the Al era. One unified platform for market intelligence, high-velocity personalized asset production across ads and landing pages, automated testing, algorithmic campaign management, and analytics - all in real-time. Uplane helps your marketing teams go further faster. With measurable results. + 0 0 % ROAS uplift on average after using Uplane for 3 months + 0 0 % Conversion rates on average after using Uplane for 3 months - 0 0 % Production spend for performance marketing assets Access the Uplane infrastructure. Tailored offerings for Enterprises and Businesses. Licensed Enterprise Platform AI Marketing Automation for Enterprises​ Provide your marketing unit with the infrastructure to operate efficiently in the AI era. Access the technology for autonomous market intelligence, high-velocity personalized asset production across ads and landing pages, automated testing, algorithmic budget steering, and analytics​ Market Intelligence: Full access to competitor archives and performance analysis, news monitoring, and 1P customer data analytics suite Creation Suite: 100% brand compliant, hyper-personalized ads and landing pages, created with AI Campaign Management: One-click launch across multiple channels, automatic A/B testing, and 24/7 algorithmic budget management​ Deployable anywhere: Managed, own cloud, or on-premise Security: ISO27001 compliant, role-based access, brand safety rules Request a Demo View Details Managed Growth We Operate the Engine. Uplane operates as your dedicated marketing partner. We leverage our platform to engineer marketing systems, deploying and rigorously testing hundreds of ads and landing pages to maximize performance and scale. Strategic Consultation: Expert strategy to maximize marketing efficiency Content Production: hundreds of Static & Video Ads / Month Web Ops: Rapid A/B testing of landing pages and check-out systems Execution: 24/7 Budget steering, audience control, and A/B Testing through Uplane Team Request a Demo View Details “With Uplane, we’re moving from manual campaign execution to intelligent, AI-driven automation. That‘s exactly the shift a company like Deutsche Bahn needs to stay ahead” Sven Hasselmann, Chief Marketing Officer at Deutsche Bahn (Germany) Al marketing automation for the entire funnel. End-to-end. Capture the full value potential of AI​ by not just treating it as a tool, but the new default operating model 2027 AI Marketing Automation Playbook Our best practices from supporting leading companies with AI marketing rollouts – turning AI marketing automation into real business impact. Download Enterprise-grade security and compliance. Even for highly regulated industries. Details Details Details Details Details Ready to upgrade your marketing? Ready to upgrade your marketing? Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 4,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1mz8a2i > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.48 (foreground color: #6a6e76, background color: #f0f0f0, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".framer-nfsemf > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.6 (foreground color: #2476ff, background color: #f0f0f0, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                ".framer-1kgna8q > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.48 (foreground color: #6a6e76, background color: #f0f0f0, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 4,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".framer-v-18y7d98 > .framer-b2q6ti[data-framer-name=\"Container\"] > .framer-5coo5d[data-framer-name=\"Frame 460\"] > .framer-1glm8x8.framer-1erd30d[as=\"a\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                ".framer-v-1id5dws > .framer-48mali[data-framer-name=\"Container\"] > .framer-2g00wj[data-framer-name=\"Container\"] > .framer-1xk9gpk[data-framer-name=\"Frame 2147236213\"] > .framer-1r47vdf[data-framer-name=\"Frame 2147236218\"] > .framer-16kik38[data-framer-name=\"Frame 2147236216\"] > .framer-1j8w6qx.framer-1e0ezsb[as=\"a\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                ".framer-v-1id5dws > .framer-48mali[data-framer-name=\"Container\"] > .framer-2g00wj[data-framer-name=\"Container\"] > .framer-1xk9gpk[data-framer-name=\"Frame 2147236213\"] > .framer-t4j761 > .framer-1b2oj2h-container > .framer-kRqP2.framer-hp1qit[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 46,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://uplane.com/blogs": {
+      "url": "https://uplane.com/blogs",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/blogs"
+      },
+      "data": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "metaDescriptionLen": 47,
+        "canonical": "https://uplane.com/blogs",
+        "robotsMeta": "max-image-preview:large",
+        "lang": "en-US",
+        "viewportMeta": "width=device-width",
+        "h1": [
+          "Insights and resources on AI marketing automation"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 11,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 11,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 5,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 0,
+        "text": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Resources Insights and resources on AI marketing automation Explore expert takes, trends, and strategies shaping marketing’s future. 2027 AI Marketing Automation Playbook Our best practices from supporting leading companies with AI marketing rollouts – turning AI marketing automation into real business impact. Download Welcome to Uplane AI is changing marketing forever. We share our vision of the future of marketing. Read Full Blog Ready to upgrade your marketing? Ready to upgrade your marketing? Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 2,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".framer-7egjks > p[dir=\"auto\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "span > a[target=\"_blank\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.81 (foreground color: #9a9a9a, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 4,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 23,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://uplane.com/about-us": {
+      "url": "https://uplane.com/about-us",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/about-us"
+      },
+      "data": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "metaDescriptionLen": 47,
+        "canonical": "https://uplane.com/about-us",
+        "robotsMeta": "max-image-preview:large",
+        "lang": "en-US",
+        "viewportMeta": "width=device-width",
+        "h1": [
+          "Building the future of performance marketing",
+          "The reason behind our work"
+        ],
+        "h1Count": 2,
+        "headingLevels": [
+          1,
+          1,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 23,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 23,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 5,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 0,
+        "text": "Home Solutions Why Uplane Resources About Us Careers Login Get Started About Us Building the future of performance marketing AI-first approach to better, faster, and smarter marketing. Founding Story The reason behind our work We’re building Uplane to help marketing teams achieve superior results with significantly less effort, time, and ad spend. Talk to Founders Explore Features We founded Uplane because Marketing desperately needs a revolution. Marketing managers are blocked in slow and endless design cycles. New ads and new landing pages are a constant performance bottleneck. Launching and optimizing campaigns involves countless manual steps in slow and buggy ad management systems. Consumers carry the burden of receiving irrelevant ads every day, and companies even pay billions for that. With Uplane, we fundamentally want to transform the way companies approach performance marketing. Our vision is a marketing engine that operates with true autonomy. A platform that allows you to generate thousands of personalized ads and matching landing pages in seconds, launch them across channels with one click, and autonomously allocate budgets to ensure every penny is invested for maximum impact. We want to give every marketing team an engine that runs hundreds of experiments around the clock, constantly improves, and gets better with every bit of consumer feedback. Founded by a team that has lived the painful inefficiencies of manual marketing and is backed by deep expertise in product development, data analytics and AI, our mission is to give performance marketers true leverage, enabling them to achieve superior results with less effort and spend, and with a whole lot of joy. Leadership We are looking for outstanding talents who want to push the boundaries of Performance Marketing and build nothing less than the future of digital advertising. Julius Korfgen Co-Founder, CEO Lukas Vollmer Co-Founder, CTO Marvin Massih Co-Founder, COO Join Our Team Ready to upgrade your marketing? Ready to upgrade your marketing? Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 2,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".framer-7egjks > p[dir=\"auto\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "span > a[target=\"_blank\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.81 (foreground color: #9a9a9a, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 4,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 28,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://uplane.com/carrees": {
+      "url": "https://uplane.com/carrees",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://jobs.ashbyhq.com/uplane"
+      },
+      "data": {
+        "title": "Uplane Jobs",
+        "titleLen": 11,
+        "metaDescription": "Uplane Jobs",
+        "metaDescriptionLen": 11,
+        "canonical": null,
+        "robotsMeta": "all",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1, shrink-to-fit=no",
+        "h1": [
+          "Open Positions (9)"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          3,
+          3,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3,
+          2,
+          3,
+          3
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 1,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 5,
+        "twitterCount": 1,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 2,
+        "text": "Open Positions (9) Filters: Reset filters Department All Departments Business Development (2) Customer Success (5) Engineering (2) Employment Type All Employment Types Full time (8) Part time (1) Location All Locations Berlin (1) remote (5) San Francisco (5) Location Type All Location Types On-site (5) Remote (3) No filters applied Business Development Business Development Intern - San Francisco / Berlin / Remote Business Development • Berlin; remote; San Francisco • Full time • On-site €2,410 per month Part-time - Hiring Business Development • remote • Part time • Remote $16 – $18 per hour Customer Success AI Marketing Strategist - Berlin / Remote (German Speaking) Customer Success • remote • Full time • Remote €60K – €100K AI Marketing Strategist - San Francisco Customer Success • San Francisco • Full time • On-site $100K – $130K AI Marketing Strategist Intern – Berlin / Remote (German Speaking) Customer Success • remote • Full time • Remote €2,410 per month AI Marketing Strategist Intern – San Francisco Customer Success • San Francisco • Full time • On-site $4K per month Technical Solutions Engineer - Remote Customer Success • remote • Full time $40K – $70K Engineering Founding AI Engineer Engineering • San Francisco • Full time • On-site $150K – $200K • 0.5% – 1.5% Founding Engineer (Full-Stack) Engineering • San Francisco • Full time • On-site $150K – $200K • 0.5% – 1.5% Powered by Privacy PolicySecurityVulnerability Disclosure"
+      },
+      "axe": {
+        "error": "page.addScriptTag: Refused to execute inline script because it violates the following Content Security Policy directive: \"script-src 'nonce-Vv2tRSl3RRtiaha8BE5FZ6K4S-gq3CUgK7MwIbpJIUU' https://cdn.ashbyprd.com https://edge.fullstory.com https://rs.fullstory.com https://www.recaptcha.net/recaptcha/ https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://cdn.jsdelivr.net\". Either the 'unsafe-inline' keyword, a hash ('sha256-vXfafITz+kDq8fSHKsfivr8Nf+5YrhC+GO49rO4XCBA='), or a nonce ('nonce-...') is required to enable inline execution.\n"
+      }
+    },
+    "https://uplane.com/talk-to-us": {
+      "url": "https://uplane.com/talk-to-us",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/talk-to-us"
+      },
+      "data": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "metaDescriptionLen": 47,
+        "canonical": "https://uplane.com/talk-to-us",
+        "robotsMeta": "max-image-preview:large",
+        "lang": "en-US",
+        "viewportMeta": "width=device-width",
+        "h1": [
+          "Get to know Uplane"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 9,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 9,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 5,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 0,
+        "text": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Talk to us Get to know Uplane Ready to upgrade your marketing? Ready to upgrade your marketing? Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 6,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".framer-7egjks > p[dir=\"auto\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "p:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.01 (foreground color: #7d7d7d, background color: #fcfcfc, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                "p:nth-child(2) > span"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.01 (foreground color: #7d7d7d, background color: #fcfcfc, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "frame-title",
+          "impact": "serious",
+          "count": 1,
+          "help": "Frames must have an accessible name",
+          "nodes": [
+            {
+              "target": [
+                "iframe"
+              ],
+              "summary": "Fix any of the following: Element has no title attribute aria-label attribute does not exist or is empty aria-labelledby attribute does not exist, references elements that do not exist or references e"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "count": 1,
+          "help": "Links must be distinguishable without relying on color",
+          "nodes": [
+            {
+              "target": [
+                "span > a[target=\"_blank\"]"
+              ],
+              "summary": "Fix any of the following: The link has insufficient color contrast of 2.07:1 with the surrounding text. (Minimum contrast is 3:1, link text: #b8b8b8, surrounding text: #7d7d7d) The link has no styling"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 4,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 19,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://uplane.com/product": {
+      "url": "https://uplane.com/product",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/product"
+      },
+      "data": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "metaDescriptionLen": 47,
+        "canonical": "https://uplane.com/product",
+        "robotsMeta": "max-image-preview:large",
+        "lang": "en-US",
+        "viewportMeta": "width=device-width",
+        "h1": [
+          "Every feature built for real performance"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 63,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 63,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 5,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 0,
+        "text": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Explore the Platform Every feature built for real performance From research to reporting, everything you need to automate, scale, and optimize performance marketing. Talk to Founders Why Uplane Market Research Start with real-time market intelligence Analyze top-performing ads, trending topics, and competitor strategies to guide your creative direction with data. Uplane gives you instant access to insights no human team could process. Every campaign starts with an edge. Ad Creation Create, iterate, and scale high-performing ads Quickly generate ad variations tailored to your brand, product, and goals. Uplane helps you test broad concepts, discover winners fast, and scale them with hyper-personalized creatives to reduce conversion costs. Landing Pages & Lead Capture Build landing pages that convert faster Deploy custom landing pages that match each ad in seconds. Run automated A/B tests, track every interaction, and sync leads directly to your CRM. Never lose momentum in the funnel. Campaign Launch & Management Launch and manage campaigns with ease Effortlessly go live across multiple channels with brand-safe, compliant ads. Uplane adjusts your budget in real time to maximize ROI. Your money always works where it performs best. Optimization & Learning Engine Campaigns that learn and grow daily Uplane continuously improves your targeting and creatives using performance data. It automatically builds new ads, tests variations, and expands high-performing segments, all while cutting what doesn’t work. Reporting & Insights Get smarter insights without manual work Receive automated reports straight to Slack, Teams, or email. Understand what messaging drives results, and get tailored insights to refine strategy, without crunching a single number. Chat Interface Talk to Uplane like your own team Send ideas, screenshots, or questions in Slack, Teams, or WhatsApp. Watch them turn into campaigns. Uplane acts like your own strategist, analyst, and creative team, always ready to move fast. Ready to upgrade your marketing? Ready to upgrade your marketing? Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 9,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1m64y4w > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.76 (foreground color: #2476ff, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".framer-63cbhg > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.76 (foreground color: #2476ff, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".framer-a4qv7n > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.76 (foreground color: #2476ff, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 4,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 22,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://uplane.com/why-us": {
+      "url": "https://uplane.com/why-us",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/why-us"
+      },
+      "data": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "metaDescriptionLen": 47,
+        "canonical": "https://uplane.com/why-us",
+        "robotsMeta": "max-image-preview:large",
+        "lang": "en-US",
+        "viewportMeta": "width=device-width",
+        "h1": [
+          "Uplane vs Traditional Performance Marketing",
+          "Do you knowthese situations?",
+          "Your CPA goes bust again",
+          "You found a best performer",
+          "Hit every customer with the right message",
+          "Be more creative than ever",
+          "Relax on weekends",
+          "Lead Quantity Rollercoaster",
+          "Design Bottleneck",
+          "What’s MyROAS Anyway?",
+          "Win GPT Battles"
+        ],
+        "h1Count": 11,
+        "headingLevels": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 39,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 39,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 5,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 0,
+        "text": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Why Uplane Uplane vs Traditional Performance Marketing Say goodbye to delays, inefficiencies, and missed opportunities. Discover how Uplane wins, every time. Talk to Founders Explore Features A day in your life Do you know these situations? Your CPA goes bust again So, you begin creating and publishing new ads. Finding new best performers through A/B testing costs even more time and money. Instead of reacting when it’s already too late, you should be testing and iterating all the time. Talk to Founders You found a best performer Congrats. But what happens next? Scale? Yes. But how much and which channel? Uplane perfectly allocates your budget across channels and ad groups so that you reach the largest possible audience at the best price. Talk to Founders Hit every customer with the right message You know you should be tailoring your winning ads for different audiences. But the reality is that creating, tracking, and managing all those variations is impossible. Uplane not only creates personalized variations of your best ads for different audiences, but also handles campaign deployment and management across your channels for optimal conversion. Talk to Founders Be more creative than ever How do you find new ad ideas? You read through countless blogs, check ad libraries, maybe even spy on your colleagues. Uplane constantly scans the web for relevant topics, analyzes your best performing ads ever, and checks out your competitors’ marketing. Uplane means creativity at scale. Talk to Founders Relax on weekends How many times have you returned from a weekend only to find your budget was wasted on underperforming ads? Uplane automatically monitors and allocates your budget so you can finally really disconnect. Consider weekend emergency adjustments a problem of the past. Talk to Founders Lead Quantity Rollercoaster Is your lead volume a rollercoaster of highs and lows? One week the sales team has too many leads, the next they're complaining about a drought. Uplane intelligently allocates your budget to maintain a stable, predictable flow of high-quality leads. Talk to Founders Design Bottleneck Still waiting for the next alignment meeting with your design team to explain them the ad idea you had last week? With Uplane, this process takes minutes instead of days. Open the Slack app, drop your idea, and get ads created and deployed in seconds. Talk to Founders What’s My ROAS Anyway? If you don’t know your numbers, you’re flying blind. Manual tracking across channels, campaigns and countless spreadsheets is a nightmare. Let’s change that. Uplane gives you clear transparency over which creatives, channels, topics and wordings work best, all in an instant, all in one place. Talk to Founders Win GPT Battles You have a great idea. You feed it into your favourite AI-Model, but it doesn’t get it. You iterate and wait. The result is still off. Uplane is different. It’s built to understand your brand’s design, tone, and image language, delivering what you envisioned from the start. And if you have further ideas, you can fine-tune it in seconds. Talk to Founders Uplane’s Edge Summary Built to Perform. Powered by AI. Uplane doesn’t just help it works for you, 24/7. With every feature tailored to optimize performance marketing end-to-end. Constant A/B testing Budget optimization Personalized variations Trend analysis Weekend protection Lead stability Chat-based creation Real-time ROAS insights Talk to Founders Explore Features Ready to upgrade your marketing? Ready to upgrade your marketing? Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 3,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1o4zcox > p[dir=\"auto\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.76 (foreground color: #2476ff, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".framer-7egjks > p[dir=\"auto\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "span > a[target=\"_blank\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 4,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 46,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://uplane.com/enterprise-software": {
+      "url": "https://uplane.com/enterprise-software",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/enterprise-software"
+      },
+      "data": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "metaDescriptionLen": 47,
+        "canonical": "https://uplane.com/enterprise-software",
+        "robotsMeta": "max-image-preview:large",
+        "lang": "en-US",
+        "viewportMeta": "width=device-width",
+        "h1": [
+          "Marketing infrastructure for the AI era"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 79,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 79,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 5,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 0,
+        "text": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Marketing infrastructure for the AI era One unified platform for market intelligence, high-velocity personalized asset production across ads and landing pages, automated testing, algorithmic campaign management, and analytics - all in real-time. Request a Demo Explore Features Delivering marketing performance at scale. + 0 0 % Avg. ROAS uplift 0 0 K+ Assets created per day 0 0 % Time saving on campaign management How Enterprises work with Uplane to automate their marketing end-to-end. Why top performers choose Uplane Seamless integration into your tech stack Uplane integrates into the existing MarTech stack across CDP, CRM, DAM, ERP etc., regardless of vendor, architecture and data quality Custom-built solutions for each client For every enterprise client, Uplane‘s engineering team develops tailormade solutions to best fit into existing workflows and address client-specific needs and requirements Enterprise-grade security and controls Fully compliant with GDPR and CCPA, with client data models always being isolated and encrypted, and granular role-based access control (RBAC) for large teams to fit with existing approval workflows Capture the full value potential of AI​ by not just treating it as a tool, but the new default operating model 2027 AI Marketing Automation Playbook Our best practices from supporting leading companies with AI marketing rollouts – turning AI marketing automation into real business impact. Download “With Uplane, we’re moving from manual campaign execution to intelligent, AI-driven automation. That‘s exactly the shift a company like Deutsche Bahn needs to stay ahead” Sven Hasselmann, Chief Marketing Officer at Deutsche Bahn (Germany) Designed for security and compliance Brand compliance Uplane can guarantee 100% brand compliance - editable, with the right logos and fonts, and suitable for highly regulated industries such as Pharmaceuticals​ Role-based access control​ Advanced admin controls, audit logs, and granular permission management​ Data security​ Uplane stores all data according to ISO, GDPR and SOC guidelines, offers global server locations, and never trains models on customer data​ Explore our platform Market intelligence & data analytics Eliminate guesswork through 24/7 market intelligence and customer data analytics Personalized ads & landing pages production Generate (hyper-)personalized ads (static & video) and landing pages in seconds – fully editable, 100% brand compliant Algorithmic campaign management​ Automatically launch and steer campaigns across all channels and optimize for KPIs that truly matter Automated testing​ Run hundreds of A/B tests every day across assets, channels, and audiences, and re-allocate budget in real time Continuous optimization and real-time insights​ Leverage ML-enabled predictive optimization, and deliver real-time, actionable insights for marketing teams Ready to upgrade your marketing? Upgrade Your Marketing Stack. Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 2,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".framer-7egjks > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "span > a[target=\"_blank\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 4,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 31,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://uplane.com/managed-growth": {
+      "url": "https://uplane.com/managed-growth",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/managed-growth"
+      },
+      "data": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "metaDescriptionLen": 47,
+        "canonical": "https://uplane.com/managed-growth",
+        "robotsMeta": "max-image-preview:large",
+        "lang": "en-US",
+        "viewportMeta": "width=device-width",
+        "h1": [
+          "The Best Marketing Team You’ll Ever Have."
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 103,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 103,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 5,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 0,
+        "text": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Uplane Managed Growth The Best Marketing Team You’ll Ever Have. Uplane manages your entire growth operation. By combining expert strategy with our proprietary technology, we deliver the daily output of a 10+ person marketing division but faster and more efficiently. Book Intro Call Your new marketing team. Uplane Managed Growth Launch personalized marketing campaigns 10x faster and 10x more data-driven. We'll build end-2-end marketing funnels for your tailored audiences, products, or intent stages. Strategic Architecture Real-time market intelligence for optimal strategy We analyze your product lineup, unit economics, and competitive landscape to build a robust marketing foundation. Uplane’s Growth Managers design systems engineered for rapid scale and resilience across market conditions. High-Volume Asset Generation Creative production ready for scale We deploy our generative AI to produce high-performing, brand-compliant creatives at scale. Volume: Receive hundreds of static and video ads monthly uniting your brand's asset libraries and AI content. Marketing Hypotheses: Rapidly iterate on winning hooks and visual styles with our hypothesis driven approach. Compliance: Automated checks ensure brand safety before launch. High-Conversion Ecosystem End-to-End marketing funnels that convert. Deploy high-performance web assets designed to maximize average order value, conversion rates, and retention. Optimization: Custom checkout flows and frictionless lead sliders that match the ad message. Integration: Seamlessly links with your existing webshop or headless stack. Throughput: Build cohesive marketing funnels where landing pages with continuous A/B testing match exactly your ads . High-Frequency Steering Scale the right ads at the right time. End-to-end account management that scales your winners with maximum efficiency. Testing: Unlimited testing to find what works. Budgeting: AI-assisted allocation capitalizes on top performers instantly. Learning: Continuous refinement driven by real-time data and market insights. Optimization & Learning Engine Campaigns that learn and grow daily Uplane continuously improves targeting and creatives using performance data. It builds new ads, tests variations, and expands high-performing segments, all while cutting what doesn’t work. Reporting & Insights Get smarter insights without manual work. Receive reports straight to Slack, Teams, or email. Understand what messages drives results, and get tailored insights, without crunching a single number yourself. Start scaling smarter AI-powered marketing that builds, learns, and grows with you. Talk to Founders Timeline & Setup Start scaling your business within 2 weeks Our worklows make onboarding possible within a matter of days. After a custom demo, we're ready to in Understand marketing objectives. Recommended for businesses with ≥100k monthly ad spend Book now Day 01 Custom Demo See how the Uplane engine creates landing pages and ads for your brand Day 02 Kick-Off Define target KPIs and setup technical integration Day 03 Creative production. Ongoing generation of creative batches (static & video). Week 1 Instant Deployment Simultaneous launch of campaigns and associated landing pages. Week 1 Algorithmic Optimization Real-time budget shifting and pausing of underperforming assets. Week 2 Iteration Data feedback loops inform the ongoing creative production and iteration. Week 2 Book Intro Call The modern way to grow Why Uplane? Working with agencies or inhouse teams is operations heavy & often painful. Growth can also be easy and transparent. Features Asset Volume Turnaround Time Landing Pages Conversion Funnel Building Results Optimization Agency 10-20 Ads/Month Weeks Limited / Additional Cost Limited / Additional Cost Limited through creative and analytical bottlenecks Manual / Weekly Uplane Managed Service 500+ Ads / Month Days Included Included Unstoppable Growth Algorithmic / Real-time Ready to upgrade your marketing? Apply now for managed account For organizations with established ad spend seeking exponential scale. Request Consultation Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 15,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".framer-wjjdf2 > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.76 (foreground color: #2476ff, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".framer-9fxcon > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.76 (foreground color: #2476ff, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".framer-cnfa1d > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.76 (foreground color: #2476ff, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 4,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 57,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://uplane.com/privacy": {
+      "url": "https://uplane.com/privacy",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/privacy"
+      },
+      "data": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "metaDescriptionLen": 47,
+        "canonical": "https://uplane.com/privacy",
+        "robotsMeta": "noindex",
+        "lang": "en-US",
+        "viewportMeta": "width=device-width",
+        "h1": [
+          "Privacy Policy"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 9,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 9,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 5,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 0,
+        "text": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Last Updated: June 02, 2026 Privacy Policy Introduction Welcome to Uplane, Inc. (“Uplane,” “we,” “us,” or “our”). We operate a SaaS platform designed to help businesses manage their marketing efforts, including ad generation, landing page generation, and ad cost management (the “Service”). This Privacy Policy describes how Uplane collects, uses, discloses, and safeguards your information when you visit our website, uplane.com (the “Website”), and when you use our Service. This document also includes our Cookie Policy, detailing our use of cookies and similar technologies. We are committed to protecting your privacy and personal data in compliance with applicable data protection laws, including the General Data Protection Regulation (GDPR) for individuals in the European Economic Area (EEA), the United Kingdom (UK), and Switzerland, and the California Consumer Privacy Act (CCPA) as amended by the California Privacy Rights Act (CPRA) for California consumers. Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the Website or use our Service. 1) Who We Are Uplane, Inc. is an Inc. registered in Delaware, with our principal place of business at 1111B S Governors Ave STE 40514, Dover, DE 19904. For the purpose of providing our Website and Service directly to you (our customer), Uplane acts as a Data Controller over certain personal data we collect from you (e.g., your account details, billing information). When our customers use the Uplane Service to process personal data of their end-users (e.g., collecting lead data on landing pages, tracking ad performance for campaigns), Uplane typically acts as a Data Processor on behalf of our customers. In such cases, our customers are the Data Controllers and are responsible for ensuring they have the necessary legal bases and notices in place. We have separate Data Processing Agreements (DPAs) with our customers to govern these processing activities. 2) What Information We Collect About You We collect various types of information from and about you to provide and improve our Website and Service. a. Information You Voluntarily Provide to Us: When you register for an account, subscribe to our Service, contact support, or interact with our Website, you may provide us with the following personal data: Account & Contact Information: Your name, company name, email address, postal address, phone number, username, and password. Payment & Billing Information: Credit card numbers, billing address, bank account details (collected and processed by our third-party payment processors; we typically do not store full payment card details ourselves). Profile Information: Your job title, industry, and other professional details provided to customize your Uplane experience. Communications: Records of your correspondence with us, including customer support inquiries, feedback, survey responses, and interactions on social media. User-Generated Content: Any information, text, images, or other content you upload, create, or manage through the Uplane Service (e.g., ad copy, landing page content, campaign settings). b. Information We Collect Automatically: When you visit our Website or use our Service, we automatically collect certain information about your device and usage through cookies and similar technologies: Log Data: Your Internet Protocol (IP) address, browser type and version, operating system, referring/exit pages, access times, pages viewed, and the duration of your visit. Device Information: Device type, unique device identifiers, device settings, and mobile network information. Usage Data: Information about how you use our Website and Service, such as features you interact with, searches performed, marketing campaigns launched, and other activity within your Uplane account. Performance Data: Metrics related to the performance and stability of our Service to identify and resolve issues. c. Information We Collect from Third Parties: We may receive information about you from third-party sources to enhance our Service or your experience: Authentication Partners: If you choose to log in through a third-party authentication service (e.g., Google Single Sign-On), we may receive certain profile information from that service. Analytics & Advertising Partners: Data from advertising networks or analytics providers about your interactions with our ads or services. Marketing & Sales Partners: Information from partners who refer you to our Service. Integrated Platforms: When you connect third-party platforms to your Uplane account (e.g., ad platforms like Google Ads, Facebook Ads; CRM systems), we receive data from those platforms as authorized by you to provide the Service. This data, which may include ad campaign performance, ad cost data, lead data from landing pages, is processed by us on your behalf as a Data Processor. 3) How We Use Your Information We use the information we collect for various business and commercial purposes to operate, improve, and personalize our Website and Service, specifically as a Data Controller for our direct customer data: To Provide and Maintain Our Service: To register and manage your Uplane account. To process your subscriptions, payments, and deliver the features of our marketing management platform. To enable ad generation, landing page creation, ad cost tracking, and other functionalities you utilize. To provide technical support and respond to your inquiries. To Improve and Personalize Your Experience: To analyze how you use our Website and Service to identify areas for improvement. To develop new features, products, and services relevant to marketing management. To customize your Uplane dashboard and provide tailored recommendations or content. For Marketing and Advertising: To send you promotional communications, newsletters, and special offers about Uplane’s products and services, where you have opted in or where we have a legitimate interest. To conduct targeted advertising for Uplane’s own services on third-party platforms. To measure the effectiveness of our marketing campaigns. For Analytics and Research: To monitor and analyze trends, usage patterns, and activities in connection with our Service. To conduct internal research and development to enhance our platform. For Security and Fraud Prevention: To protect our Website, Service, and users from fraudulent activities, unauthorized access, and security breaches. To ensure the integrity of our platform and data. To Comply with Legal Obligations: To fulfill our legal and regulatory requirements, such as tax reporting or responding to lawful requests from public authorities. For Business Transfers: In connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company. 4) How We Share Your Information We may share your personal data with third parties in the following situations, always ensuring appropriate safeguards are in place: With Service Providers: We engage third-party companies and individuals to facilitate our Service, provide services on our behalf, perform Website-related services, or assist us in analyzing how our Service is used. These service providers act as our Data Processors and are bound by contractual obligations to protect your data and only use it for the purposes we specify. Examples include cloud hosting providers, payment processors, customer support and communication platforms, analytics providers, and email marketing and CRM providers. With Integrated Platforms (as your Processor): When you choose to connect your Uplane account with third-party advertising platforms (e.g., Google Ads, Facebook Ads), CRM systems, or other marketing tools, we will share and receive data with those platforms as instructed by you to provide the Service you configured. This is done on your behalf as a Data Processor, and your privacy settings on those platforms, as well as our Data Processing Agreements with you, will govern this. For Business Transfers: In connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company. With Affiliates: We may share your information with our current or future affiliates, in which case we will require those affiliates to honor this Privacy Policy. For Legal Reasons: We may disclose your information if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation (e.g., court order, subpoena), (ii) protect and defend our rights or property, (iii) prevent or investigate possible wrongdoing in connection with the Service, (iv) protect the personal safety of users of the Service or the public, or (v) protect against legal liability. With Your Consent: We may disclose your personal data for any other purpose with your explicit cons"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 2,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".framer-7egjks > p[dir=\"auto\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "span > a[target=\"_blank\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 4,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 19,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://uplane.com/terms-of-service": {
+      "url": "https://uplane.com/terms-of-service",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/terms-of-service"
+      },
+      "data": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "metaDescriptionLen": 47,
+        "canonical": "https://uplane.com/terms-of-service",
+        "robotsMeta": "noindex",
+        "lang": "en-US",
+        "viewportMeta": "width=device-width",
+        "h1": [
+          "Terms of Service"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 9,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 9,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 5,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 0,
+        "text": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Last Updated: June 02, 2026 Terms of Service 1. Acceptance of Terms By accessing or using uplane (the \"Service\"), a product of Uplane, Inc. (\"we,\" \"us,\" \"our,\" or the \"Company\"), you (\"you\" or \"user\") agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to all of these Terms, do not access or use the Service. 2. Description of Service Uplane is a SaaS platform designed for performance marketing (the \"Platform\"). The Service includes, but is not limited to, access to the Platform, related documentation, support, and other services we may provide. 3. User Accounts 3.1. Account Creation: To access certain features of the Service, you must register for an account. You agree to provide accurate, current, and complete information during the registration process and to update such information to keep it accurate, current, and complete. 3.2. Account Security: You are responsible for maintaining the confidentiality of your account credentials, including your password. You agree to notify us immediately of any unauthorized access to or use of your account. 3.3. Account Responsibility: You are solely responsible for all activities that occur under your account. We will not be liable for any loss or damage arising from your failure to protect your account credentials. 4. Use of Service 4.1. Acceptable Use: You agree to use the Service only for lawful purposes and in accordance with these Terms. You agree not to use the Service:In any way that violates any applicable law or regulation.To transmit, or procure the sending of, any advertising or promotional material without our prior written consent.To impersonate or attempt to impersonate us, our employees.To engage in any other conduct that restricts or inhibits anyone's use or enjoyment of the Service, or which, as determined by us, may harm us or users of the Service. 4.2. Prohibited Activities: You agree not to:Use any robot, spider, or other automatic device, process, or means to access the Service for any purpose, including monitoring or copying any of the material on the Service.Introduce any viruses, Trojan horses, worms, logic bombs, or other material that is malicious or technologically harmful.Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of the Service, the server on which the Service is stored, or any server, computer, or database connected to the Service. 5. Intellectual Property 5.1. Our Content: All content and materials available on Uplane, including but not limited to text, graphics, logos, images, and software, are protected by intellectual property rights owned by us or our licensors. 5.2. Your Content: You retain ownership of any content you submit, post, or display on or through the Service. By submitting, posting, or displaying content, you grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, adapt, publish, and distribute such content in connection with the Service. 6. Fees and Payments 6.1. Subscription Fees: Access to certain features of the Service may require a subscription fee. You agree to pay all applicable fees in accordance with the pricing and payment terms presented to you. 6.2. Payment Information: You agree to provide accurate and complete payment information. You authorize us to charge your chosen payment method for all applicable fees. 6.3. Refunds: All fees are non-refundable unless otherwise stated in our refund policy. 7. Limitation of Liability TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, UPLANE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICE; (B) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICE; OR (C) UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT. 8. Disclaimer of Warranty THE SERVICE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS. WE DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. 9. Termination We may terminate or suspend your account and access to the Service at any time, without prior notice or liability, for any reason whatsoever, including without limitation if you breach these Terms. 10. Governing Law These Terms shall be governed by and construed in accordance with the laws of the State of Delaware, United States, without regard to its conflict of law provisions. 11. Changes to Terms We reserve the right to modify or replace these Terms at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion. 12. Contact Information If you have any questions about these Terms, please contact us at contact@uplane.com. Company Information: Uplane, Inc. 500 Sansome St, STE 410, San Francisco, CA 94111 Ready to upgrade your marketing? Ready to upgrade your marketing? Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 2,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".framer-7egjks > p[dir=\"auto\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "span > a[target=\"_blank\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 4,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 19,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://uplane.com/blogs/welcome-to-uplane": {
+      "url": "https://uplane.com/blogs/welcome-to-uplane",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/blogs/welcome-to-uplane"
+      },
+      "data": {
+        "title": "Welcome to Uplane - Uplane",
+        "titleLen": 26,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "metaDescriptionLen": 47,
+        "canonical": "https://uplane.com/blogs/welcome-to-uplane",
+        "robotsMeta": "max-image-preview:large",
+        "lang": "en-US",
+        "viewportMeta": "width=device-width",
+        "h1": [],
+        "h1Count": 0,
+        "headingLevels": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 9,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 9,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 5,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 0,
+        "text": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Back Performance Marketing Welcome to Uplane AI is changing marketing forever. We share our vision of the future of marketing. Welcome to Uplane If you haven’t noticed, AI is changing marketing forever. It’s becoming hyper-relevant, hyper-fast, and hyper-precise. We see it every day as consumers: the perfect show Netflix suggests, the custom playlist Spotify builds just for us. We're getting used to this level of personalization, and soon, we'll expect it from every brand we interact with. But for the teams behind those brands, meeting that expectation feels nearly impossible. They're stuck battling: Manual, time-consuming design processes Clunky dependencies on tech teams Buggy and inefficient ad management tools This makes it unfeasible to create and launch the sheer volume and quality of content that modern marketing demands. The Real Reason Your Ads Aren't Working For decades, marketing has been trapped by a painful paradox. The technology to reach the right person, at the right time, on the right channel is already here. The real challenge, the one draining budgets and stalling growth, is having the perfect creative to show them. This isn't a small problem. According to a Nielsen study, creative quality is responsible for 47% of an ad's contribution to sales. Think about that. The creative is more important than targeting, reach, and brand combined. This leaves even the best marketers in a constant state of compromise. They’re forced to run generic campaigns for specific audiences, wasting billions on ads that fail to connect. This creative bottleneck is the wall standing between every company and its true potential. What if you could finally break through? From Broadcast to AI: The Final Stage of Marketing Marketing has evolved in distinct stages: The Broadcast Era: One message for everyone. Radio, TV, and print blanketed the masses with the same story. The Digital Era: Targeted audiences, but generic creative. Platforms like Meta and Google let us find the right people, but not speak to them in a truly personal way. The AI Era: Hyper-personalized marketing at scale. Now, creative and targeting finally merge. Every individual can see the message that resonates most with them, delivered at the perfect moment. We are entering the final stage of marketing. And this is exactly where Uplane comes in. Uplane: Your Autonomous Growth Engine We are building the future of marketing by transforming your biggest bottleneck into your most powerful competitive advantage. Our platform functions like a full-stack marketing team with unlimited resources for creativity and precision. Here’s how it works: It Analyzes: Uplane’s AI decodes what truly drives performance, analyzing thousands of variables from competitor campaigns, viral trends, and your own real-time data. It Creates: It then generates hundreds of ad variations with perfectly matched landing pages each tailored to a specific audience and channel. It Optimizes: Uplane deploys these assets, measures every interaction, and automatically reallocates your budget to the winning combinations, ensuring every dollar is invested for maximum impact. Uplane eliminates guesswork with data, and makes on-brand content production lightning fast. Instead of testing one ad at a time, now, marketers test tens or even hundreds of ads and landing pages simultaneously, leading to real, measurable business impact. With Uplane, marketing is finally fun again Beyond saving billions in ad spend, Uplane gives marketers back the part of their job they love most. Instead of being trapped in endless design cycles and struggling with unreliable tools, marketers can finally: Bring brilliant ideas to life in seconds. Ship their ideas to consumers lightning-fast, on the right channel, at the right time. Truly understand and connect with their audiences. With Uplane, marketing is finally fun again. It's creative, fast, and endlessly impactful. Are you curious to see how it could work for your brand? Book Your Demo Now Ready to upgrade your marketing? Ready to upgrade your marketing? Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 3,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".framer-53k0nw > p[dir=\"auto\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.76 (foreground color: #2476ff, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".framer-7egjks > p[dir=\"auto\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "span > a[target=\"_blank\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 4,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "page-has-heading-one",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Page should contain a level-one heading",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Page must have a level-one heading"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 21,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "url": "https://uplane.com/",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://uplane.com/why-us",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/why-us",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://uplane.com/blogs",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/blogs",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://uplane.com/about-us",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/about-us",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://uplane.com/carrees",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/carrees",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://app.uplane.com/",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://app.uplane.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://uplane.com/talk-to-us",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/talk-to-us",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://uplane.com/enterprise-software",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/enterprise-software",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/enterprise-software"
+      ]
+    },
+    {
+      "url": "https://uplane.com/managed-growth",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/managed-growth",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/"
+      ]
+    },
+    {
+      "url": "https://uplane.com/product",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/product",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://uplane.com/privacy",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/privacy",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://uplane.com/terms-of-service",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/terms-of-service",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://uplane.com/blogs/welcome-to-uplane",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/blogs/welcome-to-uplane",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/blogs"
+      ]
+    },
+    {
+      "url": "http://uplane.com/",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/privacy"
+      ]
+    },
+    {
+      "url": "https://www.iso.org/standard/27001",
+      "fp": false,
+      "status": 403,
+      "finalUrl": "https://www.iso.org/standard/27001",
+      "method": "GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/"
+      ]
+    },
+    {
+      "url": "https://commission.europa.eu/law/law-topic/data-protection_en",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://commission.europa.eu/law/law-topic/data-protection_en",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/"
+      ]
+    },
+    {
+      "url": "https://x.com/uplane_com",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://x.com/uplane_com",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/company/company-uplane/",
+      "fp": false,
+      "status": 429,
+      "finalUrl": "https://www.linkedin.com/company/company-uplane/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.useparallel.com/uplane1/careers",
+      "fp": false,
+      "status": 302,
+      "finalUrl": "https://www.useparallel.com/company/undefined",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.framer.com/legal/policy/",
+      "fp": false,
+      "status": 308,
+      "finalUrl": "https://www.framer.com/legal/cookie-policy/",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/julius-koerfgen/",
+      "fp": false,
+      "status": 429,
+      "finalUrl": "https://www.linkedin.com/in/julius-koerfgen/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/lukasvollmer/",
+      "fp": false,
+      "status": 429,
+      "finalUrl": "https://www.linkedin.com/in/lukasvollmer/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/marvinabdel-massih/",
+      "fp": false,
+      "status": 429,
+      "finalUrl": "https://www.linkedin.com/in/marvinabdel-massih/",
+      "method": "GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/about-us"
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/e430a9f5-e324-4204-913e-d4d7bf1afb51",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/e430a9f5-e324-4204-913e-d4d7bf1afb51",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/0988c025-3862-4e2e-b0a8-e6f31a72dfc0",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/0988c025-3862-4e2e-b0a8-e6f31a72dfc0",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/14af59ec-6dd0-4d32-a7d7-8506ba93d5a0",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/14af59ec-6dd0-4d32-a7d7-8506ba93d5a0",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/7c2e963a-01bb-4007-8b66-4e46521049f4",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/7c2e963a-01bb-4007-8b66-4e46521049f4",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/49df14a1-3321-4e82-b85f-d0ecc51ef982",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/49df14a1-3321-4e82-b85f-d0ecc51ef982",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/81f8563e-1159-4600-9167-99279b570e05",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/81f8563e-1159-4600-9167-99279b570e05",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/f72fcc23-0942-4ad1-aec0-8c76abc62fbc",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/f72fcc23-0942-4ad1-aec0-8c76abc62fbc",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/4d643fab-1e42-4f07-b28a-d3a2ec181bc5",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/4d643fab-1e42-4f07-b28a-d3a2ec181bc5",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ]
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/b50101d1-f522-4437-8aa4-89e0f50b6927",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/b50101d1-f522-4437-8aa4-89e0f50b6927",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ]
+    },
+    {
+      "url": "https://www.ashbyhq.com/",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ashbyhq.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ]
+    },
+    {
+      "url": "https://www.ashbyhq.com/privacy",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ashbyhq.com/resources/privacy",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ]
+    },
+    {
+      "url": "https://www.ashbyhq.com/security",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ashbyhq.com/resources/security",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ]
+    },
+    {
+      "url": "https://www.ashbyhq.com/disclosure",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ashbyhq.com/resources/vulnerability-disclosure",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ]
+    },
+    {
+      "url": "http://aboutcookies.org/",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.aboutcookies.org/",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/privacy"
+      ]
+    },
+    {
+      "url": "http://allaboutcookies.org/",
+      "fp": false,
+      "status": 403,
+      "finalUrl": "https://allaboutcookies.org/",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/privacy"
+      ]
+    },
+    {
+      "url": "http://optout.networkadvertising.org/",
+      "fp": false,
+      "status": 301,
+      "finalUrl": "https://optout.networkadvertising.org/",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/privacy"
+      ]
+    },
+    {
+      "url": "http://optout.aboutads.info/",
+      "fp": false,
+      "status": 429,
+      "finalUrl": "https://optout.aboutads.info/",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/privacy"
+      ]
+    },
+    {
+      "url": "https://edpb.europa.eu/about-edpb/about-edpb/members_en",
+      "fp": false,
+      "status": 301,
+      "finalUrl": "https://www.edpb.europa.eu/about-edpb/about-edpb/members_en",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/privacy"
+      ]
+    },
+    {
+      "url": "https://oag.ca.gov/privacy/ccpa",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://oag.ca.gov/privacy/ccpa",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/privacy"
+      ]
+    }
+  ],
+  "forms": [],
+  "thirdParty": [
+    {
+      "host": "framerusercontent.com",
+      "requests": 710
+    },
+    {
+      "host": "app.framerstatic.com",
+      "requests": 85
+    },
+    {
+      "host": "framer.com",
+      "requests": 76
+    },
+    {
+      "host": "us-assets.i.posthog.com",
+      "requests": 49
+    },
+    {
+      "host": "events.framer.com",
+      "requests": 44
+    },
+    {
+      "host": "embed.fillout.com",
+      "requests": 36
+    },
+    {
+      "host": "fonts.gstatic.com",
+      "requests": 16
+    },
+    {
+      "host": "api.framer.com",
+      "requests": 14
+    },
+    {
+      "host": "cdn.ashbyprd.com",
+      "requests": 14
+    },
+    {
+      "host": "unpkg.com",
+      "requests": 6
+    },
+    {
+      "host": "jobs.ashbyhq.com",
+      "requests": 6
+    },
+    {
+      "host": "app.ashbyhq.com",
+      "requests": 4
+    },
+    {
+      "host": "sentry.io",
+      "requests": 2
+    },
+    {
+      "host": "cdn.jsdelivr.net",
+      "requests": 1
+    },
+    {
+      "host": "server.fillout.com",
+      "requests": 1
+    }
+  ],
+  "mobileAxe": {
+    "https://uplane.com/": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 9,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".framer-1mz8a2i > p"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 4.48 (foreground color: #6a6e76, background color: #f0f0f0, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+          },
+          {
+            "target": [
+              ".framer-nfsemf > p"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.6 (foreground color: #2476ff, background color: #f0f0f0, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              ".framer-1kgna8q > p"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 4.48 (foreground color: #6a6e76, background color: #f0f0f0, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+          }
+        ]
+      },
+      {
+        "id": "landmark-one-main",
+        "impact": "moderate",
+        "count": 1,
+        "help": "Document should have one main landmark",
+        "nodes": [
+          {
+            "target": [
+              "html"
+            ],
+            "summary": "Fix all of the following: Document does not have a main landmark"
+          }
+        ]
+      },
+      {
+        "id": "link-name",
+        "impact": "serious",
+        "count": 4,
+        "help": "Links must have discernible text",
+        "nodes": [
+          {
+            "target": [
+              ".framer-1glm8x8"
+            ],
+            "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+          },
+          {
+            "target": [
+              ".framer-1j8w6qx"
+            ],
+            "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+          },
+          {
+            "target": [
+              "a[href$=\"uplane_com\"]"
+            ],
+            "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+          }
+        ]
+      },
+      {
+        "id": "region",
+        "impact": "moderate",
+        "count": 31,
+        "help": "All page content should be contained by landmarks",
+        "nodes": [
+          {
+            "target": [
+              ".framer-t1pqxh"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          },
+          {
+            "target": [
+              ".framer-1cl9iui-container"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          },
+          {
+            "target": [
+              ".framer-c2fb1m-container > .framer-v-zh0c51.framer-3v8Ko[href$=\"talk-to-us\"] > .framer-1342lba[data-framer-name=\"Get Started\"][data-framer-component-type=\"RichTextContainer\"]"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "https://uplane.com/blogs": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 2,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".framer-7egjks > p[dir=\"auto\"]"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              "span > a[target=\"_blank\"]"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+          }
+        ]
+      },
+      {
+        "id": "link-name",
+        "impact": "serious",
+        "count": 4,
+        "help": "Links must have discernible text",
+        "nodes": [
+          {
+            "target": [
+              ".framer-1glm8x8"
+            ],
+            "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+          },
+          {
+            "target": [
+              ".framer-1j8w6qx"
+            ],
+            "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+          },
+          {
+            "target": [
+              "a[href$=\"uplane_com\"]"
+            ],
+            "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+          }
+        ]
+      }
+    ],
+    "https://uplane.com/about-us": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 2,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".framer-7egjks > p[dir=\"auto\"]"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              "span > a[target=\"_blank\"]"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+          }
+        ]
+      },
+      {
+        "id": "link-name",
+        "impact": "serious",
+        "count": 4,
+        "help": "Links must have discernible text",
+        "nodes": [
+          {
+            "target": [
+              ".framer-1glm8x8"
+            ],
+            "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+          },
+          {
+            "target": [
+              ".framer-1j8w6qx"
+            ],
+            "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+          },
+          {
+            "target": [
+              "a[href$=\"uplane_com\"]"
+            ],
+            "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+          }
+        ]
+      }
+    ],
+    "https://uplane.com/carrees": {
+      "error": "page.addScriptTag: Refused to execute inline script because it violates the following Content Security Policy directive: \"script-src 'nonce-Vv2tRSl3RRtiaha8BE5FZ6K4S-gq3CUgK7MwIbpJIUU' https://cdn.ashbyprd.com https://edge.fullstory.com https://rs.fullstory.com https://www.recaptcha.net/recaptcha/ https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://cdn.jsdelivr.net\". Either the 'unsafe-inline' keyword, a hash ('sha256-vXfafITz+kDq8fSHKsfivr8Nf+5YrhC+GO49rO4XCBA='), or a nonce ('nonce-...') is required to enable inline execution.\n"
+    }
+  },
+  "responsiveExtra": {
+    "https://uplane.com/": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 14,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Details",
+            "w": 45,
+            "h": 15,
+            "cls": "framer-text framer-styles-preset-cxt4um"
+          },
+          {
+            "tag": "a",
+            "text": "Details",
+            "w": 45,
+            "h": 15,
+            "cls": "framer-text framer-styles-preset-cxt4um"
+          },
+          {
+            "tag": "a",
+            "text": "Solutions",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Why Uplane",
+            "w": 87,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "About Us",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Resources",
+            "w": 75,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 58,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Market Research",
+            "w": 124,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Ad Creation",
+            "w": 89,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Chat Interface",
+            "w": 106,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 15,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Details",
+            "w": 45,
+            "h": 15,
+            "cls": "framer-text framer-styles-preset-cxt4um"
+          },
+          {
+            "tag": "a",
+            "text": "Details",
+            "w": 45,
+            "h": 15,
+            "cls": "framer-text framer-styles-preset-cxt4um"
+          },
+          {
+            "tag": "a",
+            "text": "Solutions",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Why Uplane",
+            "w": 87,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "About Us",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Resources",
+            "w": 75,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 58,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Market Research",
+            "w": 124,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Ad Creation",
+            "w": 89,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Reporting & Insights",
+            "w": 146,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 15,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Details",
+            "w": 45,
+            "h": 15,
+            "cls": "framer-text framer-styles-preset-cxt4um"
+          },
+          {
+            "tag": "a",
+            "text": "Details",
+            "w": 45,
+            "h": 15,
+            "cls": "framer-text framer-styles-preset-cxt4um"
+          },
+          {
+            "tag": "a",
+            "text": "Solutions",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Why Uplane",
+            "w": 87,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "About Us",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Resources",
+            "w": 75,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 58,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Market Research",
+            "w": 124,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Ad Creation",
+            "w": 89,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Reporting & Insights",
+            "w": 146,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          }
+        ]
+      }
+    ],
+    "https://uplane.com/blogs": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 12,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Solutions",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Why Uplane",
+            "w": 87,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "About Us",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Resources",
+            "w": 75,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 58,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Market Research",
+            "w": 124,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Ad Creation",
+            "w": 89,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Chat Interface",
+            "w": 106,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 108,
+            "h": 19,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "button",
+            "text": "Cookie's",
+            "w": 63,
+            "h": 16,
+            "cls": "__framer-cookie-component-button"
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 13,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Solutions",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Why Uplane",
+            "w": 87,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "About Us",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Resources",
+            "w": 75,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 58,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Market Research",
+            "w": 124,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Ad Creation",
+            "w": 89,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Reporting & Insights",
+            "w": 146,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Chat Interface",
+            "w": 106,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 108,
+            "h": 19,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 13,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Solutions",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Why Uplane",
+            "w": 87,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "About Us",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Resources",
+            "w": 75,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 58,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Market Research",
+            "w": 124,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Ad Creation",
+            "w": 89,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Reporting & Insights",
+            "w": 146,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Chat Interface",
+            "w": 106,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 108,
+            "h": 19,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          }
+        ]
+      }
+    ],
+    "https://uplane.com/about-us": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 12,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Solutions",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Why Uplane",
+            "w": 87,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "About Us",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Resources",
+            "w": 75,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 58,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Market Research",
+            "w": 124,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Ad Creation",
+            "w": 89,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Chat Interface",
+            "w": 106,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 108,
+            "h": 19,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "button",
+            "text": "Cookie's",
+            "w": 63,
+            "h": 16,
+            "cls": "__framer-cookie-component-button"
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 13,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Solutions",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Why Uplane",
+            "w": 87,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "About Us",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Resources",
+            "w": 75,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 58,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Market Research",
+            "w": 124,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Ad Creation",
+            "w": 89,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Reporting & Insights",
+            "w": 146,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Chat Interface",
+            "w": 106,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 108,
+            "h": 19,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 13,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Solutions",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Why Uplane",
+            "w": 87,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "About Us",
+            "w": 68,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Resources",
+            "w": 75,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 58,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Market Research",
+            "w": 124,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Ad Creation",
+            "w": 89,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Reporting & Insights",
+            "w": 146,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Chat Interface",
+            "w": 106,
+            "h": 18,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 108,
+            "h": 19,
+            "cls": "framer-text framer-styles-preset-9e88d3"
+          }
+        ]
+      }
+    ],
+    "https://uplane.com/carrees": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 5,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "",
+            "w": 208,
+            "h": 21,
+            "cls": "_navLogoLink_5bhg5_95"
+          },
+          {
+            "tag": "a",
+            "text": "Powered by Ashby",
+            "w": 114,
+            "h": 18,
+            "cls": "_powered_1jx4x_58"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 135,
+            "h": 18,
+            "cls": "_link_1jx4x_78"
+          },
+          {
+            "tag": "a",
+            "text": "Security",
+            "w": 135,
+            "h": 18,
+            "cls": "_link_1jx4x_78"
+          },
+          {
+            "tag": "a",
+            "text": "Vulnerability Disclosure",
+            "w": 135,
+            "h": 18,
+            "cls": "_link_1jx4x_78"
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 5,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "",
+            "w": 208,
+            "h": 21,
+            "cls": "_navLogoLink_5bhg5_95"
+          },
+          {
+            "tag": "a",
+            "text": "Powered by Ashby",
+            "w": 114,
+            "h": 18,
+            "cls": "_powered_1jx4x_58"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 135,
+            "h": 18,
+            "cls": "_link_1jx4x_78"
+          },
+          {
+            "tag": "a",
+            "text": "Security",
+            "w": 135,
+            "h": 18,
+            "cls": "_link_1jx4x_78"
+          },
+          {
+            "tag": "a",
+            "text": "Vulnerability Disclosure",
+            "w": 135,
+            "h": 18,
+            "cls": "_link_1jx4x_78"
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 5,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "",
+            "w": 208,
+            "h": 21,
+            "cls": "_navLogoLink_5bhg5_95"
+          },
+          {
+            "tag": "a",
+            "text": "Powered by Ashby",
+            "w": 114,
+            "h": 18,
+            "cls": "_powered_1jx4x_58"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 135,
+            "h": 18,
+            "cls": "_link_1jx4x_78"
+          },
+          {
+            "tag": "a",
+            "text": "Security",
+            "w": 135,
+            "h": 18,
+            "cls": "_link_1jx4x_78"
+          },
+          {
+            "tag": "a",
+            "text": "Vulnerability Disclosure",
+            "w": 135,
+            "h": 18,
+            "cls": "_link_1jx4x_78"
+          }
+        ]
+      }
+    ]
+  },
+  "duplicates": {
+    "titles": [
+      {
+        "title": "Uplane",
+        "pages": [
+          "https://uplane.com/",
+          "https://uplane.com/blogs",
+          "https://uplane.com/about-us",
+          "https://uplane.com/talk-to-us",
+          "https://uplane.com/product",
+          "https://uplane.com/why-us",
+          "https://uplane.com/enterprise-software",
+          "https://uplane.com/managed-growth",
+          "https://uplane.com/privacy",
+          "https://uplane.com/terms-of-service"
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "desc": "Next-gen performance marketing for your company",
+        "pages": [
+          "https://uplane.com/",
+          "https://uplane.com/blogs",
+          "https://uplane.com/about-us",
+          "https://uplane.com/talk-to-us",
+          "https://uplane.com/product",
+          "https://uplane.com/why-us",
+          "https://uplane.com/enterprise-software",
+          "https://uplane.com/managed-growth",
+          "https://uplane.com/privacy",
+          "https://uplane.com/terms-of-service",
+          "https://uplane.com/blogs/welcome-to-uplane"
+        ]
+      }
+    ]
+  },
+  "linkStats": {
+    "fpDiscovered": 14,
+    "extDiscovered": 28,
+    "fpChecked": 14,
+    "extChecked": 28
+  },
+  "requestTotal": 1090,
+  "mixedContent": []
+}

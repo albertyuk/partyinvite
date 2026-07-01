@@ -1,0 +1,3427 @@
+{
+  "key": "flick",
+  "name": "Flick",
+  "start": "https://flick.art/",
+  "checkedAt": "2026-07-01T08:56:08.967Z",
+  "pages": {
+    "https://flick.art/": {
+      "url": "https://flick.art/",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/"
+      },
+      "data": {
+        "title": "Flick — AI Filmmaking Studio | We handle AI. You direct stories.",
+        "titleLen": 64,
+        "metaDescription": "Direct short films with AI. Flick is an AI filmmaking studio for cinematic stories — consistent characters, coherent scenes, and end-to-end creative control.",
+        "metaDescriptionLen": 157,
+        "canonical": "https://flick.art/",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "h1": [],
+        "h1Count": 0,
+        "headingLevels": [],
+        "headingHierarchyOk": true,
+        "imgTotal": 0,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "unknown"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 6,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 3,
+        "text": ""
+      },
+      "axe": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "count": 1,
+          "help": "ARIA hidden element must not be focusable or contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                ".gap-x-10.sm\\:gap-x-14.md\\:gap-x-16:nth-child(2)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 22,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".sm\\:mb-12"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.53 (foreground color: #8e8784, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                ".sm\\:text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.53 (foreground color: #8e8784, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".hover\\:opacity-80.leading-none[href$=\"pricing\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.53 (foreground color: #8e8784, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 22,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                "h1"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".md\\:text-lg"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".text-2xl"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://flick.art/pricing": {
+      "url": "https://flick.art/pricing",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/pricing"
+      },
+      "data": {
+        "title": "Pricing — Flick AI Filmmaking Studio",
+        "titleLen": 36,
+        "metaDescription": "Compare Flick plans and pricing. Start creating AI films for free, then upgrade for more credits, higher-quality renders, and pro filmmaking tools.",
+        "metaDescriptionLen": 147,
+        "canonical": "https://flick.art/pricing",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "h1": [
+          "Get started with the plan that fits you"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          3,
+          3,
+          3,
+          3,
+          3,
+          4,
+          3,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": false,
+        "imgTotal": 6,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 3,
+        "jsonld": [
+          "unknown"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 6,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 3,
+        "text": "CONTACT US GET STARTED FLICK TV PRICING COMMUNITY RESOURCES English Get started with the plan that fits you 300 starter credits + 100 weekly credits TRY FOR FREE Monthly Annually · Save 20% Casual Start creating for just the cost of a coffee. $ 4 /month, billed yearly Shared across your whole team 500 credits / month Up to ~500 images or ~2min video / month Basic & Auto models 100K+ classic film scenes for inspiration 1000+ Style Presets Unlimited AI Chat Get Casual Standard For serious creators $ 16 /month, billed yearly Shared across your whole team 2500 credits / month Up to ~2,500 images or ~10min video / month Everything in Casual All model access Multi-reference video generation Character reference Get Standard Pro BEST VALUE For professional teams $ 45 /month, billed yearly Shared across your whole team Limited time offer 8000 credits / month Up to ~8,000 images or ~33min video / month Everything in Standard Priority support Get Pro Studio Custom pricing & workflows $ 100 /month, billed yearly Shared across your whole team 20,000 credits / month Unlimited customizable credits 20,000 credits / mo Up to ~20,000 images or ~83min video / month Everything in Pro Private founders support Get Studio See all features Enterprise solution GET DEMO Our Enterprise plan contains everything in Studio plus: Custom credit allocation Premium founders support on Slack Custom model training FEATURES FREE CASUAL STANDARD PRO STUDIO Credits / month 100 500 2,500 8,000 20,000+ Team members Image models Limited Limited Video models Limited Limited Audio models Character reference Multi-reference video Motion control Character dialogue AI Chat Style Presets Film Inspirations Model Pricing All models are available on every plan. Credits are deducted per generation. All Image Video Image Models Model Generation Time Cost Per 1000 credits Auto ~30s 2 credits 500 generations Flick ~15s 8 credits 125 generations Flux 2 Dev ~7s 3 credits 333 generations GPT Image 2 ~2m 8-132 credits 7 – 125 generations Grok Imagine ~7s 4 credits 250 generations Grok Imagine ~10s 4 credits 250 generations Kling Image V3 ~40s 6 credits 166 generations Midjourney ~40s 10 credits 100 generations Nano Banana ~13s 8 credits 125 generations Nano Banana 2 ~55s 20-40 credits 25 – 50 generations Nano Banana Pro ~45s 30-60 credits 16 – 33 generations Recraft V3 ~30s 8 credits 125 generations Riverflow 2.0 Fast ~45s 4-8 credits 125 – 250 generations Riverflow 2.0 Pro ~120s 30-66 credits 15 – 33 generations Seedream 4.5 ~35s 10-20 credits 50 – 100 generations Seedream 5.0 Lite ~40s 7 credits 142 generations Wan 2.7 ~25s 6 credits 166 generations Z-Image Turbo ~4s 1-4 credits 250 – 1,000 generations Video Models Model Generation Time Cost Per 1000 credits Auto ~30s 12-160 credits 6 – 83 generations Grok Imagine 1.5 ~55s 64-240 credits 4 – 15 generations Happy Horse 1.0 ~3m 84-840 credits 1 – 11 generations Kling 2.6 Pro ~120s 70-280 credits 3 – 14 generations Kling 3.0 ~2m 168-756 credits 1 – 5 generations Kling 3.0 4K ~3m 198-990 credits 1 – 5 generations Kling 3.0 Pro ~3m 224-1008 credits 0 – 4 generations Kling AI Avatar v2 ~3m 11/s 90 generations Kling AI Avatar v2 Pro ~5m 23/s 43 generations Kling O3 ~2m 168-670 credits 1 – 5 generations Kling O3 Pro ~3m 224-840 credits 1 – 4 generations Pruna Draft ~10s 3-40 credits 25 – 333 generations Seedance 1.5 Pro ~90s 19-281 credits 3 – 52 generations Seedance 2.0 ~3m 193-4657 credits 0 – 5 generations Seedance Lite ~50s 10-194 credits 5 – 100 generations Seedance Pro ~70s 18-298 credits 3 – 55 generations Veo 3.1 ~2m 160-1280 credits 0 – 6 generations Veo 3.1 Fast ~100s 80-720 credits 1 – 12 generations Wan 2.6 ~90s 101-450 credits 2 – 9 generations * Costs may vary based on resolution, duration, and other settings. Range shown represents minimum to maximum cost. We Handle AI, You Direct Films RESOURCES PRICING BLOG DOCS COMPARISONS AI TOOLS COMMUNITY FILMMAKER RESIDENCY CREATIVE PARTNERS MIT AI FILM HACK COMPANY ABOUT CAREERS PRIVACY POLICY TERMS OF USE SOCIAL DISCORD X (TWITTER) YOUTUBE LINKEDIN INSTAGRAM TIKTOK REDDIT © 2026 FLICKART, Inc. English 简体中文 繁體中文 日本語 한국어 Français Deutsch Español Italiano Português (Brasil)"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 35,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".text-\\[12px\\].text-text-color-secondary"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                ".font-medium.py-1.rounded-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.03 (foreground color: #fffffe, background color: #f9634e, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                ".hover\\:text-text-color.transition-colors.items-center"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "empty-table-header",
+          "impact": "minor",
+          "count": 4,
+          "help": "Table header text should not be empty",
+          "nodes": [
+            {
+              "target": [
+                "div:nth-child(5) > .mb-10 > .md\\:block.hidden > .border-collapse > thead > .border-color-border-full.border-b > th:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Element does not have text that is visible to screen readers"
+            },
+            {
+              "target": [
+                "div:nth-child(5) > .mb-10 > .md\\:block.hidden > .border-collapse > thead > .border-color-border-full.border-b > th:nth-child(5)"
+              ],
+              "summary": "Fix any of the following: Element does not have text that is visible to screen readers"
+            },
+            {
+              "target": [
+                "div:nth-child(6) > .mb-10 > .md\\:block.hidden > .border-collapse > thead > .border-color-border-full.border-b > th:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Element does not have text that is visible to screen readers"
+            }
+          ]
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Heading levels should only increase by one",
+          "nodes": [
+            {
+              "target": [
+                "div[data-testid=\"plan-card-casual\"] > .min-h-\\[170px\\].mb-3 > .text-lg.mb-2"
+              ],
+              "summary": "Fix any of the following: Heading order invalid"
+            }
+          ]
+        }
+      ]
+    },
+    "https://flick.art/blog": {
+      "url": "https://flick.art/blog",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/blog"
+      },
+      "data": {
+        "title": "Blog — Flick",
+        "titleLen": 12,
+        "metaDescription": "Stories, insights, and updates from the Flick team.",
+        "metaDescriptionLen": 51,
+        "canonical": "https://flick.art/blog",
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [],
+        "h1Count": 0,
+        "headingLevels": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 16,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 14,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 4,
+        "twitterCount": 3,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 2,
+        "text": "CONTACT US GET STARTED FLICK TV PRICING COMMUNITY RESOURCES How to Use Blender for AI Filmmaking in 2026: The Complete Guide Direct precise AI shots by blocking them in Blender first. Camera control, motion references, render passes, and the full Blender-to-Seedance workflow in Flick. Jaime Yao How to Create Consistent AI Characters in 2026: The Complete Guide In the ever-evolving landscape of AI filmmaking, achieving character consistency remains essential for creators, marketers, and businesses alike. Today, the bes... Jack McCain Behind The Scenes - “The Last Stop” When I started working on The Last Stop, I had a very clear tonal vision in mind: I wanted to create something that felt rooted in classic film noir - moody lig... Blumquist Behind “tired eyes” Throughout the years, one of my favorite things to do has been listening to music and disappearing into whatever scene the song decides to put in my head. Somet... Alejandro Alarcón Behind “Ser Loras” I have recently been developing a short film project, tentatively titled Ser Loras. The narrative centers on a diminutive knight—the creation of a young girl's ... Jaime Yao I Rebuilt Tehran With Google Maps and AI. Here's Why She’s a deaf DJ playing illegal techno sets in underground Tehran. I’ve never set foot in the country. This is how I made a film about it anyway. A year ago, I ... Eliott Mogenet Behind “HONEY, I AM HOME”: Building a Psychological Neo-Noir Through AI Filmmaking HONEY, I AM HOME is an AI-generated short film about a woman whose suspicion slowly overtakes her perception of reality. What begins as a fear of betrayal turns... Yasya Fogelgardt Behind “Forever Yours” Inspired by the myth of Daphne and Apollo, the film reimagines the moment where desire turns into pursuit, and pursuit into erasure. Apollo, driven by obsession... Giuseppe Celestino Echoes of the Sun — How We Made It Notes from the making of a two-part AI short film. There's a moment in any production where you stop asking \"can we do this?\" and start asking \"how do we do thi... Arno Faure How WITCH Came to Life: From Inspiration to AI Filmmaking WITCH is an AI-generated short film that tells the story of a mother and daughter who share a legacy of herbal healing. The mother is accused of witchcraft and ... Olivia Qiu Behind \"The Herder\": When Rain Has a Job A short film about the worker behind the weather. From a rainy day in LA to tilt-shift miniature aesthetics and first-frame/last-frame AI workflow—how The Herder came together. Jaime Yao Behind “EXHIBIT”: Reimagining German Expressionist Cinema Through AI Filmmaking EXHIBIT is an AI-generated short film that presents a mysterious, dreamlike, and absurd story about a museum guard during his night shift, rendered in the style... Olivia Qiu In the AI Era, Story Is Everything In the age of AI filmmaking, the barrier to production has dropped. But the bar for storytelling has risen to an unprecedented level. Today, technical or resour... Zoey Zhang Why We Exist in the Age of Infinite Models We're building an AI filmmaking product in a world where new models are released every week — faster, stronger, cheaper. At first glance, that makes our existen... Zoey Zhang We Handle AI, You Direct Films RESOURCES PRICING BLOG DOCS COMPARISONS AI TOOLS COMMUNITY FILMMAKER RESIDENCY CREATIVE PARTNERS MIT AI FILM HACK COMPANY ABOUT CAREERS PRIVACY POLICY TERMS OF USE SOCIAL DISCORD X (TWITTER) YOUTUBE LINKEDIN INSTAGRAM TIKTOK REDDIT © 2026 FLICKART, Inc."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 20,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "li:nth-child(1) > a[href$=\"pricing\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "li:nth-child(2) > a[href$=\"blog\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "li:nth-child(3) > a[href$=\"docs\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            }
+          ]
+        },
+        {
+          "id": "page-has-heading-one",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Page should contain a level-one heading",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Page must have a level-one heading"
+            }
+          ]
+        }
+      ]
+    },
+    "https://flick.art/docs": {
+      "url": "https://flick.art/docs",
+      "primary": true,
+      "nav": {
+        "ok": false,
+        "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://flick.art/docs"
+      }
+    },
+    "https://flick.art/about": {
+      "url": "https://flick.art/about",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/about"
+      },
+      "data": {
+        "title": "About Flick — The Team Behind the AI Filmmaking Studio",
+        "titleLen": 54,
+        "metaDescription": "Meet the team building Flick, the AI filmmaking studio founded by an award-winning filmmaker and a founding Instagram engineer.",
+        "metaDescriptionLen": 127,
+        "canonical": "https://flick.art/about",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "h1": [
+          "About Flick — the team behind the AI filmmaking studio"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          3,
+          3,
+          3,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": false,
+        "imgTotal": 10,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 3,
+        "jsonld": [
+          "unknown"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 6,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 3,
+        "text": "CONTACT US GET STARTED FLICK TV PRICING COMMUNITY RESOURCES English About Flick — the team behind the AI filmmaking studio \"We love filmmaking. That's why we created Flick — an AI tool designed for filmmakers to turn your wildest ideas into truly unique works. Here, AI doesn't replace your creativity; it listens, it follows. Without budget holding you back, let Flick help you set your imagination loose upon the world.\" — Co-Founders, Zoey & Ray Ray Wang Chief Executive/Technical Officer Ray was a founding engineer on the Instagram AI team. He helped build and launch the first version of Instagram Stories, and as the main backend contributor during its first year, wrote most of its core backend code—helping grow the product to 400M DAU by 2018. Zoey Zhang Chief Creative/Product Officer Zoey is an award-winning AI filmmaker and designer exploring the future of storytelling through human–AI co-creation. A graduate of Brown University × Rhode Island School of Design, she builds creative tools and cinematic worlds that bring human taste into the loop of AI. Mimi Chief Entertainment Officer A former stray cat adopted in 2021, Mimi has since been living a life of luxury. A proud graduate of the School of Hard Knocks, she now excels at entertaining founders and boosting team morale. We Handle AI, You Direct Films RESOURCES PRICING BLOG DOCS COMPARISONS AI TOOLS COMMUNITY FILMMAKER RESIDENCY CREATIVE PARTNERS MIT AI FILM HACK COMPANY ABOUT CAREERS PRIVACY POLICY TERMS OF USE SOCIAL DISCORD X (TWITTER) YOUTUBE LINKEDIN INSTAGRAM TIKTOK REDDIT © 2026 FLICKART, Inc. English 简体中文 繁體中文 日本語 한국어 Français Deutsch Español Italiano Português (Brasil)"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 20,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".tracking-wide.hover\\:opacity-80[href$=\"pricing\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"blog\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"docs\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            }
+          ]
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Heading levels should only increase by one",
+          "nodes": [
+            {
+              "target": [
+                ".border.p-8.text-left:nth-child(1) > .mb-4 > h3"
+              ],
+              "summary": "Fix any of the following: Heading order invalid"
+            }
+          ]
+        }
+      ]
+    },
+    "https://flick.art/careers": {
+      "url": "https://flick.art/careers",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/careers"
+      },
+      "data": {
+        "title": "Careers at Flick — Build the Future of AI Filmmaking",
+        "titleLen": 52,
+        "metaDescription": "Join Flick (YC-backed) and build the creative tools powering AI filmmaking. See open engineering and creative roles.",
+        "metaDescriptionLen": 116,
+        "canonical": "https://flick.art/careers",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "h1": [
+          "Open Roles"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          3,
+          3,
+          3,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 6,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 3,
+        "jsonld": [
+          "unknown"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 6,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 3,
+        "text": "CONTACT US GET STARTED FLICK TV PRICING COMMUNITY RESOURCES English Join us to define the future of filmmaking. Open Roles Engineering Product Engineer (Creative Tools) Engineering Remote Apply Senior Full-stack Engineer Engineering Remote Apply Senior Frontend Engineer Engineering Remote Apply GTM GTM Intern GTM Remote (US) Apply We Handle AI, You Direct Films RESOURCES PRICING BLOG DOCS COMPARISONS AI TOOLS COMMUNITY FILMMAKER RESIDENCY CREATIVE PARTNERS MIT AI FILM HACK COMPANY ABOUT CAREERS PRIVACY POLICY TERMS OF USE SOCIAL DISCORD X (TWITTER) YOUTUBE LINKEDIN INSTAGRAM TIKTOK REDDIT © 2026 FLICKART, Inc. English 简体中文 繁體中文 日本語 한국어 Français Deutsch Español Italiano Português (Brasil)"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 20,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".tracking-wide.hover\\:opacity-80[href$=\"pricing\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"blog\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"docs\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            }
+          ]
+        }
+      ]
+    },
+    "https://flick.art/projects?tab=explore": {
+      "url": "https://flick.art/projects?tab=explore",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/projects?tab=explore"
+      },
+      "data": {
+        "title": "Explore AI Films, Templates & Projects — Flick",
+        "titleLen": 46,
+        "metaDescription": "Browse AI short films from the Flick community, start from templates, and manage your own film projects.",
+        "metaDescriptionLen": 104,
+        "canonical": "https://flick.art/projects",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "h1": [
+          "Flick TV"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          2,
+          1
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 5,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 3,
+        "jsonld": [
+          "unknown"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 6,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 3,
+        "text": "HOME FLICK TV VISUAL STYLES FILM SCENES Workspace All projects Shared with me SIGN UP Flick TV GET STARTED"
+      },
+      "axe": [
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 1,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                "h1"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://flick.art/auth": {
+      "url": "https://flick.art/auth",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/auth"
+      },
+      "data": {
+        "title": "Flick — AI Filmmaking Studio | We handle AI. You direct stories.",
+        "titleLen": 64,
+        "metaDescription": "Direct short films with AI. Flick is an AI filmmaking studio for cinematic stories — consistent characters, coherent scenes, and end-to-end creative control.",
+        "metaDescriptionLen": 157,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "h1": [],
+        "h1Count": 0,
+        "headingLevels": [],
+        "headingHierarchyOk": true,
+        "imgTotal": 4,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 2,
+        "jsonld": [
+          "unknown"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 6,
+        "twitterCount": 4,
+        "forms": [
+          {
+            "action": "",
+            "method": "get",
+            "novalidate": false,
+            "fieldCount": 2,
+            "fields": [
+              {
+                "tag": "input",
+                "type": "email",
+                "name": "",
+                "required": true,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "",
+                "labeled": true
+              },
+              {
+                "tag": "input",
+                "type": "password",
+                "name": "",
+                "required": true,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "",
+                "labeled": true
+              }
+            ]
+          }
+        ],
+        "formCount": 1,
+        "headSyncScripts": 0,
+        "headStylesheets": 3,
+        "text": "Create stunning videos with AI Continue with Google Or continue with Email address Password Sign in Forgot password? Don't have an account? Sign up"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 2,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "span"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".text-text-color-secondary.hover\\:underline[type=\"button\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "page-has-heading-one",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Page should contain a level-one heading",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Page must have a level-one heading"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 5,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".lg\\:flex"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                "p"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".space-y-2 > .relative"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://flick.art/compare": {
+      "url": "https://flick.art/compare",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/compare"
+      },
+      "data": {
+        "title": "AI Video Tool Comparisons | Flick",
+        "titleLen": 33,
+        "metaDescription": "Compare the best AI video tools in one place.",
+        "metaDescriptionLen": 45,
+        "canonical": "https://flick.art/compare",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "h1": [
+          "AI Video Comparisons"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 14,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 3,
+        "jsonld": [
+          "unknown",
+          "CollectionPage",
+          "ItemList"
+        ],
+        "jsonldCount": 3,
+        "ogCount": 6,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 3,
+        "text": "CONTACT US GET STARTED FLICK TV PRICING COMMUNITY RESOURCES English AI Video Comparisons Compare the best AI video tools in one place. InVideo Alternatives InVideo builds social clips from stock templates and talking-head AI. Kling vs Veo 3 You do not have to pick. LTX Studio Alternatives LTX Studio runs its own single engine on a credit meter. Luma Dream Machine Alternatives Luma's credit pricing gets expensive fast for production work. Pika Alternatives Pika's motion and visual fidelity lag the field. Runway Alternatives Runway runs one model on credit-gated plans at the premium end. Sora Alternatives Sora locks you inside the ChatGPT app with no character consistency across shots. Veo 3 alternatives for AI filmmaking Find the right AI video generator for your project. We Handle AI, You Direct Films RESOURCES PRICING BLOG DOCS COMPARISONS AI TOOLS COMMUNITY FILMMAKER RESIDENCY CREATIVE PARTNERS MIT AI FILM HACK COMPANY ABOUT CAREERS PRIVACY POLICY TERMS OF USE SOCIAL DISCORD X (TWITTER) YOUTUBE LINKEDIN INSTAGRAM TIKTOK REDDIT © 2026 FLICKART, Inc. English 简体中文 繁體中文 日本語 한국어 Français Deutsch Español Italiano Português (Brasil)"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 20,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".tracking-wide.hover\\:opacity-80[href$=\"pricing\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"blog\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"docs\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 1,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                "._section_puorh_31"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://flick.art/tools": {
+      "url": "https://flick.art/tools",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/tools"
+      },
+      "data": {
+        "title": "AI Filmmaking Tools | Flick",
+        "titleLen": 27,
+        "metaDescription": "Every AI filmmaking tool, one workflow.",
+        "metaDescriptionLen": 39,
+        "canonical": "https://flick.art/tools",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "h1": [
+          "AI Filmmaking Tools"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 12,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 3,
+        "jsonld": [
+          "unknown",
+          "CollectionPage",
+          "ItemList"
+        ],
+        "jsonldCount": 3,
+        "ogCount": 6,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 3,
+        "text": "CONTACT US GET STARTED FLICK TV PRICING COMMUNITY RESOURCES English AI Filmmaking Tools Every AI filmmaking tool, one workflow. AI Movie Poster Generator Poster tools give you a one-off image. AI Movie Script Generator Script generators hand you a document. AI Scene Generator Describe a setting. AI Shot List Generator A shot list is usually a spreadsheet you take elsewhere. AI Storyboard Generator Most storyboard tools stop at sketches. AI Trailer Generator Trailer makers template over stock clips. We Handle AI, You Direct Films RESOURCES PRICING BLOG DOCS COMPARISONS AI TOOLS COMMUNITY FILMMAKER RESIDENCY CREATIVE PARTNERS MIT AI FILM HACK COMPANY ABOUT CAREERS PRIVACY POLICY TERMS OF USE SOCIAL DISCORD X (TWITTER) YOUTUBE LINKEDIN INSTAGRAM TIKTOK REDDIT © 2026 FLICKART, Inc. English 简体中文 繁體中文 日本語 한국어 Français Deutsch Español Italiano Português (Brasil)"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 20,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".tracking-wide.hover\\:opacity-80[href$=\"pricing\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"blog\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"docs\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 1,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                "._section_puorh_31"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://flick.art/residency": {
+      "url": "https://flick.art/residency",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/residency"
+      },
+      "data": {
+        "title": "Flick Filmmaker Residency — Create Award-Winning AI Films",
+        "titleLen": 57,
+        "metaDescription": "Apply to the Flick Filmmaker Residency: credits, mentorship, and a community of directors making festival-winning AI short films.",
+        "metaDescriptionLen": 129,
+        "canonical": "https://flick.art/residency",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "h1": [],
+        "h1Count": 0,
+        "headingLevels": [],
+        "headingHierarchyOk": true,
+        "imgTotal": 2,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 1,
+        "jsonld": [
+          "unknown"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 6,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 3,
+        "text": "CONTACT US GET STARTED FLICK TV PRICING COMMUNITY RESOURCES English"
+      },
+      "axe": [
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "page-has-heading-one",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Page should contain a level-one heading",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Page must have a level-one heading"
+            }
+          ]
+        }
+      ]
+    },
+    "https://flick.art/creative-partners": {
+      "url": "https://flick.art/creative-partners",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/creative-partners"
+      },
+      "data": {
+        "title": "Flick Creative Partner Program — For AI Filmmakers",
+        "titleLen": 50,
+        "metaDescription": "Become a Flick Creative Partner: free credits, early access to new AI filmmaking tools, and a platform to showcase your films.",
+        "metaDescriptionLen": 126,
+        "canonical": "https://flick.art/creative-partners",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "h1": [
+          "Creative Partner Program"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 6,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 3,
+        "jsonld": [
+          "unknown"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 6,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 3,
+        "text": "CONTACT US GET STARTED FLICK TV PRICING COMMUNITY RESOURCES English Creative Partner Program Your voice. Their next film. APPLY NOW The Flick Creator Partner Program is an ongoing program that supports creators pushing the boundaries of AI filmmaking while helping shape the tools that power it. WHAT YOU GET... Free Flick Credits Easily experiment with powerful AI film tools. Early Feature Access Be the first to test new features and updates. Dedicated Support Priority assistance to maximize your creative potential. 30% Commission Via your referral link on any paid plan. Community Recognition Visible spotlight across the Flick community. Creative Collaboration Influence product direction and new features. WHAT WE EXPECT... Create 2+ quality posts monthly Share quality short films, workflow walkthroughs, or case studies on Instagram, X, Youtube, Linkedin, etc Share your partner link Encourage referrals by sharing your unique partner link in posts, comments, and direct messages. Engage in community Share posts in the Creator Partner Discord and participate in feedback discussions. Interested in becoming a creative partner? APPLY NOW We Handle AI, You Direct Films RESOURCES PRICING BLOG DOCS COMPARISONS AI TOOLS COMMUNITY FILMMAKER RESIDENCY CREATIVE PARTNERS MIT AI FILM HACK COMPANY ABOUT CAREERS PRIVACY POLICY TERMS OF USE SOCIAL DISCORD X (TWITTER) YOUTUBE LINKEDIN INSTAGRAM TIKTOK REDDIT © 2026 FLICKART, Inc. English 简体中文 繁體中文 日本語 한국어 Français Deutsch Español Italiano Português (Brasil)"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 20,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".tracking-wide.hover\\:opacity-80[href$=\"pricing\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"blog\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"docs\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 5,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                "section:nth-child(4)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".lg\\:mt-28.md\\:mt-20.mt-16:nth-child(5)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".lg\\:mt-20"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://flick.art/mit-ai-film-hackathon-with-flick": {
+      "url": "https://flick.art/mit-ai-film-hackathon-with-flick",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/mit-ai-film-hackathon-with-flick"
+      },
+      "data": {
+        "title": "MIT AI Film Hackathon with Flick",
+        "titleLen": 32,
+        "metaDescription": "Join the MIT AI Film Hackathon with Flick — make a short film with AI, compete for prizes, and screen your work.",
+        "metaDescriptionLen": 112,
+        "canonical": "https://flick.art/mit-ai-film-hackathon-with-flick",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "h1": [
+          "Flick x MIT AI Film Hack 2026"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 17,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 3,
+        "jsonld": [
+          "unknown"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 6,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 3,
+        "text": "CONTACT US GET STARTED FLICK TV PRICING COMMUNITY RESOURCES English Flick x MIT AI Film Hack 2026 APRIL 18-19TH Flick is proud to partner with the MIT AI Filmmaking Hackathon, a showcase of award-winning films pushing the boundaries of AI storytelling. Our team was there in person to meet the filmmakers who are shaping what cinema becomes next. MIT CAMPUS SEE MORE From First Frame to Community Gathering Over the course of a month, hackers used Flick to build their films from the ground up. Then they came together at MIT for a full weekend of screenings, industry panels, and the moment they'd all been working toward — nominees and winners announced live. Our team was on the ground throughout, connecting with creators and showcasing what Flick makes possible. Chatting with a hacker about his filmmaking experience. Our co-founder, Zoey Zhang, as a speaker on the AI and the Transformation of Film Industry panel. Watch it here Flick Award The Flick Award celebrated filmmakers who used Flick to bring their story to life. Any participant who incorporated Flick into their film was eligible — and the winner walked away with a Flick Filmmaker Residency seat, a one-year Flick Studio subscription ($1,440 value), and a featured spotlight across Flick's app and social channels. WINNER SUBmission Oona Ode SUBmission explores the relationship between a woman and an AI chatbot, examining how these systems can become mirrors that lead users into intimate, destabilizing confrontations with themselves. Moving beyond the idea of AI as a tool, the film presents the chatbot as a strange companion, present in moments of vulnerability, play, and emotional risk. Here, “opening your eyes” becomes an inward act: facing what is usually avoided, and seeing the self with greater honesty. Award Winners and Nominees Best Supporting Character · WINNER Ulysses Jaime Yao Flick Award · WINNER SUBmission Oona Ode Best Interactive Film · WINNER LAPLACE.TRANSFORM Catarina Silva e Meirelles PixVerse Award · NOMINEE The Last Time I Saw Da Vinci David Lee Flick Award · NOMINEE Witch Olivia Qiu Flick Award · NOMINEE One Thought Zhang Jingyu Ready to Create Your Film? GET STARTED We Handle AI, You Direct Films RESOURCES PRICING BLOG DOCS COMPARISONS AI TOOLS COMMUNITY FILMMAKER RESIDENCY CREATIVE PARTNERS MIT AI FILM HACK COMPANY ABOUT CAREERS PRIVACY POLICY TERMS OF USE SOCIAL DISCORD X (TWITTER) YOUTUBE LINKEDIN INSTAGRAM TIKTOK REDDIT © 2026 FLICKART, Inc. English 简体中文 繁體中文 日本語 한국어 Français Deutsch Español Italiano Português (Brasil)"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 20,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".tracking-wide.hover\\:opacity-80[href$=\"pricing\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"blog\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"docs\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 20,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".md\\:mt-20"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".mt-24.sm\\:mt-32.md\\:mt-40:nth-child(5)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".md\\:gap-10.lg\\:gap-16.mb-6"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://flick.art/privacy": {
+      "url": "https://flick.art/privacy",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/privacy"
+      },
+      "data": {
+        "title": "Privacy Policy — Flick",
+        "titleLen": 22,
+        "metaDescription": "Learn how Flick collects, uses, and protects your data.",
+        "metaDescriptionLen": 55,
+        "canonical": "https://flick.art/privacy",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "h1": [
+          "PRIVACY POLICY"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          3,
+          3,
+          3,
+          2,
+          3,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 6,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 3,
+        "jsonld": [
+          "unknown"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 6,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 3,
+        "text": "CONTACT US GET STARTED FLICK TV PRICING COMMUNITY RESOURCES English PRIVACY POLICY Last Updated: September 14, 2025 Introduction Welcome to the FlickArt Platform (\"FlickArt,\" or the \"Platform\"), which includes the FlickArt official website, and any other current or future features, functionalities, or services (collectively, the \"Services\"). The Services are offered by FlickArt, Inc. (\"we,\" \"us,\" or \"our\"), with its registered office at 131 Continental Dr., Suite 305, Newark, New Castle County, Delaware 19713, USA. We value your privacy and are committed to protecting your personal data. This Privacy Policy (\"Policy\") explains how we collect, use, share, and safeguard your personal information when you access or use the Services, including any site or platform that links to this Policy. This Policy describes: (a) The types of personal information we collect and how we collect it; (b) How we use your personal information and the legal bases for doing so; (c) How we share your information and with whom; (d) Your privacy rights under applicable laws, including GDPR and U.S. privacy laws (such as CCPA/CPRA); and (e) How we protect your information and how long we retain it. By accessing or using the Services, you acknowledge and agree to this Policy. If you do not agree, please do not use our Services. This Policy does not cover third-party products, services, websites, or content (\"Third-Party Services\"). Those are subject to their own privacy policies, which we recommend reviewing before use. 1. What Information We Collect We may collect the following information from and about you, including information that you provide, information collected automatically, and information from other sources. 1.1 Information You Provide When you interact with our Services, you may provide certain personal information voluntarily, including but not limited to: (a) Registration Information. When you register for an account, we may collect details such as your username, password, date of birth (where applicable), email address, and/or telephone number. If you register as a representative of an organization, we may also collect your name, business email address, phone number, country, physical address, and, if applicable, your organization's details. (b) User Content. We collect content you create, upload, generate, or otherwise make available through the Services. This may include profile information (such as nickname and avatar), user-generated content, images, prompts, and any other material you create and/or share using the Services. (c) Payment Information. When you purchase Paid Services (as defined in our Terms of Service), we use third-party payment processors to handle your payment transactions. These providers may collect your credit card details or other financial information. We do not store your full payment card details, but we may retain transaction confirmation or records required for compliance and accounting purposes. (d) Correspondence Information. When you contact us for support, feedback, or inquiries—by email, chat, or other channels—we collect the information you provide, including message content and related details. (e) Surveys and Promotions. With your consent, we may collect information when you participate in surveys, research studies, promotions, marketing campaigns, or events we organize or sponsor. 1.2 Information We Collect Automatically When you interact with our Services, including when you browse without creating an account, we automatically collect certain information about your device and usage patterns. This may include: (a) Technical and device information. IP address, browser type, user agent, mobile carrier, time zone, device identifiers (including identifiers used for advertising), device model, operating system, network type, and screen resolution. (b) Usage information. Pages or content viewed, duration of interactions, access times, navigation paths, clicks, searches, and the referring URL. (c) Location information. We may infer general location (e.g., country, region, or city) from your IP address or similar signals for account protection (e.g., unusual login detection), regional settings (language, time zone, content availability), compliance with geobased requirements, and improving relevance and quality of features. With your permission, we may collect precise location for location-based functions. (d) Cookies and similar technologies. We use cookies, mobile IDs, and similar technologies to operate and optimize the Services, enable features, and enhance your experience. You can manage or disable cookies through your browser or device settings. 1.3 Information From Other Sources If you register for or access the Platform using a third-party account (such as Apple or Google), we may receive certain information from that third party, including your username, public profile details, and any other information you authorize them to share with us. We may also share limited information with the third-party provider to enable authentication and account linkage (e.g., app ID, access token, referring URL). 2. How We Use Your Information We use your information to operate, provide, support, and administer the Platform and Services; enable their features; secure your account; and to fulfill, enforce, and comply with our Terms of Service. In particular, we use personal information to: (a) Verify eligibility and age requirements; (b) Provide, operate, and maintain the Services, including core functionality and account features; (c) Fulfill requests for products, Services, functionality, support, and information; perform internal operations such as troubleshooting, data analysis, testing, research, statistics, surveys, and collecting feedback to improve the Services; (d) Display, recommend, or otherwise promote your content to other users, consistent with your settings and Platform design; (e) Communicate with you, including sending notices about changes to the Services, Terms, or policies; (f) Provide customer support and respond to questions, requests, complaints, and feedback; (g) Process transactions and support sales, promotions, purchases, subscriptions, refunds, and related support; (h) Protect the Platform and our community by safeguarding security and defending our legal rights, property, commercial interests, and those of our affiliates, users, and the public; (i) Enforce our terms, conditions, and policies and meet legal and regulatory obligations; (j) Detect, investigate, and help prevent abuse, fraud, and illegal activity, including scanning, analyzing, and reviewing User Content and metadata for policy violations; and (k) Use your information for additional purposes disclosed at collection, with your consent, or as otherwise permitted by law. 2.1 Legal Bases (GDPR and similar laws) Where the GDPR or other data-protection laws apply, we process personal information under one or more lawful bases: (a) Performance of a Contract. To enter into, perform, and administer our Terms of Service with you (e.g., create/manage your account; provide core Services and features; process payments or subscriptions; deliver requested content; respond to service inquiries). (b) Consent. Where required by law or for optional features (e.g., marketing emails; surveys or beta programs; accessing certain device data such as precise location if enabled). You may withdraw consent at any time via settings or by contacting us; prior processing remains lawful. (c) Legal Obligations. To comply with laws and regulatory requirements (e.g., tax and accounting; lawful requests from public authorities; identity verification or sanctions/AML checks where applicable; honoring data-subject rights). (d) Legitimate Interests. To pursue our (or a third party's) legitimate interests, provided they are not overridden by your rights and freedoms—e.g., securing the Platform; preventing fraud/abuse; improving and developing the Services; measuring engagement; personalizing non-intrusive experiences; analytics and research. (e) Protection of Vital Interests (Infrequent). In rare cases, to protect the vital interests of an individual (e.g., urgent safety issues). (f) Establishment, Exercise, or Defense of Legal Claims. To assert or defend legal claims, manage disputes, or protect our rights, users, affiliates, or the public. (g) Other Permissible Grounds. Where local law provides additional lawful bases, we may rely on them and will identify them at collection. We may aggregate or de-identify personal information for analysis, improvements, and research. 3. How We Share Your Information We do not sell your personal information. We may share it with third parties for the purposes described in this Policy and as permitted by law, including: 3.1 Service Providers and Business Partners Trusted third-party vendors and partners that help us operate, improve, and support the Services (e.g., payment processors; hosting and cloud providers; analytics/measureme"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 20,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".tracking-wide.hover\\:opacity-80[href$=\"pricing\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"blog\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"docs\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            }
+          ]
+        }
+      ]
+    },
+    "https://flick.art/terms": {
+      "url": "https://flick.art/terms",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://flick.art/terms"
+      },
+      "data": {
+        "title": "Terms of Use — Flick",
+        "titleLen": 20,
+        "metaDescription": "Read the terms of use for Flick, the AI filmmaking studio.",
+        "metaDescriptionLen": 58,
+        "canonical": "https://flick.art/terms",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "h1": [
+          "TERMS OF USE"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          2,
+          3,
+          2,
+          3,
+          3,
+          2,
+          3,
+          2,
+          3,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 6,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 3,
+        "jsonld": [
+          "unknown"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 6,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 0,
+        "headStylesheets": 3,
+        "text": "CONTACT US GET STARTED FLICK TV PRICING COMMUNITY RESOURCES English TERMS OF USE Last Updated: September 14, 2025 Thank you for choosing to use the FlickArt platform (\"FlickArt\" or the \"Platform\"), which includes the FlickArt official website and any other current or future features, functionality, content, or services (collectively, the \"Services\"). The Services are offered by FlickArt, Inc. (\"we,\" \"us,\" or \"our\"), a Delaware corporation, with its registered office located at 131 Continental Dr., Suite 305, Newark, New Castle County, Delaware 19713, USA. 1. Your Agreement to These Terms These Terms of Service (these \"Terms\" or the \"Agreement\"), as may be updated from time to time, govern your access to and use of the Platform and Services. They form a legally binding agreement between you and us. For purposes of these Terms, \"you\" and \"your\" refer to you as the end user of the Services. By accessing or using the Services, you agree to be bound by these Terms. Please read them carefully, particularly the provisions in bolded and ALL CAPS, which highlight key legal terms and conditions. You must accept all terms and conditions set forth in this Agreement before using the Services. If you do not agree to any part of these Terms, you must immediately stop using the Services and refrain from proceeding further. Your access to and use of the Services are also subject to our Privacy Policy as well as any additional guidelines or rules that may be made available to you from time to time. The terms of those documents will be posted through our Services or otherwise notified to you, and they are incorporated herein by reference. 2. Changes to These Terms To improve your experience and ensure the safety and performance of our Services, we may update, enhance, or modify the Services from time to time. We also reserve the right to revise these Terms as necessary to reflect changes in our practices, legal requirements, or business operations. When we make material changes, we will make reasonable efforts to notify you—for example, by posting an update on the Platform or sending a notice to your account email. We will also update the \"Last Updated Date\" at the top of these Terms to indicate when the changes take effect. It is your responsibility to review these Terms periodically. Your continued use of the Services after the effective date of the updated Terms constitutes your acceptance of the revised Terms. If you do not agree to the changes, you must stop using the Services immediately. 3. Account and Registration 3.1 Account Requirements To access and use many of the Services provided through the Platform—including, for example, the image and video generation features of FlickArt—you must first register for an account. When creating an account, you must provide accurate, current, complete, and truthful information. You are responsible for maintaining the accuracy of your account information at all times. 3.2 Eligibility You must be at least 13 years of age, or the minimum age required in your jurisdiction, to use the Services. If you are under the age of 18 (or the age of majority in your jurisdiction), you may only use the Services with the permission and under the supervision of your parent or legal guardian. By using the Services, you confirm that your parent or legal guardian has reviewed and agreed to these Terms with you. 3.3 Account Security and Responsibility You acknowledge and agree to the following: (a) Account security. You are solely responsible for maintaining the security and confidentiality of your account credentials, including your username and password. You must not share your login information with any third party. (b) Account activity. You are solely responsible for all activities that occur through or under your account. If you are using the Platform or Services on behalf of a business, organization, or other legal entity, you represent and warrant that you are authorized to do so, and all such use shall be deemed to be on behalf of and binding upon that entity. (c) Monitoring. We may, but are not obligated to, monitor activities occurring under or through your account. We are not liable for any loss or damage arising from any unauthorized access to or use of your account, including but not limited to hacking, misuse, or theft. We reserve the right to temporarily suspend, permanently terminate, or otherwise restrict your account, with or without notice, at any time and for any reason or no reason, including but not limited to the following circumstances: (i) if you violate any provision of these Terms or any applicable law; (ii) if, in our sole discretion, your account activity may cause harm to us, other users, or third parties, impair the functionality or security of the Platform or Services, or infringe any third-party rights (including intellectual property rights); (iii) in response to lawful requests from law enforcement or regulatory authorities; (iv) due to technical, operational, or security-related issues; or (v) if your account has been inactive for a prolonged period of time. If you no longer wish to use or access the Platform and our Services, you may request to delete your account by contacting us at founders@flick.art. Upon termination, your access to the Platform and the Services will be discontinued. We will delete or de-identify your relevant information in accordance with our data retention policies and applicable law. 4. User Conduct and Prohibited Activities 4.1 Prohibited Use You agree to use the Services solely for lawful purposes and only as expressly permitted under these Terms and applicable laws. You shall not use the Services, directly or indirectly: (a) to exploit, harm, or attempt to exploit or harm minors in any manner; (b) to generate or disseminate verifiably false or misleading information with the intent to cause harm; (c) to generate, distribute, or misuse personally identifiable information in a way that could harm an individual; (d) in any manner that infringes, misappropriates, or otherwise violates the intellectual property, privacy, publicity, or other legal rights of any third party; (e) to defame, harass, intimidate, threaten, or otherwise disparage any person or group; (f) for fully automated decision-making processes that may adversely affect an individual's legal rights or entitlements; (g) in any way intended to discriminate against or harm individuals or groups based on personal characteristics or social behavior, whether online or offline; (h) to exploit any group based on age, social status, physical or mental condition, or other vulnerabilities; (i) to provide medical advice, diagnoses, treatment recommendations, or interpretations of medical results; (j) to generate or use information in connection with the administration of justice, law enforcement, immigration, or asylum proceedings; (k) to violate or circumvent applicable export control, sanctions, or national security laws; (l) to engage in spam, fraud, or other deceptive or manipulative practices; or (m) to bypass, interfere with, or undermine the Services' safety features, content filters, or usage limits. 5. Content and License 5.1 Content You may provide input to the Services (\"Input\"), and receive output generated by the Services based on that Input (\"Output\"). Together, Input and Output are referred to as \"Content.\" Content may include, without limitation, prompts, text, URLs, code, images, videos, data, datasets, documentation, or any other materials or information you submit to or receive from the Services. 5.2 Ownership of Content Subject to applicable law and the rights granted under these Terms: (a) You retain all ownership rights, including copyright, in your Input; and (b) As between you and us, you own the Output generated by the Services in response to your Input. 6. Paid Services and Payments 6.1 Paid Services Depending on your region and the specific Services available to you, we may offer certain features or functionality free of charge (\"Free Services\"), while others require payment before access is granted (\"Paid Services\"). Paid Services may include, without limitation, FlickArt Starter, FlickArt Basic, FlickArt Pro, and any other premium offerings made available on the Platform. 7. Intellectual Property Rights 7.1 Our Ownership The Services, including all software, models, features, documentation, user interfaces, text, graphics, logos, trademarks, and other materials made available by FlickArt (collectively, the \"FlickArt Materials\"), are owned by us or our licensors and are protected by intellectual property and other laws. Except for the limited rights expressly granted to you under these Terms, no rights are granted or implied. 8. Third-Party Services The Services may incorporate, interoperate with, or rely on third-party services and technology, including without limitation third-party large language models (\"LLMs\"), foundation or video models, datasets, SDKs, APIs, hosting/CDN, paymen"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 20,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".tracking-wide.hover\\:opacity-80[href$=\"pricing\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"blog\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "a[href$=\"docs\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "url": "https://flick.art/",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/projects?tab=explore",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/projects?tab=explore",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/pricing",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/pricing",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/auth",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/auth",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/docs",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/docs/",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/compare",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/compare",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/tools",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/tools",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/residency",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/residency",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/creative-partners",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/creative-partners",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/mit-ai-film-hackathon-with-flick",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/mit-ai-film-hackathon-with-flick",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/about",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/about",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/careers",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/careers",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/privacy",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/privacy",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/terms",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/terms",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/blender-ai-filmmaking",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/blender-ai-filmmaking",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/img2img-consistent-character",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/img2img-consistent-character",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/behind-the-last-stop",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/behind-the-last-stop",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/behind-tired-eyes",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/behind-tired-eyes",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/behind-ser-loras",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/behind-ser-loras",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/rebuild-tehran-with-ai",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/rebuild-tehran-with-ai",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/behind-honey-i-am-home",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/behind-honey-i-am-home",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/behind-forever-yours",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/behind-forever-yours",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/echoes-of-the-sun",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/echoes-of-the-sun",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/how-witch-came-to-life",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/how-witch-came-to-life",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/behind-the-herder",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/behind-the-herder",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/behind-exhibit",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/behind-exhibit",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/in-the-ai-era-story-is-everything",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/in-the-ai-era-story-is-everything",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/blog/why-we-exist-in-the-age-of-infinite-models",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/blog/why-we-exist-in-the-age-of-infinite-models",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://flick.art/compare/invideo-alternatives",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/compare/invideo-alternatives",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/compare"
+      ]
+    },
+    {
+      "url": "https://flick.art/compare/kling-vs-veo-3",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/compare/kling-vs-veo-3",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/compare"
+      ]
+    },
+    {
+      "url": "https://flick.art/compare/ltx-studio-alternatives",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/compare/ltx-studio-alternatives",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/compare"
+      ]
+    },
+    {
+      "url": "https://flick.art/compare/luma-alternatives",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/compare/luma-alternatives",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/compare"
+      ]
+    },
+    {
+      "url": "https://flick.art/compare/pika-alternatives",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/compare/pika-alternatives",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/compare"
+      ]
+    },
+    {
+      "url": "https://flick.art/compare/runway-alternatives",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/compare/runway-alternatives",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/compare"
+      ]
+    },
+    {
+      "url": "https://flick.art/compare/sora-alternatives",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/compare/sora-alternatives",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/compare"
+      ]
+    },
+    {
+      "url": "https://flick.art/compare/veo-3-alternatives",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/compare/veo-3-alternatives",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/compare"
+      ]
+    },
+    {
+      "url": "https://flick.art/tools/ai-movie-poster-generator",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/tools/ai-movie-poster-generator",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/tools"
+      ]
+    },
+    {
+      "url": "https://flick.art/tools/ai-movie-script-generator",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/tools/ai-movie-script-generator",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/tools"
+      ]
+    },
+    {
+      "url": "https://flick.art/tools/ai-scene-generator",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/tools/ai-scene-generator",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/tools"
+      ]
+    },
+    {
+      "url": "https://flick.art/tools/ai-shot-list",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/tools/ai-shot-list",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/tools"
+      ]
+    },
+    {
+      "url": "https://flick.art/tools/ai-storyboard-generator",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/tools/ai-storyboard-generator",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/tools"
+      ]
+    },
+    {
+      "url": "https://flick.art/tools/ai-trailer-generator",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/tools/ai-trailer-generator",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/tools"
+      ]
+    },
+    {
+      "url": "https://flick.art/film/submission-f2c8b1",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/film/submission-f2c8b1",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/mit-ai-film-hackathon-with-flick"
+      ]
+    },
+    {
+      "url": "https://flick.art/film/ulysses-78505e",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/film/ulysses-78505e",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/mit-ai-film-hackathon-with-flick"
+      ]
+    },
+    {
+      "url": "https://flick.art/film/laplace-transform-0acb0f",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/film/laplace-transform-0acb0f",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/mit-ai-film-hackathon-with-flick"
+      ]
+    },
+    {
+      "url": "https://flick.art/film/the-last-time-i-saw-da-vinci-337d36",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/film/the-last-time-i-saw-da-vinci-337d36",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/mit-ai-film-hackathon-with-flick"
+      ]
+    },
+    {
+      "url": "https://flick.art/film/witch-4c65f8",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/film/witch-4c65f8",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/mit-ai-film-hackathon-with-flick"
+      ]
+    },
+    {
+      "url": "https://flick.art/film/one-thought-cd065c",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://flick.art/film/one-thought-cd065c",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/mit-ai-film-hackathon-with-flick"
+      ]
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/flick",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/flick",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/"
+      ]
+    },
+    {
+      "url": "https://discord.gg/SPYgXej78k",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://discord.com/invite/SPYgXej78k",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://x.com/flickartHQ",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://x.com/flickartHQ",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/@Flickart-ai",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/@Flickart-ai",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/company/flickart/",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/company/flickart/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://www.instagram.com/flickartai/",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/flickartai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://www.tiktok.com/@flick.art",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.tiktok.com/@flick.art",
+      "method": "GET",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/Flickart/",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.reddit.com/r/Flickart/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/",
+        "https://flick.art/pricing",
+        "https://flick.art/blog"
+      ]
+    },
+    {
+      "url": "https://calendly.com/ray-flick/30min",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://calendly.com/ray-flick/30min",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/pricing"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/ruiwang3/",
+      "fp": false,
+      "status": 429,
+      "finalUrl": "https://www.linkedin.com/in/ruiwang3/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/about"
+      ]
+    },
+    {
+      "url": "https://x.com/RuiCromwell",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://x.com/RuiCromwell",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/about"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/z0ey/",
+      "fp": false,
+      "status": 429,
+      "finalUrl": "https://www.linkedin.com/in/z0ey/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/about"
+      ]
+    },
+    {
+      "url": "https://x.com/ZoeyZ1004",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://x.com/ZoeyZ1004",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/about"
+      ]
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/flick/jobs/weIG0bH-product-engineer-creative-tools",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/flick/jobs/weIG0bH-senior-staff-product-engineer-creative-tools",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://flick.art/careers"
+      ]
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/flick/jobs/mqWOs5b-senior-full-stack-engineer",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/flick/jobs/mqWOs5b-senior-full-stack-engineer",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/careers"
+      ]
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-staff-frontend-engineer",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://flick.art/careers"
+      ]
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/flick/jobs/pSUQOu1-gtm-intern",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/flick/jobs/pSUQOu1-gtm-intern",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/careers"
+      ]
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdX7TOKPMBdChaJKEXwM2MdZrjPkJnksWbEP8_qu-PeOXuqnw/viewform",
+      "fp": false,
+      "status": 302,
+      "finalUrl": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://docs.google.com/forms/d/e/1FAIpQLSdX7TOKPMBdChaJKEXwM2MdZrjPkJnksWbEP8_qu-PeOXuqnw/viewform&followup=https://docs.google.com/forms/d/e/1FAIpQLSdX7TOKPMBdChaJKEXwM2MdZrjPkJnksWbEP8_qu-PeOXuqnw/viewform&ltmpl=forms",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://flick.art/residency"
+      ]
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfWJjA7jq4Zv8W3oTT_oeTEXoQXc-NAfAg_deJiDTuwGIOMfQ/viewform",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfWJjA7jq4Zv8W3oTT_oeTEXoQXc-NAfAg_deJiDTuwGIOMfQ/viewform",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/creative-partners"
+      ]
+    },
+    {
+      "url": "https://www.mitaifilmhack.com/",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.mitaifilmhack.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/mit-ai-film-hackathon-with-flick"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Rl3EIMvgKS0&list=PLNeFTWki0sjVEYjE4fWFMMX6HoRgvMTGU&index=7",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=Rl3EIMvgKS0&list=PLNeFTWki0sjVEYjE4fWFMMX6HoRgvMTGU&index=7",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://flick.art/mit-ai-film-hackathon-with-flick"
+      ]
+    }
+  ],
+  "forms": [
+    {
+      "page": "https://flick.art/auth",
+      "forms": [
+        {
+          "action": "",
+          "method": "get",
+          "novalidate": false,
+          "fieldCount": 2,
+          "fields": [
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "",
+              "required": true,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "",
+              "labeled": true
+            },
+            {
+              "tag": "input",
+              "type": "password",
+              "name": "",
+              "required": true,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "",
+              "labeled": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "thirdParty": [
+    {
+      "host": "fonts.googleapis.com",
+      "requests": 106
+    },
+    {
+      "host": "pub-af51a02c20b54138b1fc89c4dac0950b.r2.dev",
+      "requests": 68
+    },
+    {
+      "host": "accounts.google.com",
+      "requests": 51
+    },
+    {
+      "host": "fonts.gstatic.com",
+      "requests": 39
+    },
+    {
+      "host": "www.google-analytics.com",
+      "requests": 34
+    },
+    {
+      "host": "www.googletagmanager.com",
+      "requests": 28
+    },
+    {
+      "host": "cdn.gpteng.co",
+      "requests": 17
+    },
+    {
+      "host": "r.wdfl.co",
+      "requests": 17
+    },
+    {
+      "host": "www.google.com",
+      "requests": 16
+    },
+    {
+      "host": "pub-8914e75d31024757943168db9e03b998.r2.dev",
+      "requests": 3
+    }
+  ],
+  "mobileAxe": {
+    "https://flick.art/": [
+      {
+        "id": "aria-hidden-focus",
+        "impact": "serious",
+        "count": 1,
+        "help": "ARIA hidden element must not be focusable or contain focusable elements",
+        "nodes": [
+          {
+            "target": [
+              "div[aria-hidden=\"true\"]"
+            ],
+            "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+          }
+        ]
+      },
+      {
+        "id": "button-name",
+        "impact": "critical",
+        "count": 1,
+        "help": "Buttons must have discernible text",
+        "nodes": [
+          {
+            "target": [
+              ".hover\\:bg-surface-hover"
+            ],
+            "summary": "Fix any of the following: Element does not have inner text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attribute does not exist, references elemen"
+          }
+        ]
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 2,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".text-center > .text-text-color-secondary.font-jost.text-xs"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.49 (foreground color: #8d8683, background color: #fdfcfc, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              ".sm\\:text-sm"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.53 (foreground color: #8e8784, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+          }
+        ]
+      },
+      {
+        "id": "landmark-one-main",
+        "impact": "moderate",
+        "count": 1,
+        "help": "Document should have one main landmark",
+        "nodes": [
+          {
+            "target": [
+              "html"
+            ],
+            "summary": "Fix all of the following: Document does not have a main landmark"
+          }
+        ]
+      },
+      {
+        "id": "region",
+        "impact": "moderate",
+        "count": 19,
+        "help": "All page content should be contained by landmarks",
+        "nodes": [
+          {
+            "target": [
+              ".bg-surface-raised"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          },
+          {
+            "target": [
+              "section:nth-child(2) > div:nth-child(2) > p"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "https://flick.art/pricing": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 35,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".text-\\[12px\\].text-text-color-secondary"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              ".font-medium.py-1.rounded-sm"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.03 (foreground color: #fffffe, background color: #f9634e, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              ".hover\\:text-text-color.transition-colors.items-center"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+          }
+        ]
+      }
+    ],
+    "https://flick.art/blog": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 20,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              "li:nth-child(1) > a[href$=\"pricing\"]"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              "li:nth-child(2) > a[href$=\"blog\"]"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              "li:nth-child(3) > a[href$=\"docs\"]"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+          }
+        ]
+      }
+    ],
+    "https://flick.art/about": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 20,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".tracking-wide.hover\\:opacity-80[href$=\"pricing\"]"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              "a[href$=\"blog\"]"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              "a[href$=\"docs\"]"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.52 (foreground color: #8e8784, background color: #fffffe, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+          }
+        ]
+      }
+    ]
+  },
+  "responsiveExtra": {
+    "https://flick.art/": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 10,
+        "tinyTapExamples": [
+          {
+            "tag": "button",
+            "text": "AI FILMMAKING PLATFORM",
+            "w": 159,
+            "h": 18,
+            "cls": "mt-12 self-start text-xs uppercase track"
+          },
+          {
+            "tag": "a",
+            "text": "Combinator",
+            "w": 99,
+            "h": 20,
+            "cls": "flex items-center gap-2 h-5 sm:h-6 shrin"
+          },
+          {
+            "tag": "a",
+            "text": "Combinator",
+            "w": 99,
+            "h": 20,
+            "cls": "flex items-center gap-2 h-5 sm:h-6 shrin"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 15,
+        "tinyTapExamples": [
+          {
+            "tag": "button",
+            "text": "AI FILMMAKING PLATFORM",
+            "w": 159,
+            "h": 18,
+            "cls": "mt-12 self-start text-xs uppercase track"
+          },
+          {
+            "tag": "a",
+            "text": "Combinator",
+            "w": 99,
+            "h": 20,
+            "cls": "flex items-center gap-2 h-5 sm:h-6 shrin"
+          },
+          {
+            "tag": "a",
+            "text": "Combinator",
+            "w": 99,
+            "h": 20,
+            "cls": "flex items-center gap-2 h-5 sm:h-6 shrin"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 15,
+        "tinyTapExamples": [
+          {
+            "tag": "button",
+            "text": "AI FILMMAKING PLATFORM",
+            "w": 159,
+            "h": 18,
+            "cls": "mt-12 self-start text-xs uppercase track"
+          },
+          {
+            "tag": "a",
+            "text": "Combinator",
+            "w": 99,
+            "h": 20,
+            "cls": "flex items-center gap-2 h-5 sm:h-6 shrin"
+          },
+          {
+            "tag": "a",
+            "text": "Combinator",
+            "w": 99,
+            "h": 20,
+            "cls": "flex items-center gap-2 h-5 sm:h-6 shrin"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          }
+        ]
+      }
+    ],
+    "https://flick.art/pricing": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 8,
+        "tinyTapExamples": [
+          {
+            "tag": "button",
+            "text": "See all features",
+            "w": 110,
+            "h": 21,
+            "cls": "flex items-center gap-2 text-sm font-jos"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 13,
+        "tinyTapExamples": [
+          {
+            "tag": "button",
+            "text": "See all features",
+            "w": 110,
+            "h": 21,
+            "cls": "flex items-center gap-2 text-sm font-jos"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 39,
+            "h": 18,
+            "cls": "text-xs text-text-color font-jost font-l"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "w": 31,
+            "h": 18,
+            "cls": "text-xs text-text-color font-jost font-l"
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 13,
+        "tinyTapExamples": [
+          {
+            "tag": "button",
+            "text": "See all features",
+            "w": 110,
+            "h": 21,
+            "cls": "flex items-center gap-2 text-sm font-jos"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 39,
+            "h": 18,
+            "cls": "text-xs text-text-color font-jost font-l"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "w": 31,
+            "h": 18,
+            "cls": "text-xs text-text-color font-jost font-l"
+          }
+        ]
+      }
+    ],
+    "https://flick.art/blog": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 19,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "",
+            "w": 50,
+            "h": 24,
+            "cls": "nav-logo"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 46,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "w": 30,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Docs",
+            "w": 31,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Comparisons",
+            "w": 80,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "AI Tools",
+            "w": 48,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Creative Partners",
+            "w": 105,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "MIT AI Film Hack",
+            "w": 92,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "w": 35,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 47,
+            "h": 16,
+            "cls": ""
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 20,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "",
+            "w": 50,
+            "h": 24,
+            "cls": "nav-logo"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 46,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "w": 30,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Docs",
+            "w": 31,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Comparisons",
+            "w": 80,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "AI Tools",
+            "w": 48,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Filmmaker Residency",
+            "w": 122,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Creative Partners",
+            "w": 105,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "MIT AI Film Hack",
+            "w": 92,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "w": 35,
+            "h": 16,
+            "cls": ""
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 20,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "",
+            "w": 50,
+            "h": 24,
+            "cls": "nav-logo"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 46,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "w": 30,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Docs",
+            "w": 31,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Comparisons",
+            "w": 80,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "AI Tools",
+            "w": 48,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Filmmaker Residency",
+            "w": 122,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Creative Partners",
+            "w": 105,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "MIT AI Film Hack",
+            "w": 92,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "w": 35,
+            "h": 16,
+            "cls": ""
+          }
+        ]
+      }
+    ],
+    "https://flick.art/about": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 7,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 12,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 39,
+            "h": 18,
+            "cls": "text-xs text-text-color font-jost font-l"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "w": 31,
+            "h": 18,
+            "cls": "text-xs text-text-color font-jost font-l"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 69,
+            "h": 18,
+            "cls": "text-xs text-text-color font-jost font-l"
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 12,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "",
+            "w": 20,
+            "h": 20,
+            "cls": "text-text-color hover:rotate-12 transiti"
+          },
+          {
+            "tag": "a",
+            "text": "Careers",
+            "w": 39,
+            "h": 18,
+            "cls": "text-xs text-text-color font-jost font-l"
+          },
+          {
+            "tag": "a",
+            "text": "About",
+            "w": 31,
+            "h": 18,
+            "cls": "text-xs text-text-color font-jost font-l"
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 69,
+            "h": 18,
+            "cls": "text-xs text-text-color font-jost font-l"
+          }
+        ]
+      }
+    ]
+  },
+  "duplicates": {
+    "titles": [
+      {
+        "title": "Flick — AI Filmmaking Studio | We handle AI. You direct stories.",
+        "pages": [
+          "https://flick.art/",
+          "https://flick.art/auth"
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "desc": "Direct short films with AI. Flick is an AI filmmaking studio for cinematic stori",
+        "pages": [
+          "https://flick.art/",
+          "https://flick.art/auth"
+        ]
+      }
+    ]
+  },
+  "linkStats": {
+    "fpDiscovered": 49,
+    "extDiscovered": 21,
+    "fpChecked": 49,
+    "extChecked": 21
+  },
+  "requestTotal": 940,
+  "mixedContent": []
+}

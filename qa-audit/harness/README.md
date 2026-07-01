@@ -25,3 +25,13 @@ node verify.mjs <company>    # independent curl re-verification (real sizes, fav
   failures can be egress/UA artifacts.
 - Findings are re-verified with `curl` before being reported. See the top-level README's
   _Method & caveats_ for the full exclusion list.
+
+## Pass 2 (deep dive)
+- `headers.mjs <company>` — curl-based security/best-practice headers, compression, caching,
+  TTFB, http->https + www canonicalization, cookie flags. Writes `evidence2/<key>.headers.json`.
+- `audit2.mjs <company>` — deeper Playwright crawl (12–15 pages): per-page SEO (duplicate
+  titles/descriptions, alt coverage, heading hierarchy, JSON-LD), forms inventory, desktop +
+  mobile axe, tap targets, extra breakpoints (320/390/414), third-party inventory, and page
+  text for copy analysis. Writes `evidence2/<key>.deep.json`.
+- `deep-workflow.mjs` — 5 dimension analysts/site (technical, SEO, a11y, responsive, copy) →
+  high-effort adversarial verify → append a "Deep-dive addendum" to each `audit-<key>.md`.

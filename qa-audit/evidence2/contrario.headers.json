@@ -1,0 +1,228 @@
+{
+  "key": "contrario",
+  "name": "Contrario",
+  "start": "https://www.contrario.ai/",
+  "checkedAt": "2026-07-01T08:54:07.809Z",
+  "canonicalization": {
+    "httpToHttps": {
+      "status": 308,
+      "ttfbMs": 190,
+      "httpVersion": "1.1",
+      "redirectUrl": "https://contrario.ai/",
+      "scheme": "HTTP",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "date": "Wed, 01 Jul 2026 08:54:07 GMT",
+        "location": "https://contrario.ai/",
+        "strict-transport-security": "max-age=31536000",
+        "x-content-type-options": "nosniff",
+        "transfer-encoding": "chunked"
+      },
+      "setCookies": [],
+      "redirectBlocks": 1
+    },
+    "apex": {
+      "status": 308,
+      "ttfbMs": 409,
+      "httpVersion": "2",
+      "redirectUrl": "https://www.contrario.ai/",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 01 Jul 2026 08:54:07 GMT",
+        "location": "https://www.contrario.ai/",
+        "server": "Framer/d8a9258",
+        "strict-transport-security": "max-age=31536000",
+        "x-content-type-options": "nosniff"
+      },
+      "setCookies": [],
+      "redirectBlocks": 2
+    },
+    "www": {
+      "status": 200,
+      "ttfbMs": 522,
+      "httpVersion": "2",
+      "redirectUrl": "",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-type": "text/html",
+        "date": "Wed, 01 Jul 2026 08:54:08 GMT",
+        "etag": "\"c1c051ce2e3b2cd65aca044253fe5fa4\"",
+        "last-modified": "Fri, 26 Jun 2026 01:26:52 GMT",
+        "link": "<https://framerusercontent.com>; rel=\"preconnect\", <https://framerusercontent.com>; rel=\"preconnect\"; crossorigin=\"\"",
+        "server": "Framer/d8a9258",
+        "server-timing": "region;desc=\"us-east-1\", cache;desc=\"cached\", ssg-status;desc=\"optimized\", version;desc=\"d8a9258\", route;dur=1;desc=\"id=augiA20Il&locale=default\", country;desc=\"US\"",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding, Accept",
+        "x-content-type-options": "nosniff",
+        "content-length": "601972"
+      },
+      "setCookies": [],
+      "redirectBlocks": 2
+    }
+  },
+  "pages": {
+    "https://www.contrario.ai/": {
+      "status": 200,
+      "ttfbMs": 1466,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000",
+          "x-content-type-options": "nosniff"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Framer/d8a9258",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "Accept-Encoding, Accept"
+      },
+      "cookies": []
+    },
+    "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario": {
+      "status": 200,
+      "ttfbMs": 428,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000",
+          "x-content-type-options": "nosniff"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Framer/d8a9258",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "Accept-Encoding, Accept"
+      },
+      "cookies": []
+    },
+    "https://www.contrario.ai/customers": {
+      "status": 200,
+      "ttfbMs": 494,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000",
+          "x-content-type-options": "nosniff"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Framer/d8a9258",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "Accept-Encoding, Accept"
+      },
+      "cookies": []
+    },
+    "https://www.contrario.ai/book-a-demo": {
+      "status": 200,
+      "ttfbMs": 485,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000",
+          "x-content-type-options": "nosniff"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Framer/d8a9258",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "Accept-Encoding, Accept"
+      },
+      "cookies": []
+    },
+    "https://www.contrario.ai/blogs": {
+      "status": 200,
+      "ttfbMs": 426,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000",
+          "x-content-type-options": "nosniff"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Framer/d8a9258",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "Accept-Encoding, Accept"
+      },
+      "cookies": []
+    },
+    "https://www.contrario.ai/careers": {
+      "status": 200,
+      "ttfbMs": 520,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000",
+          "x-content-type-options": "nosniff"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Framer/d8a9258",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "Accept-Encoding, Accept"
+      },
+      "cookies": []
+    }
+  },
+  "assets": {},
+  "notes": []
+}

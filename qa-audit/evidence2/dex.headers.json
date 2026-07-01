@@ -1,0 +1,263 @@
+{
+  "key": "dex",
+  "name": "Dex (Third Layer)",
+  "start": "https://www.joindex.com/",
+  "checkedAt": "2026-07-01T08:53:56.231Z",
+  "canonicalization": {
+    "httpToHttps": {
+      "status": 308,
+      "ttfbMs": 193,
+      "httpVersion": "1.1",
+      "redirectUrl": "https://joindex.com/",
+      "scheme": "HTTP",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "content-type": "text/plain",
+        "location": "https://joindex.com/",
+        "refresh": "0;url=https://joindex.com/",
+        "server": "Vercel",
+        "date": "Wed, 01 Jul 2026 08:53:56 GMT",
+        "transfer-encoding": "chunked"
+      },
+      "setCookies": [],
+      "redirectBlocks": 1
+    },
+    "apex": {
+      "status": 308,
+      "ttfbMs": 461,
+      "httpVersion": "2",
+      "redirectUrl": "https://www.joindex.com/",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-type": "text/plain",
+        "date": "Wed, 01 Jul 2026 08:53:56 GMT",
+        "location": "https://www.joindex.com/",
+        "refresh": "0;url=https://www.joindex.com/",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "x-vercel-id": "iad1::lrzd7-1782896036947-88bf2d9fc603"
+      },
+      "setCookies": [],
+      "redirectBlocks": 2
+    },
+    "www": {
+      "status": 200,
+      "ttfbMs": 874,
+      "httpVersion": "2",
+      "redirectUrl": "",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "39394",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-disposition": "inline",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 01 Jul 2026 08:53:57 GMT",
+        "etag": "\"05e2204a87eddbd4d1f541b57e886328\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-matched-path": "/",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "iad1::8q87l-1782896037798-fe2574939b69",
+        "content-length": "122245"
+      },
+      "setCookies": [],
+      "redirectBlocks": 2
+    }
+  },
+  "pages": {
+    "https://www.joindex.com/": {
+      "status": 200,
+      "ttfbMs": 335,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    },
+    "https://www.joindex.com/use-cases": {
+      "status": 200,
+      "ttfbMs": 484,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    },
+    "https://www.joindex.com/pricing": {
+      "status": 200,
+      "ttfbMs": 431,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    },
+    "https://www.joindex.com/blog": {
+      "status": 307,
+      "ttfbMs": 509,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "(none)",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    }
+  },
+  "assets": {
+    "https://www.joindex.com/landing-page-2/meeting-prep.mp4": {
+      "status": 200,
+      "ttfbMs": 508,
+      "sizeKB": 20126,
+      "contentEncoding": "(none)",
+      "cacheControl": "public, max-age=0, must-revalidate",
+      "etag": "yes",
+      "contentType": "video/mp4",
+      "immutable": false
+    },
+    "https://www.joindex.com/landing-page-2/hero-media.png": {
+      "status": 200,
+      "ttfbMs": 444,
+      "sizeKB": 4969,
+      "contentEncoding": "(none)",
+      "cacheControl": "public, max-age=0, must-revalidate",
+      "etag": "yes",
+      "contentType": "image/png",
+      "immutable": false
+    },
+    "https://www.joindex.com/_next/static/chunks/4307aa3aa08ea768.js?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j": {
+      "status": 200,
+      "ttfbMs": 456,
+      "sizeKB": 323,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": true
+    },
+    "https://www.joindex.com/_next/static/chunks/3350933b3d8989ff.js?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j": {
+      "status": 200,
+      "ttfbMs": 499,
+      "sizeKB": 67,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": true
+    },
+    "https://www.joindex.com/_next/static/chunks/036ca2f21b9195b1.js?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j": {
+      "status": 200,
+      "ttfbMs": 459,
+      "sizeKB": 40,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": true
+    },
+    "https://www.joindex.com/fonts/Aeonik%20Pro%20Full%20Family%20Website/aeonikprovf-italic.woff2": {
+      "status": 200,
+      "ttfbMs": 497,
+      "sizeKB": 105,
+      "contentEncoding": "(none)",
+      "cacheControl": "public, max-age=0, must-revalidate",
+      "etag": "yes",
+      "contentType": "font/woff2",
+      "immutable": false
+    },
+    "https://www.joindex.com/fonts/Aeonik%20Pro%20Full%20Family%20Website/aeonikprovf.woff2": {
+      "status": 200,
+      "ttfbMs": 467,
+      "sizeKB": 100,
+      "contentEncoding": "(none)",
+      "cacheControl": "public, max-age=0, must-revalidate",
+      "etag": "yes",
+      "contentType": "font/woff2",
+      "immutable": false
+    },
+    "https://www.joindex.com/_next/static/chunks/54737fa05340051c.js?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j": {
+      "status": 200,
+      "ttfbMs": 548,
+      "sizeKB": 26,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": true
+    }
+  },
+  "notes": []
+}

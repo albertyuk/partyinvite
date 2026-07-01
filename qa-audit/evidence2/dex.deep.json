@@ -1,0 +1,1949 @@
+{
+  "key": "dex",
+  "name": "Dex (Third Layer)",
+  "start": "https://www.joindex.com/",
+  "checkedAt": "2026-07-01T09:01:08.688Z",
+  "pages": {
+    "https://www.joindex.com/": {
+      "url": "https://www.joindex.com/",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/"
+      },
+      "data": {
+        "title": "Dex — The self-driving workspace for operators",
+        "titleLen": 46,
+        "metaDescription": "Dex is AI with full operational memory across your entire workspace. Every datapoint is ingested, synced, and structured into compounding context for high-leverage work.",
+        "metaDescriptionLen": 169,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "The self-drivingworkspace for operators."
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          3,
+          3,
+          3,
+          2,
+          3,
+          3,
+          2,
+          3,
+          3,
+          3,
+          3,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 22,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 1,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 10,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 2,
+        "text": "Product Use Cases Pricing Blog Join Dex The self-driving workspace for operators. Dex is AI with full operational memory across your entire workspace. Every datapoint is ingested, synced, and structured into compounding context for high-leverage work. Join Dex Install Dex, then book your onboarding call. Browser-first. Where all your work already lives. Chrome iMessage Slack Desktop SOON Dex captures the operational reality of your workspace. Then it turns that context into action. How it Works The graph holds the record. The manual holds the judgment. Operational Graph The full organizational record across your operations. Every message, meeting, deal update, and workflow event — organized into entities, relationships, timelines, and dependencies. A living source of truth of how work connects and changes over time. Knowledge Manual The evolving understanding of what currently matters. Your priorities, open loops, relationship context, SOPs, and operating principles — captured as you work, updated as things change. Explicitly editable, automatically maintained. This is where judgment lives. Autonomous Agents Create automatic agents to orchestrate across Gmail, Slack, CRM, and 20+ tools—triggered by events or schedules. Browser Control Dex acts directly in your browser to navigate tabs, fill forms, and complete work where the context already lives. Bring Your Context Anywhere Use Dex's SDK and MCP to bring your operational context into any agent, tool, or workflow. Across your favorite apps Dex connects with power apps, acting across tabs to eliminate context switching. Proactive. Self-improving. Always on. Dex learns from your corrections, approvals, edits, and repeated patterns. The more you use it, the sharper it gets. ALWAYS RUNNING Dreamer Agent Reasons 24/7 over new data. Maintains your knowledge base, spots emerging patterns, keeps your operational context current — even when you're away. WEEKLY OUTPUT Skill Builder Agent Generates custom automations and skill suggestions each week, tailored to your repeated workflows to continuously optimize your setup. Bigger than agent memory.Retrieval surfaces facts. Execution requires reasoning across past precedent, relationships, and context to inform judgment in the next moment. Your second brain. For work that used to slip through the cracks. Meeting prep with full context Before every meeting, Dex pulls your full history — emails, past calls, open commitments. Afterwards, automatically send follow-ups using call notes, and writing tone. Task triage that learns your priorities CRM updates without the data entry Dex is changing how high-leverage teams work. “For the first time, my agents actually understand the deal. Not just the CRM fields — the history, the stakeholders, the nuance. Dex gave them operational clarity I didn’t think was possible.” P Partner Mid-market PE firm “I stopped scrambling before every call. Now I simply open Dex at the side and never forget to follow up after. That alone is worth it.” F Founder B2B SaaS · Series A “Dex is what I was trying to build manually with Notion and n8n for years. It just works — and it gets better every week.” H Head of BD Growth-stage startup “Dex is my go-to tool for immediate in-browser intelligence. A delightful product from a user-obsessed team :)” V VC Theory Ventures “Dex has been a game changing tool for me to build workflows and automations, quickly, and easily within Chrome. As someone who has dabbled with numerous tools, I can confidently say Dex’s user experience (and customer support!), is incredible.” C CEO Series B “Not in your way, but always helpful. Has helped me in countless ways I can’t even imagine. Invisibly fit into my life and couldn’t be more happier. A web agent that can actually do things.” F Founder “Compared favorably to Strawberry AI and other tools. Uses it to eliminate busy work instead of hiring an EA.” F Former CEO Series B “The meeting prep alone saved me 5 hours a week. But the real magic is how it connects dots across tools I didn’t even realize were related.” C COO Series B fintech “Built automated LinkedIn → Google Sheets CRM workflow processing 275+ DM conversations.” P Power User Trusted by operators at Google, OpenAI, Goldman Sachs, Salesforce, Palantir, Meta and 10,000+ more Own your intelligence. Every interaction compounds into an asset that belongs to you alone. Talk to us about private cloud → See Privacy Policy 256-bit Encryption All data encrypted at rest and in transit. Enterprise-grade security across every layer of the stack. Private Cloud Available Deploy Dex on your own infrastructure. Full data isolation for teams that need it. Multi-factor Auth MFA enforced across all accounts. Granular permissions for every tool, data source, and integration. Full Data Control You own everything. Export, delete, or disconnect anytime. Browser memory is off by default. Get Started with Dex We’re onboarding operators who run multiple deals, work across multiple tools, and need their context to compound. Join Dex Book onboarding after install Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 27,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".hero-subcopy"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".limited-spots"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".tracking-\\[-0\\.02em\\]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 3,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".page-sections > .landing-page-gutter:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".integrations"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".landing-page-gutter:nth-child(5)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.joindex.com/use-cases": {
+      "url": "https://www.joindex.com/use-cases",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/use-cases"
+      },
+      "data": {
+        "title": "Use Case Library | Dex",
+        "titleLen": 22,
+        "metaDescription": "A library of real things people automate with Dex — across meetings, CRM, sales, recruiting, and ops.",
+        "metaDescriptionLen": 101,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Use Case Library"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 0,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 10,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 2,
+        "text": "Product Use Cases Pricing Blog Join Dex Use Case Library Real prompts people send Dex every day. Copy one, tweak it, or use it as a starting point for your own workflow. All CRM Operations Inbox Recruiting GTM & Sales Support Research Knowledge After every Gong call, update the HubSpot deal with next steps and push a summary into Slack. CRM Keep your CRM up to date from call notes Account Executive Find deals in HubSpot with no activity in the last 10 days and draft a personalized nudge for each. CRM Follow up with every customer that went quiet Account Executive When a new lead hits HubSpot, enrich them with Apollo, then score them against our ICP. CRM Enrich and score inbound leads instantly SDR Lead Flag customers with renewals coming up in 30 days and draft a renewal outreach for each. CRM Never miss a renewal again Customer Success Every Monday at 8am, summarize what shipped in Linear, what's blocked, and which customers are waiting on a reply. Operations Weekly digest from every tool Operator Diff this contract against our standard MSA in Google Drive and flag anything non-standard. Operations Red-line contract changes instantly Legal Ops Pull receipts from my Gmail for this month, categorize them, and drop a CSV into Drive. Operations Expense reports without the spreadsheet Operator At month-end, pull revenue from QuickBooks, highlights from Linear, and wins from HubSpot — then draft our investor update. Operations Draft investor updates from your work Founder Archive newsletters, draft replies to customers, and label anything from investors as Priority. Inbox Triage your inbox while you sleep Founder Pull anything from our top 50 accounts to the top of my inbox and label them VIP. Inbox Pin VIP accounts to the top of your inbox Founder Give me a 1-line summary of every email that came in overnight, grouped by sender type. Inbox One-line summaries for every new email Founder Decline meetings that conflict with my focus blocks and suggest 2 alternative times. Inbox Auto-decline meetings that break focus Operator Find 20 senior React engineers in NYC who've worked at seed-to-Series-B startups and draft outreach for each. Recruiting Source candidates and draft outreach Recruiter Schedule interviews between this candidate and three interviewers when they're all free this week. Recruiting Coordinate interview panels, zero ping-pong Recruiter Find shared contacts with this candidate and draft a reference-check message to each. Recruiting Warm-path reference outreach Recruiter Pull every candidate from our Notion tracker, enrich with Apollo, and organize them onto a single Google Sheet. Recruiting Organize every candidate onto one sheet Recruiter Every morning, scan our competitors' sites and changelogs — post anything new into Slack and our Notion tracker. GTM & Sales Daily competitor intel, hands-free Product Marketing Find deals lost in the past year for reasons like 'timing' and draft a winback email for each. GTM & Sales Re-engage lost deals with a warm winback Account Executive For SaaStr next week, brief me on every scheduled 1:1 using Apollo and recent company news. GTM & Sales Brief yourself on every conference attendee Sales Lead Draft launch emails for the new product update — one for prospects, one for customers, one for the team. GTM & Sales Launch announcements, tailored to each audience Marketing Read the newest Intercom ticket, search our docs for the answer, and draft a reply in our support voice. Support Answer support tickets from your docs Support Lead Flag any ticket mentioning cancel, refund, or churn — route to me in Slack immediately. Support Catch churn signals before they escalate Support Lead Cluster this week's support conversations by theme and share a digest in #product. Support Weekly themed feedback digest Support Lead Find questions that keep coming up in support but don't have a doc — queue them up for the docs team. Support Find the docs gaps behind repeat tickets Support Ops Every morning, scan the news for anything about our top 20 customers and our space — send me a short brief. Research Daily industry brief, in your inbox Chief of Staff Before tomorrow's meeting with Acme, pull everything public on them in the past 6 months. Research Deep-dive brief for any prospect Founder Every Friday, summarize funding, moves, and product news in our sector into a Notion page. Research Weekly sector report, in Notion Chief of Staff Watch our research Drive folder for new papers and docs, summarize each, and add them to our Notion research index. Research Build a living research library from saved docs Researcher When someone asks a question in Slack, find the relevant Notion doc and drop the link in-thread. Knowledge Pull the right doc before you need it Operator Turn this week's all-hands into a Notion doc with decisions, owners, and action items. Knowledge Turn meetings into Notion docs Chief of Staff Find Notion docs not edited in 12+ months and flag them for review. Knowledge Find and refresh stale docs Operator Build a 2-week onboarding plan for this new hire from our existing docs and team calendar. Knowledge Build a new-hire onboarding plan People Ops Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 74,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".font-normal.text-neutral-500\\/80.hover\\:text-neutral-800:nth-child(2) > span:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.02 (foreground color: #8d8d8d, background color: #f4f4f6, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".font-normal.text-neutral-500\\/80.hover\\:text-neutral-800:nth-child(3) > span:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.02 (foreground color: #8d8d8d, background color: #f4f4f6, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".font-normal.text-neutral-500\\/80.hover\\:text-neutral-800:nth-child(4) > span:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.02 (foreground color: #8d8d8d, background color: #f4f4f6, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.joindex.com/pricing": {
+      "url": "https://www.joindex.com/pricing",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/pricing"
+      },
+      "data": {
+        "title": "Pricing | Dex",
+        "titleLen": 13,
+        "metaDescription": "Dex turns your browser into a single AI workspace — one brain that knows your tasks, your context, and how to move your work forward.",
+        "metaDescriptionLen": 133,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "AI with your full operational knowledge."
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 0,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 10,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 2,
+        "text": "Product Use Cases Pricing Blog Join Dex AI with your full operational knowledge. Guided onboarding included CORE Everything you need to get started $49 /month Monthly: 1.5M credits ✓ 3 integrations syncing to context system ✓ Automation runs & background agents ✓ Personal knowledge base ✓ Dex browser extension ✓ Dex iMessage ✓ Slack bot ✓ Email support Get Started MOST POPULAR MAX For operators running real workflows $99 /month Monthly: 3M credits Everything in Core, plus: ✓ 5 integrations syncing to context system ✓ Advanced automation & agent scheduling ✓ Priority support ✓ Research preview of new features ✓ Advanced action predictions Get Started ULTRA Full power for serious operators $199 /month Monthly: 6M credits Everything in Max, plus: ✓ 15 integrations syncing to context system ✓ Custom privacy & data controls ✓ Custom features & integrations ✓ Dedicated account manager ✓ 24/7 priority support Get Started FULL SERVICE Your personal agent team, fully built for you Custom Monthly: Unlimited Everything in Ultra, plus: ✓ White-glove onboarding & full agent system setup ✓ Built and managed like a team of EAs ✓ Custom privacy architecture & data isolation ✓ Dedicated build team ✓ Ongoing optimization & agent tuning ✓ Direct line to founders Book a Call TEAMS & ENTERPRISE Shared operational intelligence for teams. We’re building AI-native operations with select design partners. Shared operational graph, custom agents, and team permissions for organizations of 3–20+ people. What we’re building: ✓ Shared context across your entire team (everyone connected) ✓ Custom agents built specifically for your workflows ✓ Team permissions + admin controls ✓ Flat rate pricing (no seat gates) For enterprise: ✓ Data preparedness for custom model fine-tuning ✓ Private cloud deployment ✓ Dedicated engineering support ✓ Guided rollout Book a call → Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 17,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".mt-3.text-\\[13px\\].text-neutral-400"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.35 (foreground color: #a1a1a1, background color: #f4f4f6, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                ".p-6.border-\\[\\#e8e8e8\\].rounded-xl:nth-child(1) > .tracking-\\[0\\.06em\\].uppercase.text-\\[13px\\]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.58 (foreground color: #a1a1a1, background color: #ffffff, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                ".p-6.border-\\[\\#e8e8e8\\].rounded-xl:nth-child(1) > .items-baseline.gap-1.mt-5 > .text-neutral-400.text-\\[14px\\]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.58 (foreground color: #a1a1a1, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 4,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".pt-40"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".pb-24:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".flex-1:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.joindex.com/blog": {
+      "url": "https://www.joindex.com/blog",
+      "primary": true,
+      "nav": {
+        "ok": false,
+        "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://www.joindex.com/blog"
+      }
+    },
+    "https://www.joindex.com/privacy": {
+      "url": "https://www.joindex.com/privacy",
+      "primary": false,
+      "nav": {
+        "ok": false,
+        "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://www.joindex.com/privacy"
+      }
+    },
+    "https://www.joindex.com/terms": {
+      "url": "https://www.joindex.com/terms",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/terms"
+      },
+      "data": {
+        "title": "Terms of Service | Dex by ThirdLayer",
+        "titleLen": 36,
+        "metaDescription": "Terms of Service for Dex - AI-powered browser assistant by ThirdLayer, Inc.",
+        "metaDescriptionLen": 75,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Terms of Service"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 0,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 10,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 1,
+        "text": "Terms of Service Date of Last Revision: April 21, 2026 ACCEPTANCE OF THESE TERMS OF SERVICE ThirdLayer, Inc. (“ThirdLayer,” “we,” “us,” or “our”) provides our services (described below) and related content to you through our website(s) located at https://joindex.com (the “Site”), and through our software, APIs, SDKs, hosted products, tools, models, and related technologies (collectively with the Site, including any beta, preview, updated, or new features, functionality and technology, the “Service”). All access and use of the Service is subject to the terms and conditions contained in these Terms of Service (as amended from time to time, these “Terms of Service”). By accessing, browsing, or otherwise using the Site or any other aspect of the Service, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you are entering into these Terms of Service on behalf of a company, business or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these Terms of Service, in which case the terms “you” or “your” will refer to such entity and its affiliates. If you do not have such authority, or if you do not agree with these Terms of Service, you must not accept these Terms of Service and may not access, browse, or otherwise use the Service. If you do not accept the terms and conditions of these Terms of Service, you will not access, browse, or otherwise use the Service. We reserve the right, at our sole discretion, to change or modify portions of these Terms of Service at any time. If we do this, we will post the changes on this page and will indicate at the top of this page the date these Terms of Service were last revised. You may read a current, effective copy of these Terms of Service by visiting the “Terms of Service” link on the Site. We will also notify you of any material changes, either through the Service user interface, a pop-up notice, email, or through other reasonable means. Your continued use of the Service after the date any such changes become effective constitutes your acceptance of the new Terms of Service. You should periodically visit this page to review the current Terms of Service so you are aware of any revisions. If you do not agree to abide by these or any future Terms of Service, you will not access, browse, or use (or continue to access, browse, or use) the Service. PLEASE READ THESE TERMS OF SERVICE CAREFULLY, AS THEY CONTAIN AN AGREEMENT TO ARBITRATE AND OTHER IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS, REMEDIES, AND OBLIGATIONS. THE AGREEMENT TO ARBITRATE REQUIRES (WITH LIMITED EXCEPTION) THAT YOU SUBMIT CLAIMS YOU HAVE AGAINST US TO BINDING AND FINAL ARBITRATION, AND FURTHER (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST THIRDLAYER ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, (2) YOU WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON AN INDIVIDUAL BASIS, AND (3) YOU MAY NOT BE ABLE TO HAVE ANY CLAIMS YOU HAVE AGAINST US RESOLVED BY A JURY OR IN A COURT OF LAW. Your Privacy: At ThirdLayer, we respect the privacy of our users. For more information please see our Privacy Policy, located at https://joindex.com/privacy-2 (the “Privacy Policy”). By using the Service, you consent to our collection, use and disclosure of personal data and other data as outlined therein. If you are an individual, our Privacy Policy will apply to you and you consent to our collection and use of personal data as outlined therein, or if you are entering into these Terms of Service on behalf of a company, business or other legal entity, our Privacy Policy will apply to you and your end users. Additional Terms: In addition, when using certain features through the Service, you will be subject to any additional terms applicable to such features that may be posted on or within the Service from time to time. All such terms are hereby incorporated by reference into these Terms of Service. ACCESS AND USE OF THE SERVICE Service Description: The Service includes browser extension software, AI assistant capabilities, APIs, SDKs, hosted services, websites, and related tools and features that ThirdLayer makes available now or in the future. Your Registration Obligations: You may be required to register with ThirdLayer or provide information about yourself (e.g., name and email address) in order to access and use certain features of the Service. If you choose to register for the Service, you agree to provide and maintain true, accurate, current, and complete information about yourself as prompted by the Service's registration form. Registration data and certain other information about you are governed by our Privacy Policy. If you are under 13 years of age, you are not authorized to use the Service, with or without registering. In addition, if you are under 18 years old, you may use the Service, with or without registering, only with the express consent of your parent or guardian, and you agree to provide true, accurate, current, and complete information as requested by ThirdLayer to confirm such express consent. To the extent you are entering into these Terms of Service on behalf of a company, business or other legal entity, you are responsible for obtaining and maintaining all required consents from your end users to allow ThirdLayer to provide the Service to you and your end users. Member Account, Password and Security: You are responsible for maintaining the confidentiality of your password and account details, if any, and are fully responsible for any and all activities that occur under your password or account. You agree to (a) immediately notify ThirdLayer of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session when accessing the Service. ThirdLayer and its current and future affiliates (collectively, “ThirdLayer Affiliates”) will not be liable for any loss or damage arising from your failure to comply with this paragraph. Modifications to Service: ThirdLayer reserves the right to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. You agree that ThirdLayer and ThirdLayer Affiliates will not be liable to you or to any third party for any modification, suspension or discontinuance of the Service. General Practices Regarding Use and Storage: You acknowledge that ThirdLayer may establish general practices and limits concerning use of the Service, including the maximum period of time that data or other content will be retained by the Service and the maximum storage space that will be allotted on ThirdLayer's or its third-party service providers' servers on your behalf. You agree that ThirdLayer has no responsibility or liability for the deletion or failure to store any data or other content maintained or uploaded by the Service. You acknowledge that ThirdLayer reserves the right to terminate accounts that are inactive for an extended period of time. You further acknowledge that ThirdLayer reserves the right to change these general practices and limits at any time, in its sole discretion, with or without notice. CONDITIONS OF ACCESS AND USE User Conduct: You are solely responsible for all code, information, data, text, software, messages, and other materials (“content”) that you make available to ThirdLayer, including by uploading, posting, publishing, or displaying (hereinafter, “upload(ing)”) via the Service or by emailing or otherwise making available to other users of the Service (collectively, “User Content”). The following are examples of the kinds of content and/or uses that are illegal or prohibited by ThirdLayer. ThirdLayer reserves the right to investigate and take appropriate legal action against anyone who, in ThirdLayer's sole discretion, violates this provision, including removing the offending content from the Service, suspending or terminating the account of such violators, and reporting the violator to law enforcement authorities. You agree to not use the Service to: Email or otherwise upload or transmit any content that (i) infringes any intellectual property or other proprietary rights of any party; (ii) you do not have a right to upload under any law or under contractual or fiduciary relationships; (iii) contains software viruses or any other computer code, files or programs designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment; (iv) poses or creates a privacy or security risk to any person; (v) constitutes unsolicited or unauthorized advertising, promotional materials, commercial activities and/or sales, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” “contests,” “sweepstakes,” or any other form of solicitation; (vi) is unlawful, harmful, threatening, abusive, harassing"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 2,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".flex-col.gap-5.flex:nth-child(1) > .text-neutral-400.text-base"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.58 (foreground color: #a1a1a1, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".flex-col.gap-5.flex:nth-child(2) > .text-neutral-400.text-base"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.58 (foreground color: #a1a1a1, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.joindex.com/use-cases/crm-update-from-calls": {
+      "url": "https://www.joindex.com/use-cases/crm-update-from-calls",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/use-cases/crm-update-from-calls"
+      },
+      "data": {
+        "title": "Keep your CRM up to date from call notes | Dex",
+        "titleLen": 46,
+        "metaDescription": "Sales reps spend hours each week logging calls. Dex listens for new Gong recordings, pulls the transcript, writes a crisp summary with action items, updates the",
+        "metaDescriptionLen": 160,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Keep your CRM up to date from call notes"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 3,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 10,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 2,
+        "text": "Product Use Cases Pricing Blog Join Dex ← Back to Use Case Library CRM Keep your CRM up to date from call notes Example prompt from Account Executive After every Gong call, update the HubSpot deal with next steps and push a summary into Slack. Account Executive Sales reps spend hours each week logging calls. Dex listens for new Gong recordings, pulls the transcript, writes a crisp summary with action items, updates the matching HubSpot deal, and drops a TL;DR in the #deals Slack channel — all without you lifting a finger. How Dex does it 1 Watch for new Gong calls tagged as a customer meeting 2 Pull the transcript and identify the deal it belongs to in HubSpot 3 Write a 3-bullet summary with next steps and timeline 4 Update the HubSpot deal's Notes and Next Step fields 5 Post the summary to #deals in Slack with a link to the call Want this running for you? Install Dex and paste this prompt to get started. Get Dex MORE IN CRM Follow up with every customer that went quiet Account Executive Enrich and score inbound leads instantly SDR Lead Never miss a renewal again Customer Success APP INTEGRATIONS Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 11,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".text-neutral-500.text-sm[href$=\"use-cases\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".md\\:text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.95 (foreground color: #b1b1b2, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".mb-10.text-neutral-500.text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.joindex.com/use-cases/customer-followups": {
+      "url": "https://www.joindex.com/use-cases/customer-followups",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/use-cases/customer-followups"
+      },
+      "data": {
+        "title": "Follow up with every customer that went quiet | Dex",
+        "titleLen": 51,
+        "metaDescription": "Quiet deals die. Dex sweeps your pipeline for deals with no recent activity, re-reads the most recent email thread and call notes, and drafts a personalized fol",
+        "metaDescriptionLen": 160,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Follow up with every customer that went quiet"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 3,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 10,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 2,
+        "text": "Product Use Cases Pricing Blog Join Dex ← Back to Use Case Library CRM Follow up with every customer that went quiet Example prompt from Account Executive Find deals in HubSpot with no activity in the last 10 days and draft a personalized nudge for each. Account Executive Quiet deals die. Dex sweeps your pipeline for deals with no recent activity, re-reads the most recent email thread and call notes, and drafts a personalized follow-up for each — in your voice, ready for one-click send from Gmail. How Dex does it 1 Query HubSpot for open deals with no activity in the last 10 days 2 For each deal, read the last email thread and most recent call notes 3 Draft a short, specific follow-up that references the last conversation 4 Save the draft in Gmail and share a link to review Want this running for you? Install Dex and paste this prompt to get started. Get Dex MORE IN CRM Keep your CRM up to date from call notes Account Executive Enrich and score inbound leads instantly SDR Lead Never miss a renewal again Customer Success APP INTEGRATIONS Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 11,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".text-neutral-500.text-sm[href$=\"use-cases\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".md\\:text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.95 (foreground color: #b1b1b2, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".mb-10.text-neutral-500.text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.joindex.com/use-cases/enrich-inbound-leads": {
+      "url": "https://www.joindex.com/use-cases/enrich-inbound-leads",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/use-cases/enrich-inbound-leads"
+      },
+      "data": {
+        "title": "Enrich and score inbound leads instantly | Dex",
+        "titleLen": 46,
+        "metaDescription": "Inbound leads need to be worked fast — but manual enrichment slows everything down. Dex watches HubSpot for new contacts, enriches each one via Apollo (title, t",
+        "metaDescriptionLen": 160,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Enrich and score inbound leads instantly"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 2,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 10,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 2,
+        "text": "Product Use Cases Pricing Blog Join Dex ← Back to Use Case Library CRM Enrich and score inbound leads instantly Example prompt from SDR Lead When a new lead hits HubSpot, enrich them with Apollo, then score them against our ICP. SDR Lead Inbound leads need to be worked fast — but manual enrichment slows everything down. Dex watches HubSpot for new contacts, enriches each one via Apollo (title, tenure, company headcount, tech stack), scores them against your ICP, and updates the record before your team even sees it in their queue. How Dex does it 1 Watch HubSpot for newly created contacts 2 Enrich via Apollo with title, tenure, and company data 3 Score against your ICP definition 4 Update the HubSpot record with enrichment fields and a lead score Want this running for you? Install Dex and paste this prompt to get started. Get Dex MORE IN CRM Keep your CRM up to date from call notes Account Executive Follow up with every customer that went quiet Account Executive Never miss a renewal again Customer Success APP INTEGRATIONS Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 11,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".text-neutral-500.text-sm[href$=\"use-cases\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".md\\:text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.95 (foreground color: #b1b1b2, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".mb-10.text-neutral-500.text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.joindex.com/use-cases/renewal-tracker": {
+      "url": "https://www.joindex.com/use-cases/renewal-tracker",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/use-cases/renewal-tracker"
+      },
+      "data": {
+        "title": "Never miss a renewal again | Dex",
+        "titleLen": 32,
+        "metaDescription": "Renewal windows are easy to miss when they're scattered across dozens of deals. Dex scans HubSpot for upcoming renewals, pulls the account's recent activity and",
+        "metaDescriptionLen": 160,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Never miss a renewal again"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 3,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 10,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 2,
+        "text": "Product Use Cases Pricing Blog Join Dex ← Back to Use Case Library CRM Never miss a renewal again Example prompt from Customer Success Flag customers with renewals coming up in 30 days and draft a renewal outreach for each. Customer Success Renewal windows are easy to miss when they're scattered across dozens of deals. Dex scans HubSpot for upcoming renewals, pulls the account's recent activity and health signals, and drafts a renewal email tuned to each customer's situation. How Dex does it 1 Find HubSpot deals with renewal dates in the next 30 days 2 Pull recent usage data, support tickets, and call notes per account 3 Flag at-risk accounts based on activity and sentiment 4 Draft a renewal email tuned to each account's situation Want this running for you? Install Dex and paste this prompt to get started. Get Dex MORE IN CRM Keep your CRM up to date from call notes Account Executive Follow up with every customer that went quiet Account Executive Enrich and score inbound leads instantly SDR Lead APP INTEGRATIONS Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 11,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".text-neutral-500.text-sm[href$=\"use-cases\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".md\\:text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.95 (foreground color: #b1b1b2, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".mb-10.text-neutral-500.text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.joindex.com/use-cases/weekly-digest": {
+      "url": "https://www.joindex.com/use-cases/weekly-digest",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/use-cases/weekly-digest"
+      },
+      "data": {
+        "title": "Weekly digest from every tool | Dex",
+        "titleLen": 35,
+        "metaDescription": "Instead of hunting across five tools on Monday morning, Dex assembles your week. It pulls closed tickets from Linear, flags anything blocked, scans your inbox f",
+        "metaDescriptionLen": 160,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Weekly digest from every tool"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 3,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 10,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 2,
+        "text": "Product Use Cases Pricing Blog Join Dex ← Back to Use Case Library Operations Weekly digest from every tool Example prompt from Operator Every Monday at 8am, summarize what shipped in Linear, what's blocked, and which customers are waiting on a reply. Operator Instead of hunting across five tools on Monday morning, Dex assembles your week. It pulls closed tickets from Linear, flags anything blocked, scans your inbox for customer messages without replies, and drops a single digest in your inbox before you log on. How Dex does it 1 Pull all Linear issues closed in the last 7 days 2 Identify anything tagged blocked or idle for 3+ days 3 Scan Gmail for customer threads awaiting your reply 4 Draft a single-page digest and send it to yourself by 8am Monday Want this running for you? Install Dex and paste this prompt to get started. Get Dex MORE IN OPERATIONS Red-line contract changes instantly Legal Ops Expense reports without the spreadsheet Operator Draft investor updates from your work Founder APP INTEGRATIONS Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 11,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".text-neutral-500.text-sm[href$=\"use-cases\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".md\\:text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.95 (foreground color: #b1b1b2, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".mb-10.text-neutral-500.text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.joindex.com/use-cases/contract-diff": {
+      "url": "https://www.joindex.com/use-cases/contract-diff",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/use-cases/contract-diff"
+      },
+      "data": {
+        "title": "Red-line contract changes instantly | Dex",
+        "titleLen": 41,
+        "metaDescription": "Counter-signed contracts usually include dozens of silent redlines. Dex pulls your canonical MSA from Drive, compares it against the counterparty's version, and",
+        "metaDescriptionLen": 160,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Red-line contract changes instantly"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 2,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 10,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 2,
+        "text": "Product Use Cases Pricing Blog Join Dex ← Back to Use Case Library Operations Red-line contract changes instantly Example prompt from Legal Ops Diff this contract against our standard MSA in Google Drive and flag anything non-standard. Legal Ops Counter-signed contracts usually include dozens of silent redlines. Dex pulls your canonical MSA from Drive, compares it against the counterparty's version, and produces a clean list of material differences grouped by risk level — so you know exactly what needs legal review. How Dex does it 1 Pull your standard MSA from Google Drive 2 Diff the incoming contract section-by-section 3 Group differences by risk: critical, notable, boilerplate 4 Produce a short memo with clause references and suggested language Want this running for you? Install Dex and paste this prompt to get started. Get Dex MORE IN OPERATIONS Weekly digest from every tool Operator Expense reports without the spreadsheet Operator Draft investor updates from your work Founder APP INTEGRATIONS Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 11,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".text-neutral-500.text-sm[href$=\"use-cases\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".md\\:text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.95 (foreground color: #b1b1b2, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".mb-10.text-neutral-500.text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.joindex.com/use-cases/expense-reports": {
+      "url": "https://www.joindex.com/use-cases/expense-reports",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/use-cases/expense-reports"
+      },
+      "data": {
+        "title": "Expense reports without the spreadsheet | Dex",
+        "titleLen": 45,
+        "metaDescription": "Stop hunting for receipts. Dex scans your inbox for transactional emails, extracts the date, vendor, and amount, assigns a category, and lands a ready-to-upload",
+        "metaDescriptionLen": 160,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Expense reports without the spreadsheet"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 2,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 10,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 2,
+        "text": "Product Use Cases Pricing Blog Join Dex ← Back to Use Case Library Operations Expense reports without the spreadsheet Example prompt from Operator Pull receipts from my Gmail for this month, categorize them, and drop a CSV into Drive. Operator Stop hunting for receipts. Dex scans your inbox for transactional emails, extracts the date, vendor, and amount, assigns a category, and lands a ready-to-upload CSV in your finance folder in Drive. How Dex does it 1 Search Gmail for receipt and invoice emails this month 2 Extract vendor, date, amount, and payment method 3 Assign each expense to the right category 4 Export a CSV to Google Drive in the Finance folder Want this running for you? Install Dex and paste this prompt to get started. Get Dex MORE IN OPERATIONS Weekly digest from every tool Operator Red-line contract changes instantly Legal Ops Draft investor updates from your work Founder APP INTEGRATIONS Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 11,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".text-neutral-500.text-sm[href$=\"use-cases\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".md\\:text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.95 (foreground color: #b1b1b2, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".mb-10.text-neutral-500.text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.joindex.com/use-cases/investor-update": {
+      "url": "https://www.joindex.com/use-cases/investor-update",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/use-cases/investor-update"
+      },
+      "data": {
+        "title": "Draft investor updates from your work | Dex",
+        "titleLen": 43,
+        "metaDescription": "Your investor update writes itself. Dex pulls revenue and runway from QuickBooks, top shipped features from Linear, new logos from HubSpot, and drafts a narrati",
+        "metaDescriptionLen": 160,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Draft investor updates from your work"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 4,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 10,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 2,
+        "text": "Product Use Cases Pricing Blog Join Dex ← Back to Use Case Library Operations Draft investor updates from your work Example prompt from Founder At month-end, pull revenue from QuickBooks, highlights from Linear, and wins from HubSpot — then draft our investor update. Founder Your investor update writes itself. Dex pulls revenue and runway from QuickBooks, top shipped features from Linear, new logos from HubSpot, and drafts a narrative update in your usual voice — complete with asks. How Dex does it 1 Pull revenue, expenses, and runway from QuickBooks 2 List top 3 shipped initiatives from Linear 3 Pull new closed-won deals from HubSpot 4 Draft the update with KPI section, highlights, lowlights, and asks Want this running for you? Install Dex and paste this prompt to get started. Get Dex MORE IN OPERATIONS Weekly digest from every tool Operator Red-line contract changes instantly Legal Ops Expense reports without the spreadsheet Operator APP INTEGRATIONS Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 11,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".text-neutral-500.text-sm[href$=\"use-cases\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".md\\:text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.95 (foreground color: #b1b1b2, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".mb-10.text-neutral-500.text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.joindex.com/use-cases/inbox-triage": {
+      "url": "https://www.joindex.com/use-cases/inbox-triage",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.joindex.com/use-cases/inbox-triage"
+      },
+      "data": {
+        "title": "Triage your inbox while you sleep | Dex",
+        "titleLen": 39,
+        "metaDescription": "Wake up to an inbox that's already been processed. Dex archives marketing noise, drafts replies to customer threads based on your previous answers, and flags an",
+        "metaDescriptionLen": 160,
+        "canonical": null,
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Triage your inbox while you sleep"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 1,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 10,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 2,
+        "text": "Product Use Cases Pricing Blog Join Dex ← Back to Use Case Library Inbox Triage your inbox while you sleep Example prompt from Founder Archive newsletters, draft replies to customers, and label anything from investors as Priority. Founder Wake up to an inbox that's already been processed. Dex archives marketing noise, drafts replies to customer threads based on your previous answers, and flags anything from investors as Priority — all before your first coffee. How Dex does it 1 Classify every new message: newsletter, customer, investor, team, other 2 Archive newsletters and promos automatically 3 Label investor messages as Priority 4 Draft replies to customers using prior threads as style and context Want this running for you? Install Dex and paste this prompt to get started. Get Dex MORE IN INBOX Pin VIP accounts to the top of your inbox Founder One-line summaries for every new email Founder Auto-decline meetings that break focus Operator APP INTEGRATIONS Socials Discord LinkedIn Instagram X/Twitter ThirdLayer, Inc. @ 2026 Terms of Use Privacy Policy Contact"
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 11,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".text-neutral-500.text-sm[href$=\"use-cases\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".md\\:text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.95 (foreground color: #b1b1b2, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".mb-10.text-neutral-500.text-sm"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "url": "https://www.joindex.com/",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/pricing",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/pricing",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/blog",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/blog/topic/all-posts",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/privacy",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/privacy-2",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/terms",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/terms",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/crm-update-from-calls",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/crm-update-from-calls",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/use-cases/customer-followups",
+        "https://www.joindex.com/use-cases/enrich-inbound-leads"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/customer-followups",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/customer-followups",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/use-cases/crm-update-from-calls",
+        "https://www.joindex.com/use-cases/enrich-inbound-leads"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/enrich-inbound-leads",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/enrich-inbound-leads",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/use-cases/crm-update-from-calls",
+        "https://www.joindex.com/use-cases/customer-followups"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/renewal-tracker",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/renewal-tracker",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/use-cases/crm-update-from-calls",
+        "https://www.joindex.com/use-cases/customer-followups"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/weekly-digest",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/weekly-digest",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/use-cases/contract-diff",
+        "https://www.joindex.com/use-cases/expense-reports"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/contract-diff",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/contract-diff",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/use-cases/weekly-digest",
+        "https://www.joindex.com/use-cases/expense-reports"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/expense-reports",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/expense-reports",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/use-cases/weekly-digest",
+        "https://www.joindex.com/use-cases/contract-diff"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/investor-update",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/investor-update",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/use-cases/weekly-digest",
+        "https://www.joindex.com/use-cases/contract-diff"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/inbox-triage",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/inbox-triage",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/vip-priority-sort",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/vip-priority-sort",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/use-cases/inbox-triage"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/inbox-summary-morning",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/inbox-summary-morning",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/use-cases/inbox-triage"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/meeting-invite-triage",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/meeting-invite-triage",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/use-cases/inbox-triage"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/candidate-sourcing",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/candidate-sourcing",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/interview-scheduling",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/interview-scheduling",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/reference-check-drafts",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/reference-check-drafts",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/candidate-tracker-sheet",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/candidate-tracker-sheet",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/competitor-intel",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/competitor-intel",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/lost-deal-winback",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/lost-deal-winback",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/event-prep-briefs",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/event-prep-briefs",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/product-launch-announce",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/product-launch-announce",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/support-ticket-replies",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/support-ticket-replies",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/escalation-detection",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/escalation-detection",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/customer-feedback-digest",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/customer-feedback-digest",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/docs-gap-finder",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/docs-gap-finder",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/daily-industry-brief",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/daily-industry-brief",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/prospect-deep-dive",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/prospect-deep-dive",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/weekly-sector-report",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/weekly-sector-report",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/research-library-index",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/research-library-index",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/notion-knowledge-lookup",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/notion-knowledge-lookup",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/meeting-to-wiki",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/meeting-to-wiki",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/stale-doc-cleanup",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/stale-doc-cleanup",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://www.joindex.com/use-cases/onboarding-tour-builder",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/use-cases/onboarding-tour-builder",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/use-cases"
+      ]
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/dex/ignaljemchdlmoimaliinmonecgbdnkk",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://chromewebstore.google.com/detail/dex/ignaljemchdlmoimaliinmonecgbdnkk",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ]
+    },
+    {
+      "url": "https://cal.com/thirdlayer-inc/dex-onboarding",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://cal.com/thirdlayer-inc/dex-onboarding",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/pricing"
+      ]
+    },
+    {
+      "url": "https://discord.gg/TYzCjwsTnT",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://discord.com/invite/TYzCjwsTnT",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/company/thirdlayerinc/",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/company/joindex",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ]
+    },
+    {
+      "url": "https://www.instagram.com/dexbythirdlayer/",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/dexbythirdlayer/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ]
+    },
+    {
+      "url": "https://x.com/dexbythirdlayer",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://x.com/dexbythirdlayer",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.joindex.com/",
+        "https://www.joindex.com/use-cases",
+        "https://www.joindex.com/pricing"
+      ]
+    }
+  ],
+  "forms": [],
+  "thirdParty": [
+    {
+      "host": "assets.pipedream.net",
+      "requests": 16
+    },
+    {
+      "host": "pipedream.com",
+      "requests": 7
+    },
+    {
+      "host": "icfntnlzhkcstglvgigy.supabase.co",
+      "requests": 3
+    }
+  ],
+  "mobileAxe": {
+    "https://www.joindex.com/": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 26,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".hero-subcopy"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+          },
+          {
+            "target": [
+              ".limited-spots"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 4.31 (foreground color: #737373, background color: #f4f4f6, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+          },
+          {
+            "target": [
+              ".bg-neutral-100"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 2.36 (foreground color: #a1a1a1, background color: #f5f5f5, font size: 6.8pt (9px), font weight: normal). Expected contrast ratio o"
+          }
+        ]
+      },
+      {
+        "id": "landmark-one-main",
+        "impact": "moderate",
+        "count": 1,
+        "help": "Document should have one main landmark",
+        "nodes": [
+          {
+            "target": [
+              "html"
+            ],
+            "summary": "Fix all of the following: Document does not have a main landmark"
+          }
+        ]
+      },
+      {
+        "id": "region",
+        "impact": "moderate",
+        "count": 3,
+        "help": "All page content should be contained by landmarks",
+        "nodes": [
+          {
+            "target": [
+              ".page-sections > .landing-page-gutter:nth-child(1)"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          },
+          {
+            "target": [
+              ".integrations"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          },
+          {
+            "target": [
+              ".landing-page-gutter:nth-child(5)"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "https://www.joindex.com/use-cases": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 74,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".font-normal.text-neutral-500\\/80.hover\\:text-neutral-800:nth-child(2) > span:nth-child(2)"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.02 (foreground color: #8d8d8d, background color: #f4f4f6, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio"
+          },
+          {
+            "target": [
+              ".font-normal.text-neutral-500\\/80.hover\\:text-neutral-800:nth-child(3) > span:nth-child(2)"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.02 (foreground color: #8d8d8d, background color: #f4f4f6, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio"
+          },
+          {
+            "target": [
+              ".font-normal.text-neutral-500\\/80.hover\\:text-neutral-800:nth-child(4) > span:nth-child(2)"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.02 (foreground color: #8d8d8d, background color: #f4f4f6, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio"
+          }
+        ]
+      }
+    ],
+    "https://www.joindex.com/pricing": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 17,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".mt-3.text-\\[13px\\].text-neutral-400"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 2.35 (foreground color: #a1a1a1, background color: #f4f4f6, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              ".p-6.border-\\[\\#e8e8e8\\].rounded-xl:nth-child(1) > .tracking-\\[0\\.06em\\].uppercase.text-\\[13px\\]"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 2.58 (foreground color: #a1a1a1, background color: #ffffff, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              ".p-6.border-\\[\\#e8e8e8\\].rounded-xl:nth-child(1) > .items-baseline.gap-1.mt-5 > .text-neutral-400.text-\\[14px\\]"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 2.58 (foreground color: #a1a1a1, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+          }
+        ]
+      }
+    ]
+  },
+  "responsiveExtra": {
+    "https://www.joindex.com/": [
+      {
+        "width": 320,
+        "overflowPx": 82,
+        "tinyTapCount": 3,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Product",
+            "w": 53,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 45,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "w": 29,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": 47,
+        "tinyTapCount": 3,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Product",
+            "w": 53,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 45,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "w": 29,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": 35,
+        "tinyTapCount": 3,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Product",
+            "w": 53,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 45,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "w": 29,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          }
+        ]
+      }
+    ],
+    "https://www.joindex.com/use-cases": [
+      {
+        "width": 320,
+        "overflowPx": -15,
+        "tinyTapCount": 3,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Product",
+            "w": 53,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 45,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "w": 29,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": -15,
+        "tinyTapCount": 3,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Product",
+            "w": 53,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 45,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "w": 29,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": -15,
+        "tinyTapCount": 3,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Product",
+            "w": 53,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 45,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "w": 29,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          }
+        ]
+      }
+    ],
+    "https://www.joindex.com/pricing": [
+      {
+        "width": 320,
+        "overflowPx": -15,
+        "tinyTapCount": 3,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Product",
+            "w": 53,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 45,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "w": 29,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": -15,
+        "tinyTapCount": 3,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Product",
+            "w": 53,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 45,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "w": 29,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": -15,
+        "tinyTapCount": 3,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Product",
+            "w": 53,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 45,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          },
+          {
+            "tag": "a",
+            "text": "Blog",
+            "w": 29,
+            "h": 23,
+            "cls": "cursor-pointer transition-opacity hover:"
+          }
+        ]
+      }
+    ]
+  },
+  "duplicates": {
+    "titles": [],
+    "descriptions": []
+  },
+  "linkStats": {
+    "fpDiscovered": 38,
+    "extDiscovered": 6,
+    "fpChecked": 38,
+    "extChecked": 6
+  },
+  "requestTotal": 635,
+  "mixedContent": []
+}
