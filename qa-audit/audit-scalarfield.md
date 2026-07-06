@@ -138,3 +138,65 @@ _A second, deeper pass: full-site crawl, security/best-practice headers, forms, 
 - **What & where:** The home hero sub-paragraph spells the brand as one word — `https://scalarfield.io/` — home hero sub-paragraph beginning "ScalarField helps traders turn market ideas into AI agents…".
 - **Evidence:** `scalarfield.deep.json` `pages['/'].data.text` contains exactly "ScalarField helps traders turn market ideas into AI agents that analyze data". Across all pages the capitalized one-word "ScalarField" occurs once, versus 114 occurrences of two-word "Scalar Field" (legal entity is "Scalar Field, Inc."). New.
 - **Fix:** Change "ScalarField helps traders…" to "Scalar Field helps traders…".
+
+## Re-audit (2026-07-06)
+_Full fresh capture 2026-07-06; every prior finding re-verified, plus new checks (sitemap URL sampling, canonical targets, social-preview images, rel=noopener, duplicate IDs)._
+
+**Prior findings — status:**
+
+| Finding | Severity | Status | Note |
+|---|---|---|---|
+| home button-name x2 + strategy textarea label | Major | STILL_TRUE | Fresh deep axe (2026-07-06): button-name (critical) count=2 on same targets `.group.p-2.rounded-md` and `button[aria-controls="radix-_r_7_"]`; label (critical) count=1 on textarea (no implicit/explicit label, empty aria-label). forms[] still shows textarea and file input labeled:false. evidence2/scalarfield.deep.json pages['https://scalarfield.io/'].axe |
+| agentic-etfs unlabeled icon button + color-contrast x26 | Major | STILL_TRUE | Fresh deep axe: button-name (critical) count=1 on `.p-1\.5` and color-contrast (serious) count=26 with identical sample (ratio 2.07, #a8b4b5 on #fcfcf9, 12px, .text-quietest tokens). evidence2/scalarfield.deep.json pages['/agentic-etfs'] |
+| docs/market-data aria-hidden-focus blockquote x5 pages | Major | STILL_TRUE | Fresh deep axe: aria-hidden-focus (serious) count=1 on target ['blockquote'] on all 5 pages (options-quotes, equity-ohlcv, earnings, insider-trades, institutional-holdings) — "Focusable content should have tabindex=\"-1\" or be removed from the DOM". Pages loaded and axe ran (implies 200). |
+| legal-template body contrast 64/59/60/57 nodes at 2.92:1 | Major | STILL_TRUE | Fresh deep axe color-contrast (serious) counts identical to prior: terms-of-use 64, privacy 59, cybersecurity-policy 60, ai-disclosure 57; same measurement (2.92, #899a9d on #ffffff, 18px, `.pt-0 > div:nth-child(2)`). extras.json sampled terms-of-use and cybersecurity-policy live 200. |
+| hero badge "Backed by Combinator" missing Y | Minor | STILL_TRUE | diff.json copyStrings: "Backed by Combinator" wasPresent:true stillPresent:true; fresh home text contains "Ultra Backed by Combinator One platform"; "Y Combinator" still occurs 0 times in visible text across all 13 captured pages. |
+| one-word "ScalarField helps traders" brand inconsistency | Minor | STILL_TRUE | diff.json copyStrings: "ScalarField helps traders" stillPresent:true; fresh visible-text counts: one-word "ScalarField" 1 occurrence vs two-word "Scalar Field" 114 occurrences — identical to prior. |
+| shared logo img missing alt site-wide (home + 7 interior) | Minor | CHANGED | Home instance is fixed: fresh pass-1 home imgMissingAltCount=0/80 (old pass-1 was 1/81 listing scalarfield-logo.png); but the 7 interior pages still miss it — fresh deep imgMissingAlt: pricing 1/31 (pass-1 confirms it is d32mg6h25qsrpf.cloudfront.net/general_assets/scalarfield-logo.png), agentic-etfs 1/12, ai-agentic-trading 1/1, and all four legal pages 1/1. Scope narrowed from 8 pages to 7. |
+| home hero sub-headline + react-typed contrast 2.95/1.98 | Minor | STILL_TRUE | Fresh home axe color-contrast (serious) count=2, identical targets and ratios: `.text-xl.font-normal.text-muted` at 2.95 (#89999d on #ffffff) and `span[data-testid="react-typed"] > span` at 1.98 (#b8b8b8 on #ffffff). |
+| 4 legal pages zero headings / no H1 | Minor | STILL_TRUE | Fresh deep data: terms-of-use, privacy, cybersecurity-policy, ai-disclosure all h1Count=0 and headingLevels=[]; axe page-has-heading-one (moderate) count=1 fires on all four — identical to prior. |
+| docs/market-data multiple h1 per page (3-5) | Minor | STILL_TRUE | Fresh deep h1Count identical: insider-trades 5, options-quotes 4, equity-ohlcv 4, institutional-holdings 4, earnings 3 — every /docs/market-data/* page still has 3-5 H1s. |
+| heading skip H1->H3 on /pricing and /agentic-etfs | Minor | STILL_TRUE | Fresh deep: pricing headingLevels=[1,3,3,3,2], agentic-etfs=[1,3,3,3,3,3,3,3,3,3,3,3], both headingHierarchyOk=false; axe heading-order (moderate) count=1 on each — identical to prior. |
+| meta descriptions 162-238 chars on 6 pages | Minor | STILL_TRUE | Fresh metaDescriptionLen identical on all six: home 190, /ai-agentic-trading 162, options-quotes 206, equity-ohlcv 167, insider-trades 238, institutional-holdings 215; diff.json metaChanges=[]. |
+| marketing pages missing CSP/XFO/XCTO/Referrer/Permissions headers | Minor | STILL_TRUE | Fresh headers.json: / and /pricing security.missing = [content-security-policy, x-frame-options, x-content-type-options, referrer-policy, permissions-policy, x-xss-protection], present only HSTS + COOP; /docs still ships CSP + X-Frame-Options — same asymmetry as prior. |
+| sub-24px tap targets home footer + pricing links | Minor | STILL_TRUE | Fresh responsiveExtra: home tinyTapCount=12 at 320/390/414 (footer links h=16 e.g. Docs 31x16, Discord 47x16, Terms of Service 108x16; one 14x14 button), pricing 14 at 320 and 15 at 390/414; all overflowPx=0 — identical to prior. |
+| docs pages no robots meta + only WebSite JSON-LD | Minor | STILL_TRUE | Fresh deep: all five /docs/market-data/* pages robotsMeta=None and jsonld=['WebSite'] (count 1), while marketing pages carry "index, follow" + 3-6 JSON-LD blocks — unchanged. |
+| pricing mobile-only contrast failures (9 mobile vs 5 desktop) | Minor | CHANGED | Muted-token contrast failures persist on /pricing (mobileAxe color-contrast count=9 at 2.92 #899a9d on #ffffff, same nodes), but desktop axe now also reports 9 (was 5; diff.json axeChanges pricing color-contrast old 5 -> new 9), so the defect is no longer mobile-only — it is now a viewport-independent contrast failure with the same muted-token root cause. |
+| no main landmark / content outside landmarks (home, pricing, interior) | Minor | STILL_TRUE | Fresh deep axe: landmark-one-main (moderate) count=1 on home, pricing, agentic-etfs, and all four legal pages; region (moderate) home 20 (same as prior), pricing 76 (was 74), agentic-etfs 44, legal 11-16 — pattern unchanged. Note: deep-nav failures on /docs and www:/legal are capture artifacts — both live-verified 200 via curl (docs -> /docs/introduction 200; /legal 200). |
+
+**New findings (2026-07-06):**
+
+### 15. 33 target="_blank" links lack rel="noopener" (reverse-tabnabbing hardening) across all 13 captured pages
+- **Severity:** Minor
+- **Type:** Suggestion (security / best practice)
+- **What & where:** Site-wide rendered DOM — `https://scalarfield.io/` (11), `/pricing` (5), `/ai-agentic-trading` (6), `/agentic-etfs` (2), 4 legal pages (1 each), 5 docs/market-data pages (1 each).
+- **Evidence:** Fresh deep-crawl blankNoopener (2026-07-06): 33 total, per-page counts verified in `evidence2/scalarfield.deep.json` (home examples: ycombinator.com launch post, calendly.com/aman-dvds/30min, blogs.scalarfield.io; pricing: blog.scalarfield.io, discord.gg/rhW3BBaWzx, x.com/scalar_field_). Live-verified 2026-07-06: /agentic-etfs served HTML contains exactly 2 target=_blank anchors (Discord, X) with no rel attribute; homepage server HTML has 0 such anchors (they are client-injected), so most instances are rendered-DOM-only. Caveats: ~9 of the 33 are mailto: or same-origin links where tabnabbing is not a risk, and modern browsers imply noopener for target=_blank — impact is legacy-browser hardening plus lint/best-practice hygiene.
+- **Fix:** Add `rel="noopener noreferrer"` in the shared external-link component so every `target="_blank"` anchor gets it (one change in the Next.js link wrapper covers all instances).
+
+### 16. Duplicate element ID "SVGRepo_iconCarrier" on /agentic-etfs (invalid HTML)
+- **Severity:** Minor
+- **Type:** Bug (HTML validity)
+- **What & where:** `https://scalarfield.io/agentic-etfs` — two inline SVGs.
+- **Evidence:** Fresh deep-crawl dupIds: `{"count": 1, "examples": ["SVGRepo_iconCarrier x2"]}`; live-verified 2026-07-06: grep of the served HTML returns exactly 2 occurrences of `id="SVGRepo_iconCarrier"`. The ID is boilerplate from SVGRepo icon exports; duplicate IDs break getElementById/ARIA references and fail HTML validation. Not present in prior reports; no other page shows dupIds.
+- **Fix:** Strip the `SVGRepo_*` id attributes from the pasted SVGRepo icons, or make them unique per instance.
+
+### 17. "Open AI GPT-5.4" misspells the OpenAI brand on the agentic-ETFs listing
+- **Severity:** Minor
+- **Type:** Bug (copy/branding)
+- **What & where:** `https://scalarfield.io/agentic-etfs` — strategy card "Open AI GPT-5.4 Multi-Signal S&P 500 Portfolio".
+- **Evidence:** Live-verified 2026-07-06: served HTML contains "Open AI GPT-5.4 Multi-Signal S&P 500 Portfolio" (6 occurrences incl. RSC payload); also in fresh deep.json `pages['/agentic-etfs'].data.text`. The brand is one word, "OpenAI". Present in the 07-01 capture too but missed by the prior audit. Caveat / needs manual review on ownership: strategy names on this page may be user-generated, so the fix surface may be curation/moderation of featured strategy titles rather than site copy.
+- **Fix:** Rename the strategy card to "OpenAI GPT-5.4 Multi-Signal S&P 500 Portfolio" (or normalize brand spellings in curated/featured strategy titles).
+
+### 18. Grammar error in the AI Disclosure compliance page: "Any information on potential returns are projections"
+- **Severity:** Minor
+- **Type:** Bug (copy/grammar)
+- **What & where:** `https://scalarfield.io/ai-disclosure` — Hypothetical and Historical Analysis section (before "9. USER RESPONSIBILITY").
+- **Evidence:** Live-verified 2026-07-06: served HTML contains the exact sentence "Any information on potential returns are projections, not guarantees." — subject-verb disagreement ("information … are"). Also verbatim in fresh deep.json `pages['/ai-disclosure'].data.text`. Not in prior reports. Notable because it sits in an SEC-adviser-style compliance document where copy precision matters.
+- **Fix:** Change to "Any information on potential returns is a projection, not a guarantee."
+
+### 19. Footers link to two different blog properties: first-party blogs.scalarfield.io (home) vs Medium blog.scalarfield.io (pricing) — needs manual review
+- **Severity:** Minor
+- **Type:** Suggestion (content/IA consistency)
+- **What & where:** `https://scalarfield.io/` footer "Blogs" link vs `https://scalarfield.io/pricing` footer "Blog & updates" link.
+- **Evidence:** Fresh deep.json links[]: `https://blogs.scalarfield.io/` (source: homepage, 200) and `https://blog.scalarfield.io/` (source: pricing, 200). Live-verified 2026-07-06: blogs.scalarfield.io serves a first-party site titled "Scalar Field Blog - Scalar Field Blog" (390KB), while blog.scalarfield.io serves a Medium publication titled "Scalar Field – Medium" (redirects to ?gi= Medium param). Nothing is broken; the issue is two footers sending users to two independent blog platforms — needs manual review whether one is stale post-migration.
+- **Fix:** Pick the canonical blog property, point both footer links at it, and 301 the deprecated subdomain (or intentionally label them differently if both are maintained).

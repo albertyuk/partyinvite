@@ -1,0 +1,139 @@
+{
+  "key": "uplane",
+  "comparedAt": "2026-07-06T08:21:47.669Z",
+  "copyStrings": [
+    {
+      "string": "campagins",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "worklows",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "ready to in Understand",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "the Al era",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "Al marketing automation",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "what messages drives",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "end-2-end",
+      "wasPresent": true,
+      "stillPresent": true
+    }
+  ],
+  "priorBrokenLinks": [
+    {
+      "url": "https://www.iso.org/standard/27001",
+      "oldStatus": 403,
+      "newStatus": 403
+    },
+    {
+      "url": "https://www.linkedin.com/in/julius-koerfgen/",
+      "oldStatus": 429,
+      "newStatus": 999
+    },
+    {
+      "url": "https://www.linkedin.com/company/company-uplane/",
+      "oldStatus": 429,
+      "newStatus": 200
+    },
+    {
+      "url": "https://www.linkedin.com/in/lukasvollmer/",
+      "oldStatus": 429,
+      "newStatus": 200
+    },
+    {
+      "url": "https://www.linkedin.com/in/marvinabdel-massih/",
+      "oldStatus": 429,
+      "newStatus": 200
+    },
+    {
+      "url": "http://allaboutcookies.org/",
+      "oldStatus": 403,
+      "newStatus": 403
+    },
+    {
+      "url": "http://optout.aboutads.info/",
+      "oldStatus": 429,
+      "newStatus": 429
+    }
+  ],
+  "axeChanges": [
+    {
+      "pageRule": "https://uplane.com/talk-to-us :: color-contrast",
+      "old": 6,
+      "new": 2
+    },
+    {
+      "pageRule": "https://uplane.com/talk-to-us :: link-in-text-block",
+      "old": 1,
+      "new": 0
+    },
+    {
+      "pageRule": "https://uplane.com/managed-growth :: color-contrast",
+      "old": 15,
+      "new": 13
+    },
+    {
+      "pageRule": "https://uplane.com/managed-growth :: region",
+      "old": 57,
+      "new": 56
+    },
+    {
+      "pageRule": "https://uplane.com/privacy :: color-contrast",
+      "old": 2,
+      "new": 1
+    },
+    {
+      "pageRule": "https://uplane.com/terms-of-service :: color-contrast",
+      "old": 2,
+      "new": 3
+    },
+    {
+      "pageRule": "https://uplane.com/terms-of-service :: link-in-text-block",
+      "old": 0,
+      "new": 1
+    }
+  ],
+  "metaChanges": [],
+  "robotsSitemap": {
+    "robots": {
+      "old": 200,
+      "new": 200
+    },
+    "sitemap": {
+      "old": 200,
+      "new": 200
+    }
+  },
+  "newLinkFailures": [
+    {
+      "url": "https://uplane.com/careers",
+      "status": 404
+    }
+  ],
+  "newConsoleErrors": [
+    {
+      "text": "Refused to execute inline script because it violates the following Content Security Policy directive: \"script-src 'nonce-65WtjoBleyPeOuNAsoWK6SubpdsbLRT200sEm3d",
+      "onPage": "https://uplane.com/carrees"
+    }
+  ],
+  "newFpFailures": []
+}

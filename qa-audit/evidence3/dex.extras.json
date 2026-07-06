@@ -1,0 +1,56 @@
+{
+  "key": "dex",
+  "checkedAt": "2026-07-06T08:20:42.903Z",
+  "sitemap": {
+    "status": 404
+  },
+  "canonicals": [],
+  "socialImages": [
+    {
+      "url": "https://joindex.com/og/og.webp",
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/og/og.webp",
+      "redirects": 1,
+      "type": "image/webp",
+      "size": 43714,
+      "isImage": true
+    }
+  ],
+  "favicons": [
+    {
+      "href": "/favicon.ico",
+      "resolved": "https://www.joindex.com/favicon.ico",
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/favicon.ico",
+      "redirects": 0,
+      "type": "image/vnd.microsoft.icon",
+      "size": 15086
+    }
+  ],
+  "regression": [
+    {
+      "url": "https://www.joindex.com/robots.txt",
+      "status": 404,
+      "finalUrl": "https://www.joindex.com/robots.txt",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 15687
+    },
+    {
+      "url": "https://www.joindex.com/sitemap.xml",
+      "status": 404,
+      "finalUrl": "https://www.joindex.com/sitemap.xml",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 15687
+    },
+    {
+      "url": "https://getdexterity.com/",
+      "status": 200,
+      "finalUrl": "https://www.joindex.com/",
+      "redirects": 1,
+      "type": "text/html; charset=utf-8",
+      "size": 122245
+    }
+  ]
+}

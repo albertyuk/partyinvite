@@ -1,0 +1,2762 @@
+{
+  "key": "uplane",
+  "name": "Uplane",
+  "category": "AI marketing",
+  "start": "https://uplane.com/",
+  "note": "",
+  "startedAt": "2026-07-06T08:17:48.612Z",
+  "baseHost": "uplane.com",
+  "pages": {
+    "home": {
+      "url": "https://uplane.com/",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/"
+      },
+      "meta": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "canonical": "https://uplane.com/",
+        "robotsMeta": "max-image-preview:large",
+        "viewportMeta": "width=device-width",
+        "charset": "utf-8",
+        "lang": "en-US",
+        "h1s": [
+          "Full funnel AI marketing automation platform"
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Full funnel AI marketing automation platform"
+          },
+          {
+            "level": 2,
+            "text": "Access the Uplane infrastructure. Tailored offerings for Enterprises and Busines"
+          },
+          {
+            "level": 2,
+            "text": "Al marketing automation for the entire funnel. End-to-end."
+          },
+          {
+            "level": 2,
+            "text": "Enterprise-grade security and compliance. Even for highly regulated industries."
+          },
+          {
+            "level": 2,
+            "text": "Ready to upgrade your marketing?"
+          }
+        ],
+        "og": {
+          "og:type": "website",
+          "og:title": "Uplane",
+          "og:description": "Next-gen performance marketing for your company",
+          "og:image": "https://framerusercontent.com/images/I1wGPvdVZEetQVgLtEPTRsCcm0.png",
+          "og:url": "https://uplane.com/"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Uplane",
+          "twitter:description": "Next-gen performance marketing for your company",
+          "twitter:image": "https://framerusercontent.com/images/I1wGPvdVZEetQVgLtEPTRsCcm0.png"
+        },
+        "favicons": [
+          "https://framerusercontent.com/images/uq6AnklLynDJDDJbv4Op3iPtMs.png",
+          "https://framerusercontent.com/images/uq6AnklLynDJDDJbv4Op3iPtMs.png",
+          "https://framerusercontent.com/images/2JUoyq0EJjBPm488ViwuRvISJ5I.png"
+        ],
+        "imgCount": 50,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 50,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 0,
+        "headStyles": 0,
+        "headSyncScripts": 0,
+        "linkCount": 36,
+        "textSample": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Full funnel AI marketing automation platform AI should run campagins, so that marketers can run marketing. Request a Demo Explore Features Uplane equips marketing teams with the infrastructure to win in the Al era. One unified platform for market intelligence, high-velocity personalized asset production across ads and landing pages, automated testing, algorithmic campaign management, and analytics - all in real-time. Uplane helps your marketing teams go further faster. With measurable results. + 0 0 % ROAS uplift on average after using Uplane for 3 months + 0 0 % Conversion rates on average after using Uplane for 3 months - 0 0 % Production spend for performance marketing assets Access the Uplane infrastructure. Tailored offerings for Enterprises and Businesses. Licensed Enterprise Platform AI Marketing Automation for Enterprises​ Provide your marketing unit with the infrastructure to operate efficiently in the AI era. Access the technology for autonomous market intelligence, high-velocity personalized asset production across ads and landing pages, automated testing, algorithmic budget steering, and analytics​ Market Intelligence: Full access to competitor archives and performance analysis, news monitoring, and 1P customer data analytics suite Creation Suite: 100% brand compliant, hyper-personalized ads and landing pages, created with AI Campaign Management: One-click launch across multiple channels, automatic A/B testing, and 24/7 algorithmic budget management​ Deployable anywhere: Managed, own cloud, or on-premise Security: ISO27001 compliant, role-based access, brand safety rules Request a Demo View Details Managed Growth We Operate the Engine. Uplane operates as your dedicated marketing partner. We leverage our platform to engineer marketing systems, deploying and rigorously testing hundreds of ads and landing pages to maximize performance and scale. Strategic Consultation: Expert strategy to maximize marketing efficiency Content Production: hundreds of Static & Video Ads / Month Web Ops: Rapid A/B testing of landing pages and check-out systems Execution: 24/7 Budget steering, audience control, and A/B Testing through Uplane Team Request a Demo View Details “With Uplane, we’re moving from manual campaign execution to intelligent, AI-driven automation. That‘s exactly the shift a company like Deutsche Bahn needs to stay ahead” Sven Hasselmann, Chief Marketing Officer at Deutsche Bahn (Germany) Al marketing automation for the entire funnel. End-to-end. Capture the full value potential of AI​ by not just treating it as a tool, but the new default operating model 2027 AI Marketing Automation Playbook Our best practices from supporting leading companies with AI marketing rollouts – turning AI marketing automation into real business impact. Download Enterprise-grade security and compliance. Even for highly regulated industries. Details Details Details Details Details Ready to upgrade your marketing? Ready to upgrade your marketing? Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1mz8a2i > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.48 (foreground color: #6a6e76, background color: #f0f0f0, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p dir=\"auto\" style=\"--font-selector:Q1VTVE9NVjI7QWxjeW9uZSBNZWRpdW0=;--framer-font-family:\"Alcyone Medium\", \"Alcyone Medium Placeholder\", sans-serif;--framer-f"
+            },
+            {
+              "target": [
+                ".framer-nfsemf > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.6 (foreground color: #2476ff, background color: #f0f0f0, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p dir=\"auto\" style=\"--font-selector:Q1VTVE9NVjI7QWxjeW9uZSBNZWRpdW0=;--framer-font-family:\"Alcyone Medium\", \"Alcyone Medium Placeholder\", sans-serif;--framer-f"
+            },
+            {
+              "target": [
+                ".framer-1kgna8q > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.48 (foreground color: #6a6e76, background color: #f0f0f0, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p dir=\"auto\" style=\"--font-selector:Q1VTVE9NVjI7QWxjeW9uZSBNZWRpdW0=;--framer-font-family:\"Alcyone Medium\", \"Alcyone Medium Placeholder\", sans-serif;--framer-f"
+            },
+            {
+              "target": [
+                ".framer-7egjks > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p dir=\"auto\" class=\"framer-text\" style=\"--font-selector:Q1VT...\">"
+            },
+            {
+              "target": [
+                "span > a[target=\"_blank\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<a href=\"https://www.framer.com/legal/policy/\" target=\"_blank\" style=\"color: rgb(153, 153, 153); text-decoration: none;\">Cookie Policy</a>"
+            }
+          ],
+          "count": 5
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-1glm8x8 framer-1erd30d\" href=\"./\" data-framer-page-link-current=\"true\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-1j8w6qx framer-1e0ezsb\" data-framer-name=\"Logo\" href=\"./\" data-framer-page-link-current=\"true\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-kRqP2 framer-...\" data-border=\"true\" data-framer-name=\"Variant 1\" href=\"https://x.com/uplane...\" target=\"_blank\" rel=\"noopener\" style=\"--border"
+            },
+            {
+              "target": [
+                ".framer-op8m57-container > .framer-kRqP2.framer-hp1qit.framer-v-hp1qit"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-kRqP2 framer-...\" data-border=\"true\" data-framer-name=\"Variant 1\" href=\"https://www.linkedin...\" target=\"_blank\" rel=\"noopener\" style=\"--border"
+            }
+          ],
+          "count": 4
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-1nh2zqu-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-ugychq\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--variable-reference-ZD0yQfrm1-XdxHjs0qr); --framer-par"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-19q9f1m-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-urk9wr-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-urk9wr-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-3hqgd4-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-3hqgd4-container\" style=\"opacity: 1;\">"
+            }
+          ],
+          "count": 36
+        }
+      ],
+      "perf": {
+        "domContentLoaded": 541,
+        "load": 5294,
+        "fcp": 572,
+        "lcp": null,
+        "cls": 0,
+        "resourceCount": 65
+      },
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 14
+        },
+        {
+          "width": 768,
+          "scrollW": 768,
+          "clientW": 768,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 15
+        },
+        {
+          "width": 1440,
+          "scrollW": 1440,
+          "clientW": 1440,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 17
+        }
+      ],
+      "links": [
+        {
+          "href": "https://uplane.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/",
+          "text": "Home",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/why-us",
+          "text": "Why Uplane",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/blogs",
+          "text": "Resources",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/about-us",
+          "text": "About Us",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/carrees",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "https://app.uplane.com/",
+          "text": "Login",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Get Started",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Request a Demo",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/#ai-marketing",
+          "text": "Explore Features",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Request a Demo",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product",
+          "text": "View Details",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Request a Demo",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product",
+          "text": "View Details",
+          "inNav": false
+        },
+        {
+          "href": "https://www.iso.org/standard/27001",
+          "text": "Details",
+          "inNav": false
+        },
+        {
+          "href": "https://commission.europa.eu/law/law-topic/data-protection_en",
+          "text": "Details",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Request a Demo",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Request a Demo",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/uplane_com",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/company-uplane/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product",
+          "text": "Solutions",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/why-us",
+          "text": "Why Uplane",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/about-us",
+          "text": "About Us",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/blogs",
+          "text": "Resources",
+          "inNav": false
+        },
+        {
+          "href": "https://www.useparallel.com/uplane1/careers",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#market-research",
+          "text": "Market Research",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#ad-creation",
+          "text": "Ad Creation",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#landing-pages-lead-capture",
+          "text": "Landing Pages & Lead Capture",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#campaign-launch-management",
+          "text": "Campaign Launch & Management",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#optimization-learning-engine",
+          "text": "Optimization & Learning Engine",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#reporting-insights",
+          "text": "Reporting & Insights",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#chat-interface",
+          "text": "Chat Interface",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/privacy",
+          "text": "Privacy Policy",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/terms-of-service",
+          "text": "Terms of Service",
+          "inNav": false
+        },
+        {
+          "href": "https://www.framer.com/legal/policy/",
+          "text": "Cookie Policy",
+          "inNav": false
+        }
+      ]
+    },
+    "blog:/blogs": {
+      "url": "https://uplane.com/blogs",
+      "kind": "blog",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/blogs"
+      },
+      "meta": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "canonical": "https://uplane.com/blogs",
+        "robotsMeta": "max-image-preview:large",
+        "viewportMeta": "width=device-width",
+        "charset": "utf-8",
+        "lang": "en-US",
+        "h1s": [
+          "Insights and resources on AI marketing automation"
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Insights and resources on AI marketing automation"
+          },
+          {
+            "level": 2,
+            "text": "Ready to upgrade your marketing?"
+          }
+        ],
+        "og": {
+          "og:type": "website",
+          "og:title": "Uplane",
+          "og:description": "Next-gen performance marketing for your company",
+          "og:image": "https://framerusercontent.com/images/I1wGPvdVZEetQVgLtEPTRsCcm0.png",
+          "og:url": "https://uplane.com/blogs"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Uplane",
+          "twitter:description": "Next-gen performance marketing for your company",
+          "twitter:image": "https://framerusercontent.com/images/I1wGPvdVZEetQVgLtEPTRsCcm0.png"
+        },
+        "favicons": [
+          "https://framerusercontent.com/images/uq6AnklLynDJDDJbv4Op3iPtMs.png",
+          "https://framerusercontent.com/images/uq6AnklLynDJDDJbv4Op3iPtMs.png",
+          "https://framerusercontent.com/images/2JUoyq0EJjBPm488ViwuRvISJ5I.png"
+        ],
+        "imgCount": 11,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 11,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 0,
+        "headStyles": 0,
+        "headSyncScripts": 0,
+        "linkCount": 29,
+        "textSample": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Resources Insights and resources on AI marketing automation Explore expert takes, trends, and strategies shaping marketing’s future. 2027 AI Marketing Automation Playbook Our best practices from supporting leading companies with AI marketing rollouts – turning AI marketing automation into real business impact. Download Welcome to Uplane AI is changing marketing forever. We share our vision of the future of marketing. Read Full Blog Ready to upgrade your marketing? Ready to upgrade your marketing? Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-7egjks > p[dir=\"auto\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p dir=\"auto\" class=\"framer-text\" style=\"--font-selector:Q1VT...\">"
+            },
+            {
+              "target": [
+                "span > a[target=\"_blank\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<a href=\"https://www.framer.com/legal/policy/\" target=\"_blank\" style=\"color: rgb(153, 153, 153); text-decoration: none;\">Cookie Policy</a>"
+            }
+          ],
+          "count": 2
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en-US\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-1glm8x8 framer-1erd30d\" href=\"./\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-1j8w6qx framer-1e0ezsb\" data-framer-name=\"Logo\" href=\"./\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-kRqP2 framer-...\" data-border=\"true\" data-framer-name=\"Variant 1\" href=\"https://x.com/uplane...\" target=\"_blank\" rel=\"noopener\" style=\"--border"
+            },
+            {
+              "target": [
+                ".framer-op8m57-container > .framer-kRqP2.framer-hp1qit.framer-v-hp1qit"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-kRqP2 framer-...\" data-border=\"true\" data-framer-name=\"Variant 1\" href=\"https://www.linkedin...\" target=\"_blank\" rel=\"noopener\" style=\"--border"
+            }
+          ],
+          "count": 4
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-1nh2zqu-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-ugychq\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--variable-reference-ZD0yQfrm1-XdxHjs0qr); --framer-par"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-19q9f1m-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-urk9wr-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-urk9wr-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-3hqgd4-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-3hqgd4-container\" style=\"opacity: 1;\">"
+            }
+          ],
+          "count": 23
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 12
+        }
+      ],
+      "links": [
+        {
+          "href": "https://uplane.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/",
+          "text": "Home",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/why-us",
+          "text": "Why Uplane",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/blogs",
+          "text": "Resources",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/about-us",
+          "text": "About Us",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/carrees",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "https://app.uplane.com/",
+          "text": "Login",
+          "inNav": false
+        },
+        {
+          "href": "https://app.uplane.com/",
+          "text": "Get Started",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/blogs/welcome-to-uplane",
+          "text": "Welcome to UplaneAI is changing marketing forever. We share ",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Request a Demo",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Request a Demo",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/uplane_com",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/company-uplane/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product",
+          "text": "Solutions",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/why-us",
+          "text": "Why Uplane",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/about-us",
+          "text": "About Us",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/blogs",
+          "text": "Resources",
+          "inNav": false
+        },
+        {
+          "href": "https://www.useparallel.com/uplane1/careers",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#market-research",
+          "text": "Market Research",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#ad-creation",
+          "text": "Ad Creation",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#landing-pages-lead-capture",
+          "text": "Landing Pages & Lead Capture",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#campaign-launch-management",
+          "text": "Campaign Launch & Management",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#optimization-learning-engine",
+          "text": "Optimization & Learning Engine",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#reporting-insights",
+          "text": "Reporting & Insights",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#chat-interface",
+          "text": "Chat Interface",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/privacy",
+          "text": "Privacy Policy",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/terms-of-service",
+          "text": "Terms of Service",
+          "inNav": false
+        },
+        {
+          "href": "https://www.framer.com/legal/policy/",
+          "text": "Cookie Policy",
+          "inNav": false
+        }
+      ]
+    },
+    "about:/about-us": {
+      "url": "https://uplane.com/about-us",
+      "kind": "about",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/about-us"
+      },
+      "meta": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "canonical": "https://uplane.com/about-us",
+        "robotsMeta": "max-image-preview:large",
+        "viewportMeta": "width=device-width",
+        "charset": "utf-8",
+        "lang": "en-US",
+        "h1s": [
+          "Building the future of performance marketing",
+          "The reason behind our work"
+        ],
+        "h1Count": 2,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Building the future of performance marketing"
+          },
+          {
+            "level": 1,
+            "text": "The reason behind our work"
+          },
+          {
+            "level": 2,
+            "text": "Leadership"
+          },
+          {
+            "level": 2,
+            "text": "Ready to upgrade your marketing?"
+          }
+        ],
+        "og": {
+          "og:type": "website",
+          "og:title": "Uplane",
+          "og:description": "Next-gen performance marketing for your company",
+          "og:image": "https://framerusercontent.com/images/I1wGPvdVZEetQVgLtEPTRsCcm0.png",
+          "og:url": "https://uplane.com/about-us"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Uplane",
+          "twitter:description": "Next-gen performance marketing for your company",
+          "twitter:image": "https://framerusercontent.com/images/I1wGPvdVZEetQVgLtEPTRsCcm0.png"
+        },
+        "favicons": [
+          "https://framerusercontent.com/images/uq6AnklLynDJDDJbv4Op3iPtMs.png",
+          "https://framerusercontent.com/images/uq6AnklLynDJDDJbv4Op3iPtMs.png",
+          "https://framerusercontent.com/images/2JUoyq0EJjBPm488ViwuRvISJ5I.png"
+        ],
+        "imgCount": 23,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 23,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 0,
+        "headStyles": 0,
+        "headSyncScripts": 0,
+        "linkCount": 34,
+        "textSample": "Home Solutions Why Uplane Resources About Us Careers Login Get Started About Us Building the future of performance marketing AI-first approach to better, faster, and smarter marketing. Founding Story The reason behind our work We’re building Uplane to help marketing teams achieve superior results with significantly less effort, time, and ad spend. Talk to Founders Explore Features We founded Uplane because Marketing desperately needs a revolution. Marketing managers are blocked in slow and endless design cycles. New ads and new landing pages are a constant performance bottleneck. Launching and optimizing campaigns involves countless manual steps in slow and buggy ad management systems. Consumers carry the burden of receiving irrelevant ads every day, and companies even pay billions for that. With Uplane, we fundamentally want to transform the way companies approach performance marketing. Our vision is a marketing engine that operates with true autonomy. A platform that allows you to generate thousands of personalized ads and matching landing pages in seconds, launch them across channels with one click, and autonomously allocate budgets to ensure every penny is invested for maximum impact. We want to give every marketing team an engine that runs hundreds of experiments around the clock, constantly improves, and gets better with every bit of consumer feedback. Founded by a team that has lived the painful inefficiencies of manual marketing and is backed by deep expertise in product development, data analytics and AI, our mission is to give performance marketers true leverage, enabling them to achieve superior results with less effort and spend, and with a whole lot of joy. Leadership We are looking for outstanding talents who want to push the boundaries of Performance Marketing and build nothing less than the future of digital advertising. Julius Korfgen Co-Founder, CEO Lukas Vollmer Co-Founder, CTO Marvin Massih Co-Founder, COO Join Our Team Ready to upgrade your marketing? Ready to upgrade your marketing? Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-7egjks > p[dir=\"auto\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p dir=\"auto\" class=\"framer-text\" style=\"--font-selector:Q1VT...\">"
+            },
+            {
+              "target": [
+                "span > a[target=\"_blank\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<a href=\"https://www.framer.com/legal/policy/\" target=\"_blank\" style=\"color: rgb(153, 153, 153); text-decoration: none;\">Cookie Policy</a>"
+            }
+          ],
+          "count": 2
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en-US\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-1glm8x8 framer-1erd30d\" href=\"./\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-1j8w6qx framer-1e0ezsb\" data-framer-name=\"Logo\" href=\"./\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-kRqP2 framer-...\" data-border=\"true\" data-framer-name=\"Variant 1\" href=\"https://x.com/uplane...\" target=\"_blank\" rel=\"noopener\" style=\"--border"
+            },
+            {
+              "target": [
+                ".framer-op8m57-container > .framer-kRqP2.framer-hp1qit.framer-v-hp1qit"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-kRqP2 framer-...\" data-border=\"true\" data-framer-name=\"Variant 1\" href=\"https://www.linkedin...\" target=\"_blank\" rel=\"noopener\" style=\"--border"
+            }
+          ],
+          "count": 4
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-1nh2zqu-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-ugychq\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--variable-reference-ZD0yQfrm1-XdxHjs0qr); --framer-par"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-19q9f1m-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-urk9wr-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-urk9wr-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-3hqgd4-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-3hqgd4-container\" style=\"opacity: 1;\">"
+            }
+          ],
+          "count": 28
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 12
+        }
+      ],
+      "links": [
+        {
+          "href": "https://uplane.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/",
+          "text": "Home",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/why-us",
+          "text": "Why Uplane",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/blogs",
+          "text": "Resources",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/about-us",
+          "text": "About Us",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/carrees",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "https://app.uplane.com/",
+          "text": "Login",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Get Started",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Talk to Founders",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product",
+          "text": "Explore Features",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/julius-koerfgen/",
+          "text": "Julius KorfgenCo-Founder, CEO",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/lukasvollmer/",
+          "text": "Lukas VollmerCo-Founder, CTO",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/marvinabdel-massih/",
+          "text": "Marvin MassihCo-Founder, COO",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Join Our Team",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Request a Demo",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Request a Demo",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/uplane_com",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/company-uplane/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product",
+          "text": "Solutions",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/why-us",
+          "text": "Why Uplane",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/about-us",
+          "text": "About Us",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/blogs",
+          "text": "Resources",
+          "inNav": false
+        },
+        {
+          "href": "https://www.useparallel.com/uplane1/careers",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#market-research",
+          "text": "Market Research",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#ad-creation",
+          "text": "Ad Creation",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#landing-pages-lead-capture",
+          "text": "Landing Pages & Lead Capture",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#campaign-launch-management",
+          "text": "Campaign Launch & Management",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#optimization-learning-engine",
+          "text": "Optimization & Learning Engine",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#reporting-insights",
+          "text": "Reporting & Insights",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#chat-interface",
+          "text": "Chat Interface",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/privacy",
+          "text": "Privacy Policy",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/terms-of-service",
+          "text": "Terms of Service",
+          "inNav": false
+        },
+        {
+          "href": "https://www.framer.com/legal/policy/",
+          "text": "Cookie Policy",
+          "inNav": false
+        }
+      ]
+    },
+    "careers:/carrees": {
+      "url": "https://uplane.com/carrees",
+      "kind": "careers",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://jobs.ashbyhq.com/uplane"
+      },
+      "meta": {
+        "title": "Uplane Jobs",
+        "titleLen": 11,
+        "metaDescription": "Uplane Jobs",
+        "canonical": null,
+        "robotsMeta": "all",
+        "viewportMeta": "width=device-width, initial-scale=1, shrink-to-fit=no",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "Open Positions (6)"
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Open Positions (6)"
+          },
+          {
+            "level": 2,
+            "text": "Business Development"
+          },
+          {
+            "level": 3,
+            "text": "Business Development Intern - San Francisco / Berlin / Remote"
+          },
+          {
+            "level": 2,
+            "text": "Customer Success"
+          },
+          {
+            "level": 3,
+            "text": "AI Marketing Strategist - Berlin (German Speaking)"
+          },
+          {
+            "level": 3,
+            "text": "AI Marketing Strategist - San Francisco"
+          },
+          {
+            "level": 3,
+            "text": "AI Marketing Strategist Intern – Berlin (German Speaking)"
+          },
+          {
+            "level": 3,
+            "text": "AI Marketing Strategist Intern – San Francisco"
+          },
+          {
+            "level": 2,
+            "text": "Engineering"
+          },
+          {
+            "level": 3,
+            "text": "Forward Deployed Engineer - Berlin"
+          }
+        ],
+        "og": {
+          "og:url": "https://jobs.ashbyhq.com/uplane",
+          "og:type": "website",
+          "og:title": "Uplane Jobs",
+          "og:description": "Uplane Jobs",
+          "og:image": "https://app.ashbyhq.com/api/images/org-theme-social/93f3649b-ec3e-404a-938a-345c6e0200c9/813515db-5189-4654-8c56-16757e99ddbe/b760d7be-8f20-49fb-87e0-b3770393ed15.png"
+        },
+        "twitter": {
+          "twitter:card": "summary"
+        },
+        "favicons": [
+          "https://cdn.ashbyprd.com/cdn_assets/de12c01d3e80b968011cfa06de30bcfe55f0bbd5/favicon.svg",
+          "https://cdn.ashbyprd.com/cdn_assets/de12c01d3e80b968011cfa06de30bcfe55f0bbd5/favicon.png",
+          "https://cdn.ashbyprd.com/cdn_assets/de12c01d3e80b968011cfa06de30bcfe55f0bbd5/apple-touch-icon.png"
+        ],
+        "imgCount": 1,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 0,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 1,
+        "headStyles": 2,
+        "headSyncScripts": 0,
+        "linkCount": 11,
+        "textSample": "Open Positions (6) Filters: Reset filters Department All Departments Business Development (1) Customer Success (4) Engineering (1) Employment Type All Employment Types Full time (6) Location All Locations Berlin (4) remote (1) San Francisco (3) Location Type All Location Types On-site (6) No filters applied Business Development Business Development Intern - San Francisco / Berlin / Remote Business Development • Berlin; remote; San Francisco • Full time • On-site €2,410 per month Customer Success AI Marketing Strategist - Berlin (German Speaking) Customer Success • Berlin • Full time • On-site €60K – €100K AI Marketing Strategist - San Francisco Customer Success • San Francisco • Full time • On-site $100K – $130K AI Marketing Strategist Intern – Berlin (German Speaking) Customer Success • Berlin • Full time • On-site €2,410 per month AI Marketing Strategist Intern – San Francisco Customer Success • San Francisco • Full time • On-site $4K per month Engineering Forward Deployed Engineer - Berlin Engineering • Berlin • Full time • On-site €60K – €80K Powered by Privacy PolicySecurityVulnerability Disclosure"
+      },
+      "axe": {
+        "error": "page.addScriptTag: Refused to execute inline script because it violates the following Content Security Policy directive: \"script-src 'nonce-65WtjoBleyPeOuNAsoWK6SubpdsbLRT200sEm3drDGg' https://cdn.ashbyprd.com https://edge.fullstory.com https://rs.fullstory.com https://www.recaptcha.net/recaptcha/ https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://cdn.jsdelivr.net\". Either the 'unsafe-inline' keyword, a hash ('sha256-vXfafITz+kDq8fSHKsfivr8Nf+5YrhC+GO49rO4XCBA='), or a nonce ('nonce-...') is required to enable inline execution.\n"
+      },
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 5
+        }
+      ],
+      "links": [
+        {
+          "href": "https://uplane.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://jobs.ashbyhq.com/uplane/e430a9f5-e324-4204-913e-d4d7bf1afb51",
+          "text": "Business Development Intern - San Francisco / Berlin / Remot",
+          "inNav": false
+        },
+        {
+          "href": "https://jobs.ashbyhq.com/uplane/14af59ec-6dd0-4d32-a7d7-8506ba93d5a0",
+          "text": "AI Marketing Strategist - Berlin (German Speaking)Customer S",
+          "inNav": false
+        },
+        {
+          "href": "https://jobs.ashbyhq.com/uplane/7c2e963a-01bb-4007-8b66-4e46521049f4",
+          "text": "AI Marketing Strategist - San FranciscoCustomer Success • Sa",
+          "inNav": false
+        },
+        {
+          "href": "https://jobs.ashbyhq.com/uplane/49df14a1-3321-4e82-b85f-d0ecc51ef982",
+          "text": "AI Marketing Strategist Intern – Berlin (German Speaking)Cus",
+          "inNav": false
+        },
+        {
+          "href": "https://jobs.ashbyhq.com/uplane/81f8563e-1159-4600-9167-99279b570e05",
+          "text": "AI Marketing Strategist Intern – San FranciscoCustomer Succe",
+          "inNav": false
+        },
+        {
+          "href": "https://jobs.ashbyhq.com/uplane/a216ad73-e13e-43c6-9918-42a1df45d8d9",
+          "text": "Forward Deployed Engineer - BerlinEngineering • Berlin • Ful",
+          "inNav": false
+        },
+        {
+          "href": "https://www.ashbyhq.com/",
+          "text": "Powered by Ashby",
+          "inNav": true
+        },
+        {
+          "href": "https://www.ashbyhq.com/privacy",
+          "text": "Privacy Policy",
+          "inNav": true
+        },
+        {
+          "href": "https://www.ashbyhq.com/security",
+          "text": "Security",
+          "inNav": true
+        },
+        {
+          "href": "https://www.ashbyhq.com/disclosure",
+          "text": "Vulnerability Disclosure",
+          "inNav": true
+        }
+      ]
+    },
+    "demo:/talk-to-us": {
+      "url": "https://uplane.com/talk-to-us",
+      "kind": "demo",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/talk-to-us"
+      },
+      "meta": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "canonical": "https://uplane.com/talk-to-us",
+        "robotsMeta": "max-image-preview:large",
+        "viewportMeta": "width=device-width",
+        "charset": "utf-8",
+        "lang": "en-US",
+        "h1s": [
+          "Get to know Uplane"
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Get to know Uplane"
+          },
+          {
+            "level": 2,
+            "text": "Ready to upgrade your marketing?"
+          }
+        ],
+        "og": {
+          "og:type": "website",
+          "og:title": "Uplane",
+          "og:description": "Next-gen performance marketing for your company",
+          "og:image": "https://framerusercontent.com/images/I1wGPvdVZEetQVgLtEPTRsCcm0.png",
+          "og:url": "https://uplane.com/talk-to-us"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Uplane",
+          "twitter:description": "Next-gen performance marketing for your company",
+          "twitter:image": "https://framerusercontent.com/images/I1wGPvdVZEetQVgLtEPTRsCcm0.png"
+        },
+        "favicons": [
+          "https://framerusercontent.com/images/uq6AnklLynDJDDJbv4Op3iPtMs.png",
+          "https://framerusercontent.com/images/uq6AnklLynDJDDJbv4Op3iPtMs.png",
+          "https://framerusercontent.com/images/2JUoyq0EJjBPm488ViwuRvISJ5I.png"
+        ],
+        "imgCount": 9,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 9,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 0,
+        "headStyles": 0,
+        "headSyncScripts": 0,
+        "linkCount": 28,
+        "textSample": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Talk to us Get to know Uplane Ready to upgrade your marketing? Ready to upgrade your marketing? Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-7egjks > p[dir=\"auto\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.11 (foreground color: #8d929e, background color: #ffffff, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p dir=\"auto\" class=\"framer-text\" style=\"--font-selector:Q1VT...\">"
+            },
+            {
+              "target": [
+                "span > a[target=\"_blank\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<a href=\"https://www.framer.com/legal/policy/\" target=\"_blank\" style=\"color: rgb(153, 153, 153); text-decoration: none;\">Cookie Policy</a>"
+            }
+          ],
+          "count": 2
+        },
+        {
+          "id": "frame-title",
+          "impact": "serious",
+          "help": "Frames must have an accessible name",
+          "description": "Ensure <iframe> and <frame> elements have an accessible name",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/frame-title?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "#bi199u > iframe"
+              ],
+              "summary": "Fix any of the following: Element has no title attribute aria-label attribute does not exist or is empty aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty Element's default",
+              "html": "<iframe style=\"width: 100%; height:...\" srcdoc=\"\n<html>\n    <head>\n ...\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en-US\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-1glm8x8 framer-1erd30d\" href=\"./\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-1j8w6qx framer-1e0ezsb\" data-framer-name=\"Logo\" href=\"./\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-kRqP2 framer-...\" data-border=\"true\" data-framer-name=\"Variant 1\" href=\"https://x.com/uplane...\" target=\"_blank\" rel=\"noopener\" style=\"--border"
+            },
+            {
+              "target": [
+                ".framer-op8m57-container > .framer-kRqP2.framer-hp1qit.framer-v-hp1qit"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-kRqP2 framer-...\" data-border=\"true\" data-framer-name=\"Variant 1\" href=\"https://www.linkedin...\" target=\"_blank\" rel=\"noopener\" style=\"--border"
+            }
+          ],
+          "count": 4
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-1nh2zqu-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-ugychq\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--variable-reference-ZD0yQfrm1-XdxHjs0qr); --framer-par"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-19q9f1m-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-urk9wr-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-urk9wr-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-3hqgd4-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-3hqgd4-container\" style=\"opacity: 1;\">"
+            }
+          ],
+          "count": 19
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 12
+        }
+      ],
+      "links": [
+        {
+          "href": "https://uplane.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/",
+          "text": "Home",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/why-us",
+          "text": "Why Uplane",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/blogs",
+          "text": "Resources",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/about-us",
+          "text": "About Us",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/carrees",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "https://app.uplane.com/",
+          "text": "Login",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Get Started",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Request a Demo",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Request a Demo",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/uplane_com",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/company-uplane/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product",
+          "text": "Solutions",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/why-us",
+          "text": "Why Uplane",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/about-us",
+          "text": "About Us",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/blogs",
+          "text": "Resources",
+          "inNav": false
+        },
+        {
+          "href": "https://www.useparallel.com/uplane1/careers",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#market-research",
+          "text": "Market Research",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#ad-creation",
+          "text": "Ad Creation",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#landing-pages-lead-capture",
+          "text": "Landing Pages & Lead Capture",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#campaign-launch-management",
+          "text": "Campaign Launch & Management",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#optimization-learning-engine",
+          "text": "Optimization & Learning Engine",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#reporting-insights",
+          "text": "Reporting & Insights",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#chat-interface",
+          "text": "Chat Interface",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/privacy",
+          "text": "Privacy Policy",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/terms-of-service",
+          "text": "Terms of Service",
+          "inNav": false
+        },
+        {
+          "href": "https://www.framer.com/legal/policy/",
+          "text": "Cookie Policy",
+          "inNav": false
+        }
+      ]
+    },
+    "product:/product": {
+      "url": "https://uplane.com/product",
+      "kind": "product",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://uplane.com/product"
+      },
+      "meta": {
+        "title": "Uplane",
+        "titleLen": 6,
+        "metaDescription": "Next-gen performance marketing for your company",
+        "canonical": "https://uplane.com/product",
+        "robotsMeta": "max-image-preview:large",
+        "viewportMeta": "width=device-width",
+        "charset": "utf-8",
+        "lang": "en-US",
+        "h1s": [
+          "Every feature built for real performance"
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Every feature built for real performance"
+          },
+          {
+            "level": 2,
+            "text": "Start with real-time market intelligence"
+          },
+          {
+            "level": 2,
+            "text": "Create, iterate, and scale high-performing ads"
+          },
+          {
+            "level": 2,
+            "text": "Build landing pages that convert faster"
+          },
+          {
+            "level": 2,
+            "text": "Launch and manage campaigns with ease"
+          },
+          {
+            "level": 2,
+            "text": "Campaigns thatlearn and grow daily"
+          },
+          {
+            "level": 2,
+            "text": "Get smarter insights without manual work"
+          },
+          {
+            "level": 2,
+            "text": "Talk to Uplane like your own team"
+          },
+          {
+            "level": 2,
+            "text": "Ready to upgrade your marketing?"
+          }
+        ],
+        "og": {
+          "og:type": "website",
+          "og:title": "Uplane",
+          "og:description": "Next-gen performance marketing for your company",
+          "og:image": "https://framerusercontent.com/images/I1wGPvdVZEetQVgLtEPTRsCcm0.png",
+          "og:url": "https://uplane.com/product"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Uplane",
+          "twitter:description": "Next-gen performance marketing for your company",
+          "twitter:image": "https://framerusercontent.com/images/I1wGPvdVZEetQVgLtEPTRsCcm0.png"
+        },
+        "favicons": [
+          "https://framerusercontent.com/images/uq6AnklLynDJDDJbv4Op3iPtMs.png",
+          "https://framerusercontent.com/images/uq6AnklLynDJDDJbv4Op3iPtMs.png",
+          "https://framerusercontent.com/images/2JUoyq0EJjBPm488ViwuRvISJ5I.png"
+        ],
+        "imgCount": 63,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 63,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 0,
+        "headStyles": 0,
+        "headSyncScripts": 0,
+        "linkCount": 30,
+        "textSample": "Home Solutions Why Uplane Resources About Us Careers Login Get Started Explore the Platform Every feature built for real performance From research to reporting, everything you need to automate, scale, and optimize performance marketing. Talk to Founders Why Uplane Market Research Start with real-time market intelligence Analyze top-performing ads, trending topics, and competitor strategies to guide your creative direction with data. Uplane gives you instant access to insights no human team could process. Every campaign starts with an edge. Ad Creation Create, iterate, and scale high-performing ads Quickly generate ad variations tailored to your brand, product, and goals. Uplane helps you test broad concepts, discover winners fast, and scale them with hyper-personalized creatives to reduce conversion costs. Landing Pages & Lead Capture Build landing pages that convert faster Deploy custom landing pages that match each ad in seconds. Run automated A/B tests, track every interaction, and sync leads directly to your CRM. Never lose momentum in the funnel. Campaign Launch & Management Launch and manage campaigns with ease Effortlessly go live across multiple channels with brand-safe, compliant ads. Uplane adjusts your budget in real time to maximize ROI. Your money always works where it performs best. Optimization & Learning Engine Campaigns that learn and grow daily Uplane continuously improves your targeting and creatives using performance data. It automatically builds new ads, tests variations, and expands high-performing segments, all while cutting what doesn’t work. Reporting & Insights Get smarter insights without manual work Receive automated reports straight to Slack, Teams, or email. Understand what messaging drives results, and get tailored insights to refine strategy, without crunching a single number. Chat Interface Talk to Uplane like your own team Send ideas, screenshots, or questions in Slack, Teams, or WhatsApp. Watch them turn into campaigns. Uplane acts like your own strategist, analyst, and creative team, always ready to move fast. Ready to upgrade your marketing? Ready to upgrade your marketing? Request a demo to see Uplane in action. Request a Demo Full funnel AI marketing automation platform Request a Demo The programme \"EXIST - University-Based Business Startups\" with its projects is funded by the Federal Ministry for Economic Affairs and Energy and the European Union through the European Social Fund Plus (ESF plus), on the basis of a decision by the German Bundestag. Home Solutions Why Uplane About Us Resources Careers Product Features Market Research Ad Creation Landing Pages & Lead Capture Campaign Launch & Management Optimization & Learning Engine Reporting & Insights Chat Interface © 2025 Uplane. All rights reserved. Privacy Policy Cookie Settings Terms of Service Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Cookie Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1m64y4w > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.76 (foreground color: #2476ff, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p dir=\"auto\" style=\"--font-selector:Q1VT...\" class=\"framer-text\">"
+            },
+            {
+              "target": [
+                ".framer-63cbhg > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.76 (foreground color: #2476ff, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p dir=\"auto\" style=\"--font-selector:Q1VT...\" class=\"framer-text\">"
+            },
+            {
+              "target": [
+                ".framer-a4qv7n > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.76 (foreground color: #2476ff, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p dir=\"auto\" style=\"--font-selector:Q1VT...\" class=\"framer-text\">"
+            },
+            {
+              "target": [
+                ".framer-1iq109h > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.76 (foreground color: #2476ff, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p dir=\"auto\" style=\"--font-selector:Q1VT...\" class=\"framer-text\">"
+            },
+            {
+              "target": [
+                ".framer-h6ffda > p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.76 (foreground color: #2476ff, background color: #f5f5f5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p dir=\"auto\" style=\"--font-selector:Q1VT...\" class=\"framer-text\">"
+            }
+          ],
+          "count": 9
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en-US\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1glm8x8"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-1glm8x8 framer-1erd30d\" href=\"./\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-1j8w6qx"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-1j8w6qx framer-1e0ezsb\" data-framer-name=\"Logo\" href=\"./\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                "a[href$=\"uplane_com\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-kRqP2 framer-...\" data-border=\"true\" data-framer-name=\"Variant 1\" href=\"https://x.com/uplane...\" target=\"_blank\" rel=\"noopener\" style=\"--border"
+            },
+            {
+              "target": [
+                ".framer-op8m57-container > .framer-kRqP2.framer-hp1qit.framer-v-hp1qit"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-kRqP2 framer-...\" data-border=\"true\" data-framer-name=\"Variant 1\" href=\"https://www.linkedin...\" target=\"_blank\" rel=\"noopener\" style=\"--border"
+            }
+          ],
+          "count": 4
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1nh2zqu-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-1nh2zqu-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-ugychq"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-ugychq\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--variable-reference-ZD0yQfrm1-XdxHjs0qr); --framer-par"
+            },
+            {
+              "target": [
+                ".framer-19q9f1m-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-19q9f1m-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-urk9wr-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-urk9wr-container\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-3hqgd4-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-3hqgd4-container\" style=\"opacity: 1;\">"
+            }
+          ],
+          "count": 22
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 12
+        }
+      ],
+      "links": [
+        {
+          "href": "https://uplane.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/",
+          "text": "Home",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/enterprise-software",
+          "text": "Enterprise Software",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/managed-growth",
+          "text": "Managed Growth",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/why-us",
+          "text": "Why Uplane",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/blogs",
+          "text": "Resources",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/about-us",
+          "text": "About us",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/carrees",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Get Started",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Talk to Founders",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/why-us",
+          "text": "Why Uplane",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Request a Demo",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/talk-to-us",
+          "text": "Request a Demo",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/uplane_com",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/company-uplane/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product",
+          "text": "Solutions",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/why-us",
+          "text": "Why Uplane",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/about-us",
+          "text": "About Us",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/blogs",
+          "text": "Resources",
+          "inNav": false
+        },
+        {
+          "href": "https://www.useparallel.com/uplane1/careers",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#market-research",
+          "text": "Market Research",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#ad-creation",
+          "text": "Ad Creation",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#landing-pages-lead-capture",
+          "text": "Landing Pages & Lead Capture",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#campaign-launch-management",
+          "text": "Campaign Launch & Management",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#optimization-learning-engine",
+          "text": "Optimization & Learning Engine",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#reporting-insights",
+          "text": "Reporting & Insights",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/product#chat-interface",
+          "text": "Chat Interface",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/privacy",
+          "text": "Privacy Policy",
+          "inNav": false
+        },
+        {
+          "href": "https://uplane.com/terms-of-service",
+          "text": "Terms of Service",
+          "inNav": false
+        },
+        {
+          "href": "https://www.framer.com/legal/policy/",
+          "text": "Cookie Policy",
+          "inNav": false
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "url": "https://uplane.com/",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/carrees"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://uplane.com/why-us",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/why-us",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ],
+      "text": "Why Uplane"
+    },
+    {
+      "url": "https://uplane.com/blogs",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/blogs",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ],
+      "text": "Resources"
+    },
+    {
+      "url": "https://uplane.com/about-us",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/about-us",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ],
+      "text": "About Us"
+    },
+    {
+      "url": "https://uplane.com/carrees",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/carrees",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ],
+      "text": "Careers"
+    },
+    {
+      "url": "https://app.uplane.com/",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://app.uplane.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ],
+      "text": "Login"
+    },
+    {
+      "url": "https://uplane.com/talk-to-us",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/talk-to-us",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ],
+      "text": "Get Started"
+    },
+    {
+      "url": "https://uplane.com/product",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/product",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ],
+      "text": "View Details"
+    },
+    {
+      "url": "https://uplane.com/privacy",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/privacy",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ],
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://uplane.com/terms-of-service",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/terms-of-service",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ],
+      "text": "Terms of Service"
+    },
+    {
+      "url": "https://uplane.com/blogs/welcome-to-uplane",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/blogs/welcome-to-uplane",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/blogs"
+      ],
+      "text": "Welcome to UplaneAI is changing marketing forever. We share "
+    },
+    {
+      "url": "https://uplane.com/enterprise-software",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/enterprise-software",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/product"
+      ],
+      "text": "Enterprise Software"
+    },
+    {
+      "url": "https://uplane.com/managed-growth",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://uplane.com/managed-growth",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/product"
+      ],
+      "text": "Managed Growth"
+    },
+    {
+      "url": "https://www.iso.org/standard/27001",
+      "firstParty": false,
+      "status": 403,
+      "finalUrl": "https://www.iso.org/standard/27001",
+      "method": "GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/"
+      ],
+      "text": "Details"
+    },
+    {
+      "url": "https://commission.europa.eu/law/law-topic/data-protection_en",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://commission.europa.eu/law/law-topic/data-protection_en",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/"
+      ],
+      "text": "Details"
+    },
+    {
+      "url": "https://x.com/uplane_com",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://x.com/uplane_com",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/company/company-uplane/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/company/uplane-com",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://www.useparallel.com/uplane1/careers",
+      "firstParty": false,
+      "status": 302,
+      "finalUrl": "https://www.useparallel.com/company/undefined",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ],
+      "text": "Careers"
+    },
+    {
+      "url": "https://www.framer.com/legal/policy/",
+      "firstParty": false,
+      "status": 308,
+      "finalUrl": "https://www.framer.com/legal/cookie-policy/",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/",
+        "https://uplane.com/blogs",
+        "https://uplane.com/about-us",
+        "https://uplane.com/talk-to-us"
+      ],
+      "text": "Cookie Policy"
+    },
+    {
+      "url": "https://www.linkedin.com/in/julius-koerfgen/",
+      "firstParty": false,
+      "status": 999,
+      "finalUrl": "https://www.linkedin.com/in/julius-koerfgen",
+      "method": "GET->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/about-us"
+      ],
+      "text": "Julius KorfgenCo-Founder, CEO"
+    },
+    {
+      "url": "https://www.linkedin.com/in/lukasvollmer/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/in/lukasvollmer",
+      "method": "GET->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/about-us"
+      ],
+      "text": "Lukas VollmerCo-Founder, CTO"
+    },
+    {
+      "url": "https://www.linkedin.com/in/marvinabdel-massih/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/in/marvinabdel-massih",
+      "method": "GET->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/about-us"
+      ],
+      "text": "Marvin MassihCo-Founder, COO"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/e430a9f5-e324-4204-913e-d4d7bf1afb51",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/e430a9f5-e324-4204-913e-d4d7bf1afb51",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ],
+      "text": "Business Development Intern - San Francisco / Berlin / Remot"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/14af59ec-6dd0-4d32-a7d7-8506ba93d5a0",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/14af59ec-6dd0-4d32-a7d7-8506ba93d5a0",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ],
+      "text": "AI Marketing Strategist - Berlin (German Speaking)Customer S"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/7c2e963a-01bb-4007-8b66-4e46521049f4",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/7c2e963a-01bb-4007-8b66-4e46521049f4",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ],
+      "text": "AI Marketing Strategist - San FranciscoCustomer Success • Sa"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/49df14a1-3321-4e82-b85f-d0ecc51ef982",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/49df14a1-3321-4e82-b85f-d0ecc51ef982",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ],
+      "text": "AI Marketing Strategist Intern – Berlin (German Speaking)Cus"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/81f8563e-1159-4600-9167-99279b570e05",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/81f8563e-1159-4600-9167-99279b570e05",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ],
+      "text": "AI Marketing Strategist Intern – San FranciscoCustomer Succe"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/uplane/a216ad73-e13e-43c6-9918-42a1df45d8d9",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://jobs.ashbyhq.com/uplane/a216ad73-e13e-43c6-9918-42a1df45d8d9",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ],
+      "text": "Forward Deployed Engineer - BerlinEngineering • Berlin • Ful"
+    },
+    {
+      "url": "https://www.ashbyhq.com/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.ashbyhq.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ],
+      "text": "Powered by Ashby"
+    },
+    {
+      "url": "https://www.ashbyhq.com/privacy",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.ashbyhq.com/resources/privacy",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ],
+      "text": "Privacy Policy"
+    },
+    {
+      "url": "https://www.ashbyhq.com/security",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.ashbyhq.com/resources/security",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ],
+      "text": "Security"
+    },
+    {
+      "url": "https://www.ashbyhq.com/disclosure",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.ashbyhq.com/resources/vulnerability-disclosure",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://uplane.com/carrees"
+      ],
+      "text": "Vulnerability Disclosure"
+    }
+  ],
+  "robots": {
+    "status": 200,
+    "present": true,
+    "looksLikeHtml": false,
+    "sample": "User-agent: *\nAllow: /\n\nSitemap: https://uplane.com/sitemap.xml"
+  },
+  "sitemap": {
+    "status": 200,
+    "present": true,
+    "looksLikeXml": true
+  },
+  "redirectNote": null,
+  "keyPagesDiscovered": [
+    {
+      "url": "https://uplane.com/blogs",
+      "kind": "blog",
+      "text": "Resources"
+    },
+    {
+      "url": "https://uplane.com/about-us",
+      "kind": "about",
+      "text": "About Us"
+    },
+    {
+      "url": "https://uplane.com/carrees",
+      "kind": "careers",
+      "text": "Careers"
+    },
+    {
+      "url": "https://uplane.com/talk-to-us",
+      "kind": "demo",
+      "text": "Request a Demo"
+    },
+    {
+      "url": "https://uplane.com/product",
+      "kind": "product",
+      "text": "View Details"
+    }
+  ],
+  "linkCounts": {
+    "firstPartyTotal": 13,
+    "externalTotal": 19,
+    "checkedFP": 13,
+    "checkedEXT": 19
+  },
+  "network": {
+    "totalRequests": 552,
+    "firstPartyFailures": [],
+    "thirdPartyFailures": [
+      {
+        "url": "https://thumbnails.production.thenounproject.com/s213FLW9p_l2iODkA5EDN-VgQ_k=/fit-in/1000x1000/photos.production.thenounproject.com/photos/1622F95A-A909-4CAA-AEB1-238B4A07A541.jpg",
+        "status": 403,
+        "onPage": "https://uplane.com/talk-to-us"
+      }
+    ],
+    "mixedContent": [],
+    "largestFirstParty": [
+      {
+        "url": "https://static.uplane.com/c/uplane/HeroWebsiteOp.mp4",
+        "kb": 6537.9,
+        "type": "video/mp4"
+      },
+      {
+        "url": "https://uplane.com/",
+        "kb": 514.8,
+        "type": "text/html"
+      },
+      {
+        "url": "https://uplane.com/product",
+        "kb": 486.8,
+        "type": "text/html"
+      },
+      {
+        "url": "https://uplane.com/about-us",
+        "kb": 434.8,
+        "type": "text/html"
+      },
+      {
+        "url": "https://uplane.com/blogs",
+        "kb": 388.3,
+        "type": "text/html"
+      },
+      {
+        "url": "https://uplane.com/carrees",
+        "kb": 366,
+        "type": "text/html"
+      },
+      {
+        "url": "https://uplane.com/talk-to-us",
+        "kb": 351.3,
+        "type": "text/html"
+      }
+    ]
+  },
+  "console": {
+    "errors": [
+      {
+        "type": "error",
+        "text": "Refused to execute inline script because it violates the following Content Security Policy directive: \"script-src 'nonce-65WtjoBleyPeOuNAsoWK6SubpdsbLRT200sEm3drDGg' https://cdn.ashbyprd.com https://edge.fullstory.com https://rs.fullstory.com https://www.recaptcha.net/recaptcha/ https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://cdn.jsdelivr.net\". Either the 'unsafe-inline' keyword, a hash ('sha256-vXfafITz+kDq8fSHKsfivr8Nf+5YrhC+GO49rO4XCBA='), or a nonce ('nonce-...')",
+        "onPage": "https://uplane.com/carrees",
+        "location": ""
+      },
+      {
+        "type": "error",
+        "text": "[Report Only] Refused to frame 'https://embed.fillout.com/' because an ancestor violates the following Content Security Policy directive: \"frame-ancestors 'none'\".\n",
+        "onPage": "https://uplane.com/talk-to-us",
+        "location": ""
+      },
+      {
+        "type": "error",
+        "text": "[Report Only] Refused to frame 'https://embed.fillout.com/' because an ancestor violates the following Content Security Policy directive: \"frame-ancestors 'none'\".\n",
+        "onPage": "https://uplane.com/talk-to-us",
+        "location": ""
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+        "onPage": "https://uplane.com/talk-to-us",
+        "location": "https://thumbnails.production.thenounproject.com/s213FLW9p_l2iODkA5EDN-VgQ_k=/fit-in/1000x1000/photos.production.thenounproject.com/photos/1622F95A-A909-4CAA-AEB1-238B4A07A541.jpg:0"
+      },
+      {
+        "type": "error",
+        "text": "Could not find a View Model linked to Artboard Artboard.",
+        "onPage": "https://uplane.com/product",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/RivePlayer_vX.DAAzqJfX.mjs:20"
+      },
+      {
+        "type": "error",
+        "text": "Could not find a View Model linked to Artboard Artboard.",
+        "onPage": "https://uplane.com/product",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/RivePlayer_vX.DAAzqJfX.mjs:20"
+      },
+      {
+        "type": "error",
+        "text": "Could not find a View Model linked to Artboard Artboard 3.",
+        "onPage": "https://uplane.com/product",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/RivePlayer_vX.DAAzqJfX.mjs:20"
+      },
+      {
+        "type": "error",
+        "text": "Could not find a View Model linked to Artboard Artboard.",
+        "onPage": "https://uplane.com/product",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/RivePlayer_vX.DAAzqJfX.mjs:20"
+      },
+      {
+        "type": "error",
+        "text": "Could not find a View Model linked to Artboard Artboard.",
+        "onPage": "https://uplane.com/product",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/RivePlayer_vX.DAAzqJfX.mjs:20"
+      },
+      {
+        "type": "error",
+        "text": "Could not find a View Model linked to Artboard Artboard.",
+        "onPage": "https://uplane.com/product",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/RivePlayer_vX.DAAzqJfX.mjs:20"
+      },
+      {
+        "type": "error",
+        "text": "Could not find a View Model linked to Artboard Artboard.",
+        "onPage": "https://uplane.com/product",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/RivePlayer_vX.DAAzqJfX.mjs:20"
+      }
+    ],
+    "warnings": [
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0702000241A0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://uplane.com/",
+        "location": "https://uplane.com/:0"
+      },
+      {
+        "type": "warning",
+        "text": "[.WebGL-0x362c01b83600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+        "onPage": "https://uplane.com/",
+        "location": "https://uplane.com/:0"
+      },
+      {
+        "type": "warning",
+        "text": "Deprecated API for given entry type.",
+        "onPage": "https://uplane.com/",
+        "location": ""
+      },
+      {
+        "type": "warning",
+        "text": "Warning: isEqual does not handle circular references. RangeError Maximum call stack size exceeded",
+        "onPage": "https://uplane.com/",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/framer.DonLHSRq.mjs:2"
+      },
+      {
+        "type": "warning",
+        "text": "Warning: isEqual does not handle circular references. RangeError Maximum call stack size exceeded",
+        "onPage": "https://uplane.com/",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/framer.DonLHSRq.mjs:2"
+      },
+      {
+        "type": "warning",
+        "text": "Warning: isEqual does not handle circular references. RangeError Maximum call stack size exceeded",
+        "onPage": "https://uplane.com/",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/framer.DonLHSRq.mjs:2"
+      },
+      {
+        "type": "warning",
+        "text": "Warning: isEqual does not handle circular references. RangeError Maximum call stack size exceeded",
+        "onPage": "https://uplane.com/",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/framer.DonLHSRq.mjs:2"
+      },
+      {
+        "type": "warning",
+        "text": "Warning: isEqual does not handle circular references. RangeError Maximum call stack size exceeded",
+        "onPage": "https://uplane.com/",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/framer.DonLHSRq.mjs:2"
+      },
+      {
+        "type": "warning",
+        "text": "Warning: isEqual does not handle circular references. RangeError Maximum call stack size exceeded",
+        "onPage": "https://uplane.com/",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/framer.DonLHSRq.mjs:2"
+      },
+      {
+        "type": "warning",
+        "text": "Warning: isEqual does not handle circular references. RangeError Maximum call stack size exceeded",
+        "onPage": "https://uplane.com/",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/framer.DonLHSRq.mjs:2"
+      },
+      {
+        "type": "warning",
+        "text": "Warning: isEqual does not handle circular references. RangeError Maximum call stack size exceeded",
+        "onPage": "https://uplane.com/",
+        "location": "https://framerusercontent.com/sites/7122F1ic1frRdtnJPMsjjc/framer.DonLHSRq.mjs:2"
+      },
+      {
+        "type": "warning",
+        "text": "[.WebGL-0x362c01b83600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+        "onPage": "https://uplane.com/",
+        "location": "https://uplane.com/:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0702000241A0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://uplane.com/product",
+        "location": "https://uplane.com/product:0"
+      },
+      {
+        "type": "warning",
+        "text": "[.WebGL-0x362c00119c00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+        "onPage": "https://uplane.com/product",
+        "location": "https://uplane.com/product:0"
+      },
+      {
+        "type": "warning",
+        "text": "[.WebGL-0x362c00119c00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)",
+        "onPage": "https://uplane.com/product",
+        "location": "https://uplane.com/product:0"
+      }
+    ],
+    "pageErrors": []
+  },
+  "finishedAt": "2026-07-06T08:19:31.872Z"
+}

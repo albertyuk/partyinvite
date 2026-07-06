@@ -1,0 +1,167 @@
+{
+  "key": "naive",
+  "checkedAt": "2026-07-06T08:23:45.026Z",
+  "assets": [
+    {
+      "url": "https://usenaive.ai/templates",
+      "harnessKB": 2744.6,
+      "realKB": 98,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://usenaive.ai/_next/static/chunks/01-px06-ghit9.js?dpl=dpl_E3nZWwAYGbAhtmYk1nbwFafFbuHP",
+      "harnessKB": 748.1,
+      "realKB": 85,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://usenaive.ai/",
+      "harnessKB": 715.8,
+      "realKB": 54,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://usenaive.ai/_next/static/chunks/0gfvws390jm4g.js?dpl=dpl_E3nZWwAYGbAhtmYk1nbwFafFbuHP",
+      "harnessKB": 422.4,
+      "realKB": 138,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://usenaive.ai/?_rsc=g2GogwnnB0r-HJi1",
+      "harnessKB": 334,
+      "realKB": 54,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    },
+    {
+      "url": "https://usenaive.ai/?_rsc=UnD6ao-qgYO0Ijq7",
+      "harnessKB": 334,
+      "realKB": 54,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    },
+    {
+      "url": "https://usenaive.ai/?_rsc=0Ojc5kMxE5d24eN1",
+      "harnessKB": 334,
+      "realKB": 54,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    },
+    {
+      "url": "https://usenaive.ai/?_rsc=STd8WESUn-NS7Q3J",
+      "harnessKB": 334,
+      "realKB": 54,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    },
+    {
+      "url": "https://usenaive.ai/?_rsc=7-39U9BAb2CPJSwu",
+      "harnessKB": 334,
+      "realKB": 54,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    },
+    {
+      "url": "https://usenaive.ai/?_rsc=oump6mXoeH2E8mXH",
+      "harnessKB": 334,
+      "realKB": 54,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    },
+    {
+      "url": "https://usenaive.ai/?_rsc=q5d_emQtq906GfQj",
+      "harnessKB": 334,
+      "realKB": 54,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives?_rsc=GQ403_9Njd1Ts13L",
+      "harnessKB": 313.8,
+      "realKB": 26,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/x-component"
+    }
+  ],
+  "favicon": {
+    "status": 404,
+    "size": 0,
+    "type": "text/html; charset=utf-8",
+    "finalUrl": "https://usenaive.ai/favicon.ico",
+    "redirects": 0,
+    "url": "https://usenaive.ai/favicon.ico"
+  },
+  "firstPartyLinkFailuresReChecked": [
+    {
+      "url": "https://status.usenaive.ai/",
+      "harnessStatus": 404,
+      "recheck": {
+        "status": 404,
+        "size": 107,
+        "type": "text/plain; charset=utf-8",
+        "finalUrl": "https://status.usenaive.ai/",
+        "redirects": 0
+      }
+    }
+  ],
+  "firstPartyAssetFailuresReChecked": [
+    {
+      "url": "https://usenaive.ai/docs/getting-started/introduction?_rsc=qebfISYXrqA-JuXh",
+      "harnessStatus": 404,
+      "recheck": {
+        "status": 200,
+        "size": 62130,
+        "type": "text/html; charset=utf-8",
+        "finalUrl": "https://usenaive.ai/docs/getting-started/introduction?_rsc=qebfISYXrqA-JuXh",
+        "redirects": 0
+      }
+    },
+    {
+      "url": "https://usenaive.ai/docs/getting-started/apps?_rsc=y9DS7rAB_N9httLa",
+      "harnessStatus": 404,
+      "recheck": {
+        "status": 200,
+        "size": 63193,
+        "type": "text/html; charset=utf-8",
+        "finalUrl": "https://usenaive.ai/docs/getting-started/apps?_rsc=y9DS7rAB_N9httLa",
+        "redirects": 0
+      }
+    },
+    {
+      "url": "https://usenaive.ai/docs/getting-started/cards?_rsc=qptEv0OG919dgZuw",
+      "harnessStatus": 404,
+      "recheck": {
+        "status": 200,
+        "size": 65794,
+        "type": "text/html; charset=utf-8",
+        "finalUrl": "https://usenaive.ai/docs/getting-started/cards?_rsc=qptEv0OG919dgZuw",
+        "redirects": 0
+      }
+    }
+  ],
+  "notFoundProbe": {
+    "status": 404,
+    "size": 3806,
+    "type": "text/html; charset=utf-8",
+    "finalUrl": "https://usenaive.ai/this-page-does-not-exist-qa-audit-420000",
+    "redirects": 0,
+    "note": "expect 404"
+  },
+  "top12RealTotalMB": 0.8
+}

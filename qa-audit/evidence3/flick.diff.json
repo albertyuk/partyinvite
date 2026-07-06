@@ -1,0 +1,111 @@
+{
+  "key": "flick",
+  "comparedAt": "2026-07-06T08:32:24.925Z",
+  "copyStrings": [
+    {
+      "string": "Unlimited customizable credits",
+      "wasPresent": true,
+      "stillPresent": false
+    },
+    {
+      "string": "20,000 credits",
+      "wasPresent": true,
+      "stillPresent": false
+    },
+    {
+      "string": "Creator Partner Program",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "Youtube, Linkedin",
+      "wasPresent": true,
+      "stillPresent": true
+    }
+  ],
+  "priorBrokenLinks": [
+    {
+      "url": "https://www.linkedin.com/in/z0ey/",
+      "oldStatus": 429,
+      "newStatus": 999
+    },
+    {
+      "url": "https://www.linkedin.com/in/ruiwang3/",
+      "oldStatus": 429,
+      "newStatus": 200
+    }
+  ],
+  "axeChanges": [
+    {
+      "pageRule": "https://flick.art/ :: region",
+      "old": 22,
+      "new": 23
+    },
+    {
+      "pageRule": "https://flick.art/pricing :: color-contrast",
+      "old": 35,
+      "new": 41
+    },
+    {
+      "pageRule": "https://flick.art/pricing :: empty-table-header",
+      "old": 4,
+      "new": 0
+    },
+    {
+      "pageRule": "https://flick.art/projects?tab=explore :: region",
+      "old": 1,
+      "new": 5
+    },
+    {
+      "pageRule": "https://flick.art/pricing :: aria-input-field-name",
+      "old": 0,
+      "new": 1
+    },
+    {
+      "pageRule": "https://flick.art/pricing :: region",
+      "old": 0,
+      "new": 4
+    }
+  ],
+  "metaChanges": [
+    {
+      "page": "https://flick.art/",
+      "diffs": {
+        "h1Count": {
+          "old": 0,
+          "new": 1
+        },
+        "jsonldCount": {
+          "old": 1,
+          "new": 2
+        }
+      }
+    }
+  ],
+  "robotsSitemap": {
+    "robots": {
+      "old": 200,
+      "new": 200
+    },
+    "sitemap": {
+      "old": 200,
+      "new": 200
+    }
+  },
+  "newLinkFailures": [],
+  "newConsoleErrors": [
+    {
+      "text": "The fetch of the config file resulted in a network error: ERR_CONNECTION_RESET",
+      "onPage": "https://flick.art/"
+    },
+    {
+      "text": "The provider's FedCM config file fetch resulted in an error response code.",
+      "onPage": "https://flick.art/"
+    },
+    {
+      "text": "The fetch of the well-known file resulted in a network error: ERR_CONNECTION_RESET",
+      "onPage": "https://flick.art/careers"
+    }
+  ],
+  "newFpFailures": []
+}

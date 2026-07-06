@@ -1,0 +1,277 @@
+{
+  "key": "uplane",
+  "checkedAt": "2026-07-06T08:21:27.534Z",
+  "sitemap": {
+    "status": 200,
+    "totalLocs": 12,
+    "sampled": [
+      {
+        "url": "https://uplane.com/",
+        "status": 200,
+        "finalUrl": "https://uplane.com/",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 527165
+      },
+      {
+        "url": "https://uplane.com/old/old-home-2",
+        "status": 200,
+        "finalUrl": "https://uplane.com/old/old-home-2",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 937111
+      },
+      {
+        "url": "https://uplane.com/managed-growth",
+        "status": 200,
+        "finalUrl": "https://uplane.com/managed-growth",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 894984
+      },
+      {
+        "url": "https://uplane.com/enterprise-software",
+        "status": 200,
+        "finalUrl": "https://uplane.com/enterprise-software",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 572165
+      },
+      {
+        "url": "https://uplane.com/product",
+        "status": 200,
+        "finalUrl": "https://uplane.com/product",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 498468
+      },
+      {
+        "url": "https://uplane.com/why-us",
+        "status": 200,
+        "finalUrl": "https://uplane.com/why-us",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 711961
+      },
+      {
+        "url": "https://uplane.com/about-us",
+        "status": 200,
+        "finalUrl": "https://uplane.com/about-us",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 445249
+      },
+      {
+        "url": "https://uplane.com/talk-to-us",
+        "status": 200,
+        "finalUrl": "https://uplane.com/talk-to-us",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 359752
+      },
+      {
+        "url": "https://uplane.com/blogs",
+        "status": 200,
+        "finalUrl": "https://uplane.com/blogs",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 397604
+      },
+      {
+        "url": "https://uplane.com/carrees",
+        "status": 200,
+        "finalUrl": "https://uplane.com/carrees",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 374741
+      },
+      {
+        "url": "https://uplane.com/success-popup",
+        "status": 200,
+        "finalUrl": "https://uplane.com/success-popup",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 233951
+      },
+      {
+        "url": "https://uplane.com/blogs/welcome-to-uplane",
+        "status": 200,
+        "finalUrl": "https://uplane.com/blogs/welcome-to-uplane",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 373439
+      }
+    ],
+    "non200": []
+  },
+  "canonicals": [
+    {
+      "page": "https://uplane.com/",
+      "canonical": "https://uplane.com/",
+      "status": 200,
+      "finalUrl": "https://uplane.com/",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 527165,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://uplane.com/blogs",
+      "canonical": "https://uplane.com/blogs",
+      "status": 200,
+      "finalUrl": "https://uplane.com/blogs",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 397604,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://uplane.com/about-us",
+      "canonical": "https://uplane.com/about-us",
+      "status": 200,
+      "finalUrl": "https://uplane.com/about-us",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 445249,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://uplane.com/talk-to-us",
+      "canonical": "https://uplane.com/talk-to-us",
+      "status": 200,
+      "finalUrl": "https://uplane.com/talk-to-us",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 359752,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://uplane.com/product",
+      "canonical": "https://uplane.com/product",
+      "status": 200,
+      "finalUrl": "https://uplane.com/product",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 498468,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://uplane.com/why-us",
+      "canonical": "https://uplane.com/why-us",
+      "status": 200,
+      "finalUrl": "https://uplane.com/why-us",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 711961,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://uplane.com/enterprise-software",
+      "canonical": "https://uplane.com/enterprise-software",
+      "status": 200,
+      "finalUrl": "https://uplane.com/enterprise-software",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 572165,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://uplane.com/managed-growth",
+      "canonical": "https://uplane.com/managed-growth",
+      "status": 200,
+      "finalUrl": "https://uplane.com/managed-growth",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 894984,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://uplane.com/privacy",
+      "canonical": "https://uplane.com/privacy",
+      "status": 200,
+      "finalUrl": "https://uplane.com/privacy",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 425709,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://uplane.com/terms-of-service",
+      "canonical": "https://uplane.com/terms-of-service",
+      "status": 200,
+      "finalUrl": "https://uplane.com/terms-of-service",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 369113,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://uplane.com/blogs/welcome-to-uplane",
+      "canonical": "https://uplane.com/blogs/welcome-to-uplane",
+      "status": 200,
+      "finalUrl": "https://uplane.com/blogs/welcome-to-uplane",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 373439,
+      "selfConsistent": true
+    }
+  ],
+  "socialImages": [
+    {
+      "url": "https://framerusercontent.com/images/I1wGPvdVZEetQVgLtEPTRsCcm0.png",
+      "status": 200,
+      "finalUrl": "https://framerusercontent.com/images/I1wGPvdVZEetQVgLtEPTRsCcm0.png",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 91581,
+      "isImage": true
+    },
+    {
+      "url": "https://app.ashbyhq.com/api/images/org-theme-social/93f3649b-ec3e-404a-938a-345c6e0200c9/813515db-5189-4654-8c56-16757e99ddbe/b760d7be-8f20-49fb-87e0-b3770393ed15.png",
+      "status": 200,
+      "finalUrl": "https://app.ashbyhq.com/api/images/org-theme-social/93f3649b-ec3e-404a-938a-345c6e0200c9/813515db-5189-4654-8c56-16757e99ddbe/b760d7be-8f20-49fb-87e0-b3770393ed15.png",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 1198165,
+      "isImage": true
+    }
+  ],
+  "favicons": [
+    {
+      "href": "https://framerusercontent.com/images/uq6AnklLynDJDDJbv4Op3iPtMs.png",
+      "resolved": "https://framerusercontent.com/images/uq6AnklLynDJDDJbv4Op3iPtMs.png",
+      "status": 200,
+      "finalUrl": "https://framerusercontent.com/images/uq6AnklLynDJDDJbv4Op3iPtMs.png",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 477
+    },
+    {
+      "href": "https://framerusercontent.com/images/2JUoyq0EJjBPm488ViwuRvISJ5I.png",
+      "resolved": "https://framerusercontent.com/images/2JUoyq0EJjBPm488ViwuRvISJ5I.png",
+      "status": 200,
+      "finalUrl": "https://framerusercontent.com/images/2JUoyq0EJjBPm488ViwuRvISJ5I.png",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 25729
+    }
+  ],
+  "regression": [
+    {
+      "url": "https://uplane.com/careers",
+      "status": 404,
+      "finalUrl": "https://uplane.com/careers",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 7384
+    },
+    {
+      "url": "https://uplane.com/carrees",
+      "status": 200,
+      "finalUrl": "https://uplane.com/carrees",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 374741
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "key": "yondu",
+  "comparedAt": "2026-07-06T08:24:06.752Z",
+  "copyStrings": [
+    {
+      "string": "Resillience",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "humaniods",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "you're measure TTFT",
+      "wasPresent": false,
+      "stillPresent": false
+    },
+    {
+      "string": "Detroit, MI",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "McCormick Place",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "is a giant fixed system",
+      "wasPresent": true,
+      "stillPresent": true
+    }
+  ],
+  "priorBrokenLinks": [
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/NU60VVf-robotics-software-intern",
+      "oldStatus": 404,
+      "newStatus": 404
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/FjyrKhI-quarter-1-2026-robotics-hardware-intern",
+      "oldStatus": 404,
+      "newStatus": 404
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/boSSSw0-summer-2026-robotics-hardware-intern",
+      "oldStatus": 404,
+      "newStatus": 404
+    }
+  ],
+  "axeChanges": [
+    {
+      "pageRule": "https://www.yondu.ai/ :: color-contrast",
+      "old": 4,
+      "new": 2
+    },
+    {
+      "pageRule": "https://www.yondu.ai/about :: color-contrast",
+      "old": 1,
+      "new": 3
+    },
+    {
+      "pageRule": "https://www.yondu.ai/careers :: color-contrast",
+      "old": 1,
+      "new": 2
+    }
+  ],
+  "metaChanges": [],
+  "robotsSitemap": {
+    "robots": {
+      "old": 200,
+      "new": 200
+    },
+    "sitemap": {
+      "old": 404,
+      "new": 404
+    }
+  },
+  "newLinkFailures": [
+    {
+      "url": "https://yondu.ai/automate",
+      "status": 404
+    },
+    {
+      "url": "https://www.yondu.ai/sitemap.xml",
+      "status": 404
+    }
+  ],
+  "newConsoleErrors": [],
+  "newFpFailures": []
+}

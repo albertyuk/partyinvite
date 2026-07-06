@@ -1,0 +1,129 @@
+{
+  "key": "contrario",
+  "comparedAt": "2026-07-06T08:26:04.630Z",
+  "copyStrings": [
+    {
+      "string": "Search experties",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "WISP FLOW",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "Privacy policy sections",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "Carlos Libardo Founding Data Engineer",
+      "wasPresent": true,
+      "stillPresent": true
+    }
+  ],
+  "priorBrokenLinks": [
+    {
+      "url": "https://www.producthunt.com/products/contrario",
+      "oldStatus": 403,
+      "newStatus": 403
+    },
+    {
+      "url": "https://www.linkedin.com/in/arya-marwaha/",
+      "oldStatus": 429,
+      "newStatus": 999
+    },
+    {
+      "url": "https://www.linkedin.com/in/adibsood",
+      "oldStatus": 429,
+      "newStatus": 999
+    },
+    {
+      "url": "https://www.linkedin.com/in/jerrycainjr",
+      "oldStatus": 429,
+      "newStatus": 999
+    },
+    {
+      "url": "https://www.linkedin.com/in/abhijeetdw/",
+      "oldStatus": 429,
+      "newStatus": 999
+    },
+    {
+      "url": "https://www.linkedin.com/in/peterboboff/",
+      "oldStatus": 429,
+      "newStatus": 200
+    },
+    {
+      "url": "https://www.linkedin.com/in/franklyn-wang/",
+      "oldStatus": 429,
+      "newStatus": 404
+    },
+    {
+      "url": "https://venturebeat.com/business/contrario-launches-the-case-for-pairing-ai-agents-with-human-recruiters-instead-of-replacing-them",
+      "oldStatus": 429,
+      "newStatus": 429
+    },
+    {
+      "url": "https://www.linkedin.com/in/spencermateega/overlay/about-this-profile/",
+      "oldStatus": 429,
+      "newStatus": 200
+    },
+    {
+      "url": "https://www.linkedin.com/in/jishnu-b-3063271",
+      "oldStatus": 429,
+      "newStatus": 200
+    },
+    {
+      "url": "https://www.linkedin.com/in/david-chen-71722b7/",
+      "oldStatus": 429,
+      "newStatus": 200
+    },
+    {
+      "url": "https://www.linkedin.com/in/hank-couture/",
+      "oldStatus": 429,
+      "newStatus": 200
+    },
+    {
+      "url": "https://gigaml.com/",
+      "oldStatus": 404,
+      "newStatus": 404
+    }
+  ],
+  "axeChanges": [
+    {
+      "pageRule": "https://www.contrario.ai/customers :: color-contrast",
+      "old": 5,
+      "new": 6
+    },
+    {
+      "pageRule": "https://www.contrario.ai/customers :: region",
+      "old": 14,
+      "new": 15
+    },
+    {
+      "pageRule": "https://www.contrario.ai/domains :: aria-hidden-focus",
+      "old": 22,
+      "new": 0
+    },
+    {
+      "pageRule": "https://www.contrario.ai/referral :: color-contrast",
+      "old": 11,
+      "new": 18
+    }
+  ],
+  "metaChanges": [],
+  "robotsSitemap": {
+    "robots": {
+      "old": 200,
+      "new": 200
+    },
+    "sitemap": {
+      "old": 200,
+      "new": 200
+    }
+  },
+  "newLinkFailures": [],
+  "newConsoleErrors": [],
+  "newFpFailures": []
+}

@@ -1,0 +1,3774 @@
+{
+  "key": "naive",
+  "name": "Naive",
+  "category": "agent infrastructure",
+  "start": "https://usenaive.ai/",
+  "note": "",
+  "startedAt": "2026-07-06T08:21:48.023Z",
+  "baseHost": "usenaive.ai",
+  "pages": {
+    "home": {
+      "url": "https://usenaive.ai/",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://usenaive.ai/"
+      },
+      "meta": {
+        "title": "Naïve | The AI-Native Cloud for Apps and Agents",
+        "titleLen": 47,
+        "metaDescription": "The AI-native cloud for apps and agents. All the infrastructure they need — software (compute, databases, storage, model routing) and real-world (a verified identity, money, and comms) — unified in one API and governed on every action.",
+        "canonical": null,
+        "robotsMeta": null,
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "Ship Apps. Agents. Companies.One prompt. One config file. All your infrastructure."
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Ship Apps. Agents. Companies.One prompt. One config file. All your infrastructur"
+          },
+          {
+            "level": 3,
+            "text": "Cloud Backend"
+          },
+          {
+            "level": 3,
+            "text": "Governance"
+          },
+          {
+            "level": 3,
+            "text": "Payments & Billing"
+          },
+          {
+            "level": 3,
+            "text": "Agent Runtime"
+          },
+          {
+            "level": 3,
+            "text": "Connections"
+          },
+          {
+            "level": 3,
+            "text": "Identity, 2FA, Incorporation"
+          },
+          {
+            "level": 3,
+            "text": "Model Routing"
+          },
+          {
+            "level": 3,
+            "text": "Hosting & Compute"
+          },
+          {
+            "level": 3,
+            "text": "Ship products from zero to production, on backend and rails built for agents."
+          },
+          {
+            "level": 3,
+            "text": "Give every agent a real-world presence, identity, money, and comms it actually o"
+          },
+          {
+            "level": 2,
+            "text": "Agent Infrastructure as Code"
+          },
+          {
+            "level": 3,
+            "text": "Declare once. Provision a million."
+          },
+          {
+            "level": 3,
+            "text": "Spend Controls"
+          },
+          {
+            "level": 3,
+            "text": "HITL Approval Policies"
+          },
+          {
+            "level": 3,
+            "text": "Capability Policies"
+          },
+          {
+            "level": 3,
+            "text": "Audit & Revoke"
+          },
+          {
+            "level": 3,
+            "text": "Single to Multi-Agent Systems Hosting"
+          },
+          {
+            "level": 3,
+            "text": "Explore 10,000+ tools."
+          },
+          {
+            "level": 2,
+            "text": "Start from a Template"
+          },
+          {
+            "level": 2,
+            "text": "Featured templates"
+          },
+          {
+            "level": 3,
+            "text": "AI SEO platform"
+          },
+          {
+            "level": 3,
+            "text": "AI voice receptionist"
+          },
+          {
+            "level": 3,
+            "text": "Autonomous company"
+          },
+          {
+            "level": 3,
+            "text": "Full-stack SaaS builder"
+          },
+          {
+            "level": 3,
+            "text": "Mobile-Use Agents"
+          },
+          {
+            "level": 2,
+            "text": "How to Get Started"
+          },
+          {
+            "level": 3,
+            "text": "Start from your shell."
+          },
+          {
+            "level": 3,
+            "text": "Ship from your backend."
+          },
+          {
+            "level": 3,
+            "text": "Product"
+          },
+          {
+            "level": 3,
+            "text": "Company"
+          },
+          {
+            "level": 3,
+            "text": "Developer"
+          },
+          {
+            "level": 3,
+            "text": "Connect"
+          }
+        ],
+        "og": {},
+        "twitter": {},
+        "favicons": [
+          "/favicon.svg"
+        ],
+        "imgCount": 37,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 23,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 23,
+        "headStyles": 2,
+        "headSyncScripts": 1,
+        "linkCount": 51,
+        "textSample": "naïve Primitives Solutions CLI Enterprise Resources Get started Log in Ship Apps. Agents. Companies. One prompt. One config file. All your infrastructure. Deploy now $ Read usenaive.ai/skill.md Drop into any agent Anthropic SDK Claude Code OpenAI SDK Codex Hermes OpenClaw Cursor Anthropic SDK Claude Code OpenAI SDK Codex Hermes OpenClaw Cursor Cloud Backend Postgres, auth, object storage, realtime, and edge functions — provisioned in seconds, one per agent. naive up PROVISIONING Postgres postgres://agent@db.usenaive.com:5432 PRIMARY Auth JWT · sessions 100% Storage Object storage 100% Realtime live sync 88% Edge fn serverless 72% Queue SQS · workers 54% Cron scheduled 36% $ naive up --agent AGT-7F3K 7 services 1.2s elapsed Governance The control plane agents run through — policy enforced on every primitive before money moves or a tool fires. Audit log enforced · $250 cap 10:01 browser.search $0.01 ALLOWED 10:14 cards.create — ALLOWED 10:22 payment.charge $48.00 ALLOWED 10:23 payment.charge $612.00 REVOKED Payments & Billing Scoped virtual cards with hard spend limits — plus invoicing to bill your own customers. Invoices $7,010 BILLED Acme Co. $4,200 PAID Globex $1,850 DUE Initech $960 SENT Umbrella $2,400 DUE Stark Ind. $6,100 PAID Wayne Ent. $1,320 SENT Invoices $7,010 BILLED Acme Co. $4,200 PAID Globex $1,850 DUE Initech $960 SENT Umbrella $2,400 DUE Stark Ind. $6,100 PAID Wayne Ent. $1,320 SENT naïve AGENT VISA Agent Runtime Hermes, OpenClaw, and any framework in isolated microVM sandboxes. Hermes OpenClaw Codex Claude Code Cursor Connections Stripe, Supabase, Vercel, QuickBooks, and 100+ third-party tools through one surface. Instantly + Brave Search + Supabase + Vercel + Stripe + PostHog + Mercury + Rippling + QuickBooks + Instantly + Brave Search + Supabase + Vercel + Stripe + PostHog + Mercury + Rippling + QuickBooks + Identity, 2FA, Incorporation KYC, KYB, US LLC / EIN, email, and phone — a verified business identity per agent. REGISTERED AGENT AGT-7F3K Naïve, Inc. agent@usenaive.com EIN 84-2910331 KYC KYB LLC/EIN EMAIL PHONE Model Routing 300+ models through one router — smart routing per task, automatic fallbacks, and exact-cost metering on a single API. Model router SMART ROUTING · 300+ MODELS ROUTE BY TASK triage gpt-5-mini fast · cheap reason claude-sonnet-4.6 frontier fallback gpt-5.2 auto failover $ llm chat -m anthropic/claude-sonnet-4.6 --fallback openai/gpt-5.2 GPT-5 Claude Gemini Llama Mistral Grok DeepSeek Qwen Cohere Mixtral provider sort · throughput fallback chain · exact cost Hosting & Compute Fullstack apps, serverless functions, and GPU workloads — deployed to isolated microVMs in seconds. NAIVE DEPLOY IAD · MICROVM a app fullstack f fn serverless g gpu workload build 1.2s bundle 0.4s deploy 0.8s boot 0.3s ready live Hosting, media, research, trading, and 20+ more — scoped per agent, same API key. View all primitives Ship products from zero to production, on backend and rails built for agents. ✓ Postgres + auth A full relational database per project. ✓ Object storage + realtime Files, buckets, and live sync. ✓ Edge functions Serverless logic, deployed instantly. ✓ Sandboxed compute Containers and GPU on isolated runtimes. naive deploy us-east · 1.2s ✓ Provisioning Postgres ✓ Deploying edge functions ✓ Mounting object storage ✓ Starting sandboxed compute Ready deploy #284 https://acme.naive.run Give every agent a real-world presence, identity, money, and comms it actually owns. ✓ Identity & incorporation KYC plus a real US company with an EIN. ✓ Spend-capped cards Virtual cards with hard limits. ✓ Email & domains Inboxes, DNS, and SMS on your brand. ✓ Distribution Post to 10+ socials, SEO, and AI search. agent.wallet VISA ···· 4471 Hermes Agent EIN ·· 8842 · verified KYC $1,840.00 cap $2,500 OpenAI · API −$48.00 Twilio · SMS −$3.20 Stripe · payout +$120.00 Agent Infrastructure as Code Declare once. Provision a million. A coding agent writes one declarative file far more reliably than it chains twenty API calls. 99.99% AGENT PROJECT RUNTIME agent.config.ts VERSIONED import { defineAgent } from \"@usenaive-sdk/iac\"; // identity · money · permissions, in the repo export default defineAgent({ identity: { type: \"ein\", kyc: \"verified\" }, wallet: { card: \"virtual\", limit: \"$2,500/mo\" }, budget: { hardCap: \"$5,000\", alertAt: \"80%\" }, approvals: { over: \"$500\", via: \"slack\" }, allow: [\"email\", \"phone\", \"search\", \"payments\"], deny: [\"wire_transfer\", \"trading\"], }); BUDGET Spend Controls Hard caps enforced at card authorization — not alerts after the swipe. $1,800 spent $5,000 cap APPROVALS HITL Approval Policies Sensitive primitives block until a human approves. The agent waits — it doesn't retry past policy. payment.charge $612 APPROVE DENY ALLOW / DENY Capability Policies Allow and deny lists per agent and per end-user. MCP tools scoped at the session — zero standing access. allow email search payments deny wire trading AUDIT Audit & Revoke Every primitive logged and replayable. Revoke cards, sessions, and capabilities mid-flight. 10:22 payment.charge $48 ALLOWED 10:23 payment.charge $612 REVOKED system.config.ts HOSTED import { defineSystem } from \"@usenaive-sdk/iac\"; import researcher from \"./researcher.agent\"; import writer from \"./writer.agent\"; // a multi-agent system, hosted on the orchestration runtime export default defineSystem({ orchestrator: \"ceo\", agents: [researcher, writer, editor], handoff: \"ceo → researcher → writer → editor\", host: \"naive/orchestration\", }); ORCHESTRATION Single to Multi-Agent Systems Hosting Compose agents and how they coordinate in one config, then host one agent or an entire swarm on our orchestration runtime. ORCHESTRATOR ceo AGENT researcher AGENT writer AGENT editor PRIMITIVES Explore 10,000+ tools. Every primitive your agents need — declared in the same config and governed on every action. Browse the directory Search Video Domains Trading Browser Mobile Cards KYC / KYB Email Phone LLC / EIN Agent runtimes Hermes · OpenClaw · Claude"
+      },
+      "axe": [
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "help": "Heading levels should only increase by one",
+          "description": "Ensure the order of headings is semantically correct",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".min-h-\\[560px\\].sm\\:col-span-2.lg\\:row-span-2 > .p-6.md\\:p-7.z-20 > .gap-2\\.5.items-center.flex > .text-lg.leading-tight"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h3 class=\"text-lg font-medium leading-tight tracking-tight text-white\"><span class=\"relative inline-block\">Cloud Backend<span aria-hidden=\"true\" class=\"absolut"
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "perf": {
+        "domContentLoaded": 1665,
+        "load": 4359,
+        "fcp": 1712,
+        "lcp": null,
+        "cls": 0,
+        "resourceCount": 104
+      },
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 24
+        },
+        {
+          "width": 768,
+          "scrollW": 768,
+          "clientW": 768,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 23
+        },
+        {
+          "width": 1440,
+          "scrollW": 1440,
+          "clientW": 1440,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 29
+        }
+      ],
+      "links": [
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/solutions/agent-native-governance",
+          "text": "Solutions",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get started",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Log in",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/deploy",
+          "text": "Deploy now",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+          "text": "Cloud BackendPostgres, auth, object storage, realtime, and e",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/solutions/agent-native-governance",
+          "text": "GovernanceThe control plane agents run through — policy enfo",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/solutions/agent-native-payments",
+          "text": "Payments & BillingScoped virtual cards with hard spend limit",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/ceo",
+          "text": "Agent RuntimeHermes, OpenClaw, and any framework in isolated",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/connections",
+          "text": "ConnectionsStripe, Supabase, Vercel, QuickBooks, and 100+ th",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/formation",
+          "text": "Identity, 2FA, IncorporationKYC, KYB, US LLC / EIN, email, a",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/llm",
+          "text": "Model Routing300+ models through one router — smart routing ",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/apps",
+          "text": "Hosting & ComputeFullstack apps, serverless functions, and G",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "View all primitives",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Browse the directory",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates",
+          "text": "Featured templates",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates",
+          "text": "View all",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/ai-seo-platform",
+          "text": "TemplateAI SEO platformMulti-tenant SaaS where every custome",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/ai-voice-receptionist",
+          "text": "TemplateAI voice receptionistA real phone number with a voic",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/autonomous-company",
+          "text": "TemplateAutonomous companyA CEO agent that hires a team of a",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/full-stack-saas-builder",
+          "text": "TemplateFull-stack SaaS builderDeploys a real full-stack app",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "Get started with the CLI",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "Explore SDK",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers",
+          "text": "Platform",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/templates",
+          "text": "Templates",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/marketplace",
+          "text": "Marketplace",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/pricing",
+          "text": "Pricing",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/blog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/fellowship",
+          "text": "Fellowship",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/accelerator",
+          "text": "Accelerator",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/security",
+          "text": "Security",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cybersecurity",
+          "text": "Cybersecurity Policy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/terms",
+          "text": "Terms",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/privacy",
+          "text": "Privacy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/licenses",
+          "text": "Licenses",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "Documentation",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "API Reference",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "SDK",
+          "inNav": true
+        },
+        {
+          "href": "https://status.usenaive.ai/",
+          "text": "Status",
+          "inNav": true
+        },
+        {
+          "href": "https://x.com/usenaive",
+          "text": "X",
+          "inNav": true
+        },
+        {
+          "href": "https://github.com/usenaive",
+          "text": "GitHub",
+          "inNav": true
+        },
+        {
+          "href": "https://discord.gg/naive",
+          "text": "Discord",
+          "inNav": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/usenaive",
+          "text": "LinkedIn",
+          "inNav": true
+        }
+      ]
+    },
+    "solutions:/solutions/agent-native-governance": {
+      "url": "https://usenaive.ai/solutions/agent-native-governance",
+      "kind": "solutions",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://usenaive.ai/solutions/agent-native-governance"
+      },
+      "meta": {
+        "title": "Governance — Naïve Solutions",
+        "titleLen": 28,
+        "metaDescription": "Not a dashboard bolted on after deployment — policy declared in code, enforced on every primitive before money moves or a tool fires.",
+        "canonical": null,
+        "robotsMeta": null,
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "The control plane agents run through."
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "The control plane agents run through."
+          },
+          {
+            "level": 2,
+            "text": "Paste and ship"
+          },
+          {
+            "level": 2,
+            "text": "Declare · Enforce · Revoke"
+          },
+          {
+            "level": 3,
+            "text": "Identity, budget, and permissions in your repo."
+          },
+          {
+            "level": 3,
+            "text": "Block at the primitive boundary — in real time."
+          },
+          {
+            "level": 3,
+            "text": "Kill access mid-flight — not in the next audit cycle."
+          },
+          {
+            "level": 2,
+            "text": "Governance primitives that enforce — not just log."
+          },
+          {
+            "level": 3,
+            "text": "Approvals"
+          },
+          {
+            "level": 3,
+            "text": "Sessions"
+          },
+          {
+            "level": 3,
+            "text": "Vault"
+          },
+          {
+            "level": 3,
+            "text": "Cards"
+          },
+          {
+            "level": 2,
+            "text": "Declare policy. Enforce on every call."
+          },
+          {
+            "level": 3,
+            "text": "Declare Policy as Code"
+          },
+          {
+            "level": 3,
+            "text": "Enforce with Approvals"
+          },
+          {
+            "level": 3,
+            "text": "Scope MCP Sessions"
+          },
+          {
+            "level": 2,
+            "text": "Build on an enforcement layer, not a log viewer."
+          },
+          {
+            "level": 3,
+            "text": "Product"
+          },
+          {
+            "level": 3,
+            "text": "Company"
+          },
+          {
+            "level": 3,
+            "text": "Developer"
+          },
+          {
+            "level": 3,
+            "text": "Connect"
+          }
+        ],
+        "og": {
+          "og:title": "Governance — Naïve Solutions",
+          "og:description": "Not a dashboard bolted on after deployment — policy declared in code, enforced on every primitive before money moves or a tool fires."
+        },
+        "twitter": {
+          "twitter:card": "summary",
+          "twitter:title": "Governance — Naïve Solutions",
+          "twitter:description": "Not a dashboard bolted on after deployment — policy declared in code, enforced on every primitive before money moves or a tool fires."
+        },
+        "favicons": [
+          "/favicon.svg"
+        ],
+        "imgCount": 0,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 0,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 0,
+        "headStyles": 2,
+        "headSyncScripts": 1,
+        "linkCount": 40,
+        "textSample": "naïve Primitives Solutions CLI Enterprise Resources Get started Log in The control plane agents run through. Not a dashboard bolted on after deployment — policy declared in code, enforced on every primitive before money moves or a tool fires. Get your API key Read the docs Audit log enforced · $250 cap 10:01 browser.search $0.01 ALLOWED 10:14 cards.create — ALLOWED 10:22 payment.charge $48.00 ALLOWED 10:23 payment.charge $612.00 REVOKED Paste and ship Drop this into Cursor, Claude Code, or any agent. It reads the skill manifest and wires up Governance for you. AGENT PROMPT COPY Read https://usenaive.ai/skill.md and set up Naïve for Governance in my project. Declare · Enforce · Revoke Observability tells you what happened. Naïve blocks what isn't allowed — at the boundary where agents actually spend, call tools, and touch data. 01 DECLARE Identity, budget, and permissions in your repo. Version agent.config.ts beside your code — hard caps, allow/deny lists, and approval thresholds. Every agent provisions from the same declarative source of truth. → defineAgent — identity, wallet, budget, approvals → defineSystem — multi-agent orchestration in one file → Re-runnable IaC — the millionth agent matches the first VS DISCOVER Inventory agents after they're already running. Shadow-AI scanners find what slipped past IT. Naïve provisions every agent through the control plane — you declare before anything deploys. 02 ENFORCE Block at the primitive boundary — in real time. Every API call passes through Naïve first. Spends over policy wait for approval. Denied primitives never hit the wire. MCP tools scoped per session — zero standing access. → Hard spend limits enforced at card authorization → Sensitive primitives pause until a human approves → MCP + A2A sessions carry scoped identity per hop VS OBSERVE Trace prompts and tool calls after the fact. Log viewers replay what an agent did. Naïve is the layer agents run through — policy fires before data moves, before a tool executes, before a dollar leaves. 03 REVOKE Kill access mid-flight — not in the next audit cycle. Freeze a virtual card, terminate an MCP session, or deny a pending charge while the agent is still running. One audit log replays every primitive call with full context. → Revoke cards, sessions, and vault secrets instantly → Denied charges show as blocked — not silent failures → Unified log across payments, tools, and primitives VS SECURE Authorize data access with standing roles. Warehouse PBAC grants persist until someone revokes them. Naïve enforces purpose-bound, auto-expiring scopes at the moment of action — on real-world primitives, not just Snowflake rows. Governance primitives that enforce — not just log. Approvals, scoped sessions, encrypted vault, and spend-capped cards — every control enforced at the API boundary, per end-user. Approvals Block risky primitives until a human approves. View primitive → Sessions Scoped MCP transport per user — revocable mid-flight. View primitive → Vault Encrypted secrets — every reveal logged and revocable. View primitive → Cards Virtual cards with hard limits enforced at authorization. View primitive → Declare policy. Enforce on every call. Agent infrastructure as code — budgets, allow/deny, and approval rules versioned in your repo, enforced by the same bearer token as every other primitive. AGENT.CONFIG.TS Declare Policy as Code Define identity, wallet, budget, approvals, and capability allow/deny lists in a single declarative file. Provision one agent or a million from the same config — versioned beside your application code. defineAgent Identity · wallet · budget · approvals. allow / deny Primitive capability whitelists. defineSystem Multi-agent orchestration. Versioned Same policy for agent #1 and #1M. TypeScript CLI SDK COPY import { defineAgent } from \"@usenaive-sdk/iac\"; export default defineAgent({ wallet: { limit: \"$2,500/mo\" }, budget: { hardCap: \"$5,000\" }, approvals: { over: \"$500\", via: \"slack\" }, allow: [\"email\", \"search\", \"payments\"], deny: [\"wire_transfer\", \"trading\"], }); GET /V1/APPROVALS Enforce with Approvals High-risk primitive calls block until a human approves or denies. The agent waits — denied actions never execute. Every decision streams to the unified audit log. Policy thresholds Over $X, require approval. Pending queue Slack, email, or your UI. Block at boundary No silent bypass. Audit trail Who approved, who denied. CLI SDK cURL COPY # List pending approvals $ naive approvals list # Approve or deny a blocked action $ naive approvals approve <approval-id> POST /V1/SESSIONS Scope MCP Sessions Hand agents a per-user MCP endpoint with an allow-listed tool surface. No shared master API key. Kill any session instantly while agents are running. Per-user MCP SSE transport per session. Tool allow-lists Account Kit whitelists. Zero standing access No shared keys. Kill mid-flight Revoke while agents run. CLI SDK cURL COPY # Create a scoped MCP session for an end user $ naive sessions create --user alice # Revoke instantly $ naive sessions revoke <session-id> Build on an enforcement layer, not a log viewer. Declare identity, money, and permissions as code — then govern every action from zero to scale with one API. Get your API key Read the docs naïve © 2026 Naïve, Inc Product Platform CLI Primitives Templates Marketplace Pricing Enterprise Company Blog Fellowship Accelerator Security Cybersecurity Policy Terms Privacy Licenses Developer Documentation API Reference SDK Status Connect X GitHub Discord LinkedIn"
+      },
+      "axe": [],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 40
+        }
+      ],
+      "links": [
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/solutions/agent-native-governance",
+          "text": "Solutions",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get started",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Log in",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get your API key",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/docs/getting-started/introduction",
+          "text": "Read the docs",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/approvals",
+          "text": "View primitive→",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/sessions",
+          "text": "View primitive→",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/vault",
+          "text": "View primitive→",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/cards",
+          "text": "View primitive→",
+          "inNav": false
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get your API key",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/docs/getting-started/introduction",
+          "text": "Read the docs",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers",
+          "text": "Platform",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/templates",
+          "text": "Templates",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/marketplace",
+          "text": "Marketplace",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/pricing",
+          "text": "Pricing",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/blog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/fellowship",
+          "text": "Fellowship",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/accelerator",
+          "text": "Accelerator",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/security",
+          "text": "Security",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cybersecurity",
+          "text": "Cybersecurity Policy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/terms",
+          "text": "Terms",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/privacy",
+          "text": "Privacy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/licenses",
+          "text": "Licenses",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "Documentation",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "API Reference",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "SDK",
+          "inNav": true
+        },
+        {
+          "href": "https://status.usenaive.ai/",
+          "text": "Status",
+          "inNav": true
+        },
+        {
+          "href": "https://x.com/usenaive",
+          "text": "X",
+          "inNav": true
+        },
+        {
+          "href": "https://github.com/usenaive",
+          "text": "GitHub",
+          "inNav": true
+        },
+        {
+          "href": "https://discord.gg/naive",
+          "text": "Discord",
+          "inNav": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/usenaive",
+          "text": "LinkedIn",
+          "inNav": true
+        }
+      ]
+    },
+    "solutions:/solutions/agent-native-cloud-infrastructure": {
+      "url": "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+      "kind": "solutions",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://usenaive.ai/solutions/agent-native-cloud-infrastructure"
+      },
+      "meta": {
+        "title": "Cloud Infrastructure — Naïve Solutions",
+        "titleLen": 38,
+        "metaDescription": "Apps, Postgres, storage, functions, compute, and queues — no provider keys to hold.",
+        "canonical": null,
+        "robotsMeta": null,
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "Infrastructure from one API."
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Infrastructure from one API."
+          },
+          {
+            "level": 2,
+            "text": "Paste and ship"
+          },
+          {
+            "level": 2,
+            "text": "Infrastructure primitives, fully managed."
+          },
+          {
+            "level": 3,
+            "text": "Apps"
+          },
+          {
+            "level": 3,
+            "text": "Database"
+          },
+          {
+            "level": 3,
+            "text": "Edge Functions"
+          },
+          {
+            "level": 3,
+            "text": "Storage"
+          },
+          {
+            "level": 3,
+            "text": "Compute"
+          },
+          {
+            "level": 3,
+            "text": "Queue"
+          },
+          {
+            "level": 2,
+            "text": "Provision and deploy in a few calls."
+          },
+          {
+            "level": 3,
+            "text": "Apps"
+          },
+          {
+            "level": 3,
+            "text": "Database"
+          },
+          {
+            "level": 3,
+            "text": "Storage, Auth & Functions"
+          },
+          {
+            "level": 3,
+            "text": "Compute"
+          },
+          {
+            "level": 3,
+            "text": "Queue"
+          },
+          {
+            "level": 2,
+            "text": "Build your cloud on one control plane."
+          },
+          {
+            "level": 3,
+            "text": "Product"
+          },
+          {
+            "level": 3,
+            "text": "Company"
+          },
+          {
+            "level": 3,
+            "text": "Developer"
+          },
+          {
+            "level": 3,
+            "text": "Connect"
+          }
+        ],
+        "og": {
+          "og:title": "Cloud Infrastructure — Naïve Solutions",
+          "og:description": "Apps, Postgres, storage, functions, compute, and queues — no provider keys to hold."
+        },
+        "twitter": {
+          "twitter:card": "summary",
+          "twitter:title": "Cloud Infrastructure — Naïve Solutions",
+          "twitter:description": "Apps, Postgres, storage, functions, compute, and queues — no provider keys to hold."
+        },
+        "favicons": [
+          "/favicon.svg"
+        ],
+        "imgCount": 0,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 0,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 0,
+        "headStyles": 2,
+        "headSyncScripts": 1,
+        "linkCount": 42,
+        "textSample": "naïve Primitives Solutions CLI Enterprise Resources Get started Log in Infrastructure from one API. Apps, Postgres, storage, functions, compute, and queues — no provider keys to hold. Get your API key Read the docs naive up PROVISIONING Postgres postgres://agent@db.usenaive.com:5432 PRIMARY Auth JWT · sessions 100% Storage Object storage 100% Realtime live sync 88% Edge fn serverless 72% Queue SQS · workers 54% Cron scheduled 36% $ naive up --agent AGT-7F3K 7 services 1.2s elapsed Paste and ship Drop this into Cursor, Claude Code, or any agent. It reads the skill manifest and wires up Cloud Infrastructure for you. AGENT PROMPT COPY Read https://usenaive.ai/skill.md and set up Naïve for Cloud Infrastructure in my project. Infrastructure primitives, fully managed. Naïve owns the hosting and database credentials and scopes every call to your app's own project. Apps Managed-hosted Next.js apps with deploys and domains. View primitive → Database Managed Postgres — raw SQL, PostgREST CRUD, migrations. View primitive → Edge Functions List, deploy, and invoke serverless functions. View primitive → Storage File storage buckets and objects, per app. View primitive → Compute Run Docker containers, workers & scheduled jobs on managed compute. Read docs → Queue Durable SQS work queues for agent pipelines. Read docs → Provision and deploy in a few calls. The same primitives power your own apps and each of your end-users' apps via forUser(id) — one bearer token. POST /V1/APPS Apps Each app is a real managed-hosting project plus, for fullstack apps, a dedicated managed Postgres database. Create, deploy, and promote to production from the CLI or API. Managed Hosting Next.js projects, deploys, domains. Managed Backend Postgres, auth, storage, functions. One-Click Deploy Upload and publish to production. Managed Credentials No hosting or database account. CLI SDK TypeScript cURL COPY # Create a fullstack app (managed hosting + Postgres) $ naive apps create --name \"StudyAI\" --type fullstack # Deploy from your project directory $ naive apps deploy <app-id> # Promote a deployment to production $ naive apps publish <app-id> --deployment <deployment-id> POST /V1/APPS/:ID/DB/QUERY Database Managed Postgres backed by the app's own database project. Run raw SQL, read and write rows through PostgREST, and apply migrations — Naïve injects the credentials. Raw SQL SELECT, DML, and DDL. PostgREST CRUD insert / select / update / delete. Migrations DDL via naive.database.migrate. Multi-Tenant Per-user DBs via forUser(id). CLI SDK TypeScript cURL COPY # Inspect tables, then run SQL on the app DB $ naive apps db tables <app-id> $ naive apps db query <app-id> \"SELECT count(*) FROM users\" $ naive apps db query <app-id> \"CREATE TABLE notes (id serial primary key, body text)\" SDK · FULLSTACK BACKEND Storage, Auth & Functions A fullstack app's managed backend is exposed as first-class primitives — storage buckets, edge functions, and admin auth — usable for your own app or, via forUser(id), each end-user's app. Storage Buckets and objects. Edge Functions List, deploy, invoke. Auth Config and admin users. Secrets Encrypted env, synced to hosting. CLI SDK COPY # Manage secrets + reach the managed backend $ naive apps secrets set <app-id> PAYMENTS_KEY sk_live_... --target production $ naive apps supabase <app-id> GET \"v1/projects/<ref>/functions\" POST /V1/COMPUTE Compute Run agent-owned Docker workloads on managed cloud compute: long-running services with an optional public URL, run-to-completion jobs, and cron-for-code schedules. Billed by the second, scale to zero on demand, with an interactive shell — no cloud account. Services Long-running container + URL. Jobs & Schedules Batch + cron-for-code. Interactive Shell naive compute ssh. Per-Tenant Isolation microVM + scoped IAM role. CLI SDK COPY # Long-running service (optional public URL) $ naive compute create --name bot --type service --image ghcr.io/me/bot:latest --port 8080 # Cron-for-code, logs, and a shell $ naive compute create --name nightly --type schedule --image me/etl --schedule \"cron(0 9 * * ? *)\" $ naive compute logs <id> $ naive compute ssh <id> POST /V1/QUEUE Queue Durable work queues backed by managed Amazon SQS — standard or FIFO, with optional dead-letter queues. Producer/consumer fan-out, buffering, and at-least-once retries; the natural pairing for compute workers. Standard & FIFO At-least-once or exactly-once. Send / Receive / Ack Long-poll with receipt handles. Dead-letter Queues Capture repeated failures. Worker Pattern Pairs with a compute service. CLI SDK COPY # Create a queue, then produce + consume $ naive queue create --name jobs $ naive queue send <id> '{\"task\":\"resize\",\"url\":\"https://...\"}' $ naive queue receive <id> --wait 20 $ naive queue ack <id> <receiptHandle> Build your cloud on one control plane. Spin up apps, databases, functions, containers, and queues for every agent and tenant — no DevOps required. Get your API key Read the docs naïve © 2026 Naïve, Inc Product Platform CLI Primitives Templates Marketplace Pricing Enterprise Company Blog Fellowship Accelerator Security Cybersecurity Policy Terms Privacy Licenses Developer Documentation API Reference SDK Status Connect X GitHub Discord LinkedIn"
+      },
+      "axe": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "description": "Ensure elements that have scrollable content are accessible by keyboard in Safari",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/scrollable-region-focusable?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".md\\:grid-cols-2.grid-cols-1.grid:nth-child(2) > .items-stretch.md\\:px-10.py-8 > .bg-bg.min-w-0.border > .min-h-44.py-4.md\\:px-5 > div > pre"
+              ],
+              "summary": "Fix any of the following: Element should have focusable content Element should be focusable",
+              "html": "<pre class=\"m-0 overflow-x-auto whitespace-pre font-mono text-[12.5px] leading-[1.7] text-text-secondary\">"
+            },
+            {
+              "target": [
+                ".md\\:grid-cols-2.grid-cols-1.grid:nth-child(3) > .items-stretch.md\\:px-10.py-8 > .bg-bg.min-w-0.border > .min-h-44.py-4.md\\:px-5 > div > pre"
+              ],
+              "summary": "Fix any of the following: Element should have focusable content Element should be focusable",
+              "html": "<pre class=\"m-0 overflow-x-auto whitespace-pre font-mono text-[12.5px] leading-[1.7] text-text-secondary\">"
+            },
+            {
+              "target": [
+                ".md\\:grid-cols-2.grid-cols-1.grid:nth-child(4) > .items-stretch.md\\:px-10.py-8 > .bg-bg.min-w-0.border > .min-h-44.py-4.md\\:px-5 > div > pre"
+              ],
+              "summary": "Fix any of the following: Element should have focusable content Element should be focusable",
+              "html": "<pre class=\"m-0 overflow-x-auto whitespace-pre font-mono text-[12.5px] leading-[1.7] text-text-secondary\">"
+            }
+          ],
+          "count": 3
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 49
+        }
+      ],
+      "links": [
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/solutions/agent-native-governance",
+          "text": "Solutions",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get started",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Log in",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get your API key",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/docs/getting-started/apps",
+          "text": "Read the docs",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/apps",
+          "text": "View primitive→",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/database",
+          "text": "View primitive→",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/functions",
+          "text": "View primitive→",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/storage",
+          "text": "View primitive→",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/docs/getting-started/compute",
+          "text": "Read docs→",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/docs/getting-started/queue",
+          "text": "Read docs→",
+          "inNav": false
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get your API key",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/docs/getting-started/apps",
+          "text": "Read the docs",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers",
+          "text": "Platform",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/templates",
+          "text": "Templates",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/marketplace",
+          "text": "Marketplace",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/pricing",
+          "text": "Pricing",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/blog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/fellowship",
+          "text": "Fellowship",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/accelerator",
+          "text": "Accelerator",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/security",
+          "text": "Security",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cybersecurity",
+          "text": "Cybersecurity Policy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/terms",
+          "text": "Terms",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/privacy",
+          "text": "Privacy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/licenses",
+          "text": "Licenses",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "Documentation",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "API Reference",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "SDK",
+          "inNav": true
+        },
+        {
+          "href": "https://status.usenaive.ai/",
+          "text": "Status",
+          "inNav": true
+        },
+        {
+          "href": "https://x.com/usenaive",
+          "text": "X",
+          "inNav": true
+        },
+        {
+          "href": "https://github.com/usenaive",
+          "text": "GitHub",
+          "inNav": true
+        },
+        {
+          "href": "https://discord.gg/naive",
+          "text": "Discord",
+          "inNav": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/usenaive",
+          "text": "LinkedIn",
+          "inNav": true
+        }
+      ]
+    },
+    "solutions:/solutions/agent-native-payments": {
+      "url": "https://usenaive.ai/solutions/agent-native-payments",
+      "kind": "solutions",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://usenaive.ai/solutions/agent-native-payments"
+      },
+      "meta": {
+        "title": "Payments — Naïve Solutions",
+        "titleLen": 26,
+        "metaDescription": "Scoped virtual cards with hard spend limits — funded, assigned, and tracked per agent.",
+        "canonical": null,
+        "robotsMeta": null,
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "Money agents can spend."
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Money agents can spend."
+          },
+          {
+            "level": 2,
+            "text": "Paste and ship"
+          },
+          {
+            "level": 2,
+            "text": "Payments primitives with guardrails."
+          },
+          {
+            "level": 3,
+            "text": "Virtual Cards"
+          },
+          {
+            "level": 3,
+            "text": "Cardholder KYC"
+          },
+          {
+            "level": 3,
+            "text": "Top Up"
+          },
+          {
+            "level": 3,
+            "text": "Billing & Credits"
+          },
+          {
+            "level": 2,
+            "text": "Create a card. Set a limit. Track spend."
+          },
+          {
+            "level": 3,
+            "text": "Create a Card"
+          },
+          {
+            "level": 3,
+            "text": "Issue & Reveal"
+          },
+          {
+            "level": 3,
+            "text": "Top Up"
+          },
+          {
+            "level": 3,
+            "text": "Billing & Credits"
+          },
+          {
+            "level": 3,
+            "text": "Customer Billing"
+          },
+          {
+            "level": 2,
+            "text": "Let agents transact, safely."
+          },
+          {
+            "level": 3,
+            "text": "Product"
+          },
+          {
+            "level": 3,
+            "text": "Company"
+          },
+          {
+            "level": 3,
+            "text": "Developer"
+          },
+          {
+            "level": 3,
+            "text": "Connect"
+          }
+        ],
+        "og": {
+          "og:title": "Payments — Naïve Solutions",
+          "og:description": "Scoped virtual cards with hard spend limits — funded, assigned, and tracked per agent."
+        },
+        "twitter": {
+          "twitter:card": "summary",
+          "twitter:title": "Payments — Naïve Solutions",
+          "twitter:description": "Scoped virtual cards with hard spend limits — funded, assigned, and tracked per agent."
+        },
+        "favicons": [
+          "/favicon.svg"
+        ],
+        "imgCount": 0,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 0,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 0,
+        "headStyles": 2,
+        "headSyncScripts": 1,
+        "linkCount": 40,
+        "textSample": "naïve Primitives Solutions CLI Enterprise Resources Get started Log in Money agents can spend. Scoped virtual cards with hard spend limits — funded, assigned, and tracked per agent. Get your API key Read the docs Invoices $7,010 BILLED Acme Co. $4,200 PAID Globex $1,850 DUE Initech $960 SENT Umbrella $2,400 DUE Stark Ind. $6,100 PAID Wayne Ent. $1,320 SENT Invoices $7,010 BILLED Acme Co. $4,200 PAID Globex $1,850 DUE Initech $960 SENT Umbrella $2,400 DUE Stark Ind. $6,100 PAID Wayne Ent. $1,320 SENT naïve AGENT VISA Paste and ship Drop this into Cursor, Claude Code, or any agent. It reads the skill manifest and wires up Payments for you. AGENT PROMPT COPY Read https://usenaive.ai/skill.md and set up Naïve for Payments in my project. Payments primitives with guardrails. Managed virtual cards, prepaid gift cards, top-ups, and a single credit balance — built for autonomous spend. Virtual Cards Managed Visa/Mastercard or prepaid gift cards. View primitive → Cardholder KYC One-time identity setup for managed cards. View primitive → Top Up Add funds to an active card via checkout. View primitive → Billing & Credits One credit balance, metered per call. View primitive → Create a card. Set a limit. Track spend. A checkout flow funds each card; credentials unlock once payment clears — all behind one bearer token. POST /V1/CARDS Create a Card Card creation follows a checkout flow — you receive a checkout_url for the card's initial funding. Set a hard spending limit and choose a managed virtual or prepaid card. Managed Virtual Visa/Mastercard, no cap. Prepaid Gift Up to $150, no cardholder. Hard Spend Limits spending_limit_cents. Hosted Checkout Fund via checkout_url. CLI SDK TypeScript cURL COPY # Create a cardholder (once per company) $ naive cards create-cardholder --first-name John --last-name Doe # Create a virtual card with a spend limit $ naive cards create --name \"Marketing\" --spending-limit 10000 # Fund + issue after checkout $ naive cards check-payment <card-id> GET /V1/CARDS/:ID/DETAILS Issue & Reveal After the checkout payment clears, check-payment issues the card automatically. Once active, retrieve the full card number, CVC, and expiry to start spending. Check Payment Issues the card on success. PAN + CVC Full credentials when active. Agent Assignments Scope who can spend. Transactions Auto-captured + manual logs. CLI SDK cURL COPY # Check funding, then read card credentials $ naive cards check-payment <card-id> $ naive cards details <card-id> # Review transactions on the card $ naive cards transactions <card-id> POST /V1/CARDS/:ID/TOP-UP Top Up Add more funds to an active card's spending limit. Returns a checkout_url for the top-up payment, just like card creation. Top Up Add funds to an active card. Checkout Flow Same hosted payment. Credits & Billing One balance, metered. Refunds Recover failed issuance. CLI SDK TypeScript cURL COPY # Add funds to an active card $ naive cards top-up <card-id> --amount 5000 # Review spend across all cards $ naive cards transactions # Cancel a card when you're done $ naive cards cancel <card-id> POST /V1/BILLING/SUBSCRIBE Billing & Credits Your own Naïve subscription and credit balance — pick a plan, top up credit packs that never expire, and check status. Every primitive is metered against one balance. Plans Starter and Pro tiers. Credit Packs One-time, never expire. One Balance Metered across primitives. Billing Portal Upgrade, change, cancel. CLI TypeScript cURL COPY # Subscribe to a plan, then top up credits $ naive billing plans $ naive billing subscribe --plan starter $ naive billing topup --pack medium POST /V1/PLANS Customer Billing Monetize your own end-customers — define plans mapped to Account Kits and per-primitive quotas, subscribe each tenant, and let Naïve meter usage and enforce limits automatically. Plans → Kits Permissions per plan. Per-Tenant Subs Driven by your Stripe webhook. Metered Usage Quotas per primitive, per period. Quota Enforcement 429 on overage. SDK cURL COPY // Define a plan, then subscribe a tenant await naive.plans.upsert({ key: \"pro\", name: \"Pro\", accountKitId: proKit.id, quotas: { seo: 1000, email: 500 }, period: \"month\", }); await naive.forUser(tenant.id).billing.setSubscription({ planKey: \"pro\" }); Let agents transact, safely. Scoped cards, hard limits, and full transaction history — no shared company card. Get your API key Read the docs naïve © 2026 Naïve, Inc Product Platform CLI Primitives Templates Marketplace Pricing Enterprise Company Blog Fellowship Accelerator Security Cybersecurity Policy Terms Privacy Licenses Developer Documentation API Reference SDK Status Connect X GitHub Discord LinkedIn"
+      },
+      "axe": [
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "description": "Ensure elements that have scrollable content are accessible by keyboard in Safari",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/scrollable-region-focusable?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".md\\:grid-cols-2.grid-cols-1.grid:nth-child(5) > .items-stretch.md\\:px-10.py-8 > .bg-bg.min-w-0.border > .min-h-44.py-4.md\\:px-5 > div > pre"
+              ],
+              "summary": "Fix any of the following: Element should have focusable content Element should be focusable",
+              "html": "<pre class=\"m-0 overflow-x-auto whitespace-pre font-mono text-[12.5px] leading-[1.7] text-text-secondary\">"
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 49
+        }
+      ],
+      "links": [
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/solutions/agent-native-governance",
+          "text": "Solutions",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get started",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Log in",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get your API key",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/docs/getting-started/cards",
+          "text": "Read the docs",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/cards",
+          "text": "View primitive→",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/verification",
+          "text": "View primitive→",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/billing",
+          "text": "View primitive→",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives/billing",
+          "text": "View primitive→",
+          "inNav": false
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get your API key",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/docs/getting-started/cards",
+          "text": "Read the docs",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers",
+          "text": "Platform",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/templates",
+          "text": "Templates",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/marketplace",
+          "text": "Marketplace",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/pricing",
+          "text": "Pricing",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/blog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/fellowship",
+          "text": "Fellowship",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/accelerator",
+          "text": "Accelerator",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/security",
+          "text": "Security",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cybersecurity",
+          "text": "Cybersecurity Policy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/terms",
+          "text": "Terms",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/privacy",
+          "text": "Privacy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/licenses",
+          "text": "Licenses",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "Documentation",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "API Reference",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "SDK",
+          "inNav": true
+        },
+        {
+          "href": "https://status.usenaive.ai/",
+          "text": "Status",
+          "inNav": true
+        },
+        {
+          "href": "https://x.com/usenaive",
+          "text": "X",
+          "inNav": true
+        },
+        {
+          "href": "https://github.com/usenaive",
+          "text": "GitHub",
+          "inNav": true
+        },
+        {
+          "href": "https://discord.gg/naive",
+          "text": "Discord",
+          "inNav": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/usenaive",
+          "text": "LinkedIn",
+          "inNav": true
+        }
+      ]
+    },
+    "feature:/templates": {
+      "url": "https://usenaive.ai/templates",
+      "kind": "feature",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://usenaive.ai/templates"
+      },
+      "meta": {
+        "title": "Templates — Naïve",
+        "titleLen": 17,
+        "metaDescription": "Browse production-ready starter templates that wire Naïve primitives together — voice agents, full-stack apps, fintech, content studios, SEO, and more. Copy the prompt into your agent and ship.",
+        "canonical": "/templates",
+        "robotsMeta": null,
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "Start from a template"
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Start from a template"
+          },
+          {
+            "level": 3,
+            "text": "Use case"
+          },
+          {
+            "level": 2,
+            "text": "Featured"
+          },
+          {
+            "level": 3,
+            "text": "AI SEO Platform"
+          },
+          {
+            "level": 3,
+            "text": "Multi-Tenant Agent Starter"
+          },
+          {
+            "level": 3,
+            "text": "AI Voice Receptionist"
+          },
+          {
+            "level": 3,
+            "text": "AI Content Studio"
+          },
+          {
+            "level": 3,
+            "text": "Autonomous Company"
+          },
+          {
+            "level": 3,
+            "text": "Full-Stack SaaS Builder"
+          },
+          {
+            "level": 2,
+            "text": "All templates"
+          },
+          {
+            "level": 3,
+            "text": "Dealership Voice Agent"
+          },
+          {
+            "level": 3,
+            "text": "Outbound Sales Agent"
+          },
+          {
+            "level": 3,
+            "text": "Lead Qualification Agent"
+          },
+          {
+            "level": 3,
+            "text": "AI Social Media Manager"
+          },
+          {
+            "level": 3,
+            "text": "Faceless Clipping Channel"
+          },
+          {
+            "level": 3,
+            "text": "AI Workforce"
+          },
+          {
+            "level": 3,
+            "text": "AI Support Agent"
+          },
+          {
+            "level": 3,
+            "text": "Browser Automation Agent"
+          },
+          {
+            "level": 3,
+            "text": "AI Trading Desk"
+          },
+          {
+            "level": 3,
+            "text": "Agent Card Issuer"
+          },
+          {
+            "level": 3,
+            "text": "Agent Compute Pipeline"
+          },
+          {
+            "level": 3,
+            "text": "Research Analyst Agent"
+          },
+          {
+            "level": 3,
+            "text": "GEO / AEO Visibility Agency"
+          },
+          {
+            "level": 3,
+            "text": "Compliance & Onboarding"
+          },
+          {
+            "level": 3,
+            "text": "Looking for something more turnkey?"
+          },
+          {
+            "level": 3,
+            "text": "Product"
+          },
+          {
+            "level": 3,
+            "text": "Company"
+          },
+          {
+            "level": 3,
+            "text": "Developer"
+          },
+          {
+            "level": 3,
+            "text": "Connect"
+          }
+        ],
+        "og": {
+          "og:title": "Templates — Naïve",
+          "og:description": "Browse production-ready starter templates that wire Naïve primitives together — voice agents, full-stack apps, fintech, content studios, SEO, and more. Copy the prompt into your agent and ship.",
+          "og:image": "https://usenaive.ai/naive-og.png",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Naïve"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Templates — Naïve",
+          "twitter:description": "Browse production-ready starter templates that wire Naïve primitives together — voice agents, full-stack apps, fintech, content studios, SEO, and more. Copy the prompt into your agent and ship.",
+          "twitter:image": "https://usenaive.ai/naive-og.png"
+        },
+        "favicons": [
+          "/favicon.svg"
+        ],
+        "imgCount": 0,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 0,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 0,
+        "headStyles": 2,
+        "headSyncScripts": 1,
+        "linkCount": 54,
+        "textSample": "naïve Primitives Solutions CLI Enterprise Resources Get started Log in NAÏVE TEMPLATES · 20 STARTERS Start from a template Production-ready starters that wire Naïve primitives into real products. Open one, copy the prompt into your coding agent, and ship the same stack the CLI uses. USE CASE All Agents Full-Stack Apps Sales & Outreach Content & Media SEO & Growth Voice & Phone Fintech Data & Research Multi-tenant & B2B Compliance & Ops Featured SEO & GROWTH AI SEO Platform Multi-tenant SaaS where every customer gets an agent that researches, writes, and ranks. seo aeo search apps +2 MULTI-TENANT & B2B Multi-Tenant Agent Starter A full-stack starter that gives every user their own scoped, real-world agent. users account-kits vault sessions +2 VOICE & PHONE AI Voice Receptionist Answers calls 24/7, remembers callers, books callbacks, and routes to a human. phone llm memory cron +1 CONTENT & MEDIA AI Content Studio Generates images and video, clips long-form into shorts, and publishes everywhere. images video clips media +2 AGENTS Autonomous Company A CEO agent that hires a team, sets objectives, runs tasks, and reports on progress. ceo employees tasks objectives +2 FULL-STACK APPS Full-Stack SaaS Builder Deploys a real app — Postgres, auth, storage, and edge functions — from a prompt. apps database auth storage +1 All templates VOICE & PHONE Dealership Voice Agent Per-location voice agents that qualify leads, book test drives, and sync your CRM. phone llm connections cron +1 SALES & OUTREACH Outbound Sales Agent Its own domain, inbox, and sending reputation — runs multi-step sequences that book meetings. email domains social connections +2 SALES & OUTREACH Lead Qualification Agent Instantly texts and calls new leads, qualifies them, and routes hot ones to sales. phone email llm tasks +1 CONTENT & MEDIA AI Social Media Manager Plans a content calendar, creates posts, and publishes on schedule across platforms. social images video cron +1 CONTENT & MEDIA Faceless Clipping Channel Sources long-form video, cuts the best moments into shorts, and posts daily. clips video media social +2 AGENTS AI Workforce A team of specialized agent employees that pick up tasks and collaborate on goals. employees tasks objectives memory +1 AGENTS AI Support Agent Answers email, SMS, and chat, remembers customers, and escalates when unsure. email phone connections memory +1 AGENTS Browser Automation Agent Signs up, logs in, and operates websites that have no API — with credentials in the vault. browser vault connections approvals FINTECH AI Trading Desk Links a brokerage, runs your strategy, and manages its own book with guardrails. trading verification approvals llm +1 FINTECH Agent Card Issuer Verifies users, issues virtual cards, and controls spend with approvals. cards verification formation approvals FULL-STACK APPS Agent Compute Pipeline Runs containers and workers off durable queues for heavy, long-running agent jobs. compute queue apps cron DATA & RESEARCH Research Analyst Agent Runs deep research across the web, app stores, and product data, then writes the report. search llm business app-data +2 SEO & GROWTH GEO / AEO Visibility Agency Tracks how AI answers mention your brand and optimizes to win the citation. aeo seo search browser +1 COMPLIANCE & OPS Compliance & Onboarding Verifies identity, forms an entity, and provisions domain, email, and phone — end to end. verification formation domains email +2 Looking for something more turnkey? Browse AI businesses and employees in the Naïve marketplace. Businesses → Employees → naïve © 2026 Naïve, Inc Product Platform CLI Primitives Templates Marketplace Pricing Enterprise Company Blog Fellowship Accelerator Security Cybersecurity Policy Terms Privacy Licenses Developer Documentation API Reference SDK Status Connect X GitHub Discord LinkedIn"
+      },
+      "axe": [
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "help": "Heading levels should only increase by one",
+          "description": "Ensure the order of headings is semantically correct",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".mb-2"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h3 class=\"mb-2 font-mono text-[10px] font-semibold uppercase tracking-[0.18em] text-text-muted\">Use case</h3>"
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 23
+        }
+      ],
+      "links": [
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/solutions/agent-native-governance",
+          "text": "Solutions",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get started",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Log in",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/templates/ai-seo-platform",
+          "text": "SEO & GrowthAI SEO PlatformMulti-tenant SaaS where every cus",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/multi-tenant-agent-starter",
+          "text": "Multi-tenant & B2BMulti-Tenant Agent StarterA full-stack sta",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/ai-voice-receptionist",
+          "text": "Voice & PhoneAI Voice ReceptionistAnswers calls 24/7, rememb",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/ai-content-studio",
+          "text": "Content & MediaAI Content StudioGenerates images and video, ",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/autonomous-company",
+          "text": "AgentsAutonomous CompanyA CEO agent that hires a team, sets ",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/full-stack-saas-builder",
+          "text": "Full-Stack AppsFull-Stack SaaS BuilderDeploys a real app — P",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/dealership-voice-agent",
+          "text": "Voice & PhoneDealership Voice AgentPer-location voice agents",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/outbound-sales-agent",
+          "text": "Sales & OutreachOutbound Sales AgentIts own domain, inbox, a",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/lead-qualification-agent",
+          "text": "Sales & OutreachLead Qualification AgentInstantly texts and ",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/social-media-manager",
+          "text": "Content & MediaAI Social Media ManagerPlans a content calend",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/faceless-clipping-channel",
+          "text": "Content & MediaFaceless Clipping ChannelSources long-form vi",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/ai-workforce",
+          "text": "AgentsAI WorkforceA team of specialized agent employees that",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/ai-support-agent",
+          "text": "AgentsAI Support AgentAnswers email, SMS, and chat, remember",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/browser-automation-agent",
+          "text": "AgentsBrowser Automation AgentSigns up, logs in, and operate",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/ai-trading-desk",
+          "text": "FintechAI Trading DeskLinks a brokerage, runs your strategy,",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/agent-card-issuer",
+          "text": "FintechAgent Card IssuerVerifies users, issues virtual cards",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/agent-compute-pipeline",
+          "text": "Full-Stack AppsAgent Compute PipelineRuns containers and wor",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/research-analyst",
+          "text": "Data & ResearchResearch Analyst AgentRuns deep research acro",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/geo-aeo-agency",
+          "text": "SEO & GrowthGEO / AEO Visibility AgencyTracks how AI answers",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/compliance-onboarding",
+          "text": "Compliance & OpsCompliance & OnboardingVerifies identity, fo",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/businesses",
+          "text": "Businesses →",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/employees",
+          "text": "Employees →",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers",
+          "text": "Platform",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/templates",
+          "text": "Templates",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/marketplace",
+          "text": "Marketplace",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/pricing",
+          "text": "Pricing",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/blog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/fellowship",
+          "text": "Fellowship",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/accelerator",
+          "text": "Accelerator",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/security",
+          "text": "Security",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cybersecurity",
+          "text": "Cybersecurity Policy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/terms",
+          "text": "Terms",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/privacy",
+          "text": "Privacy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/licenses",
+          "text": "Licenses",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "Documentation",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "API Reference",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "SDK",
+          "inNav": true
+        },
+        {
+          "href": "https://status.usenaive.ai/",
+          "text": "Status",
+          "inNav": true
+        },
+        {
+          "href": "https://x.com/usenaive",
+          "text": "X",
+          "inNav": true
+        },
+        {
+          "href": "https://github.com/usenaive",
+          "text": "GitHub",
+          "inNav": true
+        },
+        {
+          "href": "https://discord.gg/naive",
+          "text": "Discord",
+          "inNav": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/usenaive",
+          "text": "LinkedIn",
+          "inNav": true
+        }
+      ]
+    },
+    "company:/templates/autonomous-company": {
+      "url": "https://usenaive.ai/templates/autonomous-company",
+      "kind": "company",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://usenaive.ai/templates/autonomous-company"
+      },
+      "meta": {
+        "title": "Autonomous Company — Naïve Templates",
+        "titleLen": 36,
+        "metaDescription": "A CEO agent that hires a team, sets objectives, runs tasks, and reports on progress.",
+        "canonical": "/templates/autonomous-company",
+        "robotsMeta": null,
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "Autonomous Company"
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Autonomous Company"
+          },
+          {
+            "level": 2,
+            "text": "The agent prompt"
+          },
+          {
+            "level": 2,
+            "text": "What it builds"
+          },
+          {
+            "level": 3,
+            "text": "CEO orchestration"
+          },
+          {
+            "level": 3,
+            "text": "Agent employees"
+          },
+          {
+            "level": 3,
+            "text": "Objectives & tasks"
+          },
+          {
+            "level": 3,
+            "text": "Real spend"
+          },
+          {
+            "level": 2,
+            "text": "Primitives used"
+          },
+          {
+            "level": 2,
+            "text": "How it's built"
+          },
+          {
+            "level": 2,
+            "text": "Start building"
+          },
+          {
+            "level": 2,
+            "text": "More Agents templates"
+          },
+          {
+            "level": 3,
+            "text": "AI Workforce"
+          },
+          {
+            "level": 3,
+            "text": "AI Support Agent"
+          },
+          {
+            "level": 3,
+            "text": "Browser Automation Agent"
+          },
+          {
+            "level": 3,
+            "text": "Product"
+          },
+          {
+            "level": 3,
+            "text": "Company"
+          },
+          {
+            "level": 3,
+            "text": "Developer"
+          },
+          {
+            "level": 3,
+            "text": "Connect"
+          }
+        ],
+        "og": {
+          "og:title": "Autonomous Company — Naïve Templates",
+          "og:description": "A CEO agent that hires a team, sets objectives, runs tasks, and reports on progress.",
+          "og:image": "https://usenaive.ai/naive-og.png",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Naïve"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Autonomous Company — Naïve Templates",
+          "twitter:description": "A CEO agent that hires a team, sets objectives, runs tasks, and reports on progress.",
+          "twitter:image": "https://usenaive.ai/naive-og.png"
+        },
+        "favicons": [
+          "/favicon.svg"
+        ],
+        "imgCount": 0,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 0,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 0,
+        "headStyles": 2,
+        "headSyncScripts": 1,
+        "linkCount": 39,
+        "textSample": "naïve Primitives Solutions CLI Enterprise Resources Get started Log in ALL TEMPLATES AGENTS Autonomous Company Stand up an entire autonomous company. A CEO agent breaks high-level objectives into tasks, hires and coordinates specialized employee agents, spends from a virtual card, and reports on progress — orchestration for a whole workforce. Copy prompt Read the docs The agent prompt Copy this into Cursor, Claude Code, or any Naïve-connected agent. It describes exactly what to build and which primitives to wire together. PROMPT COPY PROMPT Build me an autonomous company on Naive. A CEO agent should take high-level objectives, break them into tasks, hire and coordinate specialized employee agents, spend from a virtual card, and report on progress. Use these Naive primitives: - ceo: autonomous orchestration - objectives + tasks: decompose goals into trackable work - employees: hire and configure agent workers - cards: issue a virtual card for real spend - cron: recurring standups and reporting Read the docs at https://naive.ai/docs and start with: npm i -g naive && naive login What it builds CEO orchestration A CEO agent turns objectives into a plan and delegates. Agent employees Hire and configure specialized employee agents. Objectives & tasks Decompose goals into a Kanban of trackable work. Real spend Issue virtual cards so the company can pay for tools and services. Primitives used ceo employees tasks objectives cards cron How it's built naive ceo — autonomous orchestration runs naive employees / tasks / objectives — the workforce naive cards — real-world spend Start building Install the CLI, copy the prompt, and let your agent wire it up. $ npm i -g naive && naive login Copy prompt CEO & orchestration Cards More Agents templates AGENTS AI Workforce A team of specialized agent employees that pick up tasks and collaborate on goals. employees tasks objectives memory +1 AGENTS AI Support Agent Answers email, SMS, and chat, remembers customers, and escalates when unsure. email phone connections memory +1 AGENTS Browser Automation Agent Signs up, logs in, and operates websites that have no API — with credentials in the vault. browser vault connections approvals naïve © 2026 Naïve, Inc Product Platform CLI Primitives Templates Marketplace Pricing Enterprise Company Blog Fellowship Accelerator Security Cybersecurity Policy Terms Privacy Licenses Developer Documentation API Reference SDK Status Connect X GitHub Discord LinkedIn"
+      },
+      "axe": [],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 27
+        }
+      ],
+      "links": [
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/solutions/agent-native-governance",
+          "text": "Solutions",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get started",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Log in",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/templates",
+          "text": "All templates",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/docs/getting-started/introduction",
+          "text": "Read the docs",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/docs/getting-started/introduction",
+          "text": "CEO & orchestration",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/docs/getting-started/cards",
+          "text": "Cards",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/ai-workforce",
+          "text": "AgentsAI WorkforceA team of specialized agent employees that",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/ai-support-agent",
+          "text": "AgentsAI Support AgentAnswers email, SMS, and chat, remember",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/templates/browser-automation-agent",
+          "text": "AgentsBrowser Automation AgentSigns up, logs in, and operate",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers",
+          "text": "Platform",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/templates",
+          "text": "Templates",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/marketplace",
+          "text": "Marketplace",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/pricing",
+          "text": "Pricing",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/blog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/fellowship",
+          "text": "Fellowship",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/accelerator",
+          "text": "Accelerator",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/security",
+          "text": "Security",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cybersecurity",
+          "text": "Cybersecurity Policy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/terms",
+          "text": "Terms",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/privacy",
+          "text": "Privacy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/licenses",
+          "text": "Licenses",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "Documentation",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "API Reference",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "SDK",
+          "inNav": true
+        },
+        {
+          "href": "https://status.usenaive.ai/",
+          "text": "Status",
+          "inNav": true
+        },
+        {
+          "href": "https://x.com/usenaive",
+          "text": "X",
+          "inNav": true
+        },
+        {
+          "href": "https://github.com/usenaive",
+          "text": "GitHub",
+          "inNav": true
+        },
+        {
+          "href": "https://discord.gg/naive",
+          "text": "Discord",
+          "inNav": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/usenaive",
+          "text": "LinkedIn",
+          "inNav": true
+        }
+      ]
+    },
+    "docs:/docs": {
+      "url": "https://usenaive.ai/docs",
+      "kind": "docs",
+      "nav": {
+        "ok": false,
+        "error": "page.goto: net::ERR_CONNECTION_RESET at https://usenaive.ai/docs",
+        "finalUrl": "https://usenaive.ai/templates/autonomous-company"
+      }
+    },
+    "pricing:/pricing": {
+      "url": "https://usenaive.ai/pricing",
+      "kind": "pricing",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://usenaive.ai/pricing"
+      },
+      "meta": {
+        "title": "Pricing | Naïve",
+        "titleLen": 15,
+        "metaDescription": "Pay-as-you-go on the Naïve Platform. Managed plans on Naïve Studio.",
+        "canonical": null,
+        "robotsMeta": null,
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [],
+        "h1Count": 0,
+        "headings": [
+          {
+            "level": 2,
+            "text": "Simple pricing"
+          },
+          {
+            "level": 3,
+            "text": "Free trial"
+          },
+          {
+            "level": 3,
+            "text": "Starter"
+          },
+          {
+            "level": 3,
+            "text": "Pro"
+          },
+          {
+            "level": 3,
+            "text": "Pay as you go"
+          },
+          {
+            "level": 3,
+            "text": "Product"
+          },
+          {
+            "level": 3,
+            "text": "Company"
+          },
+          {
+            "level": 3,
+            "text": "Developer"
+          },
+          {
+            "level": 3,
+            "text": "Connect"
+          }
+        ],
+        "og": {},
+        "twitter": {},
+        "favicons": [
+          "/favicon.svg"
+        ],
+        "imgCount": 0,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 0,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 0,
+        "headStyles": 2,
+        "headSyncScripts": 1,
+        "linkCount": 36,
+        "textSample": "naïve Primitives Solutions CLI Enterprise Resources Get started Log in Simple pricing Managed plans on Naive Studio. Pay-as-you-go on the Platform. Naive Studio · plans Platform · usage TRY FIRST Free trial Try Naïve free for 7 days. No card required. Free 7 days 1 free credit FREE FOR EVERYONE ✓ 7-day free trial ✓ 1 free credit ✓ 1 business ✓ Unlimited collaborators ✓ 5 usenaive.app subdomains ✓ AI agents Get started Starter Perfect for side projects and early experiments. $49 /mo Monthly Annual 50 credits ALL FEATURES IN FREE, PLUS: ✓ 50 monthly credits ✓ Custom domains ✓ Remove Naïve badge ✓ User roles & permissions ✓ Credit rollovers ✓ On-demand credit top-ups Get started Pro Stronger compute. For serious builders. $149 /mo Monthly Annual 200 credits ALL FEATURES IN STARTER, PLUS: ✓ 200 monthly credits ✓ Team workspace ✓ SSO ✓ Role-based access ✓ Security center ✓ Design templates ✓ Internal publish Get started Pay as you go Scale beyond your plan. Only pay for what you use. $0.50 /credit Flexible ALL FEATURES IN PRO, PLUS: ✓ Flexible credits ✓ Scale on demand ✓ No monthly cap ✓ Pay only for what you use Get started naïve © 2026 Naïve, Inc Product Platform CLI Primitives Templates Marketplace Pricing Enterprise Company Blog Fellowship Accelerator Security Cybersecurity Policy Terms Privacy Licenses Developer Documentation API Reference SDK Status Connect X GitHub Discord LinkedIn"
+      },
+      "axe": [
+        {
+          "id": "page-has-heading-one",
+          "impact": "moderate",
+          "help": "Page should contain a level-one heading",
+          "description": "Ensure that the page, or at least one of its frames contains a level-one heading",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/page-has-heading-one?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Page must have a level-one heading",
+              "html": "<html lang=\"en\" class=\"site-theme-dark geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable geistpixelcircle_7ee616e3-module__nf"
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 23
+        }
+      ],
+      "links": [
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/solutions/agent-native-governance",
+          "text": "Solutions",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get started",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Log in",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get started",
+          "inNav": false
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get started",
+          "inNav": false
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get started",
+          "inNav": false
+        },
+        {
+          "href": "https://dashboard.usenaive.ai/",
+          "text": "Get started",
+          "inNav": false
+        },
+        {
+          "href": "https://usenaive.ai/",
+          "text": "naïve",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers",
+          "text": "Platform",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cli",
+          "text": "CLI",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/developers/primitives",
+          "text": "Primitives",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/templates",
+          "text": "Templates",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/marketplace",
+          "text": "Marketplace",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/pricing",
+          "text": "Pricing",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/enterprise",
+          "text": "Enterprise",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/blog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/fellowship",
+          "text": "Fellowship",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/accelerator",
+          "text": "Accelerator",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/security",
+          "text": "Security",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/cybersecurity",
+          "text": "Cybersecurity Policy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/terms",
+          "text": "Terms",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/privacy",
+          "text": "Privacy",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/licenses",
+          "text": "Licenses",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "Documentation",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "API Reference",
+          "inNav": true
+        },
+        {
+          "href": "https://usenaive.ai/docs",
+          "text": "SDK",
+          "inNav": true
+        },
+        {
+          "href": "https://status.usenaive.ai/",
+          "text": "Status",
+          "inNav": true
+        },
+        {
+          "href": "https://x.com/usenaive",
+          "text": "X",
+          "inNav": true
+        },
+        {
+          "href": "https://github.com/usenaive",
+          "text": "GitHub",
+          "inNav": true
+        },
+        {
+          "href": "https://discord.gg/naive",
+          "text": "Discord",
+          "inNav": true
+        },
+        {
+          "href": "https://www.linkedin.com/company/usenaive",
+          "text": "LinkedIn",
+          "inNav": true
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "url": "https://usenaive.ai/",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "naïve"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Primitives"
+    },
+    {
+      "url": "https://usenaive.ai/solutions/agent-native-governance",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/solutions/agent-native-governance",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Solutions"
+    },
+    {
+      "url": "https://usenaive.ai/cli",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/cli",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "CLI"
+    },
+    {
+      "url": "https://usenaive.ai/enterprise",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/enterprise",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Enterprise"
+    },
+    {
+      "url": "https://dashboard.usenaive.ai/",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://dashboard.usenaive.ai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Get started"
+    },
+    {
+      "url": "https://usenaive.ai/deploy",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/deploy",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/"
+      ],
+      "text": "Deploy now"
+    },
+    {
+      "url": "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/"
+      ],
+      "text": "Cloud BackendPostgres, auth, object storage, realtime, and e"
+    },
+    {
+      "url": "https://usenaive.ai/solutions/agent-native-payments",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/solutions/agent-native-payments",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/"
+      ],
+      "text": "Payments & BillingScoped virtual cards with hard spend limit"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/ceo",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/ceo",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/"
+      ],
+      "text": "Agent RuntimeHermes, OpenClaw, and any framework in isolated"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/connections",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/connections",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/"
+      ],
+      "text": "ConnectionsStripe, Supabase, Vercel, QuickBooks, and 100+ th"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/formation",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/formation",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/"
+      ],
+      "text": "Identity, 2FA, IncorporationKYC, KYB, US LLC / EIN, email, a"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/llm",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/llm",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/"
+      ],
+      "text": "Model Routing300+ models through one router — smart routing "
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/apps",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/apps",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure"
+      ],
+      "text": "Hosting & ComputeFullstack apps, serverless functions, and G"
+    },
+    {
+      "url": "https://usenaive.ai/templates",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Featured templates"
+    },
+    {
+      "url": "https://usenaive.ai/templates/ai-seo-platform",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/ai-seo-platform",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/templates"
+      ],
+      "text": "TemplateAI SEO platformMulti-tenant SaaS where every custome"
+    },
+    {
+      "url": "https://usenaive.ai/templates/ai-voice-receptionist",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/ai-voice-receptionist",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/templates"
+      ],
+      "text": "TemplateAI voice receptionistA real phone number with a voic"
+    },
+    {
+      "url": "https://usenaive.ai/templates/autonomous-company",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/autonomous-company",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/templates"
+      ],
+      "text": "TemplateAutonomous companyA CEO agent that hires a team of a"
+    },
+    {
+      "url": "https://usenaive.ai/templates/full-stack-saas-builder",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/full-stack-saas-builder",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/templates"
+      ],
+      "text": "TemplateFull-stack SaaS builderDeploys a real full-stack app"
+    },
+    {
+      "url": "https://usenaive.ai/docs",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/docs/getting-started/quickstart",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Explore SDK"
+    },
+    {
+      "url": "https://usenaive.ai/developers",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Platform"
+    },
+    {
+      "url": "https://usenaive.ai/marketplace",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Marketplace"
+    },
+    {
+      "url": "https://usenaive.ai/pricing",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/pricing",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Pricing"
+    },
+    {
+      "url": "https://usenaive.ai/blog",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/blog",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Blog"
+    },
+    {
+      "url": "https://usenaive.ai/fellowship",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/fellowship",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Fellowship"
+    },
+    {
+      "url": "https://usenaive.ai/accelerator",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/accelerator",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Accelerator"
+    },
+    {
+      "url": "https://usenaive.ai/security",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/security",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Security"
+    },
+    {
+      "url": "https://usenaive.ai/cybersecurity",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/cybersecurity",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Cybersecurity Policy"
+    },
+    {
+      "url": "https://usenaive.ai/terms",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/terms",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Terms"
+    },
+    {
+      "url": "https://usenaive.ai/privacy",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/privacy",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Privacy"
+    },
+    {
+      "url": "https://usenaive.ai/licenses",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/licenses",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Licenses"
+    },
+    {
+      "url": "https://status.usenaive.ai/",
+      "firstParty": true,
+      "status": 404,
+      "finalUrl": "https://status.usenaive.ai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Status"
+    },
+    {
+      "url": "https://usenaive.ai/docs/getting-started/introduction",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/docs/getting-started/introduction",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/templates/autonomous-company"
+      ],
+      "text": "Read the docs"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/approvals",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/approvals",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-governance"
+      ],
+      "text": "View primitive→"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/sessions",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/sessions",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-governance"
+      ],
+      "text": "View primitive→"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/vault",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/vault",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-governance"
+      ],
+      "text": "View primitive→"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/cards",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/cards",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "View primitive→"
+    },
+    {
+      "url": "https://usenaive.ai/docs/getting-started/apps",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/docs/getting-started/apps",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure"
+      ],
+      "text": "Read the docs"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/database",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/database",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure"
+      ],
+      "text": "View primitive→"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/functions",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/functions",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure"
+      ],
+      "text": "View primitive→"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/storage",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/storage",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure"
+      ],
+      "text": "View primitive→"
+    },
+    {
+      "url": "https://usenaive.ai/docs/getting-started/compute",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/docs/getting-started/compute",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure"
+      ],
+      "text": "Read docs→"
+    },
+    {
+      "url": "https://usenaive.ai/docs/getting-started/queue",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/docs/getting-started/queue",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure"
+      ],
+      "text": "Read docs→"
+    },
+    {
+      "url": "https://usenaive.ai/docs/getting-started/cards",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/docs/getting-started/cards",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-payments",
+        "https://usenaive.ai/templates/autonomous-company"
+      ],
+      "text": "Read the docs"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/verification",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/verification",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "View primitive→"
+    },
+    {
+      "url": "https://usenaive.ai/developers/primitives/billing",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/developers/primitives/billing",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "View primitive→"
+    },
+    {
+      "url": "https://usenaive.ai/templates/multi-tenant-agent-starter",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/multi-tenant-agent-starter",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "Multi-tenant & B2BMulti-Tenant Agent StarterA full-stack sta"
+    },
+    {
+      "url": "https://usenaive.ai/templates/ai-content-studio",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/ai-content-studio",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "Content & MediaAI Content StudioGenerates images and video, "
+    },
+    {
+      "url": "https://usenaive.ai/templates/dealership-voice-agent",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/dealership-voice-agent",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "Voice & PhoneDealership Voice AgentPer-location voice agents"
+    },
+    {
+      "url": "https://usenaive.ai/templates/outbound-sales-agent",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/outbound-sales-agent",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "Sales & OutreachOutbound Sales AgentIts own domain, inbox, a"
+    },
+    {
+      "url": "https://usenaive.ai/templates/lead-qualification-agent",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/lead-qualification-agent",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "Sales & OutreachLead Qualification AgentInstantly texts and "
+    },
+    {
+      "url": "https://usenaive.ai/templates/social-media-manager",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/social-media-manager",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "Content & MediaAI Social Media ManagerPlans a content calend"
+    },
+    {
+      "url": "https://usenaive.ai/templates/faceless-clipping-channel",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/faceless-clipping-channel",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "Content & MediaFaceless Clipping ChannelSources long-form vi"
+    },
+    {
+      "url": "https://usenaive.ai/templates/ai-workforce",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/ai-workforce",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates",
+        "https://usenaive.ai/templates/autonomous-company"
+      ],
+      "text": "AgentsAI WorkforceA team of specialized agent employees that"
+    },
+    {
+      "url": "https://usenaive.ai/templates/ai-support-agent",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/ai-support-agent",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates",
+        "https://usenaive.ai/templates/autonomous-company"
+      ],
+      "text": "AgentsAI Support AgentAnswers email, SMS, and chat, remember"
+    },
+    {
+      "url": "https://usenaive.ai/templates/browser-automation-agent",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/browser-automation-agent",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates",
+        "https://usenaive.ai/templates/autonomous-company"
+      ],
+      "text": "AgentsBrowser Automation AgentSigns up, logs in, and operate"
+    },
+    {
+      "url": "https://usenaive.ai/templates/ai-trading-desk",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/ai-trading-desk",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "FintechAI Trading DeskLinks a brokerage, runs your strategy,"
+    },
+    {
+      "url": "https://usenaive.ai/templates/agent-card-issuer",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/agent-card-issuer",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "FintechAgent Card IssuerVerifies users, issues virtual cards"
+    },
+    {
+      "url": "https://usenaive.ai/templates/agent-compute-pipeline",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/agent-compute-pipeline",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "Full-Stack AppsAgent Compute PipelineRuns containers and wor"
+    },
+    {
+      "url": "https://usenaive.ai/templates/research-analyst",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/research-analyst",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "Data & ResearchResearch Analyst AgentRuns deep research acro"
+    },
+    {
+      "url": "https://usenaive.ai/templates/geo-aeo-agency",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/geo-aeo-agency",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "SEO & GrowthGEO / AEO Visibility AgencyTracks how AI answers"
+    },
+    {
+      "url": "https://usenaive.ai/templates/compliance-onboarding",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/compliance-onboarding",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "Compliance & OpsCompliance & OnboardingVerifies identity, fo"
+    },
+    {
+      "url": "https://usenaive.ai/templates/businesses",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/businesses",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "Businesses →"
+    },
+    {
+      "url": "https://usenaive.ai/templates/employees",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/templates/employees",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/templates"
+      ],
+      "text": "Employees →"
+    },
+    {
+      "url": "https://x.com/usenaive",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://x.com/usenaive",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "X"
+    },
+    {
+      "url": "https://github.com/usenaive",
+      "firstParty": false,
+      "status": 403,
+      "finalUrl": "https://github.com/usenaive",
+      "method": "GET",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "GitHub"
+    },
+    {
+      "url": "https://discord.gg/naive",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://discord.com/invite/naive",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "Discord"
+    },
+    {
+      "url": "https://www.linkedin.com/company/usenaive",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/company/usenaive",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://usenaive.ai/",
+        "https://usenaive.ai/solutions/agent-native-governance",
+        "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "https://usenaive.ai/solutions/agent-native-payments"
+      ],
+      "text": "LinkedIn"
+    }
+  ],
+  "robots": {
+    "status": 200,
+    "present": true,
+    "looksLikeHtml": false,
+    "sample": "User-Agent: *\nAllow: /\n\nUser-Agent: GPTBot\nAllow: /\n\nUser-Agent: OAI-SearchBot\nAllow: /\n\nUser-Agent: ChatGPT-User\nAllow: /\n\nUser-Agent: ClaudeBot\nAllow: /\n\nUser-Agent: Claude-Web\nAllow: /\n\nUser-Agent: anthropic-ai\nAllow: /\n\nUser-Agent: PerplexityBot\nAllow: /\n\nUser-Agent: Perplexity-User\nAllow: /\n\nUser-Agent: Google-Extended\nAllow: /\n\nUser-Agent: Applebot-Extended\nAllow: /\n\nUser-Agent: CCBot\nAllow:"
+  },
+  "sitemap": {
+    "status": 200,
+    "present": true,
+    "looksLikeXml": true
+  },
+  "redirectNote": null,
+  "keyPagesDiscovered": [
+    {
+      "url": "https://usenaive.ai/solutions/agent-native-governance",
+      "kind": "solutions",
+      "text": "Solutions"
+    },
+    {
+      "url": "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+      "kind": "solutions",
+      "text": "Cloud BackendPostgres, auth, object storage, realtime, and e"
+    },
+    {
+      "url": "https://usenaive.ai/solutions/agent-native-payments",
+      "kind": "solutions",
+      "text": "Payments & BillingScoped virtual cards with hard spend limit"
+    },
+    {
+      "url": "https://usenaive.ai/templates",
+      "kind": "feature",
+      "text": "Featured templates"
+    },
+    {
+      "url": "https://usenaive.ai/templates/autonomous-company",
+      "kind": "company",
+      "text": "TemplateAutonomous companyA CEO agent that hires a team of a"
+    },
+    {
+      "url": "https://usenaive.ai/docs",
+      "kind": "docs",
+      "text": "Explore SDK"
+    },
+    {
+      "url": "https://usenaive.ai/pricing",
+      "kind": "pricing",
+      "text": "Pricing"
+    }
+  ],
+  "linkCounts": {
+    "firstPartyTotal": 64,
+    "externalTotal": 4,
+    "checkedFP": 64,
+    "checkedEXT": 4
+  },
+  "network": {
+    "totalRequests": 583,
+    "firstPartyFailures": [
+      {
+        "url": "https://usenaive.ai/docs/getting-started/introduction?_rsc=qebfISYXrqA-JuXh",
+        "host": "usenaive.ai",
+        "firstParty": true,
+        "status": 404,
+        "type": "text/x-component",
+        "bytes": 243372,
+        "onPage": "https://usenaive.ai/solutions/agent-native-governance"
+      },
+      {
+        "url": "https://usenaive.ai/docs/getting-started/apps?_rsc=y9DS7rAB_N9httLa",
+        "host": "usenaive.ai",
+        "firstParty": true,
+        "status": 404,
+        "type": "text/x-component",
+        "bytes": 243348,
+        "onPage": "https://usenaive.ai/solutions/agent-native-cloud-infrastructure"
+      },
+      {
+        "url": "https://usenaive.ai/docs/getting-started/cards?_rsc=qptEv0OG919dgZuw",
+        "host": "usenaive.ai",
+        "firstParty": true,
+        "status": 404,
+        "type": "text/x-component",
+        "bytes": 243351,
+        "onPage": "https://usenaive.ai/solutions/agent-native-payments"
+      }
+    ],
+    "thirdPartyFailures": [],
+    "mixedContent": [],
+    "largestFirstParty": [
+      {
+        "url": "https://usenaive.ai/templates",
+        "kb": 2744.6,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "url": "https://usenaive.ai/_next/static/chunks/01-px06-ghit9.js?dpl=dpl_E3nZWwAYGbAhtmYk1nbwFafFbuHP",
+        "kb": 748.1,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://usenaive.ai/",
+        "kb": 715.8,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "url": "https://usenaive.ai/_next/static/chunks/0gfvws390jm4g.js?dpl=dpl_E3nZWwAYGbAhtmYk1nbwFafFbuHP",
+        "kb": 422.4,
+        "type": "application/javascript; charset=utf-8"
+      },
+      {
+        "url": "https://usenaive.ai/?_rsc=g2GogwnnB0r-HJi1",
+        "kb": 334,
+        "type": "text/x-component"
+      },
+      {
+        "url": "https://usenaive.ai/?_rsc=UnD6ao-qgYO0Ijq7",
+        "kb": 334,
+        "type": "text/x-component"
+      },
+      {
+        "url": "https://usenaive.ai/?_rsc=0Ojc5kMxE5d24eN1",
+        "kb": 334,
+        "type": "text/x-component"
+      },
+      {
+        "url": "https://usenaive.ai/?_rsc=STd8WESUn-NS7Q3J",
+        "kb": 334,
+        "type": "text/x-component"
+      },
+      {
+        "url": "https://usenaive.ai/?_rsc=7-39U9BAb2CPJSwu",
+        "kb": 334,
+        "type": "text/x-component"
+      },
+      {
+        "url": "https://usenaive.ai/?_rsc=oump6mXoeH2E8mXH",
+        "kb": 334,
+        "type": "text/x-component"
+      },
+      {
+        "url": "https://usenaive.ai/?_rsc=q5d_emQtq906GfQj",
+        "kb": 334,
+        "type": "text/x-component"
+      },
+      {
+        "url": "https://usenaive.ai/developers/primitives?_rsc=GQ403_9Njd1Ts13L",
+        "kb": 313.8,
+        "type": "text/x-component"
+      }
+    ]
+  },
+  "console": {
+    "errors": [
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "onPage": "https://usenaive.ai/solutions/agent-native-governance",
+        "location": "https://usenaive.ai/docs/getting-started/introduction?_rsc=qebfISYXrqA-JuXh:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "onPage": "https://usenaive.ai/solutions/agent-native-cloud-infrastructure",
+        "location": "https://usenaive.ai/docs/getting-started/apps?_rsc=y9DS7rAB_N9httLa:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+        "onPage": "https://usenaive.ai/solutions/agent-native-payments",
+        "location": "https://usenaive.ai/docs/getting-started/cards?_rsc=qptEv0OG919dgZuw:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: net::ERR_CONNECTION_RESET",
+        "onPage": "https://usenaive.ai/solutions/agent-native-payments",
+        "location": "https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=F4DAD0D5E79B4F2FA0662300A5B31795&RedC=c.clarity.ms&MXFR=2DBEFDB7FD726BFD1DE0EA39F9726546:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: net::ERR_CONNECTION_RESET",
+        "onPage": "https://usenaive.ai/templates",
+        "location": "https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=F4DAD0D5E79B4F2FA0662300A5B31795&RedC=c.clarity.ms&MXFR=2DBEFDB7FD726BFD1DE0EA39F9726546:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: net::ERR_CONNECTION_RESET",
+        "onPage": "https://usenaive.ai/docs",
+        "location": "https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=F4DAD0D5E79B4F2FA0662300A5B31795&RedC=c.clarity.ms&MXFR=2DBEFDB7FD726BFD1DE0EA39F9726546:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: net::ERR_CONNECTION_RESET",
+        "onPage": "https://usenaive.ai/pricing",
+        "location": "https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=F4DAD0D5E79B4F2FA0662300A5B31795&RedC=c.clarity.ms&MXFR=2DBEFDB7FD726BFD1DE0EA39F9726546:0"
+      }
+    ],
+    "warnings": [
+      {
+        "type": "warning",
+        "text": "Deprecated API for given entry type.",
+        "onPage": "https://usenaive.ai/",
+        "location": ""
+      }
+    ],
+    "pageErrors": []
+  },
+  "finishedAt": "2026-07-06T08:23:44.771Z"
+}

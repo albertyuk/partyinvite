@@ -1,0 +1,52 @@
+{
+  "key": "scalarfield",
+  "comparedAt": "2026-07-06T08:21:23.819Z",
+  "copyStrings": [
+    {
+      "string": "Backed by Combinator",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "ScalarField helps traders",
+      "wasPresent": true,
+      "stillPresent": true
+    }
+  ],
+  "priorBrokenLinks": [],
+  "axeChanges": [
+    {
+      "pageRule": "https://scalarfield.io/pricing :: color-contrast",
+      "old": 5,
+      "new": 9
+    },
+    {
+      "pageRule": "https://scalarfield.io/pricing :: region",
+      "old": 74,
+      "new": 76
+    }
+  ],
+  "metaChanges": [],
+  "robotsSitemap": {
+    "robots": {
+      "old": 200,
+      "new": 200
+    },
+    "sitemap": {
+      "old": 200,
+      "new": 200
+    }
+  },
+  "newLinkFailures": [],
+  "newConsoleErrors": [
+    {
+      "text": "Failed to load resource: net::ERR_CONNECTION_RESET",
+      "onPage": "https://scalarfield.io/docs"
+    },
+    {
+      "text": "Failed to load resource: net::ERR_CONNECTION_RESET",
+      "onPage": "https://scalarfield.io/pricing"
+    }
+  ],
+  "newFpFailures": []
+}

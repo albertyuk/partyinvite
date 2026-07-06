@@ -1,0 +1,325 @@
+{
+  "key": "contrario",
+  "checkedAt": "2026-07-06T08:25:40.560Z",
+  "sitemap": {
+    "status": 200,
+    "totalLocs": 35,
+    "sampled": [
+      {
+        "url": "https://www.contrario.ai/",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 598616
+      },
+      {
+        "url": "https://www.contrario.ai/book-a-demo",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/book-a-demo",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 421920
+      },
+      {
+        "url": "https://www.contrario.ai/careers",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/careers",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 450536
+      },
+      {
+        "url": "https://www.contrario.ai/terms-of-service",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/terms-of-service",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 281485
+      },
+      {
+        "url": "https://www.contrario.ai/referral",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/referral",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 380423
+      },
+      {
+        "url": "https://www.contrario.ai/blogs",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/blogs",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 274682
+      },
+      {
+        "url": "https://www.contrario.ai/blogs/case-studies/judgmentlabs",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/blogs/case-studies/judgmentlabs",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 272871
+      },
+      {
+        "url": "https://www.contrario.ai/blogs/case-studies/gallium",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/blogs/case-studies/gallium",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 271928
+      },
+      {
+        "url": "https://www.contrario.ai/companies/hiring-in-slack",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/companies/hiring-in-slack",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 265749
+      },
+      {
+        "url": "https://www.contrario.ai/companies/contrario-intelligence",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/companies/contrario-intelligence",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 265434
+      },
+      {
+        "url": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 253663
+      },
+      {
+        "url": "https://www.contrario.ai/versus/alternatives",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/versus/alternatives",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 401211
+      },
+      {
+        "url": "https://www.contrario.ai/recruiters/chrome-extension",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/recruiters/chrome-extension",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 332381
+      },
+      {
+        "url": "https://www.contrario.ai/recruiters/candidate-crm",
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/recruiters/candidate-crm",
+        "redirects": 0,
+        "type": "text/html",
+        "size": 334905
+      }
+    ],
+    "non200": []
+  },
+  "canonicals": [
+    {
+      "page": "https://www.contrario.ai/",
+      "canonical": "https://www.contrario.ai/",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 598616,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+      "canonical": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 253663,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/customers",
+      "canonical": "https://www.contrario.ai/customers",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/customers",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 358127,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/book-a-demo",
+      "canonical": "https://www.contrario.ai/book-a-demo",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/book-a-demo",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 421920,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/blogs",
+      "canonical": "https://www.contrario.ai/blogs",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/blogs",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 274682,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/careers",
+      "canonical": "https://www.contrario.ai/careers",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/careers",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 450536,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/domains",
+      "canonical": "https://www.contrario.ai/domains",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/domains",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 430771,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/companies",
+      "canonical": "https://www.contrario.ai/companies",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/companies",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 661758,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/recruiters",
+      "canonical": "https://www.contrario.ai/recruiters",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/recruiters",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 585683,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/referral",
+      "canonical": "https://www.contrario.ai/referral",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/referral",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 380423,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/privacy-policy",
+      "canonical": "https://www.contrario.ai/privacy-policy",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/privacy-policy",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 290717,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/terms-of-service",
+      "canonical": "https://www.contrario.ai/terms-of-service",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/terms-of-service",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 281485,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/faqs",
+      "canonical": "https://www.contrario.ai/faqs",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/faqs",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 241632,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/blogs/case-studies/listenlabs",
+      "canonical": "https://www.contrario.ai/blogs/case-studies/listenlabs",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/blogs/case-studies/listenlabs",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 272349,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://www.contrario.ai/blogs/case-studies/gallium",
+      "canonical": "https://www.contrario.ai/blogs/case-studies/gallium",
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/blogs/case-studies/gallium",
+      "redirects": 0,
+      "type": "text/html",
+      "size": 271928,
+      "selfConsistent": true
+    }
+  ],
+  "socialImages": [
+    {
+      "url": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png",
+      "status": 200,
+      "finalUrl": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 118391,
+      "isImage": true
+    }
+  ],
+  "favicons": [
+    {
+      "href": "https://framerusercontent.com/images/IOVQOTSyIxjSYhpBBDWpVjku1M.png",
+      "resolved": "https://framerusercontent.com/images/IOVQOTSyIxjSYhpBBDWpVjku1M.png",
+      "status": 200,
+      "finalUrl": "https://framerusercontent.com/images/IOVQOTSyIxjSYhpBBDWpVjku1M.png",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 571
+    },
+    {
+      "href": "https://framerusercontent.com/images/JvaObHbMQCjMHKrNYW24P2Ost7Q.png",
+      "resolved": "https://framerusercontent.com/images/JvaObHbMQCjMHKrNYW24P2Ost7Q.png",
+      "status": 200,
+      "finalUrl": "https://framerusercontent.com/images/JvaObHbMQCjMHKrNYW24P2Ost7Q.png",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 571
+    },
+    {
+      "href": "https://framerusercontent.com/images/JJ40FzVKfcJfUEyMENxDGszsLUk.png",
+      "resolved": "https://framerusercontent.com/images/JJ40FzVKfcJfUEyMENxDGszsLUk.png",
+      "status": 200,
+      "finalUrl": "https://framerusercontent.com/images/JJ40FzVKfcJfUEyMENxDGszsLUk.png",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 743
+    }
+  ],
+  "regression": [
+    {
+      "url": "https://gigaml.com/",
+      "status": 404,
+      "finalUrl": "https://gigaml.com/",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 6873
+    }
+  ]
+}

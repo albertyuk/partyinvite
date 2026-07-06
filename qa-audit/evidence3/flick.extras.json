@@ -1,0 +1,310 @@
+{
+  "key": "flick",
+  "checkedAt": "2026-07-06T08:32:05.173Z",
+  "sitemap": {
+    "status": 200,
+    "totalLocs": 90,
+    "sampled": [
+      {
+        "url": "https://flick.art/",
+        "status": 200,
+        "finalUrl": "https://flick.art/",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      },
+      {
+        "url": "https://flick.art/residency",
+        "status": 200,
+        "finalUrl": "https://flick.art/residency",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      },
+      {
+        "url": "https://flick.art/zh/terms",
+        "status": 200,
+        "finalUrl": "https://flick.art/zh/terms",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      },
+      {
+        "url": "https://flick.art/zh-TW/pricing",
+        "status": 200,
+        "finalUrl": "https://flick.art/zh-TW/pricing",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      },
+      {
+        "url": "https://flick.art/zh-TW/creative-partners",
+        "status": 200,
+        "finalUrl": "https://flick.art/zh-TW/creative-partners",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      },
+      {
+        "url": "https://flick.art/ja/careers",
+        "status": 200,
+        "finalUrl": "https://flick.art/ja/careers",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      },
+      {
+        "url": "https://flick.art/ko/about",
+        "status": 200,
+        "finalUrl": "https://flick.art/ko/about",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      },
+      {
+        "url": "https://flick.art/fr",
+        "status": 200,
+        "finalUrl": "https://flick.art/fr",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      },
+      {
+        "url": "https://flick.art/fr/residency",
+        "status": 200,
+        "finalUrl": "https://flick.art/fr/residency",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      },
+      {
+        "url": "https://flick.art/de/terms",
+        "status": 200,
+        "finalUrl": "https://flick.art/de/terms",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      },
+      {
+        "url": "https://flick.art/es/pricing",
+        "status": 200,
+        "finalUrl": "https://flick.art/es/pricing",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      },
+      {
+        "url": "https://flick.art/es/creative-partners",
+        "status": 200,
+        "finalUrl": "https://flick.art/es/creative-partners",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      },
+      {
+        "url": "https://flick.art/it/careers",
+        "status": 200,
+        "finalUrl": "https://flick.art/it/careers",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      },
+      {
+        "url": "https://flick.art/pt/about",
+        "status": 200,
+        "finalUrl": "https://flick.art/pt/about",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 5058
+      }
+    ],
+    "non200": []
+  },
+  "canonicals": [
+    {
+      "page": "https://flick.art/",
+      "canonical": "https://flick.art/",
+      "status": 200,
+      "finalUrl": "https://flick.art/",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://flick.art/pricing",
+      "canonical": "https://flick.art/pricing",
+      "status": 200,
+      "finalUrl": "https://flick.art/pricing",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://flick.art/blog",
+      "canonical": "https://flick.art/blog",
+      "status": 200,
+      "finalUrl": "https://flick.art/blog",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 16861,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://flick.art/about",
+      "canonical": "https://flick.art/about",
+      "status": 200,
+      "finalUrl": "https://flick.art/about",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://flick.art/careers",
+      "canonical": "https://flick.art/careers",
+      "status": 200,
+      "finalUrl": "https://flick.art/careers",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://flick.art/projects?tab=explore",
+      "canonical": "https://flick.art/projects",
+      "status": 200,
+      "finalUrl": "https://flick.art/projects",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://flick.art/compare",
+      "canonical": "https://flick.art/compare",
+      "status": 200,
+      "finalUrl": "https://flick.art/compare",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://flick.art/tools",
+      "canonical": "https://flick.art/tools",
+      "status": 200,
+      "finalUrl": "https://flick.art/tools",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://flick.art/residency",
+      "canonical": "https://flick.art/residency",
+      "status": 200,
+      "finalUrl": "https://flick.art/residency",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://flick.art/creative-partners",
+      "canonical": "https://flick.art/creative-partners",
+      "status": 200,
+      "finalUrl": "https://flick.art/creative-partners",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://flick.art/mit-ai-film-hackathon-with-flick",
+      "canonical": "https://flick.art/mit-ai-film-hackathon-with-flick",
+      "status": 200,
+      "finalUrl": "https://flick.art/mit-ai-film-hackathon-with-flick",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://flick.art/privacy",
+      "canonical": "https://flick.art/privacy",
+      "status": 200,
+      "finalUrl": "https://flick.art/privacy",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://flick.art/terms",
+      "canonical": "https://flick.art/terms",
+      "status": 200,
+      "finalUrl": "https://flick.art/terms",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058,
+      "selfConsistent": true
+    }
+  ],
+  "socialImages": [
+    {
+      "url": "https://flick.art/og-image.jpg",
+      "status": 404,
+      "finalUrl": "https://flick.art/og-image.jpg",
+      "redirects": 0,
+      "type": "text/plain; charset=utf-8",
+      "size": 79,
+      "isImage": false
+    },
+    {
+      "url": "https://flick.art/twitter-image.jpg",
+      "status": 404,
+      "finalUrl": "https://flick.art/twitter-image.jpg",
+      "redirects": 0,
+      "type": "text/plain; charset=utf-8",
+      "size": 79,
+      "isImage": false
+    }
+  ],
+  "favicons": [],
+  "regression": [
+    {
+      "url": "https://flick.art/this-definitely-does-not-exist-xyz123",
+      "status": 200,
+      "finalUrl": "https://flick.art/this-definitely-does-not-exist-xyz123",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058
+    },
+    {
+      "url": "https://flick.art/ja",
+      "status": 200,
+      "finalUrl": "https://flick.art/ja",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058
+    },
+    {
+      "url": "https://flick.art/auth",
+      "status": 200,
+      "finalUrl": "https://flick.art/auth",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 5058
+    },
+    {
+      "url": "https://flick.art/docs",
+      "status": 200,
+      "finalUrl": "https://flick.art/docs/",
+      "redirects": 1,
+      "type": "text/html; charset=utf-8",
+      "size": 17019
+    }
+  ]
+}

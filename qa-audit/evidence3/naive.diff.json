@@ -1,0 +1,117 @@
+{
+  "key": "naive",
+  "comparedAt": "2026-07-06T08:26:04.237Z",
+  "copyStrings": [
+    {
+      "string": "Naive Studio",
+      "wasPresent": true,
+      "stillPresent": true
+    }
+  ],
+  "priorBrokenLinks": [
+    {
+      "url": "https://status.usenaive.ai/",
+      "oldStatus": 404,
+      "newStatus": 404
+    }
+  ],
+  "axeChanges": [
+    {
+      "pageRule": "https://usenaive.ai/templates :: landmark-unique",
+      "old": 1,
+      "new": 0
+    },
+    {
+      "pageRule": "https://usenaive.ai/deploy :: nested-interactive",
+      "old": 84,
+      "new": 0
+    },
+    {
+      "pageRule": "https://usenaive.ai/templates :: heading-order",
+      "old": 0,
+      "new": 1
+    },
+    {
+      "pageRule": "https://usenaive.ai/deploy :: color-contrast",
+      "old": 0,
+      "new": 2
+    },
+    {
+      "pageRule": "https://usenaive.ai/deploy :: heading-order",
+      "old": 0,
+      "new": 1
+    }
+  ],
+  "metaChanges": [
+    {
+      "page": "https://usenaive.ai/templates",
+      "diffs": {
+        "title": {
+          "old": "AI Media Channels — Naïve Templates",
+          "new": "Templates — Naïve"
+        },
+        "metaDescription": {
+          "old": "Browse the AI Media Channels catalog — clipping, long-form faceless, AI-native shorts, avatars, and niche verticals. Deploy any channel as an autonomous Naïve business in minutes.",
+          "new": "Browse production-ready starter templates that wire Naïve primitives together — voice agents, full-stack apps, fintech, content studios, SEO, and more. Copy the prompt into your agent and ship."
+        },
+        "canonical": {
+          "old": null,
+          "new": "/templates"
+        }
+      }
+    },
+    {
+      "page": "https://usenaive.ai/developers/primitives",
+      "diffs": {
+        "metaDescription": {
+          "old": "Drop a single real-world capability into any agent — one call each. Browse identity, payments, media, build, orchestration, and governance primitives.",
+          "new": "Browse every Naïve primitive — one API call each for identity, payments, email, deploy, media, orchestration, and governance."
+        }
+      }
+    },
+    {
+      "page": "https://usenaive.ai/deploy",
+      "diffs": {
+        "metaDescription": {
+          "old": "Clone a template from the wall or paste the setup prompt into your coding agent — Naïve provisions hosting, databases, identity, and payments scoped per user.",
+          "new": "Pick a starter template or copy a setup prompt for your agent — Naïve provisions hosting, databases, identity, and payments scoped per user."
+        }
+      }
+    }
+  ],
+  "robotsSitemap": {
+    "robots": {
+      "old": 200,
+      "new": 200
+    },
+    "sitemap": {
+      "old": 200,
+      "new": 200
+    }
+  },
+  "newLinkFailures": [
+    {
+      "url": "https://github.com/usenaive",
+      "status": 403
+    }
+  ],
+  "newConsoleErrors": [
+    {
+      "text": "Failed to load resource: net::ERR_CONNECTION_RESET",
+      "onPage": "https://usenaive.ai/solutions/agent-native-payments"
+    },
+    {
+      "text": "Failed to load resource: net::ERR_CONNECTION_RESET",
+      "onPage": "https://usenaive.ai/templates"
+    },
+    {
+      "text": "Failed to load resource: net::ERR_CONNECTION_RESET",
+      "onPage": "https://usenaive.ai/docs"
+    },
+    {
+      "text": "Failed to load resource: net::ERR_CONNECTION_RESET",
+      "onPage": "https://usenaive.ai/pricing"
+    }
+  ],
+  "newFpFailures": []
+}

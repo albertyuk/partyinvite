@@ -1,0 +1,4456 @@
+{
+  "key": "contrario",
+  "name": "Contrario",
+  "category": "AI recruiting",
+  "start": "https://www.contrario.ai/",
+  "note": "contrario.ai redirects to www.contrario.ai",
+  "startedAt": "2026-07-06T08:21:48.027Z",
+  "baseHost": "www.contrario.ai",
+  "pages": {
+    "home": {
+      "url": "https://www.contrario.ai/",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/"
+      },
+      "meta": {
+        "title": "Contrario | AI Recruiting Platform",
+        "titleLen": 34,
+        "metaDescription": "Contrario is the AI Recruiting Platform powered by expert recruiters. Trusted by companies at every stage for their most critical hires.",
+        "canonical": "https://www.contrario.ai/",
+        "robotsMeta": "max-image-preview:large",
+        "viewportMeta": "width=device-width",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "Hire great talent faster"
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Hire great talent faster"
+          },
+          {
+            "level": 2,
+            "text": "Don’t just take our word for it"
+          },
+          {
+            "level": 4,
+            "text": "and 250+ others"
+          },
+          {
+            "level": 2,
+            "text": "Why teams trust Contrario"
+          },
+          {
+            "level": 2,
+            "text": "High-quality candidates"
+          },
+          {
+            "level": 3,
+            "text": "80% of candidates interviewed"
+          },
+          {
+            "level": 2,
+            "text": "Fast time-to-hire"
+          },
+          {
+            "level": 3,
+            "text": "5:1 average candidate-to-hire ratio"
+          },
+          {
+            "level": 2,
+            "text": "Concierge-level support"
+          },
+          {
+            "level": 3,
+            "text": "99% of customers renew after 1st hire"
+          },
+          {
+            "level": 2,
+            "text": "Hiring without overhead"
+          },
+          {
+            "level": 3,
+            "text": "90% less recruiting admin work"
+          },
+          {
+            "level": 4,
+            "text": "10+"
+          },
+          {
+            "level": 2,
+            "text": "How Contrario works"
+          },
+          {
+            "level": 4,
+            "text": "Upload your role"
+          },
+          {
+            "level": 4,
+            "text": "Activate recruiters & agents"
+          },
+          {
+            "level": 4,
+            "text": "Interview qualified talent"
+          },
+          {
+            "level": 2,
+            "text": "Contrario fits seamlessly into your existing workflows"
+          },
+          {
+            "level": 4,
+            "text": "Review candidates on Slack"
+          },
+          {
+            "level": 4,
+            "text": "Integrates into your hiring stack"
+          },
+          {
+            "level": 2,
+            "text": "The future of hiring starts here"
+          }
+        ],
+        "og": {
+          "og:type": "website",
+          "og:title": "Contrario | AI Recruiting Platform",
+          "og:description": "Contrario is the AI Recruiting Platform powered by expert recruiters. Trusted by companies at every stage for their most critical hires.",
+          "og:image": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png",
+          "og:url": "https://www.contrario.ai/"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Contrario | AI Recruiting Platform",
+          "twitter:description": "Contrario is the AI Recruiting Platform powered by expert recruiters. Trusted by companies at every stage for their most critical hires.",
+          "twitter:image": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png"
+        },
+        "favicons": [
+          "https://framerusercontent.com/images/IOVQOTSyIxjSYhpBBDWpVjku1M.png",
+          "https://framerusercontent.com/images/JvaObHbMQCjMHKrNYW24P2Ost7Q.png",
+          "https://framerusercontent.com/images/JJ40FzVKfcJfUEyMENxDGszsLUk.png"
+        ],
+        "imgCount": 100,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 98,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 1,
+        "headStyles": 0,
+        "headSyncScripts": 0,
+        "linkCount": 61,
+        "textSample": "Contrario launches after crossing $6M annualized revenue Solutions Features Customers Domains Resources Sign in Get a demo Hire great talent faster Contrario is the AI Recruiting Platform powered by expert recruiters. Trusted by teams at every stage for their critical hires. Get a demo Don’t just take our word for it See all customer stories “Contrario plugs directly into how we already hire and always gets the right candidates in front of us.” Spencer Mateega Co-Founder, AfterQuery \"Rio helps us really narrow down our pipeline, make sure we never lose track of what is going on inside the process, and reflect on how to improve for the next set of candidates.\" Alex Shan Co-Founder & CEO “Contrario sends high-quality candidates, moves fast, and feels like an extension of our team.” Victor Cardenas Founder & CEO, Slash “The quality of candidates was really impressive. But more than that, it was the willingness of the team to work with us, understand when things go wrong, and keep refining.” Alexandre Berkovic Co-Founder & CEO “We’ve tested 50+ recruiting channels and only hired from 2. Contrario was one of them.” Tanay Kothari CEO, Wispr Flow “Contrario plugs directly into how we already hire and always gets the right candidates in front of us.” Spencer Mateega Co-Founder, AfterQuery \"Rio helps us really narrow down our pipeline, make sure we never lose track of what is going on inside the process, and reflect on how to improve for the next set of candidates.\" Alex Shan Co-Founder & CEO and 250+ others Why teams trust Contrario Import your job postings and receive qualified candidates within days. [01] QUALITY High-quality candidates Receive strong candidates through our vetted network of 500+ expert recruiters. 80% of candidates interviewed [02] SPEED Fast time-to-hire Our expert recruiters and AI agents learn what great looks like for your team and deliver top candidates faster. 5:1 average candidate-to-hire ratio [03] CUSTOMER SERVICE Concierge-level support Our team provides the same experience you would expect from an in-house recruiting team. 99% of customers renew after 1st hire [04] COMMUNICATION Hiring without overhead Our AI agents handle follow-ups, scheduling, and coordination behind the scenes. 90% less recruiting admin work LIVE MATCHES 10+ New profiles EXPERT-VETTED Product Designer 5 YOE Ex-Figma • UI Team Fullstack Eng 7 YOE Ex-Linear • Engineer UX Researcher 4 YOE Ex-Adobe • User Insights Front-End Dev 6 YOE Ex-Google • Web Development How Contrario works We activate recruiters and AI agents who’ve filled similar roles dozens of times. STEP 01 Upload your role Paste a JD or sync directly with your ATS. SYNC WITH ATS STEP 02 Activate recruiters & agents We route your role to specialized recruiters and AI agents working behind the scenes. MATCHING EXPERTS STEP 03 Interview qualified talent Vetted candidates appear directly inside your ATS pipeline within days. SYNCED TO PIPELINE Contrario fits seamlessly into your existing workflows Review candidates on Slack Make faster hiring decisions without adding another complicated platform to your workflow. Contrario APP 10:42 AM New candidate in #hiring-engineers Audrey Park Senior Staff Engineer • Ex-Apple Strong Match Interview Reject Have Questions? Integrates into your hiring stack Connect Contrario directly to your ATS, or let us handle intro emails and scheduling for you. AND 30+ MORE The future of hiring starts here Ready to hire great talent fast? Get started with Contrario. Get a demo SYSTEMS OPERATIONAL PRODUCT For companies For recruiters COMPANY Customers Blogs Careers Contact CONNECT Linkedin Twitter / X Product Hunt Refer a friend Privacy policy Terms of service FAQs © Contrario Inc. 2026 Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Privacy Policy."
+      },
+      "axe": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "help": "ARIA hidden element must not be focusable or contain focusable elements",
+          "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/aria-hidden-focus?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "li[aria-hidden=\"true\"]:nth-child(12)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            },
+            {
+              "target": [
+                "li[aria-hidden=\"true\"]:nth-child(13)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            },
+            {
+              "target": [
+                "li[aria-hidden=\"true\"]:nth-child(14)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            },
+            {
+              "target": [
+                "li[aria-hidden=\"true\"]:nth-child(15)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            },
+            {
+              "target": [
+                "li[aria-hidden=\"true\"]:nth-child(16)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            }
+          ],
+          "count": 22
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "li:nth-child(5) > .framer-4ojnkt[data-framer-name=\"Slash\"][aria-hidden=\"false\"] > .framer-1yu5tik[data-framer-name=\"Customer Quote Container\"] > .framer-16rmrs1[data-framer-name=\"Customer Info Container\"] > .framer-q5aaaw[data-framer-name=\"Customer Info\"] > .framer-1youi9w[data-framer-name=\"Customer Details\"] > .framer-10auhwx[data-framer-name=\"Customer Name\"][data-framer-component-type=\"RichTextContainer\"] > .framer-styles-preset-z2xn1y[data-styles-preset=\"UyqeEFmOc\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.48 (foreground color: #70747d, background color: #fafafa, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-z2xn1y\" data-styles-preset=\"UyqeEFmOc\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--token"
+            },
+            {
+              "target": [
+                "li:nth-child(5) > .framer-4ojnkt[data-framer-name=\"Slash\"][aria-hidden=\"false\"] > .framer-1yu5tik[data-framer-name=\"Customer Quote Container\"] > .framer-16rmrs1[data-framer-name=\"Customer Info Container\"] > .framer-q5aaaw[data-framer-name=\"Customer Info\"] > .framer-1youi9w[data-framer-name=\"Customer Details\"] > .framer-1nt271d[data-framer-name=\"Customer Role\"][data-framer-component-type=\"RichTextContainer\"] > .framer-styles-preset-5qg4v3[data-styles-preset=\"rT2WOoHvK\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.06 (foreground color: #8d9097, background color: #fafafa, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-5qg4v3\" data-styles-preset=\"rT2WOoHvK\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--token"
+            },
+            {
+              "target": [
+                "li:nth-child(7) > .framer-1feb5r8[data-framer-name=\"Wispr Flow\"][aria-hidden=\"false\"] > .framer-11b0bhg[data-framer-name=\"Customer Quote Container\"] > .framer-1a2ncxy[data-framer-name=\"Customer Info Container\"] > .framer-1w2l8hd[data-framer-name=\"Customer Info\"] > .framer-k65p0b[data-framer-name=\"Customer Details\"] > .framer-1831por[data-framer-name=\"Customer Role\"][data-framer-component-type=\"RichTextContainer\"] > .framer-styles-preset-5qg4v3[data-styles-preset=\"rT2WOoHvK\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.15 (foreground color: #8a8e95, background color: #fafafa, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-5qg4v3\" data-styles-preset=\"rT2WOoHvK\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--token"
+            },
+            {
+              "target": [
+                "li:nth-child(8) > .framer-kducvo[data-framer-name=\"Afterquery\"][aria-hidden=\"false\"] > .framer-17zvbut[data-framer-name=\"Customer Quote Container\"] > .framer-t163xy[data-framer-name=\"Customer Quote\"][data-framer-component-type=\"RichTextContainer\"] > .framer-styles-preset-rww9bd[data-styles-preset=\"RN2JlOD1A\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.48 (foreground color: #70747d, background color: #fafafa, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-rww9bd\" data-styles-preset=\"RN2JlOD1A\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--token"
+            },
+            {
+              "target": [
+                "li:nth-child(8) > .framer-kducvo[data-framer-name=\"Afterquery\"][aria-hidden=\"false\"] > .framer-17zvbut[data-framer-name=\"Customer Quote Container\"] > .framer-44q6he[data-framer-name=\"Customer Info Container\"] > .framer-ubkn3w[data-framer-name=\"Customer Info\"] > .framer-1mfr2j6[data-framer-name=\"Customer Details\"] > .framer-lif5h5[data-framer-name=\"Customer Name\"][data-framer-component-type=\"RichTextContainer\"] > .framer-styles-preset-z2xn1y[data-styles-preset=\"UyqeEFmOc\"] > a[rel=\"noopener\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.48 (foreground color: #70747d, background color: #fafafa, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<a class=\"framer-text\" href=\"https://www.linkedin.com/in/spencermateega/overlay/about-this-profile/\" rel=\"noopener\">Spencer Mateega</a>"
+            }
+          ],
+          "count": 26
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "help": "Heading levels should only increase by one",
+          "description": "Ensure the order of headings is semantically correct",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-besqrq > h4"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h4 class=\"framer-text framer-styles-preset-1hp8f52\" data-styles-preset=\"bw9ysOZkE\" dir=\"auto\" style=\"--framer-text-alignment:center;--framer-text-color:var(--t"
+            },
+            {
+              "target": [
+                ".framer-13juv1y > h4"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h4 class=\"framer-text framer-styles-preset-1hp8f52\" data-styles-preset=\"bw9ysOZkE\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--tok"
+            },
+            {
+              "target": [
+                ".framer-1tnk58y > h4"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h4 class=\"framer-text framer-styles-preset-1hp8f52\" data-styles-preset=\"bw9ysOZkE\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--tok"
+            }
+          ],
+          "count": 3
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en\" data-redirect-timezone=\"1\" dir=\"ltr\" class=\"lenis lenis-smooth\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-auccsu"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-auccsu framer-u5ynwl\" href=\"./\" data-framer-page-link-current=\"true\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                "li:nth-child(1) > .framer-151m818[data-framer-name=\"Sieve\"][href$=\"sievedata.com/\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-151m818 framer-rgq2j3\" data-framer-name=\"Sieve\" href=\"https://www.sievedata.com/\" target=\"_blank\" rel=\"noopener\" style=\"flex-shrink:0\">"
+            },
+            {
+              "target": [
+                "li:nth-child(2) > .framer-jdjigo[href$=\"afterquery.com/\"][data-framer-name=\"After Query\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-jdjigo framer-rgq2j3\" data-framer-name=\"After Query\" href=\"https://www.afterquery.com/\" target=\"_blank\" rel=\"noopener\" style=\"opacity:0."
+            },
+            {
+              "target": [
+                "li:nth-child(3) > .framer-1p9us0h[data-framer-name=\"Wisprflow\"][href$=\"wisprflow.ai/\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-1p9us0h framer-rgq2j3\" data-framer-name=\"Wisprflow\" href=\"https://wisprflow.ai/\" target=\"_blank\" rel=\"noopener\" style=\"flex-shrink:0\">"
+            },
+            {
+              "target": [
+                "li:nth-child(4) > .framer-11hjltu[data-framer-name=\"Listenlabs\"][href$=\"listenlabs.ai/\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-11hjltu framer-rgq2j3\" data-framer-name=\"Listenlabs\" href=\"https://listenlabs.ai/\" target=\"_blank\" rel=\"noopener\" style=\"opacity:0.6;fle"
+            }
+          ],
+          "count": 13
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-yllbqb"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-yllbqb\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-9c7ac995-3115-4f26-a3db-87cdba2ae89b, rgb(255, "
+            },
+            {
+              "target": [
+                ".framer-v-11nc0nw[name=\"Solutions\"][data-framer-name=\"Dropdown\"] > .framer-hdevaa[data-framer-name=\"Link Text\"][data-framer-component-type=\"RichTextContainer\"]"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-hdevaa\" data-framer-name=\"Link Text\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-90ede304-880e-44e6"
+            },
+            {
+              "target": [
+                ".framer-v-11nc0nw[name=\"Features\"][data-framer-name=\"Dropdown\"] > .framer-hdevaa[data-framer-name=\"Link Text\"][data-framer-component-type=\"RichTextContainer\"]"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-hdevaa\" data-framer-name=\"Link Text\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-90ede304-880e-44e6"
+            },
+            {
+              "target": [
+                ".framer-41cbqc-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-41cbqc-container\" data-framer-name=\"Customers\" name=\"Customers\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-tm8dui-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-tm8dui-container\" data-framer-name=\"Domain\" name=\"Domain\" style=\"opacity: 1;\">"
+            }
+          ],
+          "count": 30
+        }
+      ],
+      "perf": {
+        "domContentLoaded": 362,
+        "load": 13027,
+        "fcp": 204,
+        "lcp": null,
+        "cls": 0.002,
+        "resourceCount": 99
+      },
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 5
+        },
+        {
+          "width": 768,
+          "scrollW": 768,
+          "clientW": 768,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 5
+        },
+        {
+          "width": 1440,
+          "scrollW": 1440,
+          "clientW": 1440,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 10
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+          "text": "Contrario launches after crossing $6M annualized revenue",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/customers",
+          "text": "Customers",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/domains",
+          "text": "Domains",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.co/",
+          "text": "Sign in",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/book-a-demo",
+          "text": "Get a demo",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/book-a-demo",
+          "text": "Get a demo",
+          "inNav": false
+        },
+        {
+          "href": "https://www.sievedata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.afterquery.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://wisprflow.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://listenlabs.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://slash.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://crustdata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.maximor.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.getauctor.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://sphinxhq.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://tryfuse.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://workweave.dev/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.sievedata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.afterquery.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://wisprflow.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://listenlabs.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://slash.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://crustdata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.maximor.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.getauctor.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://sphinxhq.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://tryfuse.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://workweave.dev/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.sievedata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.afterquery.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://wisprflow.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://listenlabs.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://slash.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://crustdata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.maximor.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.getauctor.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://sphinxhq.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://tryfuse.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://workweave.dev/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/customers",
+          "text": "See all customer stories",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/spencermateega/overlay/about-this-profile/",
+          "text": "Spencer Mateega",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/spencermateega/overlay/about-this-profile/",
+          "text": "Spencer Mateega",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/spencermateega/overlay/about-this-profile/",
+          "text": "Spencer Mateega",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/spencermateega/overlay/about-this-profile/",
+          "text": "Spencer Mateega",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/book-a-demo",
+          "text": "Get a demo",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/companies",
+          "text": "For companies",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/recruiters",
+          "text": "For recruiters",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/customers",
+          "text": "Customers",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs",
+          "text": "Blogs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/careers",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "mailto:support@contrario.ai",
+          "text": "Contact",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/contrario-ai/",
+          "text": "Linkedin",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/ContrarioAI",
+          "text": "Twitter / X",
+          "inNav": false
+        },
+        {
+          "href": "https://www.producthunt.com/products/contrario",
+          "text": "Product Hunt",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/referral",
+          "text": "Refer a friend",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/privacy-policy",
+          "text": "Privacy policy",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/terms-of-service",
+          "text": "Terms of service",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/faqs",
+          "text": "FAQs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/privacy-policy",
+          "text": "Privacy Policy",
+          "inNav": false
+        }
+      ]
+    },
+    "blog:/blogs/announcement/better-recruiting-built-on-contrario": {
+      "url": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+      "kind": "blog",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario"
+      },
+      "meta": {
+        "title": "Better recruiting. Built on Contrario.",
+        "titleLen": 38,
+        "metaDescription": "Contrario is the AI Recruiting Platform powered by expert recruiters. Trusted by companies at every stage for their most critical hires.",
+        "canonical": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "robotsMeta": "max-image-preview:large",
+        "viewportMeta": "width=device-width",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [],
+        "h1Count": 0,
+        "headings": [
+          {
+            "level": 2,
+            "text": "Better recruiting. Built on Contrario."
+          },
+          {
+            "level": 3,
+            "text": "The recruiting inflection point"
+          },
+          {
+            "level": 3,
+            "text": "The agent-native recruiter"
+          },
+          {
+            "level": 3,
+            "text": "See what better hiring looks like"
+          },
+          {
+            "level": 5,
+            "text": "How Listen Labs scaled their GTM function with Contrario"
+          },
+          {
+            "level": 5,
+            "text": "How Gallium hired 4 engineers in 15 days with Contrario"
+          },
+          {
+            "level": 5,
+            "text": "How Judgment Labs hired their Head of FDE with Contrario"
+          },
+          {
+            "level": 5,
+            "text": "How AfterQuery uses Contrario to hire across every core function"
+          },
+          {
+            "level": 5,
+            "text": "How Sphinx hired its founding GTM with Contrario"
+          },
+          {
+            "level": 2,
+            "text": "The future of hiring starts here"
+          }
+        ],
+        "og": {
+          "og:type": "website",
+          "og:title": "Better recruiting. Built on Contrario.",
+          "og:description": "Contrario is the AI Recruiting Platform powered by expert recruiters. Trusted by companies at every stage for their most critical hires.",
+          "og:image": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png",
+          "og:url": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Better recruiting. Built on Contrario.",
+          "twitter:description": "Contrario is the AI Recruiting Platform powered by expert recruiters. Trusted by companies at every stage for their most critical hires.",
+          "twitter:image": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png"
+        },
+        "favicons": [
+          "https://framerusercontent.com/images/IOVQOTSyIxjSYhpBBDWpVjku1M.png",
+          "https://framerusercontent.com/images/JvaObHbMQCjMHKrNYW24P2Ost7Q.png",
+          "https://framerusercontent.com/images/JJ40FzVKfcJfUEyMENxDGszsLUk.png"
+        ],
+        "imgCount": 9,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 9,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 1,
+        "headStyles": 0,
+        "headSyncScripts": 0,
+        "linkCount": 28,
+        "textSample": "Contrario launches after crossing $6M annualized revenue Solutions Features Customers Domains Resources Sign in Get a demo Back to blogs Better recruiting. Built on Contrario. Category Announcement Posted on May 20, 2026 In under six months, Contrario has crossed $6M in annualized revenue and paid out over $1M to an expert network of hundreds of recruiters. Today, 200+ of the fastest-growing companies, including unicorns like Slash and Wispr Flow, run their hiring on Contrario. We have never had more conviction in the opportunity ahead for Contrario, our recruiters, and our partners. Since day one, our goal has been the same: free recruiters and companies from the repetitive parts of hiring so they can focus on the uniquely human ones. As AI capabilities have expanded, so has our ambition for what recruiting can become. The recruiting inflection point For the last 15 years, recruiting tech got better, but never truly differentiated. From 2010 to 2025, most of the category built SaaS tools for recruiting teams: ATS products, outbound sourcing, and screening software. While each one made existing tasks faster, none fundamentally changed what recruiting looks like. That era is ending. What’s different now isn’t speed – it’s the ability to rely on memory and judgment. The next generation of software can match context, like why they are more likely to accept a certain profile. Or how a company should hire for a new role based on their previous decisions. Agents learn across many company workflows, including: Holding a company's hiring bar deeply enough to recognize shape of a fit Understanding how a candidate grows as a person over time Recognizing when a candidate from a past search is right for a new role The way recruiters work is also changing with agents. Repetitive admin work like sourcing, scheduling, and follow-ups still consumes more than 50% of a recruiter’s time. Agents automate that work away. And now, recruiters can spend time on what matters most: building relationships with people. We're already seeing the early signal of what this looks like. Roughly 30% of hires made on Contrario in the last two months had agents involved, and top recruiters are earning 3x more on our workflows. This is the beginning of a much larger shift in how hiring gets done, and Contrario is the platform behind it. The agent-native recruiter Recruiters in the agentic era look closer to a sports agent: managing high-value relationships and maximizing their candidate’s chances of success. Agents work on their behalf continuously in the background between meetings, during lunch breaks, and while they sleep. For companies, an intelligence layer forms underneath hiring. With every hiring decision, the system learns a company’s standards, patterns behind successful hires, and how quickly they need to move. By the 20th hire, the system understands an organization in ways only a long-tenured employee ever could. We are building toward a world where the pipeline never resets. Where candidates stay in motion across chapters of their career, with context intact. Where companies don’t reset with every new role, because a system already understands them. Where a recruiter walks into every conversation already prepared the way a great agent prepares for the most important meeting of their client's career. So, the next chapter of Contrario is about depth: richer context on every candidate, deeper understanding of every partner we serve, and agents that empower the best recruiters in the world. To every recruiter on our platform, every company that's trusted us with a critical hire, and every employee helping us build Contrario, thank you. Our goal remains simple: help everyone hire great talent faster. Recruiting is being rebuilt and we’re just getting started. Best, Arya & Aditya Contrario Co-Founders See what better hiring looks like View case studies Case Studies How Listen Labs scaled their GTM function with Contrario Case Studies How Gallium hired 4 engineers in 15 days with Contrario Case Studies How Judgment Labs hired their Head of FDE with Contrario Case Studies How AfterQuery uses Contrario to hire across every core function Case Studies How Sphinx hired its founding GTM with Contrario The future of hiring starts here Ready to hire great talent fast? Get started with Contrario. Get a demo SYSTEMS OPERATIONAL PRODUCT For companies For recruiters COMPANY Customers Blogs Careers Contact CONNECT Linkedin Twitter / X Product Hunt Refer a friend Privacy policy Terms of service FAQs © Contrario Inc. 2026 Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Privacy Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-styles-preset-1x3gwop"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.81 (foreground color: #757575, background color: #191919, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-1x3gwop\" data-styles-preset=\"bm_NlusXC\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.4)\">Systems Opera"
+            },
+            {
+              "target": [
+                ".framer-14x60el > .framer-styles-preset-fvwrdd[data-styles-preset=\"voWcFSdDz\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.71 (foreground color: #5e5e5e, background color: #191919, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-fvwrdd\" data-styles-preset=\"voWcFSdDz\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.3)\">PRODUCT</p>"
+            },
+            {
+              "target": [
+                ".framer-lkqd6m > .framer-styles-preset-fvwrdd[data-styles-preset=\"voWcFSdDz\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.71 (foreground color: #5e5e5e, background color: #191919, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-fvwrdd\" data-styles-preset=\"voWcFSdDz\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.3)\">Company</p>"
+            },
+            {
+              "target": [
+                ".framer-1xzthl0 > .framer-styles-preset-fvwrdd[data-styles-preset=\"voWcFSdDz\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.71 (foreground color: #5e5e5e, background color: #191919, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-fvwrdd\" data-styles-preset=\"voWcFSdDz\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.3)\">Connect</p>"
+            },
+            {
+              "target": [
+                ".framer-1gtt8s9 > .framer-styles-preset-5qg4v3[data-styles-preset=\"rT2WOoHvK\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.81 (foreground color: #757575, background color: #191919, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-5qg4v3\" data-styles-preset=\"rT2WOoHvK\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.4)\">© Contrario In"
+            }
+          ],
+          "count": 6
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "help": "Heading levels should only increase by one",
+          "description": "Ensure the order of headings is semantically correct",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"listenlabs\"] > .framer-1tssihu[data-framer-name=\"Heading\"][data-framer-component-type=\"RichTextContainer\"] > h5"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h5 class=\"framer-text framer-styles-preset-655db\" data-styles-preset=\"DZsxkLxmr\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--extra"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en\" data-redirect-timezone=\"1\" dir=\"ltr\" class=\"lenis lenis-smooth\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-auccsu"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-auccsu framer-u5ynwl\" href=\"../../\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-pamtkc"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-pamtkc framer-ijvfp9\" href=\"../../\">"
+            }
+          ],
+          "count": 2
+        },
+        {
+          "id": "page-has-heading-one",
+          "impact": "moderate",
+          "help": "Page should contain a level-one heading",
+          "description": "Ensure that the page, or at least one of its frames contains a level-one heading",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/page-has-heading-one?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Page must have a level-one heading",
+              "html": "<html lang=\"en\" data-redirect-timezone=\"1\" dir=\"ltr\" class=\"lenis lenis-smooth\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-yllbqb"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-yllbqb\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-9c7ac995-3115-4f26-a3db-87cdba2ae89b, rgb(255, "
+            },
+            {
+              "target": [
+                ".framer-v-11nc0nw[name=\"Solutions\"][data-framer-name=\"Dropdown\"] > .framer-hdevaa[data-framer-name=\"Link Text\"][data-framer-component-type=\"RichTextContainer\"]"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-hdevaa\" data-framer-name=\"Link Text\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-90ede304-880e-44e6"
+            },
+            {
+              "target": [
+                ".framer-v-11nc0nw[name=\"Features\"][data-framer-name=\"Dropdown\"] > .framer-hdevaa[data-framer-name=\"Link Text\"][data-framer-component-type=\"RichTextContainer\"]"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-hdevaa\" data-framer-name=\"Link Text\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-90ede304-880e-44e6"
+            },
+            {
+              "target": [
+                ".framer-41cbqc-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-41cbqc-container\" data-framer-name=\"Customers\" name=\"Customers\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-tm8dui-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-tm8dui-container\" data-framer-name=\"Domain\" name=\"Domain\" style=\"opacity: 1;\">"
+            }
+          ],
+          "count": 16
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 1
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+          "text": "Contrario launches after crossing $6M annualized revenue",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/customers",
+          "text": "Customers",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/domains",
+          "text": "Domains",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.co/",
+          "text": "Sign in",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/book-a-demo",
+          "text": "Get a demo",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs",
+          "text": "Back to blogs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/listenlabs",
+          "text": "Case StudiesHow Listen Labs scaled their GTM function with C",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/gallium",
+          "text": "Case StudiesHow Gallium hired 4 engineers in 15 days with Co",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/judgmentlabs",
+          "text": "Case StudiesHow Judgment Labs hired their Head of FDE with C",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/afterquery",
+          "text": "Case StudiesHow AfterQuery uses Contrario to hire across eve",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/sphinx",
+          "text": "Case StudiesHow Sphinx hired its founding GTM with Contrario",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/book-a-demo",
+          "text": "Get a demo",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/companies",
+          "text": "For companies",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/recruiters",
+          "text": "For recruiters",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/customers",
+          "text": "Customers",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs",
+          "text": "Blogs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/careers",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "mailto:support@contrario.ai",
+          "text": "Contact",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/contrario-ai/",
+          "text": "Linkedin",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/ContrarioAI",
+          "text": "Twitter / X",
+          "inNav": false
+        },
+        {
+          "href": "https://www.producthunt.com/products/contrario",
+          "text": "Product Hunt",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/referral",
+          "text": "Refer a friend",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/privacy-policy",
+          "text": "Privacy policy",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/terms-of-service",
+          "text": "Terms of service",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/faqs",
+          "text": "FAQs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/privacy-policy",
+          "text": "Privacy Policy",
+          "inNav": false
+        }
+      ]
+    },
+    "customers:/customers": {
+      "url": "https://www.contrario.ai/customers",
+      "kind": "customers",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/customers"
+      },
+      "meta": {
+        "title": "Customers",
+        "titleLen": 9,
+        "metaDescription": "See real hiring outcomes from teams using Contrario.",
+        "canonical": "https://www.contrario.ai/customers",
+        "robotsMeta": "max-image-preview:large",
+        "viewportMeta": "width=device-width",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "Customer Stories",
+          "10+",
+          "90+ days",
+          "5 tools",
+          "100%",
+          "20+ hrs/week",
+          "4 days",
+          "80%",
+          "45 days",
+          "40%",
+          "100+ hours",
+          "4 engineers",
+          "50%"
+        ],
+        "h1Count": 13,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Customer Stories"
+          },
+          {
+            "level": 3,
+            "text": "How AfterQuery uses Contrario to hire across every core function"
+          },
+          {
+            "level": 3,
+            "text": "“We’ve tested 50+ recruiting channels and only hired from 2. Contrario was one o"
+          },
+          {
+            "level": 2,
+            "text": "Smarter hiring runs on Contrario"
+          },
+          {
+            "level": 1,
+            "text": "10+"
+          },
+          {
+            "level": 1,
+            "text": "90+ days"
+          },
+          {
+            "level": 1,
+            "text": "5 tools"
+          },
+          {
+            "level": 1,
+            "text": "100%"
+          },
+          {
+            "level": 1,
+            "text": "20+ hrs/week"
+          },
+          {
+            "level": 1,
+            "text": "4 days"
+          },
+          {
+            "level": 1,
+            "text": "80%"
+          },
+          {
+            "level": 1,
+            "text": "45 days"
+          },
+          {
+            "level": 1,
+            "text": "40%"
+          },
+          {
+            "level": 1,
+            "text": "100+ hours"
+          },
+          {
+            "level": 1,
+            "text": "4 engineers"
+          },
+          {
+            "level": 1,
+            "text": "50%"
+          },
+          {
+            "level": 3,
+            "text": "See what better hiring looks like"
+          },
+          {
+            "level": 5,
+            "text": "How Listen Labs scaled their GTM function with Contrario"
+          },
+          {
+            "level": 5,
+            "text": "How Gallium hired 4 engineers in 15 days with Contrario"
+          },
+          {
+            "level": 5,
+            "text": "How Judgment Labs hired their Head of FDE with Contrario"
+          },
+          {
+            "level": 5,
+            "text": "How AfterQuery uses Contrario to hire across every core function"
+          },
+          {
+            "level": 5,
+            "text": "How Sphinx hired its founding GTM with Contrario"
+          },
+          {
+            "level": 2,
+            "text": "The future of hiring starts here"
+          }
+        ],
+        "og": {
+          "og:type": "website",
+          "og:title": "Customers",
+          "og:description": "See real hiring outcomes from teams using Contrario.",
+          "og:image": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png",
+          "og:url": "https://www.contrario.ai/customers"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Customers",
+          "twitter:description": "See real hiring outcomes from teams using Contrario.",
+          "twitter:image": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png"
+        },
+        "favicons": [
+          "https://framerusercontent.com/images/IOVQOTSyIxjSYhpBBDWpVjku1M.png",
+          "https://framerusercontent.com/images/JvaObHbMQCjMHKrNYW24P2Ost7Q.png",
+          "https://framerusercontent.com/images/JJ40FzVKfcJfUEyMENxDGszsLUk.png"
+        ],
+        "imgCount": 72,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 72,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 1,
+        "headStyles": 0,
+        "headSyncScripts": 0,
+        "linkCount": 65,
+        "textSample": "Contrario launches after crossing $6M annualized revenue Solutions Features Customers Domains Resources Sign in Get a demo Customer Stories 250+ companies hire faster, close better candidates, and scale hiring on Contrario. How AfterQuery uses Contrario to hire across every core function How Sphinx hired its founding GTM with Contrario How Listen Labs scaled their GTM function with Contrario How Gallium made 4 engineering hires in 15 days with Contrario “We’ve tested 50+ recruiting channels and only hired from 2. Contrario was one of them.” Tanay Kothari Founder & CEO, Wispr Flow Smarter hiring runs on Contrario Visionary startups and industry leaders use Contrario to hire stronger teams faster. 10+ roles synced through Slack automatically 90+ days saved on VP Engineering search 5 tools replaced by Contrario’s all-in-one hiring workflow 100% retention on hires made through Contrario 20+ hrs/week saved with AI-powered sourcing and recruiter coordination 4 days to make a senior engineering hire 80% interview rate on Contrario-sourced candidates 45 days saved across GTM and AE hiring 40% less time spent reviewing inbound applicants 100+ hours saved on sourcing and candidate coordination 4 engineers hired in 15 days through Contrario 50% less time spent on recruiter screening and coordination See what better hiring looks like View case studies Case Studies How Listen Labs scaled their GTM function with Contrario Case Studies How Gallium hired 4 engineers in 15 days with Contrario Case Studies How Judgment Labs hired their Head of FDE with Contrario Case Studies How AfterQuery uses Contrario to hire across every core function Case Studies How Sphinx hired its founding GTM with Contrario The future of hiring starts here Ready to hire great talent fast? Get started with Contrario. Get a demo SYSTEMS OPERATIONAL PRODUCT For companies For recruiters COMPANY Customers Blogs Careers Contact CONNECT Linkedin Twitter / X Product Hunt Refer a friend Privacy policy Terms of service FAQs © Contrario Inc. 2026 Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Privacy Policy."
+      },
+      "axe": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "help": "ARIA hidden element must not be focusable or contain focusable elements",
+          "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/aria-hidden-focus?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "li[aria-hidden=\"true\"]:nth-child(12)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            },
+            {
+              "target": [
+                "li[aria-hidden=\"true\"]:nth-child(13)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            },
+            {
+              "target": [
+                "li[aria-hidden=\"true\"]:nth-child(14)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            },
+            {
+              "target": [
+                "li[aria-hidden=\"true\"]:nth-child(15)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            },
+            {
+              "target": [
+                "li[aria-hidden=\"true\"]:nth-child(16)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            }
+          ],
+          "count": 22
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-styles-preset-1x3gwop"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.81 (foreground color: #757575, background color: #191919, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-1x3gwop\" data-styles-preset=\"bm_NlusXC\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.4)\">Systems Opera"
+            },
+            {
+              "target": [
+                ".framer-14x60el > .framer-styles-preset-fvwrdd[data-styles-preset=\"voWcFSdDz\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.71 (foreground color: #5e5e5e, background color: #191919, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-fvwrdd\" data-styles-preset=\"voWcFSdDz\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.3)\">PRODUCT</p>"
+            },
+            {
+              "target": [
+                ".framer-lkqd6m > .framer-styles-preset-fvwrdd[data-styles-preset=\"voWcFSdDz\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.71 (foreground color: #5e5e5e, background color: #191919, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-fvwrdd\" data-styles-preset=\"voWcFSdDz\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.3)\">Company</p>"
+            },
+            {
+              "target": [
+                ".framer-1xzthl0 > .framer-styles-preset-fvwrdd[data-styles-preset=\"voWcFSdDz\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.71 (foreground color: #5e5e5e, background color: #191919, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-fvwrdd\" data-styles-preset=\"voWcFSdDz\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.3)\">Connect</p>"
+            },
+            {
+              "target": [
+                ".framer-1gtt8s9 > .framer-styles-preset-5qg4v3[data-styles-preset=\"rT2WOoHvK\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.81 (foreground color: #757575, background color: #191919, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-5qg4v3\" data-styles-preset=\"rT2WOoHvK\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.4)\">© Contrario In"
+            }
+          ],
+          "count": 6
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "help": "Heading levels should only increase by one",
+          "description": "Ensure the order of headings is semantically correct",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1w3dv94 > .framer-styles-preset-y453qg[data-styles-preset=\"hTwHz3uZR\"]"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h3 class=\"framer-text framer-styles-preset-y453qg\" data-styles-preset=\"hTwHz3uZR\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--toke"
+            },
+            {
+              "target": [
+                ".framer-ej8oun > .framer-styles-preset-y453qg[data-styles-preset=\"hTwHz3uZR\"]"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h3 class=\"framer-text framer-styles-preset-y453qg\" data-styles-preset=\"hTwHz3uZR\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--toke"
+            },
+            {
+              "target": [
+                ".ssr-variant:nth-child(1) > .framer-z41hn7-container > .framer-95b4L.framer-M3nSH.framer-ytnhn8 > .framer-1tssihu[data-framer-name=\"Heading\"][data-framer-component-type=\"RichTextContainer\"] > h5"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h5 class=\"framer-text framer-styles-preset-655db\" data-styles-preset=\"DZsxkLxmr\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--extra"
+            }
+          ],
+          "count": 3
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en\" data-redirect-timezone=\"1\" dir=\"ltr\" class=\"lenis lenis-smooth\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-auccsu"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-auccsu framer-u5ynwl\" href=\"./\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                "li:nth-child(1) > .framer-151m818[data-framer-name=\"Sieve\"][href$=\"sievedata.com/\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-151m818 framer-rgq2j3\" data-framer-name=\"Sieve\" href=\"https://www.sievedata.com/\" target=\"_blank\" rel=\"noopener\" style=\"flex-shrink:0\">"
+            },
+            {
+              "target": [
+                "li:nth-child(2) > .framer-jdjigo[data-framer-name=\"After Query\"][href$=\"afterquery.com/\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-jdjigo framer-rgq2j3\" data-framer-name=\"After Query\" href=\"https://www.afterquery.com/\" target=\"_blank\" rel=\"noopener\" style=\"opacity:0."
+            },
+            {
+              "target": [
+                "li:nth-child(3) > .framer-1p9us0h[data-framer-name=\"Wisprflow\"][href$=\"wisprflow.ai/\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-1p9us0h framer-rgq2j3\" data-framer-name=\"Wisprflow\" href=\"https://wisprflow.ai/\" target=\"_blank\" rel=\"noopener\" style=\"flex-shrink:0\">"
+            },
+            {
+              "target": [
+                "li:nth-child(4) > .framer-11hjltu[href$=\"listenlabs.ai/\"][data-framer-name=\"Listenlabs\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-11hjltu framer-rgq2j3\" data-framer-name=\"Listenlabs\" href=\"https://listenlabs.ai/\" target=\"_blank\" rel=\"noopener\" style=\"opacity:0.6;fle"
+            }
+          ],
+          "count": 13
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-yllbqb"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-yllbqb\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-9c7ac995-3115-4f26-a3db-87cdba2ae89b, rgb(255, "
+            },
+            {
+              "target": [
+                ".framer-v-11nc0nw[name=\"Solutions\"][data-framer-name=\"Dropdown\"] > .framer-hdevaa[data-framer-name=\"Link Text\"][data-framer-component-type=\"RichTextContainer\"]"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-hdevaa\" data-framer-name=\"Link Text\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-90ede304-880e-44e6"
+            },
+            {
+              "target": [
+                ".framer-v-11nc0nw[name=\"Features\"][data-framer-name=\"Dropdown\"] > .framer-hdevaa[data-framer-name=\"Link Text\"][data-framer-component-type=\"RichTextContainer\"]"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-hdevaa\" data-framer-name=\"Link Text\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-90ede304-880e-44e6"
+            },
+            {
+              "target": [
+                ".framer-41cbqc-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-41cbqc-container\" data-framer-name=\"Customers\" name=\"Customers\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-tm8dui-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-tm8dui-container\" data-framer-name=\"Domain\" name=\"Domain\" style=\"opacity: 1;\">"
+            }
+          ],
+          "count": 15
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 1
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+          "text": "Contrario launches after crossing $6M annualized revenue",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/customers",
+          "text": "Customers",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/domains",
+          "text": "Domains",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.co/",
+          "text": "Sign in",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/book-a-demo",
+          "text": "Get a demo",
+          "inNav": false
+        },
+        {
+          "href": "https://www.sievedata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.afterquery.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://wisprflow.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://listenlabs.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://slash.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://crustdata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.maximor.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.getauctor.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://sphinxhq.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://tryfuse.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://workweave.dev/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.sievedata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.afterquery.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://wisprflow.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://listenlabs.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://slash.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://crustdata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.maximor.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.getauctor.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://sphinxhq.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://tryfuse.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://workweave.dev/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.sievedata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.afterquery.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://wisprflow.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://listenlabs.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://slash.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://crustdata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.maximor.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.getauctor.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://sphinxhq.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://tryfuse.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://workweave.dev/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/afterquery",
+          "text": "How AfterQuery uses Contrario to hire across every core func",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/sphinx",
+          "text": "How Sphinx hired its founding GTM with Contrario",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/listenlabs",
+          "text": "How Listen Labs scaled their GTM function with Contrario",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/gallium",
+          "text": "How Gallium made 4 engineering hires in 15 days with Contrar",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs",
+          "text": "View case studies",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/listenlabs",
+          "text": "Case StudiesHow Listen Labs scaled their GTM function with C",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/gallium",
+          "text": "Case StudiesHow Gallium hired 4 engineers in 15 days with Co",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/judgmentlabs",
+          "text": "Case StudiesHow Judgment Labs hired their Head of FDE with C",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/afterquery",
+          "text": "Case StudiesHow AfterQuery uses Contrario to hire across eve",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/sphinx",
+          "text": "Case StudiesHow Sphinx hired its founding GTM with Contrario",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/book-a-demo",
+          "text": "Get a demo",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/companies",
+          "text": "For companies",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/recruiters",
+          "text": "For recruiters",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/customers",
+          "text": "Customers",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs",
+          "text": "Blogs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/careers",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "mailto:support@contrario.ai",
+          "text": "Contact",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/contrario-ai/",
+          "text": "Linkedin",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/ContrarioAI",
+          "text": "Twitter / X",
+          "inNav": false
+        },
+        {
+          "href": "https://www.producthunt.com/products/contrario",
+          "text": "Product Hunt",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/referral",
+          "text": "Refer a friend",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/privacy-policy",
+          "text": "Privacy policy",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/terms-of-service",
+          "text": "Terms of service",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/faqs",
+          "text": "FAQs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/privacy-policy",
+          "text": "Privacy Policy",
+          "inNav": false
+        }
+      ]
+    },
+    "demo:/book-a-demo": {
+      "url": "https://www.contrario.ai/book-a-demo",
+      "kind": "demo",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/book-a-demo"
+      },
+      "meta": {
+        "title": "Book a Demo",
+        "titleLen": 11,
+        "metaDescription": "Book a quick demo and see how Contrario speeds up hiring.",
+        "canonical": "https://www.contrario.ai/book-a-demo",
+        "robotsMeta": "max-image-preview:large",
+        "viewportMeta": "width=device-width",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [],
+        "h1Count": 0,
+        "headings": [
+          {
+            "level": 2,
+            "text": "Transform your hiring with top talent"
+          },
+          {
+            "level": 4,
+            "text": "High-quality candidates"
+          },
+          {
+            "level": 4,
+            "text": "Faster time-to-hire"
+          },
+          {
+            "level": 4,
+            "text": "Trusted results at scale"
+          },
+          {
+            "level": 4,
+            "text": "Hire great talent faster"
+          }
+        ],
+        "og": {
+          "og:type": "website",
+          "og:title": "Book a Demo",
+          "og:description": "Book a quick demo and see how Contrario speeds up hiring.",
+          "og:image": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png",
+          "og:url": "https://www.contrario.ai/book-a-demo"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Book a Demo",
+          "twitter:description": "Book a quick demo and see how Contrario speeds up hiring.",
+          "twitter:image": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png"
+        },
+        "favicons": [
+          "https://framerusercontent.com/images/IOVQOTSyIxjSYhpBBDWpVjku1M.png",
+          "https://framerusercontent.com/images/JvaObHbMQCjMHKrNYW24P2Ost7Q.png",
+          "https://framerusercontent.com/images/JJ40FzVKfcJfUEyMENxDGszsLUk.png"
+        ],
+        "imgCount": 35,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 35,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 1,
+        "headStyles": 0,
+        "headSyncScripts": 0,
+        "linkCount": 50,
+        "textSample": "Get a demo Transform your hiring with top talent Waiting to find your next candidate? Your competition already hired 5 new people. High-quality candidates Our recruiter network and software surface only the strongest, fully-vetted talent on the market. Faster time-to-hire See candidates quickly and close roles faster with built-in scheduling tools, ATS integrations, and Slack workflows. Trusted results at scale Even as you grow, get the same white-glove support you would expect from an in-house recruiter. Know someone hiring? Refer them to Contrario. Companies Recruiters Hire great talent faster EMAIL FIRST NAME LAST NAME COMPANY NAME COMPANY STAGE Select... Bootstrapped Pre-Seed Seed Series A Growth (Series B/C) Scale (Series D+) Venture Capital Firm Others HOW DID YOU HEAR ABOUT US? Select... LinkedIn Twitter Word-of-mouth Referral VC Deal (YC, Nexus) Chat GPT internet search Product Hunt Other HIRING NEEDS Get a demo SYSTEMS OPERATIONAL PRODUCT For companies For recruiters COMPANY Customers Blogs Careers Contact CONNECT Linkedin Twitter / X Product Hunt Refer a friend Privacy policy Terms of service FAQs © Contrario Inc. 2026 Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Privacy Policy."
+      },
+      "axe": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "help": "ARIA hidden element must not be focusable or contain focusable elements",
+          "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/aria-hidden-focus?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "li:nth-child(12)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            },
+            {
+              "target": [
+                "li:nth-child(13)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            },
+            {
+              "target": [
+                "li:nth-child(14)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            },
+            {
+              "target": [
+                "li:nth-child(15)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            },
+            {
+              "target": [
+                "li:nth-child(16)"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM",
+              "html": "<li aria-hidden=\"true\" style=\"will-change: transform;\">"
+            }
+          ],
+          "count": 22
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "select[name=\"Funding Size\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.51 (foreground color: #9da0a6, background color: #fafafa, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<select name=\"Funding Size\" required=\"\" class=\"framer-form-input\">"
+            },
+            {
+              "target": [
+                "select[name=\"How did you hear about us?\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.51 (foreground color: #9da0a6, background color: #fafafa, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<select name=\"How did you hear about us?\" required=\"\" class=\"framer-form-input\">"
+            },
+            {
+              "target": [
+                ".framer-styles-preset-1x3gwop"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.81 (foreground color: #757575, background color: #191919, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-1x3gwop\" data-styles-preset=\"bm_NlusXC\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.4)\">Systems Opera"
+            },
+            {
+              "target": [
+                ".framer-14x60el > .framer-styles-preset-fvwrdd[data-styles-preset=\"voWcFSdDz\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.71 (foreground color: #5e5e5e, background color: #191919, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-fvwrdd\" data-styles-preset=\"voWcFSdDz\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.3)\">PRODUCT</p>"
+            },
+            {
+              "target": [
+                ".framer-lkqd6m > .framer-styles-preset-fvwrdd[data-styles-preset=\"voWcFSdDz\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.71 (foreground color: #5e5e5e, background color: #191919, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-fvwrdd\" data-styles-preset=\"voWcFSdDz\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.3)\">Company</p>"
+            }
+          ],
+          "count": 8
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "help": "Heading levels should only increase by one",
+          "description": "Ensure the order of headings is semantically correct",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-syf8d6 > h4"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h4 class=\"framer-text framer-styles-preset-1hp8f52\" data-styles-preset=\"bw9ysOZkE\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--ext"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en\" data-redirect-timezone=\"1\" dir=\"ltr\" class=\"lenis lenis-smooth\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-auccsu"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-auccsu framer-u5ynwl\" href=\"./\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                "li:nth-child(1) > .framer-15xbc7q[data-framer-name=\"sieve\"][href$=\"sievedata.com/\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-15xbc7q framer-vyyn4z\" data-framer-name=\"sieve\" href=\"https://www.sievedata.com/\" target=\"_blank\" rel=\"noopener\" style=\"flex-shrink:0\">"
+            },
+            {
+              "target": [
+                "li:nth-child(2) > .framer-12llonh[data-framer-name=\"After Query\"][href$=\"afterquery.com/\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-12llonh framer-vyyn4z\" data-framer-name=\"After Query\" href=\"https://www.afterquery.com/\" target=\"_blank\" rel=\"noopener\" style=\"opacity:0"
+            },
+            {
+              "target": [
+                "li:nth-child(3) > .framer-r5hy08[data-framer-name=\"wflow\"][href$=\"wisprflow.ai/\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-r5hy08 framer-vyyn4z\" data-framer-name=\"wflow\" href=\"https://wisprflow.ai/\" target=\"_blank\" rel=\"noopener\" style=\"flex-shrink:0\">"
+            },
+            {
+              "target": [
+                "li:nth-child(4) > .framer-1y0drdz[data-framer-name=\"Listenlabs\"][href$=\"listenlabs.ai/\"]"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a as=\"a\" class=\"framer-1y0drdz framer-vyyn4z\" data-framer-name=\"Listenlabs\" href=\"https://listenlabs.ai/\" target=\"_blank\" rel=\"noopener\" style=\"opacity:0.6;fle"
+            }
+          ],
+          "count": 13
+        },
+        {
+          "id": "page-has-heading-one",
+          "impact": "moderate",
+          "help": "Page should contain a level-one heading",
+          "description": "Ensure that the page, or at least one of its frames contains a level-one heading",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/page-has-heading-one?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Page must have a level-one heading",
+              "html": "<html lang=\"en\" data-redirect-timezone=\"1\" dir=\"ltr\" class=\"lenis lenis-smooth\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1fpo43c"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-1fpo43c\" data-framer-name=\"Demo Info\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-68qz9v"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-68qz9v\" data-framer-name=\"Feature Content\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-dnhowg"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-dnhowg\" data-framer-name=\"Feature Content\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-1d19d7k"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-1d19d7k\" data-framer-name=\"Feature Content\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-bvi3r7"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-bvi3r7\" data-framer-name=\"Demo Header\" style=\"opacity: 1;\">"
+            }
+          ],
+          "count": 15
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 8
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.contrario.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/referral",
+          "text": "Refer them to Contrario.",
+          "inNav": false
+        },
+        {
+          "href": "https://www.sievedata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.afterquery.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://wisprflow.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://listenlabs.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://slash.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://crustdata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.getauctor.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.maximor.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://sphinxhq.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://tryfuse.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://workweave.dev/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.sievedata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.afterquery.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://wisprflow.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://listenlabs.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://slash.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://crustdata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.getauctor.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.maximor.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://sphinxhq.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://tryfuse.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://workweave.dev/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.sievedata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.afterquery.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://wisprflow.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://listenlabs.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://slash.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://crustdata.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.getauctor.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.maximor.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://sphinxhq.com/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://tryfuse.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://workweave.dev/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/companies",
+          "text": "For companies",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/recruiters",
+          "text": "For recruiters",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/customers",
+          "text": "Customers",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs",
+          "text": "Blogs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/careers",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "mailto:support@contrario.ai",
+          "text": "Contact",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/contrario-ai/",
+          "text": "Linkedin",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/ContrarioAI",
+          "text": "Twitter / X",
+          "inNav": false
+        },
+        {
+          "href": "https://www.producthunt.com/products/contrario",
+          "text": "Product Hunt",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/referral",
+          "text": "Refer a friend",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/privacy-policy",
+          "text": "Privacy policy",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/terms-of-service",
+          "text": "Terms of service",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/faqs",
+          "text": "FAQs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/privacy-policy",
+          "text": "Privacy Policy",
+          "inNav": false
+        }
+      ]
+    },
+    "blog:/blogs": {
+      "url": "https://www.contrario.ai/blogs",
+      "kind": "blog",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/blogs"
+      },
+      "meta": {
+        "title": "Blogs",
+        "titleLen": 5,
+        "metaDescription": "Contrario is the AI Recruiting Platform powered by expert recruiters. Trusted by companies at every stage for their most critical hires.",
+        "canonical": "https://www.contrario.ai/blogs",
+        "robotsMeta": "max-image-preview:large",
+        "viewportMeta": "width=device-width",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "Blogs"
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Blogs"
+          },
+          {
+            "level": 3,
+            "text": "Better Recruiting. Built on Contrario."
+          },
+          {
+            "level": 3,
+            "text": "Blogs"
+          },
+          {
+            "level": 5,
+            "text": "Better Recruiting. Built on Contrario."
+          },
+          {
+            "level": 5,
+            "text": "Contrario launches: The case for pairing AI agents with human recruiters instead"
+          },
+          {
+            "level": 5,
+            "text": "How Listen Labs scaled their GTM function with Contrario"
+          },
+          {
+            "level": 5,
+            "text": "How Gallium hired 4 engineers in 15 days with Contrario"
+          },
+          {
+            "level": 5,
+            "text": "How Judgment Labs hired their Head of FDE with Contrario"
+          },
+          {
+            "level": 5,
+            "text": "How Sphinx hired its founding GTM with Contrario"
+          },
+          {
+            "level": 5,
+            "text": "How AfterQuery uses Contrario to hire across every core function"
+          },
+          {
+            "level": 2,
+            "text": "The future of hiring starts here"
+          }
+        ],
+        "og": {
+          "og:type": "website",
+          "og:title": "Blogs",
+          "og:description": "Contrario is the AI Recruiting Platform powered by expert recruiters. Trusted by companies at every stage for their most critical hires.",
+          "og:image": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png",
+          "og:url": "https://www.contrario.ai/blogs"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Blogs",
+          "twitter:description": "Contrario is the AI Recruiting Platform powered by expert recruiters. Trusted by companies at every stage for their most critical hires.",
+          "twitter:image": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png"
+        },
+        "favicons": [
+          "https://framerusercontent.com/images/IOVQOTSyIxjSYhpBBDWpVjku1M.png",
+          "https://framerusercontent.com/images/JvaObHbMQCjMHKrNYW24P2Ost7Q.png",
+          "https://framerusercontent.com/images/JJ40FzVKfcJfUEyMENxDGszsLUk.png"
+        ],
+        "imgCount": 10,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 10,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 1,
+        "headStyles": 0,
+        "headSyncScripts": 0,
+        "linkCount": 30,
+        "textSample": "Contrario launches after crossing $6M annualized revenue Solutions Features Customers Domains Resources Sign in Get a demo Blogs Stay up to date with announcements, customer wins, case studies, and product updates at Contrario. Announcements Better Recruiting. Built on Contrario. In under six months, Contrario has crossed $6M in annualized revenue and paid out over $1M to an expert network of hundreds of recruiters. Today, 200+ of the fastest-growing companies, including unicorns like Slash and Wispr Flow, run their hiring on Contrario. Posted on May 20, 2026 Blogs All Case Studies Announcements Announcements Better Recruiting. Built on Contrario. Announcements Contrario launches: The case for pairing AI agents with human recruiters instead of replacing them Case Studies How Listen Labs scaled their GTM function with Contrario Case Studies How Gallium hired 4 engineers in 15 days with Contrario Case Studies How Judgment Labs hired their Head of FDE with Contrario Case Studies How Sphinx hired its founding GTM with Contrario Case Studies How AfterQuery uses Contrario to hire across every core function The future of hiring starts here Ready to hire great talent fast? Get started with Contrario. Get a demo SYSTEMS OPERATIONAL PRODUCT For companies For recruiters COMPANY Customers Blogs Careers Contact CONNECT Linkedin Twitter / X Product Hunt Refer a friend Privacy policy Terms of service FAQs © Contrario Inc. 2026 Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Privacy Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-styles-preset-1x3gwop"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.81 (foreground color: #757575, background color: #191919, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-1x3gwop\" data-styles-preset=\"bm_NlusXC\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.4)\">Systems Opera"
+            },
+            {
+              "target": [
+                ".framer-14x60el > .framer-styles-preset-fvwrdd[data-styles-preset=\"voWcFSdDz\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.71 (foreground color: #5e5e5e, background color: #191919, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-fvwrdd\" data-styles-preset=\"voWcFSdDz\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.3)\">PRODUCT</p>"
+            },
+            {
+              "target": [
+                ".framer-lkqd6m > .framer-styles-preset-fvwrdd[data-styles-preset=\"voWcFSdDz\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.71 (foreground color: #5e5e5e, background color: #191919, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-fvwrdd\" data-styles-preset=\"voWcFSdDz\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.3)\">Company</p>"
+            },
+            {
+              "target": [
+                ".framer-1xzthl0 > .framer-styles-preset-fvwrdd[data-styles-preset=\"voWcFSdDz\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.71 (foreground color: #5e5e5e, background color: #191919, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-fvwrdd\" data-styles-preset=\"voWcFSdDz\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.3)\">Connect</p>"
+            },
+            {
+              "target": [
+                ".framer-1gtt8s9 > .framer-styles-preset-5qg4v3[data-styles-preset=\"rT2WOoHvK\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.81 (foreground color: #757575, background color: #191919, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-5qg4v3\" data-styles-preset=\"rT2WOoHvK\" dir=\"auto\" style=\"--framer-text-color:rgba(255, 255, 255, 0.4)\">© Contrario In"
+            }
+          ],
+          "count": 6
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "help": "Heading levels should only increase by one",
+          "description": "Ensure the order of headings is semantically correct",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1qy6xh5 > h3"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h3 class=\"framer-text framer-styles-preset-y453qg\" data-styles-preset=\"hTwHz3uZR\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--toke"
+            },
+            {
+              "target": [
+                ".ssr-variant:nth-child(1) > .framer-1twnvms-container > .framer-95b4L.framer-M3nSH.framer-ytnhn8 > .framer-1tssihu[data-framer-name=\"Heading\"][data-framer-component-type=\"RichTextContainer\"] > h5"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h5 class=\"framer-text framer-styles-preset-655db\" data-styles-preset=\"DZsxkLxmr\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--extra"
+            }
+          ],
+          "count": 2
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en\" data-redirect-timezone=\"1\" dir=\"ltr\" class=\"lenis lenis-smooth\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-auccsu"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-auccsu framer-u5ynwl\" href=\"./\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-pamtkc"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-pamtkc framer-ijvfp9\" href=\"./\">"
+            }
+          ],
+          "count": 2
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-yllbqb"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-yllbqb\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-9c7ac995-3115-4f26-a3db-87cdba2ae89b, rgb(255, "
+            },
+            {
+              "target": [
+                ".framer-v-11nc0nw[name=\"Solutions\"][data-framer-name=\"Dropdown\"] > .framer-hdevaa[data-framer-name=\"Link Text\"][data-framer-component-type=\"RichTextContainer\"]"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-hdevaa\" data-framer-name=\"Link Text\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-90ede304-880e-44e6"
+            },
+            {
+              "target": [
+                ".framer-v-11nc0nw[name=\"Features\"][data-framer-name=\"Dropdown\"] > .framer-hdevaa[data-framer-name=\"Link Text\"][data-framer-component-type=\"RichTextContainer\"]"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-hdevaa\" data-framer-name=\"Link Text\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-90ede304-880e-44e6"
+            },
+            {
+              "target": [
+                ".framer-41cbqc-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-41cbqc-container\" data-framer-name=\"Customers\" name=\"Customers\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-tm8dui-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-tm8dui-container\" data-framer-name=\"Domain\" name=\"Domain\" style=\"opacity: 1;\">"
+            }
+          ],
+          "count": 11
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 1
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+          "text": "Contrario launches after crossing $6M annualized revenue",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/customers",
+          "text": "Customers",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/domains",
+          "text": "Domains",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.co/",
+          "text": "Sign in",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/book-a-demo",
+          "text": "Get a demo",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+          "text": "AnnouncementsBetter Recruiting. Built on Contrario.In under ",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+          "text": "AnnouncementsBetter Recruiting. Built on Contrario.",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/announcement/contrario-launches-the-case-for-pairing-ai-agents-with-human-recruiters-instead-of-replacing-them",
+          "text": "AnnouncementsContrario launches: The case for pairing AI age",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/listenlabs",
+          "text": "Case StudiesHow Listen Labs scaled their GTM function with C",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/gallium",
+          "text": "Case StudiesHow Gallium hired 4 engineers in 15 days with Co",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/judgmentlabs",
+          "text": "Case StudiesHow Judgment Labs hired their Head of FDE with C",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/sphinx",
+          "text": "Case StudiesHow Sphinx hired its founding GTM with Contrario",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs/case-studies/afterquery",
+          "text": "Case StudiesHow AfterQuery uses Contrario to hire across eve",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/book-a-demo",
+          "text": "Get a demo",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/companies",
+          "text": "For companies",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/recruiters",
+          "text": "For recruiters",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/customers",
+          "text": "Customers",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs",
+          "text": "Blogs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/careers",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "mailto:support@contrario.ai",
+          "text": "Contact",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/contrario-ai/",
+          "text": "Linkedin",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/ContrarioAI",
+          "text": "Twitter / X",
+          "inNav": false
+        },
+        {
+          "href": "https://www.producthunt.com/products/contrario",
+          "text": "Product Hunt",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/referral",
+          "text": "Refer a friend",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/privacy-policy",
+          "text": "Privacy policy",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/terms-of-service",
+          "text": "Terms of service",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/faqs",
+          "text": "FAQs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/privacy-policy",
+          "text": "Privacy Policy",
+          "inNav": false
+        }
+      ]
+    },
+    "careers:/careers": {
+      "url": "https://www.contrario.ai/careers",
+      "kind": "careers",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.contrario.ai/careers"
+      },
+      "meta": {
+        "title": "Careers",
+        "titleLen": 7,
+        "metaDescription": "Join Contrario and help reinvent hiring with AI + humans.\n",
+        "canonical": "https://www.contrario.ai/careers",
+        "robotsMeta": "max-image-preview:large",
+        "viewportMeta": "width=device-width",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "Shape the future of hiring"
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "Shape the future of hiring"
+          },
+          {
+            "level": 2,
+            "text": "Our founding story"
+          },
+          {
+            "level": 4,
+            "text": "Arya Marwaha"
+          },
+          {
+            "level": 4,
+            "text": "Aditya Sood"
+          },
+          {
+            "level": 2,
+            "text": "Life at Contrario"
+          },
+          {
+            "level": 4,
+            "text": "OUR VALUES"
+          },
+          {
+            "level": 3,
+            "text": "01 Be customer obsessed"
+          },
+          {
+            "level": 3,
+            "text": "02 Low ego and high effort"
+          },
+          {
+            "level": 3,
+            "text": "03 Feedback fuels growth"
+          },
+          {
+            "level": 3,
+            "text": "04 Build as a team"
+          },
+          {
+            "level": 2,
+            "text": "Backed by the best"
+          },
+          {
+            "level": 2,
+            "text": "In the press"
+          },
+          {
+            "level": 2,
+            "text": "Company benefits"
+          },
+          {
+            "level": 4,
+            "text": "Premium healthcare & 401k"
+          },
+          {
+            "level": 4,
+            "text": "Competitive compensation"
+          },
+          {
+            "level": 4,
+            "text": "Bi-annual company offsites"
+          },
+          {
+            "level": 4,
+            "text": "Free lunches and dinners"
+          },
+          {
+            "level": 4,
+            "text": "Gym stipend"
+          },
+          {
+            "level": 4,
+            "text": "Flexible PTO"
+          },
+          {
+            "level": 2,
+            "text": "Open roles"
+          },
+          {
+            "level": 4,
+            "text": "Applied AI Engineer"
+          },
+          {
+            "level": 4,
+            "text": "Talent Operator"
+          },
+          {
+            "level": 4,
+            "text": "Founding GTM"
+          },
+          {
+            "level": 2,
+            "text": "The future of hiring starts here"
+          }
+        ],
+        "og": {
+          "og:type": "website",
+          "og:title": "Careers",
+          "og:description": "Join Contrario and help reinvent hiring with AI + humans.\n",
+          "og:image": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png",
+          "og:url": "https://www.contrario.ai/careers"
+        },
+        "twitter": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Careers",
+          "twitter:description": "Join Contrario and help reinvent hiring with AI + humans.\n",
+          "twitter:image": "https://framerusercontent.com/images/5SPUNtuw0b5nzTfvgmJLL3KWV4.png"
+        },
+        "favicons": [
+          "https://framerusercontent.com/images/IOVQOTSyIxjSYhpBBDWpVjku1M.png",
+          "https://framerusercontent.com/images/JvaObHbMQCjMHKrNYW24P2Ost7Q.png",
+          "https://framerusercontent.com/images/JJ40FzVKfcJfUEyMENxDGszsLUk.png"
+        ],
+        "imgCount": 30,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 30,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 1,
+        "headStyles": 0,
+        "headSyncScripts": 0,
+        "linkCount": 43,
+        "textSample": "Contrario launches after crossing $6M annualized revenue Solutions Features Customers Domains Resources Sign in Get a demo Shape the future of hiring See open positions Our founding story HQ San Francisco, CA We’re Arya and Aditya, co-founders of Contrario. We started after becoming recruiters ourselves and feeling the pain firsthand. Our early placements ran on WhatsApp threads, emailed PDFs, and messy spreadsheets. We kept asking a simple question: why is recruiting still so manual? Contrario grew out of that frustration: a platform where recruiters can do their best work, supported by modern software and AI tools that improve placement rates and help companies hire faster. Arya Marwaha CEO & Co-Founder Stanford BS (left MS early). Previously built an edtech startup to six-figure ARR, worked in product dev at BCG, and conducted research at Stanford HCI. Aditya Sood CTO & Co-Founder Stanford AI dropout. Led NLP at NASA, published AI research in defense tech, researcher at Stanford AI Laboratory (SAIL) x Anthropic lab. Life at Contrario OUR VALUES 01 Be customer obsessed 02 Low ego and high effort 03 Feedback fuels growth 04 Build as a team Customers and recruiters come first, always. We do whatever it takes to help them win - because their outcomes define ours. Backed by the best Y Combinator (W25) Investor Nexus Venture Partners Investor Jishnu B. (MD, Nexus VP) Investor Goodwater Capital Investor Inventum Ventures Investor Cedric Tempestini (Co-founder, InvestorX) Investor Jerry Cain (Professor, Stanford CS) Angel Abhijeet Dwivedi (Strategic Deployment, OpenAI) Angel David Chen (Algo Trader, Hudson River Trading) Angel Hank Couture (ex-VP, Doordash) Angel Peter Boboff (Managing Partner, Transmedia Capital) Angel Franklyn Wang (CEO, Liquid) Angel In the press Contrario Launches After Reaching $6M Annualized Revenue and Paying $1M+ to Recruiters in Under Six Months May 20, 2026 Read Contrario launches: The case for pairing AI agents with human recruiters instead of replacing them May 20, 2026 Read Contrario, a San Francisco-headquartered recruiting platform, launched with a $2.3 million seed investment led by Nexus Venture Partners. May 20, 2026 Read Company benefits Premium healthcare & 401k We cover 100% of your healthcare premiums: medical, dental, and vision. We also offer a great path to start saving for your future. Competitive compensation We hire the best and treat them accordingly by offering competitive top-tier pay and meaningful equity packages. Bi-annual company offsites Twice a year, we fly the whole team to incredible destinations to reflect on progress, align on our vision, and recharge together. Free lunches and dinners Enjoy healthy catered lunches and dinners, plus unlimited snacks and drinks to keep you energized throughout the day. Gym stipend Receive a monthly wellness stipend to use toward a gym membership, fitness classes, or home equipment to stay sharp and healthy. Flexible PTO We trust you to manage your own schedule. Take the time you need, whenever you need it, to maintain a healthy work-life balance. Open roles ENGINEERING Applied AI Engineer San Francisco • Full-Time EQUITY 0.30-0.75% TOTAL COMP $140K - $220K RECRUITING Talent Operator San Francisco • Full-Time EQUITY 0.05-0.15% TOTAL COMP $80k - $200k GROWTH Founding GTM San Francisco • Full-Time EQUITY 0.10% - 0.40% TOTAL COMP $100K - $150K The future of hiring starts here Ready to hire great talent fast? Get started with Contrario. Get a demo SYSTEMS OPERATIONAL PRODUCT For companies For recruiters COMPANY Customers Blogs Careers Contact CONNECT Linkedin Twitter / X Product Hunt Refer a friend Privacy policy Terms of service FAQs © Contrario Inc. 2026 Cookie Settings We use cookies to enhance your experience, analyze site traffic and deliver personalized content. Read our Privacy Policy."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-1k3f001 > .framer-styles-preset-fvwrdd[data-styles-preset=\"voWcFSdDz\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.51 (foreground color: #9da0a6, background color: #fafafa, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-fvwrdd\" data-styles-preset=\"voWcFSdDz\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--token"
+            },
+            {
+              "target": [
+                ".framer-1dszp3e-container > .framer-qQYlZ.framer-GcR5A.framer-6a9o2g > .framer-gxp6b7[data-framer-name=\"Container\"] > .framer-19fl6dw[data-framer-name=\"Container\"] > .framer-q3jn6j > .framer-1fa71q6[data-framer-name=\"Value Proposition Company Text\"][data-framer-component-type=\"RichTextContainer\"] > .framer-styles-preset-1x3gwop[data-styles-preset=\"bm_NlusXC\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.52 (foreground color: #a0a3a9, background color: #ffffff, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-1x3gwop\" data-styles-preset=\"bm_NlusXC\" dir=\"auto\" style=\"--framer-text-alignment:right;--framer-text-color:var(--ext"
+            },
+            {
+              "target": [
+                ".framer-1dszp3e-container > .framer-qQYlZ.framer-GcR5A.framer-6a9o2g > .framer-gxp6b7[data-framer-name=\"Container\"] > .framer-19fl6dw[data-framer-name=\"Container\"] > .framer-q3jn6j > .framer-1voixo6[data-framer-name=\"Equity\"][data-framer-component-type=\"RichTextContainer\"] > .framer-styles-preset-z2xn1y[data-styles-preset=\"UyqeEFmOc\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.94 (foreground color: #00ae3c, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-z2xn1y\" data-styles-preset=\"UyqeEFmOc\" dir=\"auto\" style=\"--framer-text-alignment:right;--framer-text-color:var(--extr"
+            },
+            {
+              "target": [
+                ".framer-1dszp3e-container > .framer-qQYlZ.framer-GcR5A.framer-6a9o2g > .framer-gxp6b7[data-framer-name=\"Container\"] > .framer-gnnbab[data-framer-name=\"Container\"] > .framer-1oh3g2r[data-framer-name=\"Value Proposition Company Text\"][data-framer-component-type=\"RichTextContainer\"] > .framer-styles-preset-1x3gwop[data-styles-preset=\"bm_NlusXC\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.52 (foreground color: #a0a3a9, background color: #ffffff, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-1x3gwop\" data-styles-preset=\"bm_NlusXC\" dir=\"auto\" style=\"--framer-text-alignment:right;--framer-text-color:var(--ext"
+            },
+            {
+              "target": [
+                ".framer-1c68kgv > .framer-styles-preset-fvwrdd[data-styles-preset=\"voWcFSdDz\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.51 (foreground color: #9da0a6, background color: #fafafa, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<p class=\"framer-text framer-styles-preset-fvwrdd\" data-styles-preset=\"voWcFSdDz\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--token"
+            }
+          ],
+          "count": 18
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "help": "Heading levels should only increase by one",
+          "description": "Ensure the order of headings is semantically correct",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-erk7e5 > h4"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h4 class=\"framer-text framer-styles-preset-1hp8f52\" data-styles-preset=\"bw9ysOZkE\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--tok"
+            },
+            {
+              "target": [
+                ".framer-r3qg7s > h4"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h4 class=\"framer-text framer-styles-preset-1hp8f52\" data-styles-preset=\"bw9ysOZkE\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--ext"
+            },
+            {
+              "target": [
+                ".framer-svwhaw > h4"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h4 class=\"framer-text framer-styles-preset-1hp8f52\" data-styles-preset=\"bw9ysOZkE\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--tok"
+            },
+            {
+              "target": [
+                ".framer-1dszp3e-container > .framer-qQYlZ.framer-GcR5A.framer-6a9o2g > .framer-utbb1h[data-framer-name=\"Container\"] > .framer-n031xv[data-framer-name=\"Role Title\"][data-framer-component-type=\"RichTextContainer\"] > h4"
+              ],
+              "summary": "Fix any of the following: Heading order invalid",
+              "html": "<h4 class=\"framer-text framer-styles-preset-1hp8f52\" data-styles-preset=\"bw9ysOZkE\" dir=\"auto\" style=\"--framer-text-alignment:left;--framer-text-color:var(--ext"
+            }
+          ],
+          "count": 4
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html lang=\"en\" data-redirect-timezone=\"1\" dir=\"ltr\" class=\"lenis lenis-smooth\">"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-auccsu"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-auccsu framer-u5ynwl\" href=\"./\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-pamtkc"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a class=\"framer-pamtkc framer-ijvfp9\" href=\"./\">"
+            }
+          ],
+          "count": 2
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".framer-yllbqb"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-yllbqb\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-9c7ac995-3115-4f26-a3db-87cdba2ae89b, rgb(255, "
+            },
+            {
+              "target": [
+                ".framer-v-11nc0nw[name=\"Solutions\"][data-framer-name=\"Dropdown\"] > .framer-hdevaa[data-framer-name=\"Link Text\"][data-framer-component-type=\"RichTextContainer\"]"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-hdevaa\" data-framer-name=\"Link Text\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-90ede304-880e-44e6"
+            },
+            {
+              "target": [
+                ".framer-v-11nc0nw[name=\"Features\"][data-framer-name=\"Dropdown\"] > .framer-hdevaa[data-framer-name=\"Link Text\"][data-framer-component-type=\"RichTextContainer\"]"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-hdevaa\" data-framer-name=\"Link Text\" data-framer-component-type=\"RichTextContainer\" style=\"--extracted-r6o4lv: var(--token-90ede304-880e-44e6"
+            },
+            {
+              "target": [
+                ".framer-41cbqc-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-41cbqc-container\" data-framer-name=\"Customers\" name=\"Customers\" style=\"opacity: 1;\">"
+            },
+            {
+              "target": [
+                ".framer-tm8dui-container"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"framer-tm8dui-container\" data-framer-name=\"Domain\" name=\"Domain\" style=\"opacity: 1;\">"
+            }
+          ],
+          "count": 42
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 1
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+          "text": "Contrario launches after crossing $6M annualized revenue",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/customers",
+          "text": "Customers",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/domains",
+          "text": "Domains",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.co/",
+          "text": "Sign in",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/book-a-demo",
+          "text": "Get a demo",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/careers#open-jobs",
+          "text": "See open positions",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/arya-marwaha/",
+          "text": "Arya MarwahaCEO & Co-FounderStanford BS (left MS early). Pre",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/adibsood",
+          "text": "Aditya SoodCTO & Co-FounderStanford AI dropout. Led NLP at N",
+          "inNav": false
+        },
+        {
+          "href": "https://www.ycombinator.com/",
+          "text": "Y Combinator (W25)Investor",
+          "inNav": false
+        },
+        {
+          "href": "https://nexusvp.com/",
+          "text": "Nexus Venture PartnersInvestor",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/jishnu-b-3063271",
+          "text": "Jishnu B. (MD, Nexus VP) Investor",
+          "inNav": false
+        },
+        {
+          "href": "https://www.goodwatercap.com/",
+          "text": "Goodwater CapitalInvestor",
+          "inNav": false
+        },
+        {
+          "href": "https://inventumventures.com/",
+          "text": "Inventum VenturesInvestor",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/UMento_com",
+          "text": "Cedric Tempestini (Co-founder, InvestorX)Investor",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/jerrycainjr",
+          "text": "Jerry Cain (Professor, Stanford CS)Angel",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/abhijeetdw/",
+          "text": "Abhijeet Dwivedi (Strategic Deployment, OpenAI)Angel",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/david-chen-71722b7/",
+          "text": "David Chen (Algo Trader, Hudson River Trading)Angel",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/hank-couture/",
+          "text": "Hank Couture (ex-VP, Doordash) Angel",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/peterboboff/",
+          "text": "Peter Boboff (Managing Partner, Transmedia Capital) Angel",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/in/franklyn-wang/",
+          "text": "Franklyn Wang (CEO, Liquid)Angel",
+          "inNav": false
+        },
+        {
+          "href": "https://finance.yahoo.com/sectors/technology/articles/contrario-launches-reaching-6m-annualized-124900629.html",
+          "text": "Read",
+          "inNav": false
+        },
+        {
+          "href": "https://venturebeat.com/business/contrario-launches-the-case-for-pairing-ai-agents-with-human-recruiters-instead-of-replacing-them",
+          "text": "Read",
+          "inNav": false
+        },
+        {
+          "href": "https://venturecapital.createsend1.com/t/d-e-gudulut-l-t/",
+          "text": "Read",
+          "inNav": false
+        },
+        {
+          "href": "https://www.ycombinator.com/companies/contrario/jobs/UXt8I3L-applied-ai-engineer",
+          "text": "Applied AI EngineerSan Francisco•Full-TimeEquity0.30-0.75%to",
+          "inNav": false
+        },
+        {
+          "href": "https://www.ycombinator.com/companies/contrario/jobs/ShQCYs6-jr-talent-operator-x3",
+          "text": "Talent OperatorSan Francisco•Full-TimeEquity0.05-0.15%total ",
+          "inNav": false
+        },
+        {
+          "href": "https://www.ycombinator.com/companies/contrario/jobs/FrF6TsE-founding-gtm",
+          "text": "Founding GTMSan Francisco•Full-TimeEquity0.10% - 0.40%total ",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/book-a-demo",
+          "text": "Get a demo",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/companies",
+          "text": "For companies",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/recruiters",
+          "text": "For recruiters",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/customers",
+          "text": "Customers",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/blogs",
+          "text": "Blogs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/careers",
+          "text": "Careers",
+          "inNav": false
+        },
+        {
+          "href": "mailto:support@contrario.ai",
+          "text": "Contact",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/contrario-ai/",
+          "text": "Linkedin",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/ContrarioAI",
+          "text": "Twitter / X",
+          "inNav": false
+        },
+        {
+          "href": "https://www.producthunt.com/products/contrario",
+          "text": "Product Hunt",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/referral",
+          "text": "Refer a friend",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/privacy-policy",
+          "text": "Privacy policy",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/terms-of-service",
+          "text": "Terms of service",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/faqs",
+          "text": "FAQs",
+          "inNav": false
+        },
+        {
+          "href": "https://www.contrario.ai/privacy-policy",
+          "text": "Privacy Policy",
+          "inNav": false
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "url": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/blogs"
+      ],
+      "text": "Contrario launches after crossing $6M annualized revenue"
+    },
+    {
+      "url": "https://www.contrario.ai/",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://www.contrario.ai/customers",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/customers",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": "Customers"
+    },
+    {
+      "url": "https://www.contrario.ai/domains",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/domains",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/blogs"
+      ],
+      "text": "Domains"
+    },
+    {
+      "url": "https://www.contrario.ai/book-a-demo",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/book-a-demo",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/blogs"
+      ],
+      "text": "Get a demo"
+    },
+    {
+      "url": "https://www.contrario.ai/companies",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/companies",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": "For companies"
+    },
+    {
+      "url": "https://www.contrario.ai/recruiters",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/recruiters",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": "For recruiters"
+    },
+    {
+      "url": "https://www.contrario.ai/blogs",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/blogs",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": "Blogs"
+    },
+    {
+      "url": "https://www.contrario.ai/careers",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/careers",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": "Careers"
+    },
+    {
+      "url": "https://www.contrario.ai/referral",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/referral",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": "Refer a friend"
+    },
+    {
+      "url": "https://www.contrario.ai/privacy-policy",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/privacy-policy",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": "Privacy policy"
+    },
+    {
+      "url": "https://www.contrario.ai/terms-of-service",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/terms-of-service",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": "Terms of service"
+    },
+    {
+      "url": "https://www.contrario.ai/faqs",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/faqs",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": "FAQs"
+    },
+    {
+      "url": "https://www.contrario.ai/blogs/case-studies/listenlabs",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/blogs/case-studies/listenlabs",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/blogs"
+      ],
+      "text": "Case StudiesHow Listen Labs scaled their GTM function with C"
+    },
+    {
+      "url": "https://www.contrario.ai/blogs/case-studies/gallium",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/blogs/case-studies/gallium",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/blogs"
+      ],
+      "text": "Case StudiesHow Gallium hired 4 engineers in 15 days with Co"
+    },
+    {
+      "url": "https://www.contrario.ai/blogs/case-studies/judgmentlabs",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/blogs/case-studies/judgmentlabs",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/blogs"
+      ],
+      "text": "Case StudiesHow Judgment Labs hired their Head of FDE with C"
+    },
+    {
+      "url": "https://www.contrario.ai/blogs/case-studies/afterquery",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/blogs/case-studies/afterquery",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/blogs"
+      ],
+      "text": "Case StudiesHow AfterQuery uses Contrario to hire across eve"
+    },
+    {
+      "url": "https://www.contrario.ai/blogs/case-studies/sphinx",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/blogs/case-studies/sphinx",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/blogs"
+      ],
+      "text": "Case StudiesHow Sphinx hired its founding GTM with Contrario"
+    },
+    {
+      "url": "https://www.contrario.ai/blogs/announcement/contrario-launches-the-case-for-pairing-ai-agents-with-human-recruiters-instead-of-replacing-them",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.contrario.ai/blogs/announcement/contrario-launches-the-case-for-pairing-ai-agents-with-human-recruiters-instead-of-replacing-them",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/blogs"
+      ],
+      "text": "AnnouncementsContrario launches: The case for pairing AI age"
+    },
+    {
+      "url": "https://www.contrario.co/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.contrario.co/auth",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/blogs"
+      ],
+      "text": "Sign in"
+    },
+    {
+      "url": "https://www.sievedata.com/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.sieve.ai/",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://www.afterquery.com/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.afterquery.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://wisprflow.ai/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://wisprflow.ai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://listenlabs.ai/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://listenlabs.ai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://slash.com/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.slash.com/",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://crustdata.com/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://crustdata.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://www.maximor.ai/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.maximor.ai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://www.getauctor.com/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.getauctor.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://sphinxhq.com/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://sphinxhq.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://tryfuse.ai/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://tryfuse.ai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://workweave.dev/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://workweave.dev/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/in/spencermateega/overlay/about-this-profile/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/in/spencermateega",
+      "method": "GET->GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/"
+      ],
+      "text": "Spencer Mateega"
+    },
+    {
+      "url": "https://www.linkedin.com/company/contrario-ai/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/company/contrario-ai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": "Linkedin"
+    },
+    {
+      "url": "https://x.com/ContrarioAI",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://x.com/ContrarioAI",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": "Twitter / X"
+    },
+    {
+      "url": "https://www.producthunt.com/products/contrario",
+      "firstParty": false,
+      "status": 403,
+      "finalUrl": "https://www.producthunt.com/products/contrario",
+      "method": "GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/",
+        "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "https://www.contrario.ai/customers",
+        "https://www.contrario.ai/book-a-demo"
+      ],
+      "text": "Product Hunt"
+    },
+    {
+      "url": "https://www.linkedin.com/in/arya-marwaha/",
+      "firstParty": false,
+      "status": 999,
+      "finalUrl": "https://www.linkedin.com/in/arya-marwaha",
+      "method": "GET->GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Arya MarwahaCEO & Co-FounderStanford BS (left MS early). Pre"
+    },
+    {
+      "url": "https://www.linkedin.com/in/adibsood",
+      "firstParty": false,
+      "status": 999,
+      "finalUrl": "https://www.linkedin.com/in/adibsood",
+      "method": "GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Aditya SoodCTO & Co-FounderStanford AI dropout. Led NLP at N"
+    },
+    {
+      "url": "https://www.ycombinator.com/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Y Combinator (W25)Investor"
+    },
+    {
+      "url": "https://nexusvp.com/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://nexusvp.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Nexus Venture PartnersInvestor"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jishnu-b-3063271",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/in/jishnu-b-3063271",
+      "method": "GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Jishnu B. (MD, Nexus VP) Investor"
+    },
+    {
+      "url": "https://www.goodwatercap.com/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.goodwatercap.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Goodwater CapitalInvestor"
+    },
+    {
+      "url": "https://inventumventures.com/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://inventumventures.com/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Inventum VenturesInvestor"
+    },
+    {
+      "url": "https://x.com/UMento_com",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://x.com/UMento_com",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Cedric Tempestini (Co-founder, InvestorX)Investor"
+    },
+    {
+      "url": "https://www.linkedin.com/in/jerrycainjr",
+      "firstParty": false,
+      "status": 999,
+      "finalUrl": "https://www.linkedin.com/in/jerrycainjr",
+      "method": "GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Jerry Cain (Professor, Stanford CS)Angel"
+    },
+    {
+      "url": "https://www.linkedin.com/in/abhijeetdw/",
+      "firstParty": false,
+      "status": 999,
+      "finalUrl": "https://www.linkedin.com/in/abhijeetdw",
+      "method": "GET->GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Abhijeet Dwivedi (Strategic Deployment, OpenAI)Angel"
+    },
+    {
+      "url": "https://www.linkedin.com/in/david-chen-71722b7/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/in/david-chen-71722b7",
+      "method": "GET->GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "David Chen (Algo Trader, Hudson River Trading)Angel"
+    },
+    {
+      "url": "https://www.linkedin.com/in/hank-couture/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/in/hank-couture",
+      "method": "GET->GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Hank Couture (ex-VP, Doordash) Angel"
+    },
+    {
+      "url": "https://www.linkedin.com/in/peterboboff/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/in/peterboboff",
+      "method": "GET->GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Peter Boboff (Managing Partner, Transmedia Capital) Angel"
+    },
+    {
+      "url": "https://www.linkedin.com/in/franklyn-wang/",
+      "firstParty": false,
+      "status": 429,
+      "finalUrl": "https://www.linkedin.com/in/franklyn-wang/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Franklyn Wang (CEO, Liquid)Angel"
+    },
+    {
+      "url": "https://finance.yahoo.com/sectors/technology/articles/contrario-launches-reaching-6m-annualized-124900629.html",
+      "firstParty": false,
+      "status": 0,
+      "finalUrl": "https://finance.yahoo.com/sectors/technology/articles/contrario-launches-reaching-6m-annualized-124900629.html",
+      "method": "HEAD",
+      "error": "fetch failed",
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Read"
+    },
+    {
+      "url": "https://venturebeat.com/business/contrario-launches-the-case-for-pairing-ai-agents-with-human-recruiters-instead-of-replacing-them",
+      "firstParty": false,
+      "status": 429,
+      "finalUrl": "https://venturebeat.com/business/contrario-launches-the-case-for-pairing-ai-agents-with-human-recruiters-instead-of-replacing-them",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Read"
+    },
+    {
+      "url": "https://venturecapital.createsend1.com/t/d-e-gudulut-l-t/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://venturecapital.createsend1.com/t/d-e-gudulut-l-t/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Read"
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/contrario/jobs/UXt8I3L-applied-ai-engineer",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/contrario/jobs/UXt8I3L-applied-ai-engineer",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Applied AI EngineerSan Francisco•Full-TimeEquity0.30-0.75%to"
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/contrario/jobs/ShQCYs6-jr-talent-operator-x3",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/contrario/jobs/ShQCYs6-talent-operator",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Talent OperatorSan Francisco•Full-TimeEquity0.05-0.15%total "
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/contrario/jobs/FrF6TsE-founding-gtm",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/contrario/jobs/FrF6TsE-founding-gtm",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.contrario.ai/careers"
+      ],
+      "text": "Founding GTMSan Francisco•Full-TimeEquity0.10% - 0.40%total "
+    }
+  ],
+  "robots": {
+    "status": 200,
+    "present": true,
+    "looksLikeHtml": false,
+    "sample": "User-agent: *\nAllow: /\n\nSitemap: https://www.contrario.ai/sitemap.xml"
+  },
+  "sitemap": {
+    "status": 200,
+    "present": true,
+    "looksLikeXml": true
+  },
+  "redirectNote": "contrario.ai redirects to www.contrario.ai",
+  "keyPagesDiscovered": [
+    {
+      "url": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+      "kind": "blog",
+      "text": "Contrario launches after crossing $6M annualized revenue"
+    },
+    {
+      "url": "https://www.contrario.ai/customers",
+      "kind": "customers",
+      "text": "Customers"
+    },
+    {
+      "url": "https://www.contrario.ai/book-a-demo",
+      "kind": "demo",
+      "text": "Get a demo"
+    },
+    {
+      "url": "https://www.contrario.ai/blogs",
+      "kind": "blog",
+      "text": "Blogs"
+    },
+    {
+      "url": "https://www.contrario.ai/careers",
+      "kind": "careers",
+      "text": "Careers"
+    }
+  ],
+  "linkCounts": {
+    "firstPartyTotal": 19,
+    "externalTotal": 36,
+    "checkedFP": 19,
+    "checkedEXT": 36
+  },
+  "network": {
+    "totalRequests": 1090,
+    "firstPartyFailures": [],
+    "thirdPartyFailures": [
+      {
+        "url": "https://ddwl4m2hdecbv.cloudfront.net/b/E63P0HZPLROW/E63P0HZPLROW.js.gz",
+        "status": 403,
+        "onPage": "https://www.contrario.ai/"
+      },
+      {
+        "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=6a078047d790b60015729cd7",
+        "status": 400,
+        "onPage": "https://www.contrario.ai/"
+      }
+    ],
+    "mixedContent": [],
+    "largestFirstParty": [
+      {
+        "url": "https://www.contrario.ai/",
+        "kb": 584.6,
+        "type": "text/html"
+      },
+      {
+        "url": "https://www.contrario.ai/careers",
+        "kb": 440,
+        "type": "text/html"
+      },
+      {
+        "url": "https://www.contrario.ai/book-a-demo",
+        "kb": 412,
+        "type": "text/html"
+      },
+      {
+        "url": "https://www.contrario.ai/customers",
+        "kb": 349.7,
+        "type": "text/html"
+      },
+      {
+        "url": "https://www.contrario.ai/blogs",
+        "kb": 268.2,
+        "type": "text/html"
+      },
+      {
+        "url": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "kb": 247.7,
+        "type": "text/html"
+      }
+    ]
+  },
+  "console": {
+    "errors": [
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://ddwl4m2hdecbv.cloudfront.net/b/E63P0HZPLROW/E63P0HZPLROW.js.gz:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=6a078047d790b60015729cd7:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+        "onPage": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "location": "https://ddwl4m2hdecbv.cloudfront.net/b/E63P0HZPLROW/E63P0HZPLROW.js.gz:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "onPage": "https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario",
+        "location": "https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=6a078047d790b60015729cd7:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+        "onPage": "https://www.contrario.ai/customers",
+        "location": "https://ddwl4m2hdecbv.cloudfront.net/b/E63P0HZPLROW/E63P0HZPLROW.js.gz:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "onPage": "https://www.contrario.ai/customers",
+        "location": "https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=6a078047d790b60015729cd7:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+        "onPage": "https://www.contrario.ai/book-a-demo",
+        "location": "https://ddwl4m2hdecbv.cloudfront.net/b/E63P0HZPLROW/E63P0HZPLROW.js.gz:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "onPage": "https://www.contrario.ai/book-a-demo",
+        "location": "https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=6a078047d790b60015729cd7:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+        "onPage": "https://www.contrario.ai/blogs",
+        "location": "https://ddwl4m2hdecbv.cloudfront.net/b/E63P0HZPLROW/E63P0HZPLROW.js.gz:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "onPage": "https://www.contrario.ai/blogs",
+        "location": "https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=6a078047d790b60015729cd7:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+        "onPage": "https://www.contrario.ai/careers",
+        "location": "https://ddwl4m2hdecbv.cloudfront.net/b/E63P0HZPLROW/E63P0HZPLROW.js.gz:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "onPage": "https://www.contrario.ai/careers",
+        "location": "https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=6a078047d790b60015729cd7:0"
+      }
+    ],
+    "warnings": [
+      {
+        "type": "warning",
+        "text": "Unrecognized feature: 'presentation'.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.contrario.ai/:224"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0702000DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/5ARwuHBEdek?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A070F101DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/IeypwahAwEU?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0A0F101DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/3Ht3Fx7tqnE?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0D0F101DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/3Ht3Fx7tqnE?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0801403DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/IeypwahAwEU?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0B01403DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/IeypwahAwEU?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0E01403DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/3Ht3Fx7tqnE?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0101503DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/5ARwuHBEdek?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0C09403DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/5ARwuHBEdek?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0D02000DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/IeypwahAwEU?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A040F101DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/5ARwuHBEdek?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0702000DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/3Ht3Fx7tqnE?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0F09403DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/5ARwuHBEdek?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0209503DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/3Ht3Fx7tqnE?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0509503DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/5ARwuHBEdek?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0C07604DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/IeypwahAwEU?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "WARNING: Too many active WebGL contexts. Oldest context will be lost.",
+        "onPage": "https://www.contrario.ai/",
+        "location": ""
+      },
+      {
+        "type": "warning",
+        "text": "WARNING: Too many active WebGL contexts. Oldest context will be lost.",
+        "onPage": "https://www.contrario.ai/",
+        "location": ""
+      },
+      {
+        "type": "warning",
+        "text": "WARNING: Too many active WebGL contexts. Oldest context will be lost.",
+        "onPage": "https://www.contrario.ai/",
+        "location": ""
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0F07604DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/5ARwuHBEdek?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0207704DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/IeypwahAwEU?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "WARNING: Too many active WebGL contexts. Oldest context will be lost.",
+        "onPage": "https://www.contrario.ai/",
+        "location": ""
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A070F101DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/IeypwahAwEU?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0A0F101DC3B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.contrario.ai/",
+        "location": "https://www.youtube.com/embed/3Ht3Fx7tqnE?iv_load_policy=3&rel=0&modestbranding=1&playsinline=1&autoplay=1&mute=1&color=white:0"
+      }
+    ],
+    "pageErrors": []
+  },
+  "finishedAt": "2026-07-06T08:23:25.923Z"
+}

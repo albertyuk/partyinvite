@@ -194,3 +194,78 @@ _A second, deeper pass: full-site crawl, security/best-practice headers, forms, 
 - **What & where:** A dropped article in a bullet on the announcement post. — `https://www.contrario.ai/blogs/announcement/better-recruiting-built-on-contrario` — 'Agents learn across many company workflows' bullet list.
 - **Evidence:** `deep.json` text exact string: "Holding a company's hiring bar deeply enough to recognize shape of a fit" — a dropped article before 'shape'.
 - **Fix:** Insert the missing article: '...to recognize the shape of a fit'.
+
+## Re-audit (2026-07-06)
+_Full fresh capture 2026-07-06; every prior finding re-verified, plus new checks (sitemap URL sampling, canonical targets, social-preview images, rel=noopener, duplicate IDs)._
+
+**Prior findings — status:**
+
+| Finding | Severity | Status | Note |
+|---|---|---|---|
+| aria-hidden-focus carousel 22 nodes on 5 pages | Major | STILL_TRUE | Fresh pass-1 home axe aria-hidden-focus=22; fresh deep.json count=22 on /customers, /book-a-demo, /companies. /domains reported 0 this run (was 22) but its extracted page text is byte-identical to the old capture — carousel-init timing variance in the capture, not a fix; defect confirmed on 4 of the 5 pages. |
+| link-name 13 unnamed icon/logo links | Major | STILL_TRUE | Fresh pass-1 home link-name=13; fresh deep.json count=13 home, 13 /customers and /book-a-demo, 14 /companies, 47 /domains, 2 on every other crawled page — same shared logo/social-icon links with no accessible name. |
+| color-contrast sitewide (26 nodes home) | Major | STILL_TRUE | Fresh pass-1 home color-contrast=26 (identical to prior); fresh deep.json flags all 15 pages (e.g. #9da0a6 on #fafafa = 2.51:1). Minor count drift on two pages (/referral 11→18, /customers 5→6) per diff.json — same defect, same scale. |
+| h1 structure: 8 pages zero h1, /customers 13 h1s, home h4 skips | Major | STILL_TRUE | Fresh deep.json h1Count=0 on the same 8 pages (/book-a-demo headingLevels still [2,4,4,4,4], /referral, /privacy-policy, /terms-of-service, /faqs, 3 blog posts, each with page-has-heading-one=1); /customers h1 list still ['Customer Stories','10+','90+ days',...] = 13; home heading-order still 3 nodes. |
+| duplicate title /domains + one description on 5 pages | Major | STILL_TRUE | Fresh deep.json duplicates: title 'Contrario \| AI Recruiting Platform' still on / and /domains; the 136-char 'Contrario is the AI Recruiting Platform powered by expert recruiters…' description still served on the same 5 pages (/, /blogs, /domains, /referral, announcement post). diff.json metaChanges=[]. |
+| ToS section-6 heading 'California Privacy Rights' copy-paste | Minor | STILL_TRUE | Fresh deep.json /terms-of-service text still reads '…6. California Privacy Rights 6.1 User Submissions Any content you post, upload, or share…' while the TOC still lists 'User Content and Licensing'. |
+| ToS sidebar labeled 'Privacy policy sections' | Minor | STILL_TRUE | diff.json copyStrings 'Privacy policy sections' stillPresent=true; fresh /terms-of-service text contains it at char offset 79 ('On this page Privacy policy sections Overview…'). |
+| security headers missing sitewide | Minor | STILL_TRUE | Fresh headers.json: identical security.missing on all sampled pages — content-security-policy, x-frame-options, referrer-policy, permissions-policy, cross-origin-opener-policy, x-xss-protection; HSTS still bare 'max-age=31536000' (no includeSubDomains/preload). |
+| home TTFB intermittent spike | Minor | FIXED | Prior 1,466 ms spike not reproduced: fresh headers.json TTFB home=408 ms, interior pages 204–284 ms (www canonical probe 738 ms); live curl 2026-07-06 TTFB 0.399 s, HTTP 200. Was already flagged 'needs manual review / monitor'; steady-state is normal. |
+| 24 third-party hosts ~2.6k requests | Minor | STILL_TRUE | Fresh deep.json thirdParty=24 hosts, requestTotal=2663 across the 15-page crawl (prior ~2,621) — framerusercontent 1241, youtube 693, posthog 97+19, doubleclick 60, apollo/aplo-evnt 60, GTM 19, etc. |
+| no main landmark / content outside regions | Minor | STILL_TRUE | Fresh axe: landmark-one-main=1 on every one of the 15 pages; region count=33 on home in deep.json (30 in pass-1, matching prior), 10–47 on interior pages. |
+| tiny tap targets, 20px form inputs on book-a-demo | Minor | STILL_TRUE | Fresh deep.json responsiveExtra book-a-demo tinyTapCount=10/11/10 at 320/390/414px (identical to prior), inputs still h=20 (e.g. 99x20, 234x20 at 390px); home 4–5 ('Spencer Mateega' 125x18). |
+| gigaml.com dead outbound link on /domains | Minor | STILL_TRUE | diff.json 404→404; fresh extras.json regression probe 404 (6,873-byte page); fresh deep.json still lists source=/domains; live curl 2026-07-06 returns 404 serving '<title>Site Not Found \| Framer</title>'. |
+| link-in-text-block privacy-policy 6 nodes | Minor | STILL_TRUE | Fresh deep.json axe link-in-text-block count=6 on /privacy-policy only — unchanged. |
+| form fields missing autocomplete | Minor | STILL_TRUE | Fresh deep.json forms: all 7 real labeled fields on /book-a-demo and all 9 on /referral still have autocomplete="" (honeypots still one-time-code). |
+| zero JSON-LD structured data sitewide | Minor | STILL_TRUE | Fresh deep.json jsonldCount=0 on all 15 crawled pages. |
+| copy defects: 'Search experties' / 'WISP FLOW' / Carlos Libardo card | Minor | STILL_TRUE | diff.json copyStrings: 'Search experties', 'WISP FLOW', and 'Carlos Libardo Founding Data Engineer' all stillPresent=true; fresh /blogs/case-studies/gallium text still also says 'Carlos Eduardo Libardo, Founding AI Engineer', so the name/title contradiction stands; /companies still has exactly one correct 'Wispr Flow'. |
+| 9 short un-branded page titles | Minor | STILL_TRUE | Fresh deep.json titleLen unchanged for all nine: FAQs=4, Blogs=5, Careers=7, Referral=8, Customers=9, Book a Demo=11, For Companies=13, Privacy Policy=14, For Recruiters=14 — none carry the '\| Contrario' suffix. |
+| listenlabs meta description 204 chars | Minor | STILL_TRUE | Fresh deep.json /blogs/case-studies/listenlabs metaDescriptionLen=204, same 'Listen Labs reached a $500M valuation…' text. |
+| gallium title 62 chars | Minor | STILL_TRUE | Fresh deep.json /blogs/case-studies/gallium titleLen=62, same title 'How Gallium made 4 engineering hires in 15 days with Contrario'. |
+| careers comp lowercase 'k' inconsistency | Minor | STILL_TRUE | Fresh /careers text still contains '$80k - $200k' (lowercase) alongside '$140K - $220K' and '$100K - $150K' (uppercase). |
+| blog index vs article title-case mismatch | Minor | STILL_TRUE | Fresh /blogs text has 'Better Recruiting. Built on Contrario.' x2 (title-case) while the article page title and body remain 'Better recruiting. Built on Contrario.' (lowercase r). |
+| announcement dropped article 'recognize shape of a fit' | Minor | STILL_TRUE | Fresh announcement-post text still reads verbatim "Holding a company's hiring bar deeply enough to recognize shape of a fit". |
+
+**New findings (2026-07-06):**
+
+### 22. Apollo.io visitor-tracking integration broken on every page: tracker script 403 (S3 AccessDenied) + intent pixel 400
+- **Severity:** Minor
+- **Type:** Bug (third-party integration)
+- **What & where:** All sampled pages (6/6 in pass-1: /, /customers, /book-a-demo, /blogs, /careers, /blogs/announcement/...) — requests to ddwl4m2hdecbv.cloudfront.net and aplo-evnt.com
+- **Evidence:** Fresh contrario.json console.errors: 'Failed to load resource: 403' for https://ddwl4m2hdecbv.cloudfront.net/b/E63P0HZPLROW/E63P0HZPLROW.js.gz and '400' for https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=6a078047d790b60015729cd7 on all 6 sampled pages (same on all 6 in the 07-01 capture); both listed in network.thirdPartyFailures. Live curl 2026-07-06 09:43 UTC: the CloudFront URL returns HTTP 403 with a genuine S3 error body (`<Error><Code>AccessDenied</Code>`, server: AmazonS3, x-cache: 'Error from cloudfront') — an origin-side denial, not a proxy or headless artifact; the aplo-evnt pixel endpoint returns 404 to a bare GET (400 with the browser payload). The prior report's note dismissed these console lines as 'blocked in the capture environment', which this origin-level evidence contradicts; the app_id/asset appears deactivated or misconfigured.
+- **Fix:** Fix or remove the Apollo website-visitor tracking snippet — as deployed it throws two console errors and two wasted requests on every pageload and collects no data.
+
+### 23. Dead LinkedIn profile link for investor Franklyn Wang on Careers (degraded from bot-block 429 to real 404 since 07-01)
+- **Severity:** Minor
+- **Type:** Bug (broken link)
+- **What & where:** https://www.contrario.ai/careers — 'Backed by the best' investor card 'Franklyn Wang (CEO, Liquid)' -> https://www.linkedin.com/in/franklyn-wang/
+- **Evidence:** Fresh deep.json links[48]: status 404 (GET), source /careers; diff.json priorBrokenLinks shows it moved 429 -> 404 while sibling profiles moved 429 -> 200 or 999. Live differential curl 2026-07-06 09:44 UTC: franklyn-wang/ = 404 while control linkedin.com/in/peterboboff/ = 200 seconds later from the same IP/UA — a removed/renamed profile, not anti-bot noise. The card and link confirmed present in today's served /careers HTML. (Related: his company link tryliquid.xyz now redirects to https://www.liquid.trade/ (200), consistent with a rebrand.)
+- **Fix:** Update the card to Franklyn Wang's current LinkedIn URL or drop the hyperlink; consider also pointing the Liquid link at the new liquid.trade domain.
+
+### 24. Referral form's COMPANY STAGE dropdown omits the 'Seed' stage that the book-a-demo stage dropdown includes (and the field is named 'Company Size')
+- **Severity:** Minor
+- **Type:** Bug (forms/content)
+- **What & where:** https://www.contrario.ai/referral — 'COMPANY STAGE' select (internal name 'Company Size')
+- **Evidence:** Live HTML 2026-07-06: /referral stage options are Bootstrapped, Pre-Seed, Series A, Growth (Series B/C), Scale (Series D+) — no 'Seed' — while /book-a-demo's equivalent select includes `<option value="Seed">Seed</option>` between Pre-Seed and Series A. A seed-stage company being referred has no accurate choice. The select's name attribute is 'Company Size' while its visible label is 'Company Stage' (both grep-confirmed in the served HTML). Intent should be manually confirmed, but the sibling form strongly suggests an oversight.
+- **Fix:** Add a 'Seed' option to the referral form's stage dropdown, and align the field's internal name with its label for cleaner CRM data.
+
+### 25. Book-a-demo 'How did you hear about us?' dropdown misspells the ChatGPT brand as 'Chat GPT' and has a lone lowercase option 'internet search'
+- **Severity:** Minor
+- **Type:** Bug (content/copy)
+- **What & where:** https://www.contrario.ai/book-a-demo — 'HOW DID YOU HEAR ABOUT US?' select
+- **Evidence:** Live HTML 2026-07-06 contains `<option value="Chat GPT">Chat GPT</option>` and `<option value="internet search">internet search</option>` while every sibling option is capitalized ('LinkedIn', 'Twitter', 'Word-of-mouth', 'Referral', 'VC Deal (YC, Nexus)', 'Product Hunt', 'Other'). Same class of brand-spelling defect as the previously reported 'WISP FLOW', but a different, unreported instance; present in the 07-01 capture too.
+- **Fix:** Rename the labels to 'ChatGPT' and 'Internet search' (values can stay if the CRM depends on them).
+
+### 26. Missing space 'providers.All' in Privacy Policy section 8.3
+- **Severity:** Minor
+- **Type:** Bug (content/copy)
+- **What & where:** https://www.contrario.ai/privacy-policy — section '8.3 How We Store Google User Data'
+- **Evidence:** Fresh deep.json page text: '...hosted by industry-leading cloud infrastructure providers.All data is encrypted in transit using TLS/SSL...'. Live-verified 2026-07-06: grep of the served HTML returns 'providers.All data is encrypted in tran' — a single text node, i.e. a real typo rather than a text-extraction artifact. Present in the 07-01 capture but absent from the prior report.
+- **Fix:** Insert the space: '...cloud infrastructure providers. All data is encrypted...'.
+
+### 27. Gallium case study titled two different ways on the same /customers page and inconsistently across the site
+- **Severity:** Minor
+- **Type:** Bug (content/copy)
+- **What & where:** https://www.contrario.ai/customers (hero story list vs 'Case Studies' card row); also /blogs and the announcement post vs the article's own H1/`<title>`
+- **Evidence:** Live HTML of /customers 2026-07-06 contains both variants: 'How Gallium made 4 engineering hires in 15 days with Contrario' (1 occurrence, hero list) and 'How Gallium hired 4 engineers in 15 days with Contrario' (2 occurrences, card row) — also both present in fresh deep.json text. The article's own `<title>` uses 'made 4 engineering hires' while /blogs and the announcement post's card row use 'hired 4 engineers'. Distinct from prior findings #18 (title length) and #20 ('Better Recruiting' capitalization).
+- **Fix:** Pick one canonical title for the Gallium case study and use it in the /customers hero, case-study cards, /blogs, and the article H1/`<title>`.

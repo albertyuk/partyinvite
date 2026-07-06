@@ -1,0 +1,46 @@
+{
+  "key": "dex",
+  "comparedAt": "2026-07-06T08:20:47.233Z",
+  "copyStrings": [
+    {
+      "string": "couldn’t be more happier",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "call notes, and writing tone",
+      "wasPresent": true,
+      "stillPresent": true
+    },
+    {
+      "string": "@ 2026",
+      "wasPresent": true,
+      "stillPresent": true
+    }
+  ],
+  "priorBrokenLinks": [],
+  "axeChanges": [],
+  "metaChanges": [],
+  "robotsSitemap": {
+    "robots": {
+      "old": 404,
+      "new": 404
+    },
+    "sitemap": {
+      "old": 404,
+      "new": 404
+    }
+  },
+  "newLinkFailures": [
+    {
+      "url": "https://www.joindex.com/robots.txt",
+      "status": 404
+    },
+    {
+      "url": "https://www.joindex.com/sitemap.xml",
+      "status": 404
+    }
+  ],
+  "newConsoleErrors": [],
+  "newFpFailures": []
+}

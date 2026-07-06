@@ -1,0 +1,144 @@
+{
+  "key": "yondu",
+  "checkedAt": "2026-07-06T08:23:52.585Z",
+  "sitemap": {
+    "status": 404
+  },
+  "canonicals": [
+    {
+      "page": "https://www.yondu.ai/yondu-ai-at-automate-2026",
+      "canonical": "https://yondu.ai/automate",
+      "status": 404,
+      "finalUrl": "https://www.yondu.ai/automate",
+      "redirects": 1,
+      "type": "text/html; charset=utf-8",
+      "size": 6168,
+      "selfConsistent": false
+    }
+  ],
+  "socialImages": [
+    {
+      "url": "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/69cc0a787d80fadda6ce42c8_YonduBot.png",
+      "status": 200,
+      "finalUrl": "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/69cc0a787d80fadda6ce42c8_YonduBot.png",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 2093774,
+      "isImage": true
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/6a1db87333e8e746eb5d131a_post.jpg",
+      "status": 200,
+      "finalUrl": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/6a1db87333e8e746eb5d131a_post.jpg",
+      "redirects": 0,
+      "type": "image/jpeg",
+      "size": 1707417,
+      "isImage": true
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/6a1db137fe22bc94a01e89dd_YonduBot.png",
+      "status": 200,
+      "finalUrl": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/6a1db137fe22bc94a01e89dd_YonduBot.png",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 2093774,
+      "isImage": true
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/68ffbfad9dabc8b573f4cf3f_d6c14191-e526-4ae8-a014-376f329c12ca.jpg",
+      "status": 200,
+      "finalUrl": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/68ffbfad9dabc8b573f4cf3f_d6c14191-e526-4ae8-a014-376f329c12ca.jpg",
+      "redirects": 0,
+      "type": "image/jpeg",
+      "size": 111742,
+      "isImage": true
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/69c72399b84d191bc56782db_The%20State%20of%20Data%20Centers.webp",
+      "status": 200,
+      "finalUrl": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/69c72399b84d191bc56782db_The%20State%20of%20Data%20Centers.webp",
+      "redirects": 0,
+      "type": "image/webp",
+      "size": 53750,
+      "isImage": true
+    }
+  ],
+  "favicons": [
+    {
+      "href": "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bc883a7618fd1c9e56e3_cropped.jpg",
+      "resolved": "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bc883a7618fd1c9e56e3_cropped.jpg",
+      "status": 200,
+      "finalUrl": "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bc883a7618fd1c9e56e3_cropped.jpg",
+      "redirects": 0,
+      "type": "image/jpeg",
+      "size": 1562
+    },
+    {
+      "href": "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bbd722505cfdcdc146f6_ICON.jpg",
+      "resolved": "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bbd722505cfdcdc146f6_ICON.jpg",
+      "status": 200,
+      "finalUrl": "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bbd722505cfdcdc146f6_ICON.jpg",
+      "redirects": 0,
+      "type": "image/jpeg",
+      "size": 14016
+    }
+  ],
+  "regression": [
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/NU60VVf-robotics-software-intern",
+      "status": 404,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/NU60VVf-robotics-software-intern",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 1152
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/FjyrKhI-quarter-1-2026-robotics-hardware-intern",
+      "status": 404,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/FjyrKhI-quarter-1-2026-robotics-hardware-intern",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 1152
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/boSSSw0-summer-2026-robotics-hardware-intern",
+      "status": 404,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/boSSSw0-summer-2026-robotics-hardware-intern",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 1152
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/l6z04IP-senior-robotics-engineer",
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/l6z04IP-senior-robotics-engineer",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 146057
+    },
+    {
+      "url": "https://yondu.ai/automate",
+      "status": 404,
+      "finalUrl": "https://www.yondu.ai/automate",
+      "redirects": 1,
+      "type": "text/html; charset=utf-8",
+      "size": 6168
+    },
+    {
+      "url": "https://www.yondu.ai/sitemap.xml",
+      "status": 404,
+      "finalUrl": "https://www.yondu.ai/sitemap.xml",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 6168
+    },
+    {
+      "url": "https://www.yondu.ai/robots.txt",
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/robots.txt",
+      "redirects": 0,
+      "type": "text/plain; charset=utf-8",
+      "size": 0
+    }
+  ]
+}

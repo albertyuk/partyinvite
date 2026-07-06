@@ -1,0 +1,1578 @@
+{
+  "key": "yondu",
+  "name": "Yondu",
+  "category": "warehouse robotics",
+  "start": "https://www.yondu.ai/",
+  "note": "yondu.ai redirects to www.yondu.ai",
+  "startedAt": "2026-07-06T08:21:48.031Z",
+  "baseHost": "www.yondu.ai",
+  "pages": {
+    "home": {
+      "url": "https://www.yondu.ai/",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/"
+      },
+      "meta": {
+        "title": "Home",
+        "titleLen": 4,
+        "metaDescription": "The future of warehouse automation. Yondu is building an embodied AI platform that enables you to automate any logistics task in any warehouse with any off-the-shelf robot.",
+        "canonical": null,
+        "robotsMeta": null,
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "The Future of Physical Labor.",
+          "We envision a future where all manual tasks are done by robots. A future where businesses reallocate labor towards highe",
+          "Partnership with Shipbots"
+        ],
+        "h1Count": 3,
+        "headings": [
+          {
+            "level": 1,
+            "text": "The Future of Physical Labor."
+          },
+          {
+            "level": 1,
+            "text": "We envision a future where all manual tasks are done by robots. A future where b"
+          },
+          {
+            "level": 1,
+            "text": "Partnership with Shipbots"
+          }
+        ],
+        "og": {
+          "og:title": "Home",
+          "og:description": "The future of warehouse automation. Yondu is building an embodied AI platform that enables you to automate any logistics task in any warehouse with any off-the-shelf robot.",
+          "og:image": "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/69cc0a787d80fadda6ce42c8_YonduBot.png",
+          "og:type": "website"
+        },
+        "twitter": {
+          "twitter:title": "Home",
+          "twitter:description": "The future of warehouse automation. Yondu is building an embodied AI platform that enables you to automate any logistics task in any warehouse with any off-the-shelf robot.",
+          "twitter:card": "summary_large_image"
+        },
+        "favicons": [
+          "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bc883a7618fd1c9e56e3_cropped.jpg",
+          "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bbd722505cfdcdc146f6_ICON.jpg"
+        ],
+        "imgCount": 42,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 27,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 23,
+        "headStyles": 3,
+        "headSyncScripts": 1,
+        "linkCount": 17,
+        "textSample": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company The Future of Physical Labor. ∙WAREHOUSE AUTOMATION Yondu provides drop-in, general-purpose robots for 3PL warehouses to automate high-turnover labor and deliver fast, ROI-positive automation without new infrastructure. s s g u z d d g s r Automation shouldn't be out of reach; it should evolve with your business and fit seamlessly into the way you already work. Toggle Through To View All Our Current Applications (2x Speed) See Everything We Are Automating! Yondu Automates The Full Range Of Repetitive Physical Warehouse Workflows. Focused on Innovation Yondu is the first company to fully automate brownfield bin-picking, along with other critical warehouse tasks, at a price point mid-sized warehouses can afford. Our system works within existing layouts and processes, eliminating the need for costly retrofits or new infrastructure. Revolutionary Research With Yondu, warehouses can cut labor costs by up to 75%, reduce errors and lost inventory, handle seasonal demand with ease, and maintain reliable 24/7 operations. That frees teams to focus on growth, while automation handles the heavy lifting. With Yondu, integration is seamless: our robots adapt to the warehouse you already have, working within your current layout and processes so you can automate without halting operations or investing in new infrastructure. Warehouses that can automate bin-picking will deliver better service, drastically lower costs, and stand out from competitors. Yondu is a brownfield installation so you don’t have to change any of your existing infrastructure. Yondu’s AI robots navigate shelves, identify items, and pick and place any SKU within your existing warehouse layout. In this video We introduce Yondu AI co-founder Michael Chen and Tahmid Jamal break down the many dimensions of their work, from the challenges they're solving today to the long-term vision shaping the future of robotics and warehouse automation. RUNTIME 5:41 We envision a future where all manual tasks are done by robots. A future where businesses reallocate labor towards higher impact tasks. Drop In Warehouse Automation Warehouse Automation Embodied AI Platform Brownfield Automation Through Robot Learning Yondu is the first company to fully automate brownfield warehouse tasks at a price point any warehouse can afford. Our approach brings advanced robotics into existing operations without costly infrastructure changes, making automation accessible to businesses of every size. Get In Touch You get a seamless path to next-generation automation with no costly rebuilds, no SKU limits, just smarter operations to scale with your business. Partnership with Shipbots Yondu has had a close partnership with Shipbots one of the largest and most tech forward 3PLs on the West Coast. We’re working with them to test, iterate, and roll out our bin-picking robots in their warehouse. Reach out to our team Whether you’re planning next steps or fine tuning operations, we're here to help. Bring us your tasks and we'll make them hands-free. CONTACT OUR TEAM hello@yonduai.com +1-904-325-3099 z z z z i i z z Control. Learn. Automate. From pilot to production, we turn robots into a coordinated workforce for any warehouse job. changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".text-span-50"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.96 (foreground color: #bba4d3, background color: #f3f0e5, font size: 30.0pt (40px), font weight: normal). Expected contrast ratio of 3:1",
+              "html": "<span class=\"text-span-50\">it should evolve with your business and fit seamlessly into the way you already work.</span>"
+            },
+            {
+              "target": [
+                ".button-9"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.96 (foreground color: #f3f0e5, background color: #bba4d3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+              "html": "<a data-wf-native-id-path=\"24b7068e-375b-2d97-d369-87e60301348d\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"24b7068e-375b-2d97-d369-87e6030"
+            }
+          ],
+          "count": 2
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html data-wf-domain=\"www.yondu.ai\" data-wf-page=\"68d5de3fd18f1e660d11...\" data-wf-site=\"68b78b24b8c6d7f8c97c...\" data-wf-intellimize-...=\"117762784\" lang=\"en\" "
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a href=\"/\" data-wf-native-id-pa...=\"83fff27c-b59f-974c-5...\" data-wf-ao-click-eng...=\"true\" data-wf-element-id=\"731a7f16-b9b3-5da3-8...\" data-wf-component-co.."
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".wide-section.section:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section class=\"section wide-section\">"
+            },
+            {
+              "target": [
+                "#bin-picking"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div id=\"bin-picking\" class=\"heading-h2 long-title\">Automation shouldn't be out of reach; <span class=\"text-span-50\">it should evolve with your business and fit"
+            },
+            {
+              "target": [
+                ".div-block-31"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"div-block-31\"><a data-wf-native-id-path=\"24b7068e-375b-2d97-d369-87e60301348d\" data-wf-ao-click-engagement-tracking=\"true\" data-wf-element-id=\"24b70"
+            },
+            {
+              "target": [
+                ".main-container-19 > .grid-2"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"grid-2\">"
+            },
+            {
+              "target": [
+                ".intro-paragraph-container-2"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"intro-paragraph-container-2\">"
+            }
+          ],
+          "count": 14
+        }
+      ],
+      "perf": {
+        "domContentLoaded": 2299,
+        "load": 8561,
+        "fcp": 3732,
+        "lcp": null,
+        "cls": 0,
+        "resourceCount": 77
+      },
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 3
+        },
+        {
+          "width": 768,
+          "scrollW": 768,
+          "clientW": 768,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 3
+        },
+        {
+          "width": 1440,
+          "scrollW": 1440,
+          "clientW": 1440,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 6
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.yondu.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/yondu-ai-at-automate-2026",
+          "text": "We'll Be At Automate 2026!",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/",
+          "text": "Home",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/what-were-automating",
+          "text": "What We're Automating",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/partner-with-us",
+          "text": "Partner With Us",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/about",
+          "text": "About Us",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/ourblog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/where-weve-been",
+          "text": "Find Us!",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/careers",
+          "text": "Careers",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/store",
+          "text": "Store",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/what-were-automating",
+          "text": "See Everything We Are Automating!",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/#reach-out",
+          "text": "Get In Touch",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/#",
+          "text": "hello@yonduai.com",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/#",
+          "text": "+1-904-325-3099",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/#",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/yonduai",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/yonduai/",
+          "text": "",
+          "inNav": false
+        }
+      ]
+    },
+    "about:/about": {
+      "url": "https://www.yondu.ai/about",
+      "kind": "about",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/about"
+      },
+      "meta": {
+        "title": "About Us",
+        "titleLen": 8,
+        "metaDescription": "At Yondu, we are revolutionizing physical labor by building the robot workforce of the future. We empower businesses to reduce operating costs and enhance efficiency.",
+        "canonical": null,
+        "robotsMeta": null,
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "A Team Of"
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "A Team Of"
+          },
+          {
+            "level": 2,
+            "text": "We're obsessed with building the future of physical labor"
+          }
+        ],
+        "og": {
+          "og:title": "About Us",
+          "og:description": "At Yondu, we are revolutionizing physical labor by building the robot workforce of the future. We empower businesses to reduce operating costs and enhance efficiency.",
+          "og:type": "website"
+        },
+        "twitter": {
+          "twitter:title": "About Us",
+          "twitter:description": "At Yondu, we are revolutionizing physical labor by building the robot workforce of the future. We empower businesses to reduce operating costs and enhance efficiency.",
+          "twitter:card": "summary_large_image"
+        },
+        "favicons": [
+          "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bc883a7618fd1c9e56e3_cropped.jpg",
+          "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bbd722505cfdcdc146f6_ICON.jpg"
+        ],
+        "imgCount": 17,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 14,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 5,
+        "headStyles": 3,
+        "headSyncScripts": 1,
+        "linkCount": 16,
+        "textSample": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company A Team Of Hackers. We're obsessed with building the future of physical labor s s g u z d d g s r At Yondu, we are revolutionizing physical labor by building the robot workforce of the future. We empower businesses to lower operating costs, eliminate turnover, and increase efficiency. We do all this by leveraging breakthroughs in robot learning and the rapid commercialization of general purpose robot hardware. Our History We've built our growth on collaboration, a spirit of experimentation, and a belief in the value of long-term thinking. DEC 2023 Yondu Founded at MIT FEB 2024 Participated in the PROD 3.0 and YC W24 cohorts MAY 2024 Closed seed round and built first embodied AI demo NOV 2024 Landed First Design Partnership JAN 2025 Began work with Shipbots to develop our bin-picking application JUN 2025 Opened Yondu HQ and landed pilot contract SEP 2025 Demonstrated Comprehensive Tele-operated Bin-Picking System FUTURE Building the future of physical labor At Yondu We Have Cultural Pillars That Make Working Here Exciting, Fun, And Unique. Speak Up: We debate, speak up and do it without worry, no matter who's in the room—problems get raised fast, and the best ideas win. Relentless Learning: We always read the most recent papers, keep up with the state of the art, and continually learn and improve our skills. Curiosity drives us forward, ensuring we're always evolving with the field and pushing beyond the known edge. Flat Structure: Founders and everyone work equally on the same problems without exception. We never ask anyone to do anything you wouldn't do yourself. This creates an environment where responsibility is shared, and everyone has a direct impact on our success. Passion For Robotics: We're obsessed with building robots that push the limits of what’s possible and think what we do is super cool. For us, robotics isn't just technology; it's also creativity, curiosity, and craft in motion. Exciting Mission: We're tackling one of the hardest problems in robot learning—bringing humanoid robots into the real world to solve urgent needs. Underdog Mindset: We understand we’re a startup and always punch above our weight to compete with companies much larger than ours. We embrace challenges with resourcefulness and determination, turning our size into an advantage. Grit & Resillience We stay steady under pressure, adapt when things don’t go as planned, and keep pushing forward until the problem is solved. Having Fun: We laugh as hard as we work—because building the future is only worth it if we enjoy the ride together. Fun isn't extra—it's how we stay curious, creative, and unstoppable. Based in Los Angeles, CA Yondu AI is rooted in Los Angeles, where we partner directly with local customers to refine and deploy our technology while we build the foundation for expansion. LOCATION Gardena, CA CONTACT hello@yonduai.com +14159078109 z z z z i i z z Control. Learn. Automate. From pilot to production, we turn robots into a coordinated workforce for any warehouse job. changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".text-span-30"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.96 (foreground color: #bba4d3, background color: #f3f0e5, font size: 30.0pt (40px), font weight: normal). Expected contrast ratio of 3:1",
+              "html": "<span class=\"text-span-30\">building the robot workforce of the future. </span>"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html data-wf-domain=\"www.yondu.ai\" data-wf-page=\"68b78b25b8c6d7f8c97c...\" data-wf-site=\"68b78b24b8c6d7f8c97c...\" data-wf-intellimize-...=\"117762784\" lang=\"en\" "
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a href=\"/\" data-wf-native-id-pa...=\"83fff27c-b59f-974c-5...\" data-wf-ao-click-eng...=\"true\" data-wf-element-id=\"731a7f16-b9b3-5da3-8...\" data-wf-component-co.."
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "h1"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<h1 class=\"heading-5\">A Team Of<span class=\"text-span-20\"></span></h1>"
+            },
+            {
+              "target": [
+                "h2"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<h2 class=\"heading-h5\">We're obsessed with building the future of physical labor</h2>"
+            },
+            {
+              "target": [
+                ".video"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<a href=\"#\" class=\"video about-hero-video w-inline-block w-lightbox\" aria-label=\"open lightbox\" aria-haspopup=\"dialog\">"
+            },
+            {
+              "target": [
+                ".background-effect-wrapper"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<div class=\"background-effect-wrapper transparent\">"
+            },
+            {
+              "target": [
+                ".top-padding-l.section"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section data-w-id=\"798fee0b-4c23-f6c6-82f5-bf2b47d11be0\" style=\"opacity: 1;\" class=\"section top-padding-l\">"
+            }
+          ],
+          "count": 18
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "help": "Scrollable region must have keyboard access",
+          "description": "Ensure elements that have scrollable content are accessible by keyboard in Safari",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/scrollable-region-focusable?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".horizontal-timeline"
+              ],
+              "summary": "Fix any of the following: Element should have focusable content Element should be focusable",
+              "html": "<div data-w-id=\"e3609f12-f568-8724-4c84-d4f5c7cbcd29\" style=\"transform: translate3d(0px, 24px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) s"
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 2
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.yondu.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/yondu-ai-at-automate-2026",
+          "text": "We'll Be At Automate 2026!",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/",
+          "text": "Home",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/what-were-automating",
+          "text": "What We're Automating",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/partner-with-us",
+          "text": "Partner With Us",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/about",
+          "text": "About Us",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/ourblog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/where-weve-been",
+          "text": "Find Us!",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/careers",
+          "text": "Careers",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/store",
+          "text": "Store",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/about#",
+          "text": "{ \"items\": [ { \"url\": \"https://www.youtube.com/watch?v=NI2AK",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/about#",
+          "text": "hello@yonduai.com",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/about#",
+          "text": "+14159078109",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/about#",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/yonduai",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/yonduai/",
+          "text": "",
+          "inNav": false
+        }
+      ]
+    },
+    "blog:/ourblog": {
+      "url": "https://www.yondu.ai/ourblog",
+      "kind": "blog",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/ourblog"
+      },
+      "meta": {
+        "title": "Blog",
+        "titleLen": 4,
+        "metaDescription": "Check out our most recent blog posts here.",
+        "canonical": null,
+        "robotsMeta": null,
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "News and insight."
+        ],
+        "h1Count": 1,
+        "headings": [
+          {
+            "level": 1,
+            "text": "News and insight."
+          },
+          {
+            "level": 2,
+            "text": "Stay up to date with the latest news and resources from the Yondu Team"
+          }
+        ],
+        "og": {
+          "og:title": "Blog",
+          "og:description": "Check out our most recent blog posts here.",
+          "og:type": "website"
+        },
+        "twitter": {
+          "twitter:title": "Blog",
+          "twitter:description": "Check out our most recent blog posts here.",
+          "twitter:card": "summary_large_image"
+        },
+        "favicons": [
+          "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bc883a7618fd1c9e56e3_cropped.jpg",
+          "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bbd722505cfdcdc146f6_ICON.jpg"
+        ],
+        "imgCount": 10,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 7,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 6,
+        "headStyles": 3,
+        "headSyncScripts": 1,
+        "linkCount": 17,
+        "textSample": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company OUR JOURNAL News and insight. Stay up to date with the latest news and resources from the Yondu Team s s g u z d d g s r SMB 3PLs Don’t Need to Consolidate. They Need Robotic Labor. JUNE 1, 2026 Deploying: A Swan Lake of Robotics APRIL 18, 2025 A Peek Behind the Curtain of Humanoid Manufacturing OCTOBER 27, 2025 The State of Data Centers MARCH 27, 2026 z z z z i i z z Control. Learn. Automate. From pilot to production, we turn robots into a coordinated workforce for any warehouse job. changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved."
+      },
+      "axe": [
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html data-wf-domain=\"www.yondu.ai\" data-wf-page=\"68f156d4d08e7127a9f2...\" data-wf-site=\"68b78b24b8c6d7f8c97c...\" data-wf-intellimize-...=\"117762784\" lang=\"en\" "
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a href=\"/\" data-wf-native-id-pa...=\"83fff27c-b59f-974c-5...\" data-wf-ao-click-eng...=\"true\" data-wf-element-id=\"731a7f16-b9b3-5da3-8...\" data-wf-component-co.."
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".section-24"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section class=\"section-24 wide-section\">"
+            },
+            {
+              "target": [
+                ".section-23"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section data-w-id=\"17003270-26d0-1fd5-e2cc-0e1b7710ba89\" style=\"opacity: 1;\" class=\"section-23 bottom-padding-l\">"
+            },
+            {
+              "target": [
+                ".section.wide-section"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section data-w-id=\"59826b22-f114-a1d5-18e0-be230fcbed71\" class=\"section wide-section\" style=\"transform: translate3d(0px, 24px, 0px) scale3d(1, 1, 1) rotateX(0d"
+            },
+            {
+              "target": [
+                ".footer"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section class=\"footer\">"
+            }
+          ],
+          "count": 4
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 0
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.yondu.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/yondu-ai-at-automate-2026",
+          "text": "We'll Be At Automate 2026!",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/",
+          "text": "Home",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/what-were-automating",
+          "text": "What We're Automating",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/partner-with-us",
+          "text": "Partner With Us",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/about",
+          "text": "About Us",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/ourblog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/where-weve-been",
+          "text": "Find Us!",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/careers",
+          "text": "Careers",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/store",
+          "text": "Store",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/blog-posts/smb-3pls-dont-need-to-consolidate-they-need-robotic-labor",
+          "text": "SMB 3PLs Don’t Need to Consolidate. They Need Robotic Labor.",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/blog-posts/a-swan-lake-of-robotics",
+          "text": "Deploying: A Swan Lake of RoboticsApril 18, 2025",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/blog-posts/a-peek-behind-the-curtain-of-humanoid-manufacturing",
+          "text": "A Peek Behind the Curtain of Humanoid ManufacturingOctober 2",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/blog-posts/state-of-data-centers",
+          "text": "The State of Data CentersMarch 27, 2026",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/ourblog#",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/yonduai",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/yonduai/",
+          "text": "",
+          "inNav": false
+        }
+      ]
+    },
+    "careers:/careers": {
+      "url": "https://www.yondu.ai/careers",
+      "kind": "careers",
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/careers"
+      },
+      "meta": {
+        "title": "Careers",
+        "titleLen": 7,
+        "metaDescription": "We’re assembling an incredible team of researchers and engineers who are obsessed with taking robot learning research out of the lab and into the real world.",
+        "canonical": null,
+        "robotsMeta": null,
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "charset": "utf-8",
+        "lang": "en",
+        "h1s": [
+          "We're Building An Extraordinary Team",
+          "Benefits:"
+        ],
+        "h1Count": 2,
+        "headings": [
+          {
+            "level": 1,
+            "text": "We're Building An Extraordinary Team"
+          },
+          {
+            "level": 1,
+            "text": "Benefits:"
+          }
+        ],
+        "og": {
+          "og:title": "Careers",
+          "og:description": "We’re assembling an incredible team of researchers and engineers who are obsessed with taking robot learning research out of the lab and into the real world.",
+          "og:type": "website"
+        },
+        "twitter": {
+          "twitter:title": "Careers",
+          "twitter:description": "We’re assembling an incredible team of researchers and engineers who are obsessed with taking robot learning research out of the lab and into the real world.",
+          "twitter:card": "summary_large_image"
+        },
+        "favicons": [
+          "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bc883a7618fd1c9e56e3_cropped.jpg",
+          "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/68b8bbd722505cfdcdc146f6_ICON.jpg"
+        ],
+        "imgCount": 18,
+        "imgMissingAlt": [],
+        "imgMissingAltCount": 0,
+        "imgEmptyAlt": 8,
+        "imgBroken": [],
+        "imgBrokenCount": 0,
+        "imgNoDims": 14,
+        "headStyles": 3,
+        "headSyncScripts": 1,
+        "linkCount": 25,
+        "textSample": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company We're Building An Extraordinary Team We're assembling an incredible team of researchers and engineers who are obsessed with taking robot learning research out of the lab and into the real world. s s g u z d d g s r We solve complex problems by bringing every perspective to the table. We’re a tight-knit team of innovators led by two MIT co-founders, Michael and Tahmid. Our AI research is driven by a Postdoc in Robot Learning from MIT, teleoperation is led by a robotics PhD from Georgia Tech, and our industry veteran brings nearly a decade of expertise in reinforcement learning, teleoperation, and robot manipulation. Supporting them are four exceptionally talented founding engineers and our team of robot operators. Open Positions Robotics Software Intern GARDENA, CA MONTHLY Senior Robotics Engineer GARDENA, CA FULL TIME Quarter 1 2026 Robotics Hardware Intern GARDENA, CA MONTHLY Summer 2026 Robotics Hardware Intern GARDENA, CA MONTHLY Business Development Representative, Robotics GARDENA, CA FULL TIME Founding Robotics Researcher GARDENA, CA FULL TIME Explore Careers Benefits: e b 401(k) Matching We match up to 4% of your 401(k): 100% of the first 3% you contribute, and 50% of the next 2% e b Time Off Every team member enjoys unlimited paid time off, along with a dedicated week of sick leave. e b Meals Frequently catered Meals, turning mealtimes into a chance to recharge, share ideas, and enjoy good food together. e b Health Insurance Comprehensive medical and dental coverage — 100% of premiums covered for you and your dependents. e b Stock Options Yondu is on a rocket ship trajectory and joining has the opportunity for massive equity value growth. z z z z i i z z Control. Learn. Automate. From pilot to production, we turn robots into a coordinated workforce for any warehouse job. changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved."
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".text-span-37"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.96 (foreground color: #bba4d3, background color: #f3f0e5, font size: 30.0pt (40px), font weight: normal). Expected contrast ratio of 3:1",
+              "html": "<span class=\"text-span-37\">every perspective to the table.</span>"
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "help": "Document should have one main landmark",
+          "description": "Ensure the document has a main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-one-main?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark",
+              "html": "<html data-wf-domain=\"www.yondu.ai\" data-wf-page=\"68b78b25b8c6d7f8c97c...\" data-wf-site=\"68b78b24b8c6d7f8c97c...\" data-wf-intellimize-...=\"117762784\" lang=\"en\" "
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "description": "Ensure links have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attri",
+              "html": "<a href=\"/\" data-wf-native-id-pa...=\"83fff27c-b59f-974c-5...\" data-wf-ao-click-eng...=\"true\" data-wf-element-id=\"731a7f16-b9b3-5da3-8...\" data-wf-component-co.."
+            }
+          ],
+          "count": 1
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "help": "All page content should be contained by landmarks",
+          "description": "Ensure all page content is contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+          "nodes": [
+            {
+              "target": [
+                ".wide-section.section:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section class=\"section wide-section\">"
+            },
+            {
+              "target": [
+                ".section:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section data-w-id=\"d0217983-60fb-9349-ebc7-e7d0e58b2602\" style=\"opacity: 1;\" class=\"section\">"
+            },
+            {
+              "target": [
+                ".wide-section.section:nth-child(4)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section data-w-id=\"59826b22-f114-a1d5-18e0-be230fcbed71\" class=\"section wide-section\" style=\"transform: translate3d(0px, 24px, 0px) scale3d(1, 1, 1) rotateX(0d"
+            },
+            {
+              "target": [
+                ".footer"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks",
+              "html": "<section class=\"footer\">"
+            }
+          ],
+          "count": 4
+        }
+      ],
+      "responsive": [
+        {
+          "width": 375,
+          "scrollW": 375,
+          "clientW": 375,
+          "overflowPx": 0,
+          "offenders": [],
+          "tinyTapTargets": 0
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.yondu.ai/",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/yondu-ai-at-automate-2026",
+          "text": "We'll Be At Automate 2026!",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/",
+          "text": "Home",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/what-were-automating",
+          "text": "What We're Automating",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/partner-with-us",
+          "text": "Partner With Us",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/about",
+          "text": "About Us",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/ourblog",
+          "text": "Blog",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/where-weve-been",
+          "text": "Find Us!",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/careers",
+          "text": "Careers",
+          "inNav": true
+        },
+        {
+          "href": "https://www.yondu.ai/store",
+          "text": "Store",
+          "inNav": true
+        },
+        {
+          "href": "https://www.ycombinator.com/companies/yondu/jobs/NU60VVf-robotics-software-intern",
+          "text": "Robotics Software Interngardena, caMonthly",
+          "inNav": false
+        },
+        {
+          "href": "https://www.ycombinator.com/companies/yondu/jobs/l6z04IP-senior-robotics-engineer",
+          "text": "Senior Robotics Engineergardena, cafull time",
+          "inNav": false
+        },
+        {
+          "href": "https://www.ycombinator.com/companies/yondu/jobs/FjyrKhI-quarter-1-2026-robotics-hardware-intern",
+          "text": "Quarter 1 2026 Robotics Hardware Interngardena, caMonthly",
+          "inNav": false
+        },
+        {
+          "href": "https://www.ycombinator.com/companies/yondu/jobs/boSSSw0-summer-2026-robotics-hardware-intern",
+          "text": "Summer 2026 Robotics Hardware Interngardena, caMonthly",
+          "inNav": false
+        },
+        {
+          "href": "https://www.ycombinator.com/companies/yondu/jobs/dtIZ1oD-business-development-representative-robotics",
+          "text": "Business Development Representative, Roboticsgardena, cafull",
+          "inNav": false
+        },
+        {
+          "href": "https://www.ycombinator.com/companies/yondu/jobs/QAKnidR-founding-robotics-researcher",
+          "text": "Founding Robotics Researchergardena, cafull time",
+          "inNav": false
+        },
+        {
+          "href": "https://www.ycombinator.com/companies/yondu/jobs",
+          "text": "Explore Careers",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/careers#",
+          "text": "eb",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/careers#",
+          "text": "eb",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/careers#",
+          "text": "eb",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/careers#",
+          "text": "eb",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/careers#",
+          "text": "eb",
+          "inNav": false
+        },
+        {
+          "href": "https://www.yondu.ai/careers#",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://x.com/yonduai",
+          "text": "",
+          "inNav": false
+        },
+        {
+          "href": "https://www.linkedin.com/company/yonduai/",
+          "text": "",
+          "inNav": false
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "url": "https://www.yondu.ai/",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/careers"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://www.yondu.ai/yondu-ai-at-automate-2026",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/yondu-ai-at-automate-2026",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "We'll Be At Automate 2026!"
+    },
+    {
+      "url": "https://www.yondu.ai/what-were-automating",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/what-were-automating",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "What We're Automating"
+    },
+    {
+      "url": "https://www.yondu.ai/partner-with-us",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/partner-with-us",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "Partner With Us"
+    },
+    {
+      "url": "https://www.yondu.ai/about",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/about",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "About Us"
+    },
+    {
+      "url": "https://www.yondu.ai/ourblog",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/ourblog",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "Blog"
+    },
+    {
+      "url": "https://www.yondu.ai/where-weve-been",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/where-weve-been",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "Find Us!"
+    },
+    {
+      "url": "https://www.yondu.ai/careers",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/careers",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "Careers"
+    },
+    {
+      "url": "https://www.yondu.ai/store",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/store",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "Store"
+    },
+    {
+      "url": "https://www.yondu.ai/blog-posts/smb-3pls-dont-need-to-consolidate-they-need-robotic-labor",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/blog-posts/smb-3pls-dont-need-to-consolidate-they-need-robotic-labor",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/ourblog"
+      ],
+      "text": "SMB 3PLs Don’t Need to Consolidate. They Need Robotic Labor."
+    },
+    {
+      "url": "https://www.yondu.ai/blog-posts/a-swan-lake-of-robotics",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/blog-posts/a-swan-lake-of-robotics",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/ourblog"
+      ],
+      "text": "Deploying: A Swan Lake of RoboticsApril 18, 2025"
+    },
+    {
+      "url": "https://www.yondu.ai/blog-posts/a-peek-behind-the-curtain-of-humanoid-manufacturing",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/blog-posts/a-peek-behind-the-curtain-of-humanoid-manufacturing",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/ourblog"
+      ],
+      "text": "A Peek Behind the Curtain of Humanoid ManufacturingOctober 2"
+    },
+    {
+      "url": "https://www.yondu.ai/blog-posts/state-of-data-centers",
+      "firstParty": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/blog-posts/state-of-data-centers",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/ourblog"
+      ],
+      "text": "The State of Data CentersMarch 27, 2026"
+    },
+    {
+      "url": "https://x.com/yonduai",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://x.com/yonduai",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/careers"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://www.linkedin.com/company/yonduai/",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/company/yonduai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/careers"
+      ],
+      "text": ""
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/NU60VVf-robotics-software-intern",
+      "firstParty": false,
+      "status": 404,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/NU60VVf-robotics-software-intern",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "Robotics Software Interngardena, caMonthly"
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/l6z04IP-senior-robotics-engineer",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/l6z04IP-senior-robotics-engineer",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "Senior Robotics Engineergardena, cafull time"
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/FjyrKhI-quarter-1-2026-robotics-hardware-intern",
+      "firstParty": false,
+      "status": 404,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/FjyrKhI-quarter-1-2026-robotics-hardware-intern",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "Quarter 1 2026 Robotics Hardware Interngardena, caMonthly"
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/boSSSw0-summer-2026-robotics-hardware-intern",
+      "firstParty": false,
+      "status": 404,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/boSSSw0-summer-2026-robotics-hardware-intern",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "Summer 2026 Robotics Hardware Interngardena, caMonthly"
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/dtIZ1oD-business-development-representative-robotics",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/dtIZ1oD-founding-business-development-representative-robotics",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "Business Development Representative, Roboticsgardena, cafull"
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/QAKnidR-founding-robotics-researcher",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/QAKnidR-founding-robotics-researcher",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "Founding Robotics Researchergardena, cafull time"
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs",
+      "firstParty": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ],
+      "text": "Explore Careers"
+    }
+  ],
+  "robots": {
+    "status": 200,
+    "present": false,
+    "looksLikeHtml": false,
+    "sample": ""
+  },
+  "sitemap": {
+    "status": 404,
+    "present": false,
+    "looksLikeXml": false
+  },
+  "redirectNote": "yondu.ai redirects to www.yondu.ai",
+  "keyPagesDiscovered": [
+    {
+      "url": "https://www.yondu.ai/about",
+      "kind": "about",
+      "text": "About Us"
+    },
+    {
+      "url": "https://www.yondu.ai/ourblog",
+      "kind": "blog",
+      "text": "Blog"
+    },
+    {
+      "url": "https://www.yondu.ai/careers",
+      "kind": "careers",
+      "text": "Careers"
+    }
+  ],
+  "linkCounts": {
+    "firstPartyTotal": 13,
+    "externalTotal": 9,
+    "checkedFP": 13,
+    "checkedEXT": 9
+  },
+  "network": {
+    "totalRequests": 282,
+    "firstPartyFailures": [],
+    "thirdPartyFailures": [
+      {
+        "url": "https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=6634504ae8fb0e0438e874af",
+        "status": 400,
+        "onPage": "https://www.yondu.ai/"
+      }
+    ],
+    "mixedContent": [],
+    "largestFirstParty": [
+      {
+        "url": "https://www.yondu.ai/",
+        "kb": 68.3,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "url": "https://www.yondu.ai/about",
+        "kb": 52.4,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "url": "https://www.yondu.ai/careers",
+        "kb": 42.9,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "url": "https://www.yondu.ai/ourblog",
+        "kb": 35.9,
+        "type": "text/html; charset=utf-8"
+      }
+    ]
+  },
+  "console": {
+    "errors": [
+      {
+        "type": "error",
+        "text": "Potential permissions policy violation: autoplay is not allowed in this document.",
+        "onPage": "https://www.yondu.ai/",
+        "location": "https://www.youtube.com/s/player/4918c89a/www-widgetapi.vflset/www-widgetapi.js:147"
+      },
+      {
+        "type": "error",
+        "text": "Potential permissions policy violation: encrypted-media is not allowed in this document.",
+        "onPage": "https://www.yondu.ai/",
+        "location": "https://www.youtube.com/s/player/4918c89a/www-widgetapi.vflset/www-widgetapi.js:147"
+      },
+      {
+        "type": "error",
+        "text": "Potential permissions policy violation: accelerometer is not allowed in this document.",
+        "onPage": "https://www.yondu.ai/",
+        "location": "https://www.youtube.com/s/player/4918c89a/www-widgetapi.vflset/www-widgetapi.js:147"
+      },
+      {
+        "type": "error",
+        "text": "Potential permissions policy violation: gyroscope is not allowed in this document.",
+        "onPage": "https://www.yondu.ai/",
+        "location": "https://www.youtube.com/s/player/4918c89a/www-widgetapi.vflset/www-widgetapi.js:147"
+      },
+      {
+        "type": "error",
+        "text": "Potential permissions policy violation: clipboard-write is not allowed in this document.",
+        "onPage": "https://www.yondu.ai/",
+        "location": "https://www.youtube.com/s/player/4918c89a/www-widgetapi.vflset/www-widgetapi.js:147"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "onPage": "https://www.yondu.ai/",
+        "location": "https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=6634504ae8fb0e0438e874af:0"
+      },
+      {
+        "type": "error",
+        "text": "Potential permissions policy violation: autoplay is not allowed in this document.",
+        "onPage": "https://www.yondu.ai/",
+        "location": ""
+      },
+      {
+        "type": "error",
+        "text": "Potential permissions policy violation: encrypted-media is not allowed in this document.",
+        "onPage": "https://www.yondu.ai/",
+        "location": ""
+      },
+      {
+        "type": "error",
+        "text": "Potential permissions policy violation: accelerometer is not allowed in this document.",
+        "onPage": "https://www.yondu.ai/",
+        "location": ""
+      },
+      {
+        "type": "error",
+        "text": "Potential permissions policy violation: gyroscope is not allowed in this document.",
+        "onPage": "https://www.yondu.ai/",
+        "location": ""
+      },
+      {
+        "type": "error",
+        "text": "Potential permissions policy violation: clipboard-write is not allowed in this document.",
+        "onPage": "https://www.yondu.ai/",
+        "location": ""
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "onPage": "https://www.yondu.ai/about",
+        "location": "https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=6634504ae8fb0e0438e874af:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "onPage": "https://www.yondu.ai/ourblog",
+        "location": "https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=6634504ae8fb0e0438e874af:0"
+      },
+      {
+        "type": "error",
+        "text": "Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "onPage": "https://www.yondu.ai/careers",
+        "location": "https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=6634504ae8fb0e0438e874af:0"
+      }
+    ],
+    "warnings": [
+      {
+        "type": "warning",
+        "text": "Specifying 'overflow: visible' on img, video and canvas tags may cause them to produce visual content outside of the element bounds. See https://github.com/WICG/view-transitions/blob/main/debugging_overflow_on_images.md for details.",
+        "onPage": "https://www.yondu.ai/",
+        "location": "https://www.yondu.ai/:0"
+      },
+      {
+        "type": "warning",
+        "text": "Unrecognized feature: 'web-share'.",
+        "onPage": "https://www.yondu.ai/",
+        "location": "https://www.youtube.com/s/player/4918c89a/www-widgetapi.vflset/www-widgetapi.js:146"
+      },
+      {
+        "type": "warning",
+        "text": "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('https://cdn.embedly.com').",
+        "onPage": "https://www.yondu.ai/",
+        "location": "https://www.youtube.com/s/player/4918c89a/www-widgetapi.vflset/www-widgetapi.js:162"
+      },
+      {
+        "type": "warning",
+        "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0A02000DC1E0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+        "onPage": "https://www.yondu.ai/",
+        "location": "https://www.youtube.com/embed/GzglTuRloCo?wmode=opaque&widget_referrer=https%3A%2F%2Fwww.yondu.ai%2F&enablejsapi=1&origin=https%3A%2F%2Fcdn.embedly.com&widgetid=1&forigin=https%3A%2F%2Fcdn.embedly.com%2Fwidgets%2Fmedia.html%3Fsrc%3Dhttps%253A%252F%252Fwww.youtube.com%252Fembed%252FGzglTuRloCo%253Ffeature%253Doembed%26display_name%3DYouTube%26url%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DGzglTuRloCo%26image%3Dhttps%253A%252F%252Fi.ytimg.com%252Fvi%252FGzglTuRloCo%252Fhqdefault.jpg%26type%3Dtext%252Fhtml%26schema%3Dyoutube&aoriginsup=1&aorigins=https%3A%2F%2Fwww.yondu.ai&gporigin=https%3A%2F%2Fwww.yondu.ai%2F&vf=6:0"
+      },
+      {
+        "type": "warning",
+        "text": "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.yondu.ai') does not match the recipient window's origin ('https://cdn.embedly.com').",
+        "onPage": "https://www.yondu.ai/",
+        "location": "/tmp/claude-0/-home-user-partyinvite/aa7afbb0-18ff-5279-81f6-fb7b2daaffb7/scratchpad/harness/node_modules/axe-core/axe.min.js:11"
+      },
+      {
+        "type": "warning",
+        "text": "Deprecated API for given entry type.",
+        "onPage": "https://www.yondu.ai/",
+        "location": ""
+      }
+    ],
+    "pageErrors": []
+  },
+  "finishedAt": "2026-07-06T08:22:41.791Z"
+}

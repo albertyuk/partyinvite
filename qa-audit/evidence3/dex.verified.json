@@ -1,0 +1,121 @@
+{
+  "key": "dex",
+  "checkedAt": "2026-07-06T08:18:57.954Z",
+  "assets": [
+    {
+      "url": "https://www.joindex.com/landing-page-2/meeting-prep.mp4",
+      "harnessKB": 20126.2,
+      "realKB": 20126,
+      "status": 200,
+      "encoding": "video/mp4",
+      "type": "video/mp4"
+    },
+    {
+      "url": "https://www.joindex.com/landing-page-2/hero-media.png",
+      "harnessKB": 4968.8,
+      "realKB": 4969,
+      "status": 200,
+      "encoding": "image/png",
+      "type": "image/png"
+    },
+    {
+      "url": "https://www.joindex.com/_next/static/chunks/4307aa3aa08ea768.js?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j",
+      "harnessKB": 1120.3,
+      "realKB": 323,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.joindex.com/_next/static/chunks/3350933b3d8989ff.js?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j",
+      "harnessKB": 209.8,
+      "realKB": 67,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.joindex.com/",
+      "harnessKB": 119.4,
+      "realKB": 18,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.joindex.com/_next/static/chunks/036ca2f21b9195b1.js?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j",
+      "harnessKB": 115.3,
+      "realKB": 40,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.joindex.com/fonts/Aeonik%20Pro%20Full%20Family%20Website/aeonikprovf-italic.woff2",
+      "harnessKB": 104.7,
+      "realKB": 105,
+      "status": 200,
+      "encoding": "font/woff2",
+      "type": "font/woff2"
+    },
+    {
+      "url": "https://www.joindex.com/fonts/Aeonik%20Pro%20Full%20Family%20Website/aeonikprovf.woff2",
+      "harnessKB": 99.9,
+      "realKB": 100,
+      "status": 200,
+      "encoding": "font/woff2",
+      "type": "font/woff2"
+    },
+    {
+      "url": "https://www.joindex.com/_next/static/chunks/54737fa05340051c.js?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j",
+      "harnessKB": 96.4,
+      "realKB": 26,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.joindex.com/use-cases",
+      "harnessKB": 87.2,
+      "realKB": 16,
+      "status": 200,
+      "encoding": "text/html; charset=utf-8",
+      "type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.joindex.com/fonts/Aeonik%20Fono%20Pro%20Full%20Family%20Website/aeonikfonoprovf.woff2",
+      "harnessKB": 86.7,
+      "realKB": 87,
+      "status": 200,
+      "encoding": "font/woff2",
+      "type": "font/woff2"
+    },
+    {
+      "url": "https://www.joindex.com/_next/static/chunks/66965b442d1d0629.css?dpl=dpl_4Aq1Ka9rm5N6YrnxnnjcZLRNaN1j",
+      "harnessKB": 86.2,
+      "realKB": 15,
+      "status": 200,
+      "encoding": "text/css; charset=utf-8",
+      "type": "text/css; charset=utf-8"
+    }
+  ],
+  "favicon": {
+    "status": 200,
+    "size": 0,
+    "type": "image/vnd.microsoft.icon",
+    "finalUrl": "https://www.joindex.com/favicon.ico",
+    "redirects": 0,
+    "url": "https://www.joindex.com/favicon.ico"
+  },
+  "firstPartyLinkFailuresReChecked": [],
+  "firstPartyAssetFailuresReChecked": [],
+  "notFoundProbe": {
+    "status": 404,
+    "size": 3209,
+    "type": "text/html; charset=utf-8",
+    "finalUrl": "https://www.joindex.com/this-page-does-not-exist-qa-audit-420000",
+    "redirects": 0,
+    "note": "expect 404"
+  },
+  "top12RealTotalMB": 25.3
+}

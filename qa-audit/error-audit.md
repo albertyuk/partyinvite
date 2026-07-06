@@ -1,5 +1,59 @@
 # Multi-Agent Website Error Audit — Consolidated Report
 
+> **Re-audit 2026-07-06 — status of this report.** Every finding below was re-verified against a
+> full fresh capture (new pass-1 + deep crawl + headers on all 7 sites, plus new checks: sitemap
+> URL sampling, canonical-target resolution, og:image/favicon resolution, `rel=noopener`,
+> duplicate IDs). Verdict: **127 of the prior findings are still true — including all 4
+> Criticals — 6 were fixed by the sites in the interim, 6 changed, and the re-audit surfaced 44
+> new findings (9 Major, 35 Minor).** Per-finding status tables and the new findings live in each
+> `audit-<company>.md` under "Re-audit (2026-07-06)"; fresh evidence in `evidence3/`.
+>
+> | Site | Prior re-verified | Still true | Fixed | Changed | New (2026-07-06) |
+> |---|---|---|---|---|---|
+> | flick.art | 20 | 17 | 2 | 1 | 7 (3 Major, 4 Minor) |
+> | uplane.com | 22 | 21 | 0 | 1 | 9 (2 Major, 7 Minor) |
+> | scalarfield.io | 17 | 15 | 0 | 2 | 5 (5 Minor) |
+> | joindex.com | 13 | 13 | 0 | 0 | 3 (1 Major, 2 Minor) |
+> | www.yondu.ai | 27 | 27 (incl. 3 Critical) | 0 | 0 | 10 (1 Major, 9 Minor) |
+> | www.contrario.ai | 23 | 22 | 1 | 0 | 6 (6 Minor) |
+> | usenaive.ai | 16 | 12 (incl. 1 Critical) | 2 | 2 | 4 (2 Major, 2 Minor) |
+>
+> **All 4 Criticals persist** (live-verified 2026-07-06): Yondu's 3 dead YC job links on
+> `/careers` and Naive's dead `status.usenaive.ai` footer link.
+>
+> **What the sites fixed since 07-01/02:** Flick redesigned `/pricing` (the contradictory
+> Studio-credits copy and the empty-table-header violations are gone — though the redesign
+> introduced an unlabeled ARIA credit slider) and added an `x-robots-tag: noindex` header to
+> `/auth` (the indexability core of that finding is fixed; the in-page meta still contradicts
+> it). Naive redesigned `/deploy` and `/templates`, clearing two a11y findings and adding
+> canonicals to the template pages (as relative URLs). Contrario's slow-TTFB observation
+> resolved (0.63s median live). Nothing copy-related was fixed anywhere — every previously
+> reported typo is still live.
+>
+> **Strongest new findings:**
+> - **Naive — `sitemap.xml` lists all 223 URLs on the wrong domain**: `naive.ai` instead of
+>   `usenaive.ai`; `naive.ai` is a placeholder deployment where deep URLs 404 (Major). A
+>   template page also tells users to install a third-party npm package named `naive` and links
+>   dead docs on that wrong domain (Major).
+> - **Flick — `og:image`/`twitter:image` 404 on every non-blog route** (`/og-image.jpg`,
+>   `/twitter-image.jpg`), and all non-blog routes serve a byte-identical homepage `<head>`
+>   (per-page meta is JS-injected only), so scrapers see the homepage card with a broken image
+>   for every marketing deep link (2 Major). The sitemap omits the blog — the only subtree with
+>   correct SSR meta.
+> - **Uplane — the footer "Careers" link now dead-ends** (useparallel.com slug resolves to
+>   `/company/undefined`, Major); sitemap advertises a stale homepage draft (`/old/old-home-2`)
+>   and a form-success page, both indexable (Major); footer says "© 2025"; the promoted "2027
+>   AI Marketing Automation Playbook" is called "2026" on its own success page.
+> - **Yondu — still promoting Automate 2026 as "upcoming" 11 days after the event ended**
+>   (site-wide banner, Major); og:image missing on 8 of 13 pages; "© 2025" footer; more copy
+>   errors in blog posts missed by pass 1.
+> - **Dex — stale old-brand OG/Twitter meta site-wide with `og:url` hardcoded to the apex**
+>   (Major); the privacy policy lives at a CMS-duplicate slug `/privacy-2` hardcoded in the ToS.
+> - **Contrario — its Apollo.io visitor-tracking integration is broken on every page** (script
+>   403 S3 AccessDenied + intent pixel 400); the book-a-demo dropdown misspells "Chat GPT".
+> - **Scalar Field — "Open AI GPT-5.4"** brand misspelling on the agentic-ETFs listing; 33
+>   `target=_blank` links without `rel=noopener`.
+
 _Orchestrated audit, 2026-07-02. One subagent per site, run in parallel (batches of 4 + 3)._
 _Method: each subagent audited from the two full capture passes taken 2026-07-01 (deep crawl of
 12–15 pages/site ≈ 2 link-levels, all-links status checks, axe-core desktop + 375px mobile,

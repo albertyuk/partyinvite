@@ -1,0 +1,2944 @@
+{
+  "key": "yondu",
+  "name": "Yondu",
+  "start": "https://www.yondu.ai/",
+  "checkedAt": "2026-07-06T08:22:47.161Z",
+  "pages": {
+    "https://www.yondu.ai/": {
+      "url": "https://www.yondu.ai/",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/"
+      },
+      "data": {
+        "title": "Home",
+        "titleLen": 4,
+        "metaDescription": "The future of warehouse automation. Yondu is building an embodied AI platform that enables you to automate any logistics task in any warehouse with any off-the-shelf robot.",
+        "metaDescriptionLen": 172,
+        "canonical": null,
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "The Future of Physical Labor.",
+          "We envision a future where all manual tasks are done by robots. A future where businesses reallocate",
+          "Partnership with Shipbots"
+        ],
+        "h1Count": 3,
+        "headingLevels": [
+          1,
+          1,
+          1
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 42,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 27,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 4,
+        "twitterCount": 3,
+        "forms": [
+          {
+            "action": "",
+            "method": "get",
+            "novalidate": false,
+            "fieldCount": 4,
+            "fields": [
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "name-2",
+                "required": true,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "Your name",
+                "labeled": false
+              },
+              {
+                "tag": "input",
+                "type": "email",
+                "name": "Email-2",
+                "required": true,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "Email Address",
+                "labeled": false
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "Company-2",
+                "required": false,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "Company",
+                "labeled": false
+              },
+              {
+                "tag": "textarea",
+                "type": "textarea",
+                "name": "Message",
+                "required": true,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "Message",
+                "labeled": false
+              }
+            ]
+          }
+        ],
+        "formCount": 1,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company The Future of Physical Labor. ∙WAREHOUSE AUTOMATION Yondu provides drop-in, general-purpose robots for 3PL warehouses to automate high-turnover labor and deliver fast, ROI-positive automation without new infrastructure. s s g u z d d g s r Automation shouldn't be out of reach; it should evolve with your business and fit seamlessly into the way you already work. Toggle Through To View All Our Current Applications (2x Speed) See Everything We Are Automating! Yondu Automates The Full Range Of Repetitive Physical Warehouse Workflows. Focused on Innovation Yondu is the first company to fully automate brownfield bin-picking, along with other critical warehouse tasks, at a price point mid-sized warehouses can afford. Our system works within existing layouts and processes, eliminating the need for costly retrofits or new infrastructure. Revolutionary Research With Yondu, warehouses can cut labor costs by up to 75%, reduce errors and lost inventory, handle seasonal demand with ease, and maintain reliable 24/7 operations. That frees teams to focus on growth, while automation handles the heavy lifting. With Yondu, integration is seamless: our robots adapt to the warehouse you already have, working within your current layout and processes so you can automate without halting operations or investing in new infrastructure. Warehouses that can automate bin-picking will deliver better service, drastically lower costs, and stand out from competitors. Yondu is a brownfield installation so you don’t have to change any of your existing infrastructure. Yondu’s AI robots navigate shelves, identify items, and pick and place any SKU within your existing warehouse layout. In this video We introduce Yondu AI co-founder Michael Chen and Tahmid Jamal break down the many dimensions of their work, from the challenges they're solving today to the long-term vision shaping the future of robotics and warehouse automation. RUNTIME 5:41 We envision a future where all manual tasks are done by robots. A future where businesses reallocate labor towards higher impact tasks. Drop In Warehouse Automation Warehouse Automation Embodied AI Platform Brownfield Automation Through Robot Learning Yondu is the first company to fully automate brownfield warehouse tasks at a price point any warehouse can afford. Our approach brings advanced robotics into existing operations without costly infrastructure changes, making automation accessible to businesses of every size. Get In Touch You get a seamless path to next-generation automation with no costly rebuilds, no SKU limits, just smarter operations to scale with your business. Partnership with Shipbots Yondu has had a close partnership with Shipbots one of the largest and most tech forward 3PLs on the West Coast. We’re working with them to test, iterate, and roll out our bin-picking robots in their warehouse. Reach out to our team Whether you’re planning next steps or fine tuning operations, we're here to help. Bring us your tasks and we'll make them hands-free. CONTACT OUR TEAM hello@yonduai.com +1-904-325-3099 z z z z i i z z Control. Learn. Automate. From pilot to production, we turn robots into a coordinated workforce for any warehouse job. changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved.",
+        "ogImage": "https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/69cc0a787d80fadda6ce42c8_YonduBot.png",
+        "twImage": null,
+        "blankNoopener": {
+          "count": 2,
+          "examples": [
+            "https://x.com/yonduai",
+            "https://www.linkedin.com/company/yonduai/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 2,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".text-span-50"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.96 (foreground color: #bba4d3, background color: #f3f0e5, font size: 30.0pt (40px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".button-9"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.96 (foreground color: #f3f0e5, background color: #bba4d3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 1,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 14,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".wide-section.section:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                "#bin-picking"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".div-block-31"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.yondu.ai/about": {
+      "url": "https://www.yondu.ai/about",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/about"
+      },
+      "data": {
+        "title": "About Us",
+        "titleLen": 8,
+        "metaDescription": "At Yondu, we are revolutionizing physical labor by building the robot workforce of the future. We empower businesses to reduce operating costs and enhance efficiency.",
+        "metaDescriptionLen": 166,
+        "canonical": null,
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "A Team Of"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 17,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 14,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 3,
+        "twitterCount": 3,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company A Team Of Hackers We're obsessed with building the future of physical labor s s g u z d d g s r At Yondu, we are revolutionizing physical labor by building the robot workforce of the future. We empower businesses to lower operating costs, eliminate turnover, and increase efficiency. We do all this by leveraging breakthroughs in robot learning and the rapid commercialization of general purpose robot hardware. Our History We've built our growth on collaboration, a spirit of experimentation, and a belief in the value of long-term thinking. DEC 2023 Yondu Founded at MIT FEB 2024 Participated in the PROD 3.0 and YC W24 cohorts MAY 2024 Closed seed round and built first embodied AI demo NOV 2024 Landed First Design Partnership JAN 2025 Began work with Shipbots to develop our bin-picking application JUN 2025 Opened Yondu HQ and landed pilot contract SEP 2025 Demonstrated Comprehensive Tele-operated Bin-Picking System FUTURE Building the future of physical labor At Yondu We Have Cultural Pillars That Make Working Here Exciting, Fun, And Unique. Speak Up: We debate, speak up and do it without worry, no matter who's in the room—problems get raised fast, and the best ideas win. Relentless Learning: We always read the most recent papers, keep up with the state of the art, and continually learn and improve our skills. Curiosity drives us forward, ensuring we're always evolving with the field and pushing beyond the known edge. Flat Structure: Founders and everyone work equally on the same problems without exception. We never ask anyone to do anything you wouldn't do yourself. This creates an environment where responsibility is shared, and everyone has a direct impact on our success. Passion For Robotics: We're obsessed with building robots that push the limits of what’s possible and think what we do is super cool. For us, robotics isn't just technology; it's also creativity, curiosity, and craft in motion. Exciting Mission: We're tackling one of the hardest problems in robot learning—bringing humanoid robots into the real world to solve urgent needs. Underdog Mindset: We understand we’re a startup and always punch above our weight to compete with companies much larger than ours. We embrace challenges with resourcefulness and determination, turning our size into an advantage. Grit & Resillience We stay steady under pressure, adapt when things don’t go as planned, and keep pushing forward until the problem is solved. Having Fun: We laugh as hard as we work—because building the future is only worth it if we enjoy the ride together. Fun isn't extra—it's how we stay curious, creative, and unstoppable. Based in Los Angeles, CA Yondu AI is rooted in Los Angeles, where we partner directly with local customers to refine and deploy our technology while we build the foundation for expansion. LOCATION Gardena, CA CONTACT hello@yonduai.com +14159078109 z z z z i i z z Control. Learn. Automate. From pilot to production, we turn robots into a coordinated workforce for any warehouse job. changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved.",
+        "ogImage": null,
+        "twImage": null,
+        "blankNoopener": {
+          "count": 2,
+          "examples": [
+            "https://x.com/yonduai",
+            "https://www.linkedin.com/company/yonduai/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 3,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".long-title"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.77 (foreground color: #94908b, background color: #f3f0e5, font size: 30.0pt (40px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".text-span-30"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.56 (foreground color: #cdbcd9, background color: #f3f0e5, font size: 30.0pt (40px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".text-block-12"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.74 (foreground color: #7d7a76, background color: #f3f0e5, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 1,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 18,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                "h1"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                "h2"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".video"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "count": 1,
+          "help": "Scrollable region must have keyboard access",
+          "nodes": [
+            {
+              "target": [
+                ".horizontal-timeline"
+              ],
+              "summary": "Fix any of the following: Element should have focusable content Element should be focusable"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.yondu.ai/ourblog": {
+      "url": "https://www.yondu.ai/ourblog",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/ourblog"
+      },
+      "data": {
+        "title": "Blog",
+        "titleLen": 4,
+        "metaDescription": "Check out our most recent blog posts here.",
+        "metaDescriptionLen": 42,
+        "canonical": null,
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "News and insight."
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 10,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 7,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 3,
+        "twitterCount": 3,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company OUR JOURNAL News and insight. Stay up to date with the latest news and resources from the Yondu Team s s g u z d d g s r SMB 3PLs Don’t Need to Consolidate. They Need Robotic Labor. JUNE 1, 2026 Deploying: A Swan Lake of Robotics APRIL 18, 2025 A Peek Behind the Curtain of Humanoid Manufacturing OCTOBER 27, 2025 The State of Data Centers MARCH 27, 2026 z z z z i i z z Control. Learn. Automate. From pilot to production, we turn robots into a coordinated workforce for any warehouse job. changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved.",
+        "ogImage": null,
+        "twImage": null,
+        "blankNoopener": {
+          "count": 2,
+          "examples": [
+            "https://x.com/yonduai",
+            "https://www.linkedin.com/company/yonduai/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 4,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".w-dyn-item[role=\"listitem\"]:nth-child(1) > .blog-card-2.w-inline-block > .blog-card-body-2 > .blog-card-meta > .badge-text-12.muted"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.29 (foreground color: #9a9a98, background color: #363634, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                ".w-dyn-item[role=\"listitem\"]:nth-child(2) > .blog-card-2.w-inline-block > .blog-card-body-2 > .blog-card-meta > .badge-text-12.muted"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.29 (foreground color: #9a9a98, background color: #363634, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                ".w-dyn-item[role=\"listitem\"]:nth-child(3) > .blog-card-2.w-inline-block > .blog-card-body-2 > .blog-card-meta > .badge-text-12.muted"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 4.29 (foreground color: #9a9a98, background color: #363634, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio "
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 1,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 4,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".section-24"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".section-23"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".section.wide-section"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.yondu.ai/careers": {
+      "url": "https://www.yondu.ai/careers",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/careers"
+      },
+      "data": {
+        "title": "Careers",
+        "titleLen": 7,
+        "metaDescription": "We’re assembling an incredible team of researchers and engineers who are obsessed with taking robot learning research out of the lab and into the real world.",
+        "metaDescriptionLen": 157,
+        "canonical": null,
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "We're Building An Extraordinary Team",
+          "Benefits:"
+        ],
+        "h1Count": 2,
+        "headingLevels": [
+          1,
+          1
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 18,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 8,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 3,
+        "twitterCount": 3,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company We're Building An Extraordinary Team We're assembling an incredible team of researchers and engineers who are obsessed with taking robot learning research out of the lab and into the real world. s s g u z d d g s r We solve complex problems by bringing every perspective to the table. We’re a tight-knit team of innovators led by two MIT co-founders, Michael and Tahmid. Our AI research is driven by a Postdoc in Robot Learning from MIT, teleoperation is led by a robotics PhD from Georgia Tech, and our industry veteran brings nearly a decade of expertise in reinforcement learning, teleoperation, and robot manipulation. Supporting them are four exceptionally talented founding engineers and our team of robot operators. Open Positions Robotics Software Intern GARDENA, CA MONTHLY Senior Robotics Engineer GARDENA, CA FULL TIME Quarter 1 2026 Robotics Hardware Intern GARDENA, CA MONTHLY Summer 2026 Robotics Hardware Intern GARDENA, CA MONTHLY Business Development Representative, Robotics GARDENA, CA FULL TIME Founding Robotics Researcher GARDENA, CA FULL TIME Explore Careers Benefits: e b 401(k) Matching We match up to 4% of your 401(k): 100% of the first 3% you contribute, and 50% of the next 2% e b Time Off Every team member enjoys unlimited paid time off, along with a dedicated week of sick leave. e b Meals Frequently catered Meals, turning mealtimes into a chance to recharge, share ideas, and enjoy good food together. e b Health Insurance Comprehensive medical and dental coverage — 100% of premiums covered for you and your dependents. e b Stock Options Yondu is on a rocket ship trajectory and joining has the opportunity for massive equity value growth. z z z z i i z z Control. Learn. Automate. From pilot to production, we turn robots into a coordinated workforce for any warehouse job. changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved.",
+        "ogImage": null,
+        "twImage": null,
+        "blankNoopener": {
+          "count": 8,
+          "examples": [
+            "https://www.ycombinator.com/companies/yondu/jobs/NU60VVf-robotics-software-intern",
+            "https://www.ycombinator.com/companies/yondu/jobs/l6z04IP-senior-robotics-engineer",
+            "https://www.ycombinator.com/companies/yondu/jobs/FjyrKhI-quarter-1-2026-robotics-hardware-intern",
+            "https://www.ycombinator.com/companies/yondu/jobs/boSSSw0-summer-2026-robotics-hardware-intern",
+            "https://www.ycombinator.com/companies/yondu/jobs/dtIZ1oD-business-development-representative-robotics"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 2,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".text-span-37"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.71 (foreground color: #c5b2d6, background color: #f3f0e5, font size: 30.0pt (40px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".text-block-11"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.57 (foreground color: #817d79, background color: #f3f0e5, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 1,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 4,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".wide-section.section:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".section:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".wide-section.section:nth-child(4)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.yondu.ai/yondu-ai-at-automate-2026": {
+      "url": "https://www.yondu.ai/yondu-ai-at-automate-2026",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/yondu-ai-at-automate-2026"
+      },
+      "data": {
+        "title": "Yondu AI at Automate 2026",
+        "titleLen": 25,
+        "metaDescription": "Yondu AI is showing at Automate 2026 in Chicago. Watch our robot demos in packaging automation with Metis and a Realman teleoperation demo for a tier 1 automotive company. Book a meeting with our team.",
+        "metaDescriptionLen": 201,
+        "canonical": "https://yondu.ai/automate",
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Yondu AIat Automate."
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          2,
+          3,
+          3,
+          2,
+          3,
+          3
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 6,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "Event"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 4,
+        "twitterCount": 1,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 4,
+        "text": "yondu.ai AUTOMATE 2026 · CHICAGO, ILLINOIS Yondu AI at Automate. Date June 22 – June 25, 2026 Venue McCormick Place, Chicago, Illinois Partners METIS · Foundova Robotics Find Us at the Show ABOUT THE EVENT What is Automate 2026? Automate is North America's largest robotics and automation event, with hundreds of exhibitors spanning AI, robotics, motion control, and vision systems. It brings together engineers, operations leaders, and decision-makers from across manufacturing, logistics, and beyond. ABOUT YONDU Robots doing real work, in real environments. Yondu AI deploys robots for warehouse and logistics environments. At Automate 2026, we're showing two live applications alongside our partners METIS and Foundova Robotics: a stationary arm integration with the METIS autobagger, and a teleoperated steel chain sorting task. WHAT WE DO Yondu deploys robots that handle the dull, repetitive, physically demanding tasks that are hardest to staff and easiest to get wrong. AT AUTOMATE We're showing two applications: a stationary arm integration with the METIS autobagger and a teleoperated steel chain sorting task with Foundova Robotics. WHY IT MATTERS Both demos run on partner hardware in partner booths, showing exactly how Yondu fits into an existing operation. TWO APPLICATIONS AT AUTOMATE What we're showing. Yondu is running live at two partner booths: a stationary arm integration with the METIS autobagger, and a Foundova Robotics teleoperation demo of a steel chain sorting task. Both are fully operational demos you can walk up and watch. PACKAGING Packaging Automation with METIS At the METIS booth, Yondu's stationary arm is integrated directly with the METIS autobagger. Watch the robot handle the full pick-and-pack workflow alongside the machine, an end-to-end packaging application running live on the show floor. At the METIS booth · Booth #20165 SORTING Steel Chain Sorting with Foundova Robotics At the Foundova Robotics booth, watch a live teleoperation demo of a steel chain sorting task built for a tier 1 automotive company. This application showcases how humanoid teleop handles industrial objects. At the Foundova Robotics booth · Booth #1484 PACKAGING WITH METIS CHAIN SORTING WITH FOUNDOVA ROBOTICS GETTING THERE Find us at the show. Two booths. PACKAGING APPLICATION METIS Booth #20165 Watch Yondu's stationary arm work alongside the METIS autobagger in a fully integrated pick-and-pack demo. The Yondu team will be on hand to walk you through the application. 01 Head to the METIS booth, #20165 02 Look for the Yondu robot at the autobagger 03 Ask for the Yondu team and we'll take it from there TELEOPERATION DEMO Foundova Robotics Booth #1484 Watch a live Foundova Robotics teleoperation demo of a steel chain sorting task built for a tier 1 automotive company: humanoid robots handling industrial objects in real time. 01 Head to the Foundova Robotics booth, #1484 02 Look for the chain sorting teleoperation demo 03 The Yondu team is there to talk through the tech yondu.ai What We're Automating Partner With Us Automate 2026 · McCormick Place · Chicago",
+        "ogImage": null,
+        "twImage": null,
+        "blankNoopener": {
+          "count": 0,
+          "examples": []
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 19,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".back-link"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.88 (foreground color: #867377, background color: #f3f0e5, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                ".top-text > .section-label"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.24 (foreground color: #9575c9, background color: #f3f0e5, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "#page-heading > em"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.76 (foreground color: #a87fd4, background color: #f3f0e5, font size: 47.7pt (63.6px), font weight: normal). Expected contrast rat"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 1,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".back-bar"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.yondu.ai/what-were-automating": {
+      "url": "https://www.yondu.ai/what-were-automating",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/what-were-automating"
+      },
+      "data": {
+        "title": "What We're Automating",
+        "titleLen": 21,
+        "metaDescription": "Take a look all the tasks that Yondu AI is automating!",
+        "metaDescriptionLen": 54,
+        "canonical": null,
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "What We're Automating."
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 14,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 10,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 3,
+        "twitterCount": 3,
+        "forms": [
+          {
+            "action": "",
+            "method": "get",
+            "novalidate": false,
+            "fieldCount": 4,
+            "fields": [
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "name-2",
+                "required": true,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "Your name",
+                "labeled": false
+              },
+              {
+                "tag": "input",
+                "type": "email",
+                "name": "Email-2",
+                "required": true,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "Email Address",
+                "labeled": false
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "Company-2",
+                "required": false,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "Company",
+                "labeled": false
+              },
+              {
+                "tag": "textarea",
+                "type": "textarea",
+                "name": "Message",
+                "required": true,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "Message",
+                "labeled": false
+              }
+            ]
+          }
+        ],
+        "formCount": 1,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company WAREHOUSE AND LOGISTICS AUTOMATION What We're Automating. From bin picking to packing, we're deploying robots across the most labor-intensive tasks in warehouse and logistics operations. weg iuo p oii scb sd Bin Picking Packing Decanting Bin Picking Manual picking causes mistakes, high worker turnover, and a constant struggle to keep up with seasonal demand. Yondu deploys humanoid robots to take on bin picking, one of warehousing's most labor-intensive tasks. No facility redesign required Scales with demand without adding headcount Works alongside existing warehouse operations Packing Manual packing is one of the highest labor costs in fulfillment operations. While the task is repetitive and predictable, almost all businesses still rely on human workers to do it. Until now. Reduces headcount needed for repetitive packing tasks Consistent output regardless of order volume or staffing Integrates into existing fulfillment lines without major facility changes Decanting Repetitive station work is one of the largest drivers of labor cost in warehouse and fulfillment operations. Yondu deploys stationary humanoids and robotic arms to handle placing, packing, folding, and more. Reduces labor cost at high-volume stationary stations Handles a range of tasks without retooling the station Operates across long shifts without fatigue or turnover Reach out to our team Whether you’re planning next steps or fine tuning operations, we're here to help. Bring us your tasks and we'll make them hands-free. CONTACT OUR TEAM hello@yonduai.com +14159078109 changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved.",
+        "ogImage": null,
+        "twImage": null,
+        "blankNoopener": {
+          "count": 2,
+          "examples": [
+            "https://x.com/yonduai",
+            "https://www.linkedin.com/company/yonduai/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "landmark-unique",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Landmarks should have a unique role or role/label/title (i.e. accessible name) combination",
+          "nodes": [
+            {
+              "target": [
+                "#bin-picking > .industry-grid-5 > .industry-sidebar-2.static.w-slider"
+              ],
+              "summary": "Fix any of the following: The landmark must have a unique aria-label, aria-labelledby, or title to make landmarks distinguishable"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 1,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 8,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".section-2"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".page-nav-4"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                "#bin-picking > .industry-grid-5 > .industry-detail-card-4"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.yondu.ai/partner-with-us": {
+      "url": "https://www.yondu.ai/partner-with-us",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/partner-with-us"
+      },
+      "data": {
+        "title": "Teleoperation and Autonomy for Humanoid Robots",
+        "titleLen": 46,
+        "metaDescription": "Yondu Brain enables robotics companies and integrators to deploy humanoid robots, collect real-world data, and train autonomy for production environments.",
+        "metaDescriptionLen": 154,
+        "canonical": null,
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Yondu Brain."
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 55,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 26,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 3,
+        "twitterCount": 3,
+        "forms": [
+          {
+            "action": "",
+            "method": "get",
+            "novalidate": false,
+            "fieldCount": 4,
+            "fields": [
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "name-2",
+                "required": true,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "Your name",
+                "labeled": false
+              },
+              {
+                "tag": "input",
+                "type": "email",
+                "name": "Email-2",
+                "required": true,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "Email Address",
+                "labeled": false
+              },
+              {
+                "tag": "input",
+                "type": "text",
+                "name": "Company-2",
+                "required": false,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "Company",
+                "labeled": false
+              },
+              {
+                "tag": "textarea",
+                "type": "textarea",
+                "name": "Message",
+                "required": true,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "Message",
+                "labeled": false
+              }
+            ]
+          }
+        ],
+        "formCount": 1,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company TELEOPERATION INFRASTRUCTURE AND MODEL TRAINING FOR ROBOTICS. Yondu Brain. Use our autonomy solutions to save months of development and help your customers deploy robots faster. weg iuo p oii scb sd OUR PARTNERS Teleoperation as a Service Autonomy as a Service Features Partner With Us Teleoperation as a Service Before full autonomy, Yondu Brain allows you to deploy teleoperated humaniods to perform real work in production environments. Collision Avoidance: Built-in safety systems allow robots to operate safely around people and equipment from the first deployment. Low Latency Control: Fast, responsive control enables precise task execution so robots can perform useful work immediately. Intuitive Interface: Easy-to-learn controls allow operators to start teleoperating robots right away while autonomy improves over time. Autonomy as a Service Yondu Brain helps robotics companies turn real-world robot data into deployable autonomy by handling data collection, processing, and model training. Data Collection: Robots deployed through Yondu Brain capture real-world operational data directly from our warehouse environment. Data Processing & Labeling: Our platform organizes, processes, and prepares that data to be used for training machine learning models. Model Training & Deployment: We train autonomy models that integrators can deploy to their robots, enabling tasks to transition from teleoperated to fully autonomous. Yondu Brain is hardware agnostic so it works with robots from many robot manufacturers, giving you the flexibility to deploy the right robot for each customer. Hardware-Agnostic Humanoid Autonomy Built for Multiple Humanoid Platforms Yondu Brain works across a growing ecosystem of humanoid robots. Our platform allows robotics companies and integrators to deploy, operate, and train autonomy on the hardware that best fits their customers. One Platform for Deployment and Autonomy From teleoperation to model training, Yondu Brain provides a unified platform for collecting data, improving robot performance, and scaling autonomy across deployments. 01 Features Discover a new era of teleoperation. Our system pairs precise, low-cost hardware with intuitive, real-time software, giving you safe, seamless control from anywhere. Instantly switch between robots, adapt to each operator for extended use, and visualize every task in 3D. Hardware Information Software Information Specs. 02 Partner With Us CONTACT OUR TEAM hello@yonduai.com +14159078109 Reach out to our team We partner with systems integrators and robotics companies to deploy robots in production and build autonomy through Yondu Brain. Reach out to explore partnership opportunities. Frequently Asked Questions Getting Started Hardware Software How easy is the software to learn and operate? Can I switch between multiple robots in real time? What safety features are built into the software? Does the software provide third-person visualization and live camera feeds? Still have questions? Get in touch with our support team and we'll discuss your unique requirements. Get in touch changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved.",
+        "ogImage": null,
+        "twImage": null,
+        "blankNoopener": {
+          "count": 2,
+          "examples": [
+            "https://x.com/yonduai",
+            "https://www.linkedin.com/company/yonduai/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 9,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".accordion-box-2:nth-child(1) > .accordion-item-2.borderless > .padded.accordion-title > .accordion-title-text"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.19 (foreground color: #5d555e, background color: #bba4d3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".accordion-box-2:nth-child(2) > .accordion-item-2.borderless > .padded.accordion-title > .accordion-title-text"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.19 (foreground color: #5d555e, background color: #bba4d3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".accordion-box-2:nth-child(3) > .accordion-item-2.borderless > .padded.accordion-title > .accordion-title-text"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.19 (foreground color: #5d555e, background color: #bba4d3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "landmark-unique",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Landmarks should have a unique role or role/label/title (i.e. accessible name) combination",
+          "nodes": [
+            {
+              "target": [
+                "#pharmaceuticals > .industry-grid-4 > .industry-sidebar-2.static.w-slider"
+              ],
+              "summary": "Fix any of the following: The landmark must have a unique aria-label, aria-labelledby, or title to make landmarks distinguishable"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 1,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 18,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".section-2"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".div-block-29"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                "#directory"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.yondu.ai/where-weve-been": {
+      "url": "https://www.yondu.ai/where-weve-been",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/where-weve-been"
+      },
+      "data": {
+        "title": "Where We've Been",
+        "titleLen": 16,
+        "metaDescription": "Explore the conventions and events where Yondu AI has exhibited or attended. See where we've been and where we're headed next.",
+        "metaDescriptionLen": 126,
+        "canonical": null,
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Smarter Warehouses, Live",
+          "Conferences& Events"
+        ],
+        "h1Count": 2,
+        "headingLevels": [
+          1,
+          2,
+          1
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 6,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 3,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 3,
+        "twitterCount": 3,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company WHERE YOU CAN FIND YONDU Smarter Warehouses, Live Catch Yondu AI on the show floor, in the demo bay, or on stage. We're out there making the case for smarter warehouses. qw vc mshm YONDU AI Where We Show Up Conferences & Events From trade floors to keynote stages — here's everywhere you can find Yondu AI in action. All Events Upcoming Past LEGEND Exhibitor Speaker Attended 2025 Retail Supply Chain Expo 2025 EXHIBITOR 📍 Las Vegas, NV 🗓 Oct 15–16, 2025 A premier gathering for supply chain and logistics professionals. Deliver 2025 EXHIBITOR 📍 Las Vegas, NV 🗓 Oct 28–30, 2025 The leading event for e-commerce and last-mile delivery innovation. 2026 CES 2026 EXHIBITOR 📍 Las Vegas, NV 🗓 Jan 2026 The world's most influential technology show. Manifest 2026 EXHIBITOR 📍 Las Vegas, NV 🗓 Feb 9–11, 2026 The future of supply chain and logistics ecosystem event. MODEX 2026 EXHIBITOR 📍 Atlanta, GA 🗓 Mar 17–20, 2026 North America's premier supply chain and manufacturing event. IWLA 2026 ATTENDED 📍 San Antonio, TX 🗓 Mar 30–31, 2026 International Warehouse Logistics Association annual conference. Automate 2026 UPCOMING EXHIBITOR 📍 Detroit, MI 🗓 June 22-25, 2026 North America's largest showcase of automation and robotics technology. Get in Touch → AI Con USA UPCOMING SPEAKER 📍 Seattle, WA 🗓 Jun 7–12, 2026 Yondu takes the stage to discuss the future of AI-powered warehouse automation. Get in Touch → changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved.",
+        "ogImage": null,
+        "twImage": null,
+        "blankNoopener": {
+          "count": 2,
+          "examples": [
+            "https://x.com/yonduai",
+            "https://www.linkedin.com/company/yonduai/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 8,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".yn-logo-eyebrow"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.96 (foreground color: #bba4d3, background color: #f3f0e5, font size: 8.3pt (11px), font weight: bold). Expected contrast ratio of"
+            },
+            {
+              "target": [
+                ".yn-title"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.96 (foreground color: #bba4d3, background color: #f3f0e5, font size: 32.4pt (43.2px), font weight: normal). Expected contrast rat"
+            },
+            {
+              "target": [
+                ".yn-subtitle"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.92 (foreground color: #777777, background color: #f3f0e5, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 1,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 6,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".section-39"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".yn-logo-area"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".yn-title"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.yondu.ai/store": {
+      "url": "https://www.yondu.ai/store",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/store"
+      },
+      "data": {
+        "title": "Store",
+        "titleLen": 5,
+        "metaDescription": "Buy your official Yondu AI Merch here!",
+        "metaDescriptionLen": 38,
+        "canonical": null,
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Yondu AI Merch",
+          "Our Merch:"
+        ],
+        "h1Count": 2,
+        "headingLevels": [
+          1,
+          2,
+          1
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 6,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 3,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 3,
+        "twitterCount": 3,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company Yondu AI Merch Official Yondu Merch – shop exclusive shirts and hoodies. irq scb sd Our Merch: changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved.",
+        "ogImage": null,
+        "twImage": null,
+        "blankNoopener": {
+          "count": 2,
+          "examples": [
+            "https://x.com/yonduai",
+            "https://www.linkedin.com/company/yonduai/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 2,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".heading-4"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.65 (foreground color: #97948e, background color: #f3f0e5, font size: 38.3pt (51px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".footer-fine-print"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.85 (foreground color: #928e89, background color: #f3f0e5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 1,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 3,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".wide-section"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".heading-4"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".footer"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.yondu.ai/blog-posts/smb-3pls-dont-need-to-consolidate-they-need-robotic-labor": {
+      "url": "https://www.yondu.ai/blog-posts/smb-3pls-dont-need-to-consolidate-they-need-robotic-labor",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/blog-posts/smb-3pls-dont-need-to-consolidate-they-need-robotic-labor"
+      },
+      "data": {
+        "title": "Blog Post",
+        "titleLen": 9,
+        "metaDescription": "Yondu AI Blog Post",
+        "metaDescriptionLen": 18,
+        "canonical": null,
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "SMB 3PLs Don’t Need to Consolidate. They Need Robotic Labor."
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          3
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 13,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 10,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 4,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company SMB 3PLs Don’t Need to Consolidate. They Need Robotic Labor. Author: Michael Chen, CEO SMB 3PLs are getting squeezed from every direction. Enterprise 3PLs are using scale, cost advantages, technology, and capital access to put pressure on everyone below them. They have more volume, better carrier leverage, larger software budgets, and the ability to spread automation investments across massive networks. At the same time, customers are asking for more visibility, speed, integrations, customization, reporting, and flexibility. That creates a tough reality for independent 3PLs. Customers increasingly expect enterprise-grade capabilities, but SMB 3PLs do not have enterprise-grade capital budgets. The market’s response has been consolidation. This past year, we have seen a spike of acquisitions across 3PL fulfillment, Shipfusion acquired Boxtrot to bring a boutique ecommerce fulfillment provider into a larger North American network. Stord acquired Ware2Go from UPS, then acquired Shipwire from CEVA Logistics to expand its global ecommerce fulfillment footprint. Larger platforms are buying density, customers, geographic coverage, and operational capabilities. Logistics is a scale game, and that scale advantage is getting more obvious. The U.S. 3PL market rebounded in 2024 to about $308 billion in gross revenue, but for many smaller operators they're still struggling to compete with the larger players. The message to SMB 3PLs is pretty clear: get bigger, or get bought. More scale can mean better facility utilization, stronger buying power, more capital access, broader geographic coverage, and more room to invest in automation and technology. But consolidation comes with real tradeoffs. Founders lose independence, local expertise, and customer relationships become less personal. A 3PL that used to customize kitting around each client becomes less flexible as it standardizes processes across a larger network. That standardization is necessary for scale, but it can also weaken the thing that made the business valuable in the first place. Consolidation also does not solve the automation problem. Rolling up a group of SMB 3PLs may create more density and make it easier to invest in automation. Because the facilities were designed around people, it’s a tall order to spend tens or hundreds of millions of dollars on ASRS, massive conveyor networks, custom sortation systems, and highly engineered greenfield facilities. Traditional automation has always favored the biggest players because it rewards companies with the most capital, the most volume, and the most predictable workflows. It is expensive, fixed, and difficult to justify unless you have enough throughput to amortize the investment. It works best when demand is stable, SKUs are predictable, and the building itself can be designed around the system. That is not the reality for most SMB 3PLs. They operate in the messy middle of logistics: changing customer profiles, seasonal spikes, custom kitting, variable SKUs, returns, late inbound freight, special projects, and exceptions that do not fit neatly into a rigid automation model. That messiness is often the reason customers choose them in the first place! This is why general purpose robots matter. The first automation wave that can truly help SMB 3PLs is a giant fixed system built into the warehouse. It is a flexible robotic labor that can be dropped into existing facilities, moved between workflows, and deployed without rebuilding the entire operation. General purpose robots change the automation equation because they are mobile, flexible, and task-adaptable. They can work inside human-designed warehouses. They can be assigned to different tasks. They can be deployed incrementally instead of requiring a massive upfront transformation. Yondu autonomous mobile bin-picking solution There is another lesser known part of this shift: general purpose robots do not just automate labor. Enterprise logistics companies have spent years and millions of dollars building systems for inventory visibility, facility mapping, security monitoring, workflow analytics, exception detection, and real-time operational reporting. For SMB 3PLs, those capabilities have often been out of reach. General purpose robots can change that because they are already moving through the facility, seeing the environment, interacting with inventory, and touching core workflows. A robot that is picking bins, decanting inventory, polybagging items, or moving through aisles is also collecting data about where inventory is, how goods flow through the building, which areas are congested, which SKUs create exceptions, and how the physical layout actually performs. The robot becomes both labor and a source of data. This matters because labor is one of the biggest cost centers in a 3PL operation. When a 3PL is fighting labor availability, overtime, training churn, and margin pressure, it has less energy to focus on what actually differentiates the business. Flexible robotic labor can give the business back time, margin, and management attention. SMB 3PLs should be doubling down on the things enterprise 3PLs are less suited for. Robots do not replace that part of the business, but rather protect it by taking on repetitive, physically demanding work. The timing matters because through Amazon’s new Supply Chain Services, they are increasingly turning their internal logistics stack into an external service for other businesses. Amazon has built one of the most automated logistics networks in the world. Its warehouse robot fleet has passed one million robots and they spend hundreds of billions each year on R&D. That should get everyone’s attention, not just SMB 3PLs. Companies like DSV, DHL, Kuehne+Nagel, GXO, and others have massive scale and serious automation programs, but can't compete with efficiency gains of purpose built automation. Amazon has been compounding advantages across software, robotics, fulfillment density, marketplace demand, last-mile delivery, cloud infrastructure, and AI for years. Traditional automation increased the advantage of scale, but general purpose robotics may be the first automation wave that reduces it. A fixed automation system rewards the company with the largest facility, the most capital, and the most predictable volume. General purpose robots reward the company that works within human-centric environments, knows where labor is being wasted, and can deploy flexible capacity where it matters most. For SMB 3PLs, that is a unique opportunity. They do not need to become enterprise 3PLs to survive. They do not need to sell to the largest platform in the market. They need automation that fits their buildings, their customer mix, and their operating reality. They need systems that can be deployed inside existing facilities, not only inside new greenfield mega-warehouses. The future of SMB 3PLs will not be won by copying Amazon. It will be won by combining what independent 3PLs already do best with automation that finally fits their world: trusted relationships, custom service, local specialization, and flexible robotic throughput. At Yondu, we are building for that future. Our automated mobile bin-picking, polybagging, and decanting robotics solutions are designed to deploy inside existing facilities and automate real warehouse workflows without requiring SMB 3PLs to rebuild their operations from the ground up. The goal is simple: give independent 3PLs access to flexible robotic labor, so they can compete on cost without giving up what makes them different. SMB 3PLs do not need to become giants to thrive. They need the right robots. INTERESTED IN LEARNING MORE? Partner with Yondu AI to bring intelligent automation to life. From warehouse floors to global supply chains, we help you move from manual workflows to adaptive, data-driven operations that scale with your business. Reach out to our team. z z z z i i z z Control. Learn. Automate. From pilot to production, we turn robots into a coordinated workforce for any warehouse job. changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved.",
+        "ogImage": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/6a1db87333e8e746eb5d131a_post.jpg",
+        "twImage": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/6a1db87333e8e746eb5d131a_post.jpg",
+        "blankNoopener": {
+          "count": 2,
+          "examples": [
+            "https://x.com/yonduai",
+            "https://www.linkedin.com/company/yonduai/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 23,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "h3"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.83 (foreground color: #7c7875, background color: #f3f0e5, font size: 17.3pt (23px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                "p:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.83 (foreground color: #7c7875, background color: #f3f0e5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                "p:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.83 (foreground color: #7c7875, background color: #f3f0e5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 1,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 4,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".wide-section.section:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".bottom-padding-l.section:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".wide-section.section:nth-child(5)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.yondu.ai/blog-posts/a-swan-lake-of-robotics": {
+      "url": "https://www.yondu.ai/blog-posts/a-swan-lake-of-robotics",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/blog-posts/a-swan-lake-of-robotics"
+      },
+      "data": {
+        "title": "Blog Post",
+        "titleLen": 9,
+        "metaDescription": "Yondu AI Blog Post",
+        "metaDescriptionLen": 18,
+        "canonical": null,
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Deploying: A Swan Lake of Robotics"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          3
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 12,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 9,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 4,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company Deploying: A Swan Lake of Robotics Author: Ryan Stonick, Founding Robotics Engineer This past week, the engineers and Robots at Yondu accomplished a feat no other robotics company has yet to achieve: we successfully deployed our integrated humanoid robotic picking system into a client's active warehouse. While other warehouse robots exist, none fully integrate into a warehouse designed for human operation as seamlessly and with the precision only a computer can achieve. This production launch is the payoff of months of rigorous work. The near-perfection required to execute tasks within our robot stack is akin to a classical ballet, a discipline defined by rigorous technique, precise timing, synchronization, elegant movements, and graceful lines. In a ballet, every artist is an expert who trained for a lifetime to perform on the world’s largest stages. Their technique is flawless, their dependability absolute, because each dancer is critical to the success of the entire presentation. While there may be a star, every member is equally responsible for the whole. In a ballet, the corps de ballet is the ensemble dancers who back the scene. They must move in perfect sync. If a single dancer loses timing, it creates a cascading failure that throws off the rhythm for all those around them. This level of intricate, synchronized performance is precisely what our robotic stack embodies. What we have achieved is a Swan Lake of Robotics. In a ballet, music provides the timing; the music of our stack is the universe's precise clock tick, microsecond timing, giving the robots their rhythm to dance to. To synchronize each mechanical movement requires engineers who have trained for their entire careers to reach this point. Our stage may not be as glamorous as the Opéra de Paris, but we are just as honored to be performing our ballet in the backbones of the American, and global, economy. We have honed our skill and developed the perfect technique to create a novel software framework that accomplishes a synchronized ballet, one that will usher in the new paradigm of physical AI. Every component is a dancer with a critical role in the flow: Autonomous navigation Robot vision and perception Kinematic models Localization Sensor arrays Joint control systems Grippers The gripper is the star, the end effector that executes the final task of picking or placing a product, but without every other component executing its role dependably, pick after pick, the ultimate task is impossible. Achieving this level of perfect coordination, however, is not always a fun, linear process. There have been countless late nights, endless iteration, and what often felt like banging our heads against the wall. There is a point where you are simply grateful the system you designed runs at all. And that is only the proof of concept phase. What follows is a brutal cycle of testing, security, review, and redesign. This is where we stress-test our system, ensure our stack is robust, question and defend our code, and aggressively expose, patch, and squash every flaw and bug. The innovation process has a built-in \"ego governor,\" where an overconfident design is blunted by the realization that the beautiful plan is, in fact, not the beautiful solution. This is where collaboration, open-mindedness, and knowing when to ask for help become the priority. The reward for all that effort, the technical rigor and collaborative humility, is a well-balanced team and the immense pride I feel now. I am so proud of the team I work with every day. We all have sacrificed a great deal to build a system we believe in. We will never be \"done\" because we are always building a better system, improving our designs, and checking our hypotheses. With that in mind, it is crucial to know when to celebrate a win. To take stock of where you have been, what you have accomplished, and where you are planning to go. This past week was one of triumph and accomplishment and there is always a new performance on the horizon. INTERESTED IN LEARNING MORE? Partner with Yondu AI to bring intelligent automation to life. From warehouse floors to global supply chains, we help you move from manual workflows to adaptive, data-driven operations that scale with your business. Reach out to our team. z z z z i i z z Control. Learn. Automate. From pilot to production, we turn robots into a coordinated workforce for any warehouse job. changing the way the world works. HQ Located in Gardena, CA Copyright © 2025 Yondu Inc. All Rights Reserved.",
+        "ogImage": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/6a1db137fe22bc94a01e89dd_YonduBot.png",
+        "twImage": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/6a1db137fe22bc94a01e89dd_YonduBot.png",
+        "blankNoopener": {
+          "count": 2,
+          "examples": [
+            "https://x.com/yonduai",
+            "https://www.linkedin.com/company/yonduai/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 17,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "h3"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.36 (foreground color: #a19d98, background color: #f3f0e5, font size: 17.3pt (23px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                "p:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.36 (foreground color: #a19d98, background color: #f3f0e5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                "p:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.36 (foreground color: #a19d98, background color: #f3f0e5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 1,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 4,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".wide-section.section:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".bottom-padding-l.section:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".wide-section.section:nth-child(5)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.yondu.ai/blog-posts/a-peek-behind-the-curtain-of-humanoid-manufacturing": {
+      "url": "https://www.yondu.ai/blog-posts/a-peek-behind-the-curtain-of-humanoid-manufacturing",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/blog-posts/a-peek-behind-the-curtain-of-humanoid-manufacturing"
+      },
+      "data": {
+        "title": "Blog Post",
+        "titleLen": 9,
+        "metaDescription": "Yondu AI Blog Post",
+        "metaDescriptionLen": 18,
+        "canonical": null,
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "A Peek Behind the Curtain of Humanoid Manufacturing"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          3,
+          5,
+          5,
+          6,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "headingHierarchyOk": false,
+        "imgTotal": 14,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 11,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 4,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company A Peek Behind the Curtain of Humanoid Manufacturing Author: Michael Chen We set out on a two-day journey through China, from the labs of Beijing to the factory floors of the Yangtze River Delta, to understand what humanoid manufacturing really looks like on the ground. Behind the media headlines and glossy demos lies a different story: one of rapid experimentation, strong government support, and the early, imperfect realities of building embodied AI systems at scale. This post shares what we saw, what surprised us, and what it tells us about where the global robotics industry is heading. Introduction We went on a two-day trip across five cities in China to get a high-level glimpse of the country's robotics industry in the world’s largest manufacturing powerhouse. The first day was entirely spent in Beijing. On the second day, we visited several cities in the Yangtze River Delta, a major economic and technological hub in Eastern China that contributes over 25% of China's GDP despite covering only a small fraction of its total area. Specifically, we visited Changzhou, Suzhou, Huzhou, and Shanghai. We did not tour any facilities in Shanghai; it was simply our departure city. However, the view of the skyline across the Huangpu River left us captivated and helped us forget the fatigue from two days of continuous travel. In this blog, we are sharing our reflections on what we experienced. Since our trip was short and we only visited a limited number of robotics facilities, these observations represent approximations based on the data points we gathered. Location of Facilities Most of the companies we met have offices distributed across multiple cities in China. The most common hubs were Beijing, Suzhou, Changzhou, Hangzhou, Huzhou, Shanghai, and Shenzhen. Broadly, these locations fall into three key regions. Beijing: Nearly every company has at least one office in Beijing. These offices are primarily used for research and development, software development, AI model development, design, and sales and marketing. As the capital, Beijing offers easy access to potential customers, which explains why many companies base their business and marketing teams there. It is also home to China's top universities, such as Tsinghua and Peking, making it easier to attract strong technical talent for high-tech innovation. After Beijing's air quality crisis years ago, the government relocated most heavy industries out of the city. Combined with rising land costs, this pushed companies to place their manufacturing facilities elsewhere. Interestingly, one of the Beijing facilities we visited, Company B's office, was located in a repurposed steel factory, a symbolic nod to the city’s industrial past. Yangtze River Delta Region: The Yangtze River Delta (YRD), where the Yangtze River meets the East China Sea, is the heart of China's advanced manufacturing. Excellent infrastructure and strong government support have made it the preferred base for robotics production. Our first stop was Company B’s manufacturing plant in Changzhou, a well-known manufacturing hub for both Chinese and international firms. Changzhou also hosts the Changzhou–Israel Innovation Park, a joint initiative between the Israeli and Chinese governments that fosters high-tech collaboration. Next, we visited Company A's plant in Suzhou. The Suzhou Industrial Park, co-developed with Singapore, has been a key driver of high-tech manufacturing in the region. Beyond its industrial importance, Suzhou's greenery and lakes make it one of China’s most scenic industrial cities. After Suzhou, we toured Company B's factory in Huzhou, located in Zhejiang Province. Senior management told us they recently relocated from Nanjing due to better government support offered by Zhejiang. Zhejiang has become a rising hub for high-tech companies, producing giants like Alibaba, Unitree, and High Flyer Quant (the parent company of DeepSeek). Much of this success comes from top talent at Zhejiang University and early-stage support from the provincial government. Guangdong-Hong Kong-Macao Greater Bay Area: Many companies we visited also maintain offices in this region, though we did not have time to visit it on this trip. Sorry, Canton folks, we will definitely see you next time. While most robotics companies have offices in Shenzhen, their main manufacturing plants remain in the Yangtze River Delta. Manufacturing space there is generally cheaper, and local governments in the Delta provide stronger support than those in Shenzhen. ‍Other Potential Locations for Further Expansion: According to Company B, they plan to expand data collection operations to Guizhou, a more remote province where labor is cheaper. There, they aim to run large-scale teleoperated robot data collection centers. Manufacturing Plants: We toured several humanoid robotics companies’ manufacturing plants and were surprised by how manual the processes were. Almost every assembly step was done by hand, likely because these platforms are still evolving rapidly. Production lines, not demand, appear to be the bottleneck, while demand continues to grow steadily. We also noticed a lack of robust quality control and mechanical testing, especially for lifting systems and mobile bases. State of the Technology: The ecosystem is tightly interconnected. Only a few companies actually produce their own motors, while most humanoid robotics firms assemble components made by nearby suppliers. For instance, Company B manufactures its own actuators but still uses off-the-shelf AMRs for its wheeled bases. Many humanoid robots we saw felt closer to prototypes or R&D units than finished products. Even arm manufacturing is often outsourced, with smaller firms relying on established players like Company B for subassemblies. Hardware lead times are long, typically one to two months before shipping, plus an additional two to three weeks if you are ordering from abroad. For now, being based in China provides a clear advantage through faster access to the latest hardware. Data Collection Facilities: We learned of at least two major facilities in China dedicated to large-scale humanoid data collection. Each houses over one hundred teleoperated robots gathering data for different customer specifications. There is also an informal alliance between several companies, including Company B, BrainCo Max Insight, Oymotion, and Iotech, that share components and jointly collect and exchange data. The Chinese government has heavily invested in these efforts, purchasing large quantities of humanoid robots as part of multi-year national plans to advance embodied and physical AI platforms. Inside the facilities, most operators are college interns with minimal technical backgrounds who perform repetitive teleoperation tasks. These data collection programs have drawn attention from global players such as Meta, NVIDIA, and other robot foundation model developers. Company A, for example, has been collecting data for PI across diverse real-world environments, not just in data centers. Data Collection platforms: Several robotics companies, including Company A, Company B, and other specialized startups, are building comprehensive data platforms for collection, quality assurance, and labeling. Their pipelines include both edge and cloud-level checks to ensure quality. However, much of the quality assurance process remains manual. Human reviewers still inspect each recorded episode to verify data quality, sync cameras, and detect dropped frames. Currently, labeling primarily consists of assigning text tags to subtasks for vision-language-action datasets. Standard vs Customized Solutions: Because the humanoid robotics industry is still young, hardware design varies widely between companies, although designs are rapidly improving. Typically, smaller startups focus on custom solutions, but we were surprised to see even large manufacturers offering customizations for small orders. For example, motor manufacturers often tailor arm designs per customer request. One potential bottleneck to innovation, however, is that design houses cannot easily replicate successful designs for multiple clients without intentionally introducing small differences, likely to protect intellectual property or contractual exclusivity. Robotics Industry Market: Industrial robotics remains the dominant sector, given its structured environments and predictable tasks that can be preprogrammed. However, with progress in data-driven robot control, companies are expanding into less structured domains such as barista robots for coffee shops, warehouse automation, retail service robots, and even massage robots. Household robotics remains a longer-term goal. The sheer variability of home environments makes it a much harder problem to solve. Final Remarks: Robots are poised to play an essential role in the future. On one hand, many countries face aging popula",
+        "ogImage": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/68ffbfad9dabc8b573f4cf3f_d6c14191-e526-4ae8-a014-376f329c12ca.jpg",
+        "twImage": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/68ffbfad9dabc8b573f4cf3f_d6c14191-e526-4ae8-a014-376f329c12ca.jpg",
+        "blankNoopener": {
+          "count": 2,
+          "examples": [
+            "https://x.com/yonduai",
+            "https://www.linkedin.com/company/yonduai/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 37,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "h3"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.72 (foreground color: #7e7a77, background color: #f3f0e5, font size: 17.3pt (23px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                "p:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.72 (foreground color: #7e7a77, background color: #f3f0e5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                "p:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.72 (foreground color: #7e7a77, background color: #f3f0e5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Heading levels should only increase by one",
+          "nodes": [
+            {
+              "target": [
+                "h5:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Heading order invalid"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 1,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 4,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".wide-section.section:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".bottom-padding-l.section:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".wide-section.section:nth-child(5)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.yondu.ai/blog-posts/state-of-data-centers": {
+      "url": "https://www.yondu.ai/blog-posts/state-of-data-centers",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.yondu.ai/blog-posts/state-of-data-centers"
+      },
+      "data": {
+        "title": "Blog Post",
+        "titleLen": 9,
+        "metaDescription": "Yondu AI Blog Post",
+        "metaDescriptionLen": 18,
+        "canonical": null,
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "The State of Data Centers"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          3,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6
+        ],
+        "headingHierarchyOk": false,
+        "imgTotal": 17,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 14,
+        "jsonld": [],
+        "jsonldCount": 0,
+        "ogCount": 4,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "WE'LL BE AT AUTOMATE 2026! Home What We're Automating Partner With Us About Company The State of Data Centers Author: Michael Chen The rapid expansion of AI compute has triggered an unprecedented wave of data center construction, pushing facilities from the hundreds of megawatts into the gigawatt range. This piece examines the key technical and operational dynamics driving that shift, from power constraints and network bottlenecks to the labor challenges limiting how fast new capacity can come online. The rapid growth in recent years: The rise of data centers in recent years is directly attributed to the need for a large number of GPUs for training AI models mostly based on the transformer architecture. When you train a LLM, it requires millions of GPU hours across thousands of accelerators (specialized hardware for AI training) implying thousands of GPUs in a data center running for days or weeks. We’ve seen the number of FLOPs (Floating point operations) necessary for training SOTA (state of the art) models like GPT-3 increase by 750x every two years. Reference: https://arxiv.org/pdf/2403.14123 Data centers are measured in watts because they are fundamentally power systems: every server, GPU, network switch, and cooling unit consumes electrical power. Traditional single data centers are 50-300 MW, but next generation training clusters require 1-5+ GW of power. This power cannot be sourced from one site only, it has to be distributed across sites in the US to handle the incredible load. Reference: https://openinframap.org/#3.92/39.4/-99.84/B,L,N,P,S,W Industry forecasts show global construction spending reaching roughly $280 billion in 2026 alone, with total infrastructure investment entering a multi-trillion-dollar cycle through the end of the decade. Capacity is expanding at a pace rarely seen in physical infrastructure, with tens of gigawatts of new power coming online annually and meaningful additions already expected within the next year as part of a broader near-doubling of global capacity by 2030. Reference: https://www.jll.com/en-ca/insights/market-outlook/data-center-outlook#:~:text=The data center sector is,cloud expansion and AI demand Inference vs Training: The choice for data center developers to build for training vs inference lends to consider many different tradeoffs. You can share a data center, but training and inference compete for resources in ways that reduce performance and efficiency. At scale, it’s better to separate or strongly isolate them to avoid contention in scheduling, networking, and hardware utilization. Inference data centers are optimized for continuous, scalable, revenue-generating workloads and tend to deliver better long-term ROI due to higher utilization, flexibility, and alignment with real-world demand. They have to be positioned closer to the usage sites for lower latency in real time applications. There’s a huge demand for training data centers right now because of the increasingly large scale of SOTA AI models. Because training data centers are optimized for peak performance and synchronization, they are expensive and episodic. Scaling AI systems is increasingly constrained by network performance, not just compute specifically. Collective operations turn distributed training into a network-bound problem, because they require large, synchronized, many-to-many data exchanges at every step (e.g model parallelism, sharing data, sharing weights across all GPUs). Latency becomes a key issue when you’re waiting for the GPUs to receive data or during inference when you’re measure TTFT (Time to First Token: the loading time to receive the first token response from the model). Finally, network jitter can affect operations when one link has delays even on the micro-second scale. Who builds and maintains data centers: Hyperscalers like Amazon, Microsoft, and Google don’t actually build most of their data centers themselves. They act more like system designers and operators, then outsource execution to a pretty tight ecosystem of contractors. You’ll typically see large general contractors like Turner Construction or DPR Construction running the build, with specialized MEP (mechanical, electrical, plumbing) players handling the parts that actually matter, including power, cooling, and commissioning. What’s interesting is how dominant Irish firms have become in that layer. Companies like Jones Engineering, Kirby Group Engineering, and Mercury Engineering show up everywhere in hyperscale builds. A lot of that traces back to Ireland being an early European hub for cloud, so these teams got really good at mission-critical infrastructure early and then scaled with the hyperscalers globally. Today they’re often the ones actually delivering the hardest parts of these facilities, especially around high-voltage systems and cooling, while the hyperscalers focus on the compute layer and operations. The Shift Towards Gigawatt Scale Clusters: To put this massive shift in perspective, US AI data centers will need around “20 to 30 gigawatts (GW) of combined power by late 2027”. 30 GW is about 5% of US average current power generation capacity. While some companies will attempt to reach power targets through single facilities, much of the industry believes in tying together several data centers into campuses to reach necessary capacity- DCI (Data Center Interconnect). Meta for example has been leveraging short range optics to connect data centers up to 10km+. Now, companies are starting to leverage LR optics, DWDM, and pluggable transceivers to further expand into larger clusters. Reference: https://www.nextbigfuture.com/2025/11/first-five-ai-data-center-with-over-one-gigawatt-of-power-arriving-in-2026-2027.html The bottle necks in the space currently: The largest bottleneck to data center development and growth is undoubtably the access to sufficient energy to power these massive facilities. Regulatory timelines typically take 3-7 years for new sites. The only exception thus far has been the XAI Colossus facility which was brought online in just 122 days. To achieve this the team utilized high voltage natural gas turbines and several hacked together solutions before the grid was able to support their operations. Reference: xAIWelcome | xAI — Creators of Grok, the AI Chatbot​ The second biggest constraint has been high bandwidth connectivity. The rate of development of connectivity interfaces like NVLink by NVIDIA has lagged behind the scaling of hardware flops in GPUs by three orders of magnitude as depicted in the figure below. Despite innovations in cables, PCIe (Peripheral Component Interconnect Express), hollow core optics, and more, connectivity. These limitations matter because it impacts the ability to chain data centers together across the country to form GW clusters. Reference: https://arxiv.org/pdf/2403.14123 Unfortunately, these two bottlenecks are also connected in that data transfer methods also require power. There is a tradeoff between distance (reach) and energy efficiency: Long-distance systems (e.g., telecom DWDM, Dense Wavelength Division Multiplexing) is great for 1000km plus but is >1000 pJ/bit whereas short-distance systems (inside data centers) are 1–10 pJ/bit (e.g LPO Linear Pluggable Optics). To put it in perspective, for a hyperscaler datacenter you could hit tens of thousands of watts just for data transmission - often taking up 10%-30% of a data center’s entire power consumption. One of the largest bottlenecks to expansion is the need for large quantities of technicians and maintenance engineers onsite. Companies like Meta have even begun educational programs to try and rapidly train a generation of skilled laborers. Each large data center campus can require hundreds of technicians across rotating shifts, vendors, and support crews, with a single hyperscale region employing thousands of workers dedicated to ongoing maintenance alone. These technicians handle a constant stream of repetitive, hands-on tasks: swapping failed servers and drives, managing cabling, inspecting cooling systems, servicing power infrastructure, and responding to alarms 24/7. As operators build out gigawatt-scale clusters composed of multiple large facilities, the maintenance burden scales linearly with deployed hardware, creating a massive and continuously growing workforce requirement. This becomes a critical constraint as new data centers are increasingly sited in remote areas to access power and land, where the local supply of skilled labor is limited. The result is a structural bottleneck: even with sufficient capital and energy, the ability to hire, train, and retain large numbers of qualified maintenance technicians is emerging as one of the primary factors limiting how fast new data center capacity can be deployed and reliably operated. The case for general purpose robots in data centers: In many ways, the data center is the perfect environment for wheeled humanoid robots: flat terrain, strong wireless ne",
+        "ogImage": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/69c72399b84d191bc56782db_The%20State%20of%20Data%20Centers.webp",
+        "twImage": "https://cdn.prod.website-files.com/68b78b25b8c6d7f8c97cb1af/69c72399b84d191bc56782db_The%20State%20of%20Data%20Centers.webp",
+        "blankNoopener": {
+          "count": 2,
+          "examples": [
+            "https://x.com/yonduai",
+            "https://www.linkedin.com/company/yonduai/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 34,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "h3"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.94 (foreground color: #7a7673, background color: #f3f0e5, font size: 17.3pt (23px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                "h6:nth-child(1) > strong"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.94 (foreground color: #7a7673, background color: #f3f0e5, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio o"
+            },
+            {
+              "target": [
+                "p:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.94 (foreground color: #7a7673, background color: #f3f0e5, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Heading levels should only increase by one",
+          "nodes": [
+            {
+              "target": [
+                "h6:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Heading order invalid"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "count": 1,
+          "help": "Links must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".nav-logo-link"
+              ],
+              "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 4,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".wide-section.section:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".bottom-padding-l.section:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".wide-section.section:nth-child(5)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "url": "https://www.yondu.ai/",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog"
+      ]
+    },
+    {
+      "url": "https://www.yondu.ai/yondu-ai-at-automate-2026",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/yondu-ai-at-automate-2026",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog"
+      ]
+    },
+    {
+      "url": "https://www.yondu.ai/what-were-automating",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/what-were-automating",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog"
+      ]
+    },
+    {
+      "url": "https://www.yondu.ai/partner-with-us",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/partner-with-us",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog"
+      ]
+    },
+    {
+      "url": "https://www.yondu.ai/about",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/about",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog"
+      ]
+    },
+    {
+      "url": "https://www.yondu.ai/ourblog",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/ourblog",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog"
+      ]
+    },
+    {
+      "url": "https://www.yondu.ai/where-weve-been",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/where-weve-been",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog"
+      ]
+    },
+    {
+      "url": "https://www.yondu.ai/careers",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/careers",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog"
+      ]
+    },
+    {
+      "url": "https://www.yondu.ai/store",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/store",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog"
+      ]
+    },
+    {
+      "url": "https://www.yondu.ai/blog-posts/smb-3pls-dont-need-to-consolidate-they-need-robotic-labor",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/blog-posts/smb-3pls-dont-need-to-consolidate-they-need-robotic-labor",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/blog-posts/smb-3pls-dont-need-to-consolidate-they-need-robotic-labor"
+      ]
+    },
+    {
+      "url": "https://www.yondu.ai/blog-posts/a-swan-lake-of-robotics",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/blog-posts/a-swan-lake-of-robotics",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/blog-posts/a-swan-lake-of-robotics"
+      ]
+    },
+    {
+      "url": "https://www.yondu.ai/blog-posts/a-peek-behind-the-curtain-of-humanoid-manufacturing",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/blog-posts/a-peek-behind-the-curtain-of-humanoid-manufacturing",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/blog-posts/a-peek-behind-the-curtain-of-humanoid-manufacturing"
+      ]
+    },
+    {
+      "url": "https://www.yondu.ai/blog-posts/state-of-data-centers",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://www.yondu.ai/blog-posts/state-of-data-centers",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/ourblog",
+        "https://www.yondu.ai/blog-posts/state-of-data-centers"
+      ]
+    },
+    {
+      "url": "https://x.com/yonduai",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://x.com/yonduai",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/company/yonduai/",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.linkedin.com/company/yonduai/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/",
+        "https://www.yondu.ai/about",
+        "https://www.yondu.ai/ourblog"
+      ]
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/NU60VVf-robotics-software-intern",
+      "fp": false,
+      "status": 404,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/NU60VVf-robotics-software-intern",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ]
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/l6z04IP-senior-robotics-engineer",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/l6z04IP-senior-robotics-engineer",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ]
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/FjyrKhI-quarter-1-2026-robotics-hardware-intern",
+      "fp": false,
+      "status": 404,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/FjyrKhI-quarter-1-2026-robotics-hardware-intern",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ]
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/boSSSw0-summer-2026-robotics-hardware-intern",
+      "fp": false,
+      "status": 404,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/boSSSw0-summer-2026-robotics-hardware-intern",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ]
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/dtIZ1oD-business-development-representative-robotics",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/dtIZ1oD-founding-business-development-representative-robotics",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ]
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs/QAKnidR-founding-robotics-researcher",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs/QAKnidR-founding-robotics-researcher",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ]
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/yondu/jobs",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/companies/yondu/jobs",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://www.yondu.ai/careers"
+      ]
+    }
+  ],
+  "forms": [
+    {
+      "page": "https://www.yondu.ai/",
+      "forms": [
+        {
+          "action": "",
+          "method": "get",
+          "novalidate": false,
+          "fieldCount": 4,
+          "fields": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name-2",
+              "required": true,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "Your name",
+              "labeled": false
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "Email-2",
+              "required": true,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "Email Address",
+              "labeled": false
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "Company-2",
+              "required": false,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "Company",
+              "labeled": false
+            },
+            {
+              "tag": "textarea",
+              "type": "textarea",
+              "name": "Message",
+              "required": true,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "Message",
+              "labeled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "https://www.yondu.ai/what-were-automating",
+      "forms": [
+        {
+          "action": "",
+          "method": "get",
+          "novalidate": false,
+          "fieldCount": 4,
+          "fields": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name-2",
+              "required": true,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "Your name",
+              "labeled": false
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "Email-2",
+              "required": true,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "Email Address",
+              "labeled": false
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "Company-2",
+              "required": false,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "Company",
+              "labeled": false
+            },
+            {
+              "tag": "textarea",
+              "type": "textarea",
+              "name": "Message",
+              "required": true,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "Message",
+              "labeled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page": "https://www.yondu.ai/partner-with-us",
+      "forms": [
+        {
+          "action": "",
+          "method": "get",
+          "novalidate": false,
+          "fieldCount": 4,
+          "fields": [
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "name-2",
+              "required": true,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "Your name",
+              "labeled": false
+            },
+            {
+              "tag": "input",
+              "type": "email",
+              "name": "Email-2",
+              "required": true,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "Email Address",
+              "labeled": false
+            },
+            {
+              "tag": "input",
+              "type": "text",
+              "name": "Company-2",
+              "required": false,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "Company",
+              "labeled": false
+            },
+            {
+              "tag": "textarea",
+              "type": "textarea",
+              "name": "Message",
+              "required": true,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "Message",
+              "labeled": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "thirdParty": [
+    {
+      "host": "cdn.prod.website-files.com",
+      "requests": 771
+    },
+    {
+      "host": "fonts.gstatic.com",
+      "requests": 116
+    },
+    {
+      "host": "log.intellimize.co",
+      "requests": 50
+    },
+    {
+      "host": "fonts.googleapis.com",
+      "requests": 42
+    },
+    {
+      "host": "api.intellimize.co",
+      "requests": 36
+    },
+    {
+      "host": "aplo-evnt.com",
+      "requests": 36
+    },
+    {
+      "host": "www.youtube.com",
+      "requests": 29
+    },
+    {
+      "host": "ajax.googleapis.com",
+      "requests": 18
+    },
+    {
+      "host": "cdn.intellimize.co",
+      "requests": 18
+    },
+    {
+      "host": "d3e54v103j8qbb.cloudfront.net",
+      "requests": 18
+    },
+    {
+      "host": "117762784.intellimizeio.com",
+      "requests": 18
+    },
+    {
+      "host": "assets.apollo.io",
+      "requests": 18
+    },
+    {
+      "host": "www.google.com",
+      "requests": 5
+    },
+    {
+      "host": "cdn.shopify.com",
+      "requests": 4
+    },
+    {
+      "host": "cdn.embedly.com",
+      "requests": 3
+    },
+    {
+      "host": "googleads.g.doubleclick.net",
+      "requests": 3
+    },
+    {
+      "host": "monorail-edge.shopifysvc.com",
+      "requests": 3
+    },
+    {
+      "host": "drzhzr-xw.myshopify.com",
+      "requests": 2
+    },
+    {
+      "host": "static.doubleclick.net",
+      "requests": 2
+    },
+    {
+      "host": "i.ytimg.com",
+      "requests": 2
+    },
+    {
+      "host": "jnn-pa.googleapis.com",
+      "requests": 2
+    },
+    {
+      "host": "www.googletagmanager.com",
+      "requests": 1
+    },
+    {
+      "host": "ad.doubleclick.net",
+      "requests": 1
+    },
+    {
+      "host": "sdks.shopifycdn.com",
+      "requests": 1
+    }
+  ],
+  "mobileAxe": {
+    "https://www.yondu.ai/": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 4,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".text-span-50"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 1.96 (foreground color: #bba4d3, background color: #f3f0e5, font size: 21.8pt (29px), font weight: normal). Expected contrast ratio"
+          },
+          {
+            "target": [
+              ".button-9"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 1.96 (foreground color: #f3f0e5, background color: #bba4d3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+          },
+          {
+            "target": [
+              ".bordered.text-item:nth-child(1) > .bold-6"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 1.96 (foreground color: #bba4d3, background color: #f3f0e5, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio"
+          }
+        ]
+      },
+      {
+        "id": "landmark-one-main",
+        "impact": "moderate",
+        "count": 1,
+        "help": "Document should have one main landmark",
+        "nodes": [
+          {
+            "target": [
+              "html"
+            ],
+            "summary": "Fix all of the following: Document does not have a main landmark"
+          }
+        ]
+      },
+      {
+        "id": "link-name",
+        "impact": "serious",
+        "count": 1,
+        "help": "Links must have discernible text",
+        "nodes": [
+          {
+            "target": [
+              ".nav-logo-link"
+            ],
+            "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+          }
+        ]
+      },
+      {
+        "id": "region",
+        "impact": "moderate",
+        "count": 19,
+        "help": "All page content should be contained by landmarks",
+        "nodes": [
+          {
+            "target": [
+              ".hero-1-heading-wrap"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          },
+          {
+            "target": [
+              ".hero-1 > .noise-bg"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          },
+          {
+            "target": [
+              ".hero-blob-wrapper-a"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "https://www.yondu.ai/about": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 3,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".long-title"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 2.77 (foreground color: #94908b, background color: #f3f0e5, font size: 30.0pt (40px), font weight: normal). Expected contrast ratio"
+          },
+          {
+            "target": [
+              ".text-span-30"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 1.56 (foreground color: #cdbcd9, background color: #f3f0e5, font size: 30.0pt (40px), font weight: normal). Expected contrast ratio"
+          },
+          {
+            "target": [
+              ".text-block-12"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.74 (foreground color: #7d7a76, background color: #f3f0e5, font size: 12.8pt (17px), font weight: normal). Expected contrast ratio"
+          }
+        ]
+      },
+      {
+        "id": "link-name",
+        "impact": "serious",
+        "count": 1,
+        "help": "Links must have discernible text",
+        "nodes": [
+          {
+            "target": [
+              ".nav-logo-link"
+            ],
+            "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+          }
+        ]
+      },
+      {
+        "id": "scrollable-region-focusable",
+        "impact": "serious",
+        "count": 1,
+        "help": "Scrollable region must have keyboard access",
+        "nodes": [
+          {
+            "target": [
+              ".horizontal-timeline"
+            ],
+            "summary": "Fix any of the following: Element should have focusable content Element should be focusable"
+          }
+        ]
+      }
+    ],
+    "https://www.yondu.ai/ourblog": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 4,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".w-dyn-item[role=\"listitem\"]:nth-child(1) > .blog-card-2.w-inline-block > .blog-card-body-2 > .blog-card-meta > .badge-text-12.muted"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.68 (foreground color: #a1a09e, background color: #454542, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              ".w-dyn-item[role=\"listitem\"]:nth-child(2) > .blog-card-2.w-inline-block > .blog-card-body-2 > .blog-card-meta > .badge-text-12.muted"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.68 (foreground color: #a1a09e, background color: #454542, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio "
+          },
+          {
+            "target": [
+              ".w-dyn-item[role=\"listitem\"]:nth-child(3) > .blog-card-2.w-inline-block > .blog-card-body-2 > .blog-card-meta > .badge-text-12.muted"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.68 (foreground color: #a1a09e, background color: #454542, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio "
+          }
+        ]
+      },
+      {
+        "id": "link-name",
+        "impact": "serious",
+        "count": 1,
+        "help": "Links must have discernible text",
+        "nodes": [
+          {
+            "target": [
+              ".nav-logo-link"
+            ],
+            "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+          }
+        ]
+      }
+    ],
+    "https://www.yondu.ai/careers": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 2,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".text-span-37"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 1.74 (foreground color: #c4b0d6, background color: #f3f0e5, font size: 30.0pt (40px), font weight: normal). Expected contrast ratio"
+          },
+          {
+            "target": [
+              ".text-block-11"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 3.72 (foreground color: #7e7a77, background color: #f3f0e5, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+          }
+        ]
+      },
+      {
+        "id": "link-name",
+        "impact": "serious",
+        "count": 1,
+        "help": "Links must have discernible text",
+        "nodes": [
+          {
+            "target": [
+              ".nav-logo-link"
+            ],
+            "summary": "Fix all of the following: Element is in tab order and does not have accessible text Fix any of the following: Element does not have text that is visible to screen readers aria-label attribute does not"
+          }
+        ]
+      }
+    ]
+  },
+  "responsiveExtra": {
+    "https://www.yondu.ai/": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 3,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Get In Touch",
+            "w": 119,
+            "h": 22,
+            "cls": "link-block w-inline-block"
+          },
+          {
+            "tag": "a",
+            "text": "hello@yonduai.com",
+            "w": 147,
+            "h": 22,
+            "cls": "hover-link"
+          },
+          {
+            "tag": "a",
+            "text": "+1-904-325-3099",
+            "w": 134,
+            "h": 22,
+            "cls": "hover-link"
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 3,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Get In Touch",
+            "w": 119,
+            "h": 22,
+            "cls": "link-block w-inline-block"
+          },
+          {
+            "tag": "a",
+            "text": "hello@yonduai.com",
+            "w": 147,
+            "h": 22,
+            "cls": "hover-link"
+          },
+          {
+            "tag": "a",
+            "text": "+1-904-325-3099",
+            "w": 134,
+            "h": 22,
+            "cls": "hover-link"
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 3,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Get In Touch",
+            "w": 119,
+            "h": 22,
+            "cls": "link-block w-inline-block"
+          },
+          {
+            "tag": "a",
+            "text": "hello@yonduai.com",
+            "w": 147,
+            "h": 22,
+            "cls": "hover-link"
+          },
+          {
+            "tag": "a",
+            "text": "+1-904-325-3099",
+            "w": 134,
+            "h": 22,
+            "cls": "hover-link"
+          }
+        ]
+      }
+    ],
+    "https://www.yondu.ai/about": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 2,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "hello@yonduai.com",
+            "w": 147,
+            "h": 22,
+            "cls": "link-2"
+          },
+          {
+            "tag": "a",
+            "text": "+14159078109",
+            "w": 106,
+            "h": 22,
+            "cls": "link-3"
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 2,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "hello@yonduai.com",
+            "w": 147,
+            "h": 22,
+            "cls": "link-2"
+          },
+          {
+            "tag": "a",
+            "text": "+14159078109",
+            "w": 106,
+            "h": 22,
+            "cls": "link-3"
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 2,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "hello@yonduai.com",
+            "w": 147,
+            "h": 22,
+            "cls": "link-2"
+          },
+          {
+            "tag": "a",
+            "text": "+14159078109",
+            "w": 106,
+            "h": 22,
+            "cls": "link-3"
+          }
+        ]
+      }
+    ],
+    "https://www.yondu.ai/ourblog": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 0,
+        "tinyTapExamples": []
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 0,
+        "tinyTapExamples": []
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 0,
+        "tinyTapExamples": []
+      }
+    ],
+    "https://www.yondu.ai/careers": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 0,
+        "tinyTapExamples": []
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 0,
+        "tinyTapExamples": []
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 0,
+        "tinyTapExamples": []
+      }
+    ]
+  },
+  "duplicates": {
+    "titles": [
+      {
+        "title": "Blog Post",
+        "pages": [
+          "https://www.yondu.ai/blog-posts/smb-3pls-dont-need-to-consolidate-they-need-robotic-labor",
+          "https://www.yondu.ai/blog-posts/a-swan-lake-of-robotics",
+          "https://www.yondu.ai/blog-posts/a-peek-behind-the-curtain-of-humanoid-manufacturing",
+          "https://www.yondu.ai/blog-posts/state-of-data-centers"
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "desc": "Yondu AI Blog Post",
+        "pages": [
+          "https://www.yondu.ai/blog-posts/smb-3pls-dont-need-to-consolidate-they-need-robotic-labor",
+          "https://www.yondu.ai/blog-posts/a-swan-lake-of-robotics",
+          "https://www.yondu.ai/blog-posts/a-peek-behind-the-curtain-of-humanoid-manufacturing",
+          "https://www.yondu.ai/blog-posts/state-of-data-centers"
+        ]
+      }
+    ]
+  },
+  "linkStats": {
+    "fpDiscovered": 13,
+    "extDiscovered": 9,
+    "fpChecked": 13,
+    "extChecked": 9
+  },
+  "requestTotal": 1220,
+  "mixedContent": []
+}

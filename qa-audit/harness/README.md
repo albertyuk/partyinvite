@@ -35,3 +35,15 @@ node verify.mjs <company>    # independent curl re-verification (real sizes, fav
   text for copy analysis. Writes `evidence2/<key>.deep.json`.
 - `deep-workflow.mjs` — 5 dimension analysts/site (technical, SEO, a11y, responsive, copy) →
   high-effort adversarial verify → append a "Deep-dive addendum" to each `audit-<key>.md`.
+
+## Re-audit (2026-07-06)
+- `audit2x.mjs <company>` — audit2 plus: og/twitter image URLs, `target=_blank` without
+  `rel=noopener`, duplicate element IDs, deprecated tags; `BLOCK_VIDEO=1` skips video downloads
+  (needed for media-heavy sites); survives mid-crawl browser crashes.
+- `extras.mjs <company>` — sitemap.xml URL sampling, canonical-target resolution, og:image/
+  favicon resolution, and a fixed regression list of every previously-cited URL.
+- `diff.mjs <company>` — machine-diff old vs fresh evidence: copy-string presence, prior-broken-
+  link statuses, axe count changes, meta changes, new failures.
+- `reaudit-workflow.mjs` — per site: prior-finding re-verifier + new-issue hunter (parallel) →
+  adversarial verifier → writes the "Re-audit (2026-07-06)" section into each audit-<key>.md.
+Fresh evidence lives in `qa-audit/evidence3/` (pass-1 + deep + headers + extras + diff JSONs).

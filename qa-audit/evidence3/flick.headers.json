@@ -1,0 +1,305 @@
+{
+  "key": "flick",
+  "name": "Flick",
+  "start": "https://flick.art/",
+  "checkedAt": "2026-07-06T08:19:26.456Z",
+  "canonicalization": {
+    "httpToHttps": {
+      "status": 308,
+      "ttfbMs": 215,
+      "httpVersion": "1.1",
+      "redirectUrl": "https://flick.art/",
+      "scheme": "HTTP",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "content-type": "text/plain",
+        "location": "https://flick.art/",
+        "refresh": "0;url=https://flick.art/",
+        "server": "Vercel",
+        "date": "Mon, 06 Jul 2026 08:19:26 GMT",
+        "transfer-encoding": "chunked"
+      },
+      "setCookies": [],
+      "redirectBlocks": 1
+    },
+    "apex": {
+      "status": 200,
+      "ttfbMs": 435,
+      "httpVersion": "2",
+      "redirectUrl": "",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "14159",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-disposition": "inline",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Mon, 06 Jul 2026 08:19:27 GMT",
+        "etag": "\"d921f10e8d1f891e18d81be181aff136\"",
+        "last-modified": "Mon, 06 Jul 2026 04:23:27 GMT",
+        "link": "<https://flick.art/>; rel=\"canonical\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "iad1::4lbr6-1783325967157-0977e5ee12ba",
+        "content-length": "5058"
+      },
+      "setCookies": [],
+      "redirectBlocks": 2
+    },
+    "www": {
+      "status": 308,
+      "ttfbMs": 674,
+      "httpVersion": "2",
+      "redirectUrl": "https://flick.art/",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-type": "text/plain",
+        "date": "Mon, 06 Jul 2026 08:19:27 GMT",
+        "location": "https://flick.art/",
+        "refresh": "0;url=https://flick.art/",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "x-vercel-id": "iad1::xgmbh-1783325967815-61812d5c4611"
+      },
+      "setCookies": [],
+      "redirectBlocks": 2
+    }
+  },
+  "pages": {
+    "https://flick.art/": {
+      "status": 200,
+      "ttfbMs": 211,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate"
+      },
+      "cookies": []
+    },
+    "https://flick.art/pricing": {
+      "status": 200,
+      "ttfbMs": 407,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate"
+      },
+      "cookies": []
+    },
+    "https://flick.art/blog": {
+      "status": 200,
+      "ttfbMs": 221,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate"
+      },
+      "cookies": []
+    },
+    "https://flick.art/docs": {
+      "status": 308,
+      "ttfbMs": 177,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "(none)",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate"
+      },
+      "cookies": []
+    },
+    "https://flick.art/about": {
+      "status": 200,
+      "ttfbMs": 181,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate"
+      },
+      "cookies": []
+    },
+    "https://flick.art/careers": {
+      "status": 200,
+      "ttfbMs": 172,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate"
+      },
+      "cookies": []
+    }
+  },
+  "assets": {
+    "https://cdn.flick.art/cover-new2.mp4": {
+      "status": 200,
+      "ttfbMs": 200,
+      "sizeKB": 14650,
+      "contentEncoding": "(none)",
+      "cacheControl": "max-age=14400",
+      "etag": "yes",
+      "contentType": "video/mp4",
+      "immutable": false
+    },
+    "https://flick.art/assets/index-C6HZNF9Y.js": {
+      "status": 200,
+      "ttfbMs": 460,
+      "sizeKB": 1624,
+      "contentEncoding": "br",
+      "cacheControl": "public, max-age=0, must-revalidate",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": false
+    },
+    "https://cdn.flick.art/true.svg": {
+      "status": 200,
+      "ttfbMs": 185,
+      "sizeKB": 1765,
+      "contentEncoding": "zstd",
+      "cacheControl": "max-age=14400",
+      "etag": "yes",
+      "contentType": "image/svg+xml",
+      "immutable": false
+    },
+    "https://cdn.flick.art/system/about.jpg": {
+      "status": 200,
+      "ttfbMs": 456,
+      "sizeKB": 4841,
+      "contentEncoding": "(none)",
+      "cacheControl": "max-age=14400",
+      "etag": "yes",
+      "contentType": "image/jpeg",
+      "immutable": false
+    },
+    "https://cdn.flick.art/system/mimi.jpg": {
+      "status": 200,
+      "ttfbMs": 398,
+      "sizeKB": 2912,
+      "contentEncoding": "(none)",
+      "cacheControl": "max-age=14400",
+      "etag": "yes",
+      "contentType": "image/jpeg",
+      "immutable": false
+    },
+    "https://cdn.flick.art/df572068-3caa-4738-bbcf-fa95de1add54/uploads/images/2026/05/2026-05-14T16-30-35_ca5b5c3f-5e3e-4fff-ab6b-2f22248763bf.jpg": {
+      "status": 200,
+      "ttfbMs": 217,
+      "sizeKB": 2729,
+      "contentEncoding": "(none)",
+      "cacheControl": "max-age=14400",
+      "etag": "yes",
+      "contentType": "image/jpeg",
+      "immutable": false
+    },
+    "https://cdn.flick.art/df572068-3caa-4738-bbcf-fa95de1add54/uploads/images/2026/05/The%20Last%20Stop%20Thumbnail-2.jpg": {
+      "status": 200,
+      "ttfbMs": 456,
+      "sizeKB": 2014,
+      "contentEncoding": "(none)",
+      "cacheControl": "max-age=14400",
+      "etag": "yes",
+      "contentType": "image/jpeg",
+      "immutable": false
+    },
+    "https://flick.art/ray.jpg": {
+      "status": 200,
+      "ttfbMs": 206,
+      "sizeKB": 1827,
+      "contentEncoding": "(none)",
+      "cacheControl": "public, max-age=0, must-revalidate",
+      "etag": "yes",
+      "contentType": "image/jpeg",
+      "immutable": false
+    }
+  },
+  "notes": []
+}

@@ -1,0 +1,323 @@
+{
+  "key": "scalarfield",
+  "checkedAt": "2026-07-06T08:20:56.805Z",
+  "sitemap": {
+    "status": 200,
+    "totalLocs": 39,
+    "sampled": [
+      {
+        "url": "https://scalarfield.io",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 41980
+      },
+      {
+        "url": "https://scalarfield.io/about",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/about",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 63504
+      },
+      {
+        "url": "https://scalarfield.io/chat",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/chat",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 58529
+      },
+      {
+        "url": "https://scalarfield.io/fundamentals",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/fundamentals",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 63294
+      },
+      {
+        "url": "https://scalarfield.io/economics",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/economics",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 62941
+      },
+      {
+        "url": "https://scalarfield.io/insider-trading",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/insider-trading",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 63954
+      },
+      {
+        "url": "https://scalarfield.io/congress-analytics",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/congress-analytics",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 62431
+      },
+      {
+        "url": "https://scalarfield.io/fixed-income/others",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/fixed-income/others",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 59244
+      },
+      {
+        "url": "https://scalarfield.io/prediction-markets/jupiter",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/prediction-markets/jupiter",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 61979
+      },
+      {
+        "url": "https://scalarfield.io/cybersecurity-policy",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/cybersecurity-policy",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 53542
+      },
+      {
+        "url": "https://scalarfield.io/terms-of-use",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/terms-of-use",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 57614
+      },
+      {
+        "url": "https://scalarfield.io/agentic-etfs/agent_5d5006fc5a154a2389ea074e12918e71",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/agentic-etfs/agent_5d5006fc5a154a2389ea074e12918e71",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 220770
+      },
+      {
+        "url": "https://scalarfield.io/agentic-etfs/agent_dc994ca8ee114dcd8cd303d86adc684b",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/agentic-etfs/agent_dc994ca8ee114dcd8cd303d86adc684b",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 163650
+      },
+      {
+        "url": "https://scalarfield.io/agentic-etfs/agent_7fd75e57b0a2489ba741169a6506ae5b",
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/agentic-etfs/agent_7fd75e57b0a2489ba741169a6506ae5b",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 178724
+      }
+    ],
+    "non200": []
+  },
+  "canonicals": [
+    {
+      "page": "https://scalarfield.io/",
+      "canonical": "https://scalarfield.io",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 41980,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://scalarfield.io/pricing",
+      "canonical": "https://scalarfield.io/pricing",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/pricing",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 147081,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://scalarfield.io/agentic-etfs",
+      "canonical": "https://scalarfield.io/agentic-etfs",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/agentic-etfs",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 217717,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://scalarfield.io/ai-agentic-trading",
+      "canonical": "https://scalarfield.io/ai-agentic-trading",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/ai-agentic-trading",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 68351,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://scalarfield.io/terms-of-use",
+      "canonical": "https://scalarfield.io/terms-of-use",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/terms-of-use",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 57614,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://scalarfield.io/privacy",
+      "canonical": "https://scalarfield.io/privacy",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/privacy",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 53335,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://scalarfield.io/cybersecurity-policy",
+      "canonical": "https://scalarfield.io/cybersecurity-policy",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/cybersecurity-policy",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 53542,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://scalarfield.io/ai-disclosure",
+      "canonical": "https://scalarfield.io/ai-disclosure",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/ai-disclosure",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 54357,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://scalarfield.io/docs/market-data/options-quotes",
+      "canonical": "https://scalarfield.io/docs/market-data/options-quotes",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/options-quotes",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 342542,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://scalarfield.io/docs/market-data/equity-ohlcv",
+      "canonical": "https://scalarfield.io/docs/market-data/equity-ohlcv",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/equity-ohlcv",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 328459,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://scalarfield.io/docs/market-data/earnings",
+      "canonical": "https://scalarfield.io/docs/market-data/earnings",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/earnings",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 270379,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://scalarfield.io/docs/market-data/insider-trades",
+      "canonical": "https://scalarfield.io/docs/market-data/insider-trades",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/insider-trades",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 383863,
+      "selfConsistent": true
+    },
+    {
+      "page": "https://scalarfield.io/docs/market-data/institutional-holdings",
+      "canonical": "https://scalarfield.io/docs/market-data/institutional-holdings",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/institutional-holdings",
+      "redirects": 0,
+      "type": "text/html; charset=utf-8",
+      "size": 340651,
+      "selfConsistent": true
+    }
+  ],
+  "socialImages": [
+    {
+      "url": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+      "status": 200,
+      "finalUrl": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 1769060,
+      "isImage": true
+    },
+    {
+      "url": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DOptions%2BQuotes%26description%3DLive%252C%2Bintraday%2B%25281-minute%2529%252C%2Band%2Bdaily%2Bhistorical%2Boptions%2Bquotes%2Bwith%2Bbid%252Fask%252Fmid%2Bprices%252C%2Bcontract%2Bmetadata%252C%2Band%2Bfull%2BGreeks.%2BCovers%2B5%252C000%252B%2BUS%2Bequity%2Boptions%2Bsymb%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+      "status": 200,
+      "finalUrl": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DOptions%2BQuotes%26description%3DLive%252C%2Bintraday%2B%25281-minute%2529%252C%2Band%2Bdaily%2Bhistorical%2Boptions%2Bquotes%2Bwith%2Bbid%252Fask%252Fmid%2Bprices%252C%2Bcontract%2Bmetadata%252C%2Band%2Bfull%2BGreeks.%2BCovers%2B5%252C000%252B%2BUS%2Bequity%2Boptions%2Bsymb%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 152248,
+      "isImage": true
+    },
+    {
+      "url": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DEquity%2B%2526%2BETF%2BOHLCV%26description%3DDaily%2Band%2Bintraday%2B%2528minute%252Fhour%2529%2BOHLCV%2Bprice%2Bbars%2Bfor%2BU.S.%2Bequities%2Band%2BETFs.%2BCovers%2B10%252C000%252B%2Bsymbols%2Bwith%2Bdaily%2Bhistory%2Bback%2Bto%2B2003%2Band%2Bintraday%2Bdata%2Bback%2Bto%2B2%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+      "status": 200,
+      "finalUrl": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DEquity%2B%2526%2BETF%2BOHLCV%26description%3DDaily%2Band%2Bintraday%2B%2528minute%252Fhour%2529%2BOHLCV%2Bprice%2Bbars%2Bfor%2BU.S.%2Bequities%2Band%2BETFs.%2BCovers%2B10%252C000%252B%2Bsymbols%2Bwith%2Bdaily%2Bhistory%2Bback%2Bto%2B2003%2Band%2Bintraday%2Bdata%2Bback%2Bto%2B2%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 149865,
+      "isImage": true
+    },
+    {
+      "url": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DEarnings%2BCalendar%2B%2526%2BResults%26description%3DEarnings%2Breport%2Bdates%252C%2BEPS%2Bactuals%252C%2Band%2Bconsensus%2Bestimates%2Bfor%2BUS%2Bequities.%2BCovers%2Bboth%2Bhistorical%2Bresults%2Band%2Bupcoming%2Bscheduled%2Breports.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+      "status": 200,
+      "finalUrl": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DEarnings%2BCalendar%2B%2526%2BResults%26description%3DEarnings%2Breport%2Bdates%252C%2BEPS%2Bactuals%252C%2Band%2Bconsensus%2Bestimates%2Bfor%2BUS%2Bequities.%2BCovers%2Bboth%2Bhistorical%2Bresults%2Band%2Bupcoming%2Bscheduled%2Breports.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 156335,
+      "isImage": true
+    },
+    {
+      "url": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DCorporate%2BInsider%2BTransactions%26description%3DNear%2Breal-time%2BSEC%2BForm%2B3%252F4%252F5%2Binsider%2Bbuying%2Band%2Bselling%2Bactivity%2Bderived%2Bfrom%2BEDGAR%2Bfilings.%2BCovers%2B5%252C300%252B%2Btickers%2Band%2B97%252C000%252B%2Bunique%2Binsiders%2Bwith%2Bhistory%2Bbac%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+      "status": 200,
+      "finalUrl": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DCorporate%2BInsider%2BTransactions%26description%3DNear%2Breal-time%2BSEC%2BForm%2B3%252F4%252F5%2Binsider%2Bbuying%2Band%2Bselling%2Bactivity%2Bderived%2Bfrom%2BEDGAR%2Bfilings.%2BCovers%2B5%252C300%252B%2Btickers%2Band%2B97%252C000%252B%2Bunique%2Binsiders%2Bwith%2Bhistory%2Bbac%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 158806,
+      "isImage": true
+    },
+    {
+      "url": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DInstitutional%2BHoldings%2B%2528SEC%2BForm%2B13F%2529%26description%3DReal-time%2BSEC%2BForm%2B13F%2Bquarterly%2Bfilings%2Bfrom%2Binstitutional%2Binvestment%2Bmanagers%2Bwith%2B%2524100M%252B%2Bin%2Bqualifying%2Bassets.%2BCovers%2B14%252C000%252B%2Binstitutions%252C%2B13%252C800%252B%2Bsecuritie%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+      "status": 200,
+      "finalUrl": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DInstitutional%2BHoldings%2B%2528SEC%2BForm%2B13F%2529%26description%3DReal-time%2BSEC%2BForm%2B13F%2Bquarterly%2Bfilings%2Bfrom%2Binstitutional%2Binvestment%2Bmanagers%2Bwith%2B%2524100M%252B%2Bin%2Bqualifying%2Bassets.%2BCovers%2B14%252C000%252B%2Binstitutions%252C%2B13%252C800%252B%2Bsecuritie%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 157062,
+      "isImage": true
+    }
+  ],
+  "favicons": [
+    {
+      "href": "/favicon.svg",
+      "resolved": "https://scalarfield.io/favicon.svg",
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/favicon.svg",
+      "redirects": 0,
+      "type": "image/svg+xml",
+      "size": 652
+    }
+  ],
+  "regression": []
+}

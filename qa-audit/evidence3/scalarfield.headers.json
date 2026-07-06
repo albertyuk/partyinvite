@@ -1,0 +1,239 @@
+{
+  "key": "scalarfield",
+  "name": "Scalar Field",
+  "start": "https://scalarfield.io/",
+  "checkedAt": "2026-07-06T08:18:55.407Z",
+  "canonicalization": {
+    "httpToHttps": {
+      "status": 308,
+      "ttfbMs": 165,
+      "httpVersion": "1.1",
+      "redirectUrl": "https://scalarfield.io/",
+      "scheme": "HTTP",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "content-type": "text/plain",
+        "location": "https://scalarfield.io/",
+        "refresh": "0;url=https://scalarfield.io/",
+        "server": "Vercel",
+        "date": "Mon, 06 Jul 2026 08:18:55 GMT",
+        "transfer-encoding": "chunked"
+      },
+      "setCookies": [],
+      "redirectBlocks": 1
+    },
+    "apex": {
+      "status": 200,
+      "ttfbMs": 197,
+      "httpVersion": "2",
+      "redirectUrl": "",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "328242",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-disposition": "inline",
+        "content-type": "text/html; charset=utf-8",
+        "cross-origin-opener-policy": "same-origin-allow-popups",
+        "date": "Mon, 06 Jul 2026 08:18:55 GMT",
+        "etag": "\"85ce6937318f3ac9f57311c0206f96a1\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-matched-path": "/",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "iad1::tbfkr-1783325935792-a531618d32a4",
+        "content-length": "41980"
+      },
+      "setCookies": [],
+      "redirectBlocks": 2
+    },
+    "www": {
+      "status": 308,
+      "ttfbMs": 413,
+      "httpVersion": "2",
+      "redirectUrl": "https://scalarfield.io/",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "cache-control": "public, max-age=0, must-revalidate",
+        "content-type": "text/plain",
+        "date": "Mon, 06 Jul 2026 08:18:56 GMT",
+        "location": "https://scalarfield.io/",
+        "refresh": "0;url=https://scalarfield.io/",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "x-vercel-id": "iad1::6xpgp-1783325936197-c8d9e1a87b6c"
+      },
+      "setCookies": [],
+      "redirectBlocks": 2
+    }
+  },
+  "pages": {
+    "https://scalarfield.io/": {
+      "status": 200,
+      "ttfbMs": 202,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000",
+          "cross-origin-opener-policy": "same-origin-allow-popups"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    },
+    "https://scalarfield.io/docs": {
+      "status": 308,
+      "ttfbMs": 231,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "(none)",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000",
+          "content-security-policy": "worker-src * blob: data: 'unsafe-eval' 'unsafe-inline'; object-src data: ; base-uri 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://dashboard.",
+          "x-frame-options": "DENY",
+          "cross-origin-opener-policy": "same-origin-allow-popups"
+        },
+        "missing": [
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    },
+    "https://scalarfield.io/pricing": {
+      "status": 200,
+      "ttfbMs": 269,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "br",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=63072000",
+          "cross-origin-opener-policy": "same-origin-allow-popups"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "x-xss-protection"
+        ],
+        "server": "Vercel",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      },
+      "cookies": []
+    }
+  },
+  "assets": {
+    "https://scalarfield.io/_next/static/chunks/9a9ffc5ab9f3d0cc.js?dpl=dpl_9uYdS3h8Mmz5krTeZGNJHVpEPZ6Y": {
+      "status": 200,
+      "ttfbMs": 172,
+      "sizeKB": 331,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": true
+    },
+    "https://scalarfield.io/_next/static/chunks/7c12a29bd91d1ca8.js?dpl=dpl_9uYdS3h8Mmz5krTeZGNJHVpEPZ6Y": {
+      "status": 200,
+      "ttfbMs": 323,
+      "sizeKB": 96,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": true
+    },
+    "https://scalarfield.io/_next/static/chunks/cb9f7f9047c4d488.js?dpl=dpl_9uYdS3h8Mmz5krTeZGNJHVpEPZ6Y": {
+      "status": 200,
+      "ttfbMs": 243,
+      "sizeKB": 128,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": true
+    },
+    "https://scalarfield.io/_next/static/chunks/74f5f88b576d8633.js?dpl=dpl_9uYdS3h8Mmz5krTeZGNJHVpEPZ6Y": {
+      "status": 200,
+      "ttfbMs": 177,
+      "sizeKB": 94,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": true
+    },
+    "https://scalarfield.io/_next/static/chunks/944dd88f0bf08090.css?dpl=dpl_9uYdS3h8Mmz5krTeZGNJHVpEPZ6Y": {
+      "status": 200,
+      "ttfbMs": 169,
+      "sizeKB": 34,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "text/css; charset=utf-8",
+      "immutable": true
+    },
+    "https://scalarfield.io/_next/static/chunks/4fa395d360c87cc3.js?dpl=dpl_9uYdS3h8Mmz5krTeZGNJHVpEPZ6Y": {
+      "status": 200,
+      "ttfbMs": 186,
+      "sizeKB": 63,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": true
+    },
+    "https://scalarfield.io/_next/static/chunks/ec4f3363b94f9967.js?dpl=dpl_9uYdS3h8Mmz5krTeZGNJHVpEPZ6Y": {
+      "status": 200,
+      "ttfbMs": 196,
+      "sizeKB": 44,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": true
+    },
+    "https://scalarfield.io/_next/static/chunks/a36bbe15af4e6882.js?dpl=dpl_9uYdS3h8Mmz5krTeZGNJHVpEPZ6Y": {
+      "status": 200,
+      "ttfbMs": 190,
+      "sizeKB": 41,
+      "contentEncoding": "br",
+      "cacheControl": "public,max-age=31536000,immutable",
+      "etag": "yes",
+      "contentType": "application/javascript; charset=utf-8",
+      "immutable": true
+    }
+  },
+  "notes": []
+}

@@ -1,0 +1,3096 @@
+{
+  "key": "scalarfield",
+  "name": "Scalar Field",
+  "start": "https://scalarfield.io/",
+  "checkedAt": "2026-07-06T08:18:59.571Z",
+  "pages": {
+    "https://scalarfield.io/": {
+      "url": "https://scalarfield.io/",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/"
+      },
+      "data": {
+        "title": "Scalar Field | AI Agentic Trading Desk",
+        "titleLen": 38,
+        "metaDescription": "ScalarField is an AI agentic trading desk for market research, backtesting, brokerage-connected trading agents, and execution across equities, options, prediction markets, and pre-IPO names.",
+        "metaDescriptionLen": 190,
+        "canonical": "https://scalarfield.io",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Scalar Field: Your AI Agentic Trading DeskReinventing TradingResearch, backtest, and deploy intellig"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 80,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "Organization",
+          "WebSite",
+          "ItemList",
+          "SoftwareApplication"
+        ],
+        "jsonldCount": 4,
+        "ogCount": 8,
+        "twitterCount": 4,
+        "forms": [
+          {
+            "action": "",
+            "method": "get",
+            "novalidate": false,
+            "fieldCount": 3,
+            "fields": [
+              {
+                "tag": "textarea",
+                "type": "textarea",
+                "name": "",
+                "required": false,
+                "autocomplete": "off",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "",
+                "labeled": false
+              },
+              {
+                "tag": "input",
+                "type": "file",
+                "name": "",
+                "required": false,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "",
+                "labeled": false
+              },
+              {
+                "tag": "input",
+                "type": "checkbox",
+                "name": "",
+                "required": false,
+                "autocomplete": "",
+                "ariaLabel": "",
+                "ariaLabelledby": "",
+                "placeholder": "",
+                "labeled": true
+              }
+            ]
+          }
+        ],
+        "formCount": 1,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "Scalar Field Legal Docs Pricing Login Try Now Scalar Field: Your AI Agentic Trading Desk Reinventing Trading Research, backtest, and deploy intelligent trading agents from idea to live execution. Your agentic trading desk, from research to live execution. ScalarField helps traders turn market ideas into AI agents that analyze data, connect brokerages, and trade equities, options, prediction markets, and pre-IPO names across venues. Run an actively managed agentic portfolio of the fastest AI-capex growers, rebalanced weekly. Build a Trump-hype agentic portfolio that buys the stocks he publicly champions. Sell weekly cash-secured puts on AAPL 5% OTM, rolling or taking assignment. Let Opus 4.7 actively manage my stock portfolio. B| Add Trading Platforms Add Data Sources Ultra Backed by Combinator One platform. Every venue. Connect your brokerage. Your agent handles the rest. Where institutional-grade financial agents think, act, and adapt. Supercharge your edge with automated insight and action — not just data. Talk to Us See it in action Sub-300ms from event to live trade. Every dataset is timestamped at ingestion, so your agent reacts in under 300ms to place live trades the moment a filing or headline lands, and you can backtest that same tick-to-trade edge on history before going live. Corporate Insider Transactions SUB-300MS FROM SEC FORM 4 FILING TO YOUR AGENT. Every insider trade carries both our pipeline timestamp and the official SEC filing time. Your agent sees the delta — that's the latency edge. Institutional Holdings (13F) SUB-300MS FROM EDGAR SUBMISSION TO YOUR AGENT. Pipeline timestamp vs EDGAR filing time on every record. Detect position changes before the rest of the street parses the filing. Real-Time News Wire 63+ PROVIDERS. SUB-300MS PIPELINE DELIVERY. Reuters, Dow Jones, Quartr, TradingView, and 59 more. Full-text search across tickers, geographies, topics, and urgency levels. Options with Full Greeks LIVE AND HISTORICAL. SUB-300MS QUOTE SNAPSHOTS. Screen the entire options universe by strike, expiry, and Greek ranges. Complete implied volatility surface at any point in history. Economic Releases POINT-IN-TIME SNAPSHOTS AT EVERY OBSERVATION. CPI, GDP, rates, employment — with full revision history. Know what the market knew at any given moment, not what was later revised. FRED + Macro THOUSANDS OF SERIES. SUB-300MS ON UPDATE. Rates, inflation, employment, GDP, money supply, housing, trade balance. The backbone for macro factor construction and regime detection. Tokenized Pre-IPO Equities SPACEX. OPENAI. ANTHROPIC. ANDURIL. Trade tokenized pre-IPO names via Jupiter on Solana. Full OHLCV and live pricing. Plus 48 tokenized public equities. Analyst Ratings SUB-300MS FROM FEED REFRESH TO AGENT DELIVERY. Pipeline timestamp and rating issuance time on every record. Enriched with analyst-level performance metrics — success rate, average return. What will your agent trade? Click any strategy to get started. Or type your own. DEEP LEARNING Gamma-Squeeze ML Your agent trains a model on price and options history, validates it on a backtest, then trades the live signal. COPY TRADING Congressional Mirror Your agent parses disclosures the moment they hit and mirrors the trades automatically. PREDICTION MARKETS Polymarket Whale Copy Your agent watches on-chain Polymarket activity and mirrors high-conviction bets within seconds. SHORT INTEREST Short-Squeeze Hunter Your agent screens short interest and days-to-cover, then rides momentum as crowded shorts unwind. BACKTESTED Momentum Rotation Factor-based with survivorship-bias-free data. Backtest across decades, then deploy live. TOKENIZED Pre-IPO Basket Diversified pre-IPO exposure via tokenized equities on Solana. Your agent rebalances and reports NAV. EVENT-DRIVEN Post-Earnings Drift Your agent reads the print and the reaction, then captures the post-earnings drift that follows big beats. MACRO Macro Regime Rotation Your agent reads FRED and economic releases to size risk up or down as the macro regime shifts. Scalar Field Scalar Field, Inc. is an SEC-registered investment adviser. Registration with the U.S. Securities and Exchange Commission does not imply a certain level of skill or training. Scalar Field provides AI-assisted trade execution technology infrastructure through its platform. All trade executions are initiated at the user's discretion. All investments involve risk, including possible loss of principal, and past performance does not guarantee future results. Information provided through Scalar Field's website and platform is for informational purposes only and should not be construed as investment advice, or a recommendation, offer, or solicitation to buy or sell any security. Scalar Field does not provide investment, legal, or tax advice. Users should consult their own legal, tax, or financial advisors before making investment decisions. Services are offered only to users in jurisdictions where Scalar Field is registered or exempt from registration. For additional disclosures and important information, please visit https://www.scalarfield.io/legal. Company Docs Blogs Agentic Trading Strategies What Is AI Agentic Trading? Product Pricing Terms of Service Privacy Policy Cybersecurity Policy AI Disclosure Socials Discord X / Twitter Email",
+        "ogImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "twImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "blankNoopener": {
+          "count": 11,
+          "examples": [
+            "https://www.ycombinator.com/launches/NSw-scalar-field-reinventing-the-trading-terminal-one-intelligent-agent-at-a-time",
+            "https://calendly.com/aman-dvds/30min",
+            "https://www.scalarfield.io/legal",
+            "https://scalarfield.io/docs",
+            "https://blogs.scalarfield.io/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "button-name",
+          "impact": "critical",
+          "count": 2,
+          "help": "Buttons must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".group.p-2.rounded-md"
+              ],
+              "summary": "Fix any of the following: Element does not have inner text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attribute does not exist, references elemen"
+            },
+            {
+              "target": [
+                "button[aria-controls=\"radix-_r_7_\"]"
+              ],
+              "summary": "Fix any of the following: Element does not have inner text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attribute does not exist, references elemen"
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 2,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".text-xl.font-normal.text-muted"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.95 (foreground color: #89999d, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                "span[data-testid=\"react-typed\"] > span:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 1.98 (foreground color: #b8b8b8, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "count": 1,
+          "help": "Form elements must have labels",
+          "nodes": [
+            {
+              "target": [
+                "textarea"
+              ],
+              "summary": "Fix any of the following: Element does not have an implicit (wrapped) <label> Element does not have an explicit <label> aria-label attribute does not exist or is empty aria-labelledby attribute does n"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 20,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".ml-2"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".sm\\:inline-block.hidden:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".sm\\:inline-block.hidden:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://scalarfield.io/docs": {
+      "url": "https://scalarfield.io/docs",
+      "primary": true,
+      "nav": {
+        "ok": false,
+        "error": "page.goto: net::ERR_CONNECTION_RESET at https://scalarfield.io/docs"
+      }
+    },
+    "https://scalarfield.io/pricing": {
+      "url": "https://scalarfield.io/pricing",
+      "primary": true,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/pricing"
+      },
+      "data": {
+        "title": "Pricing | ScalarField",
+        "titleLen": 21,
+        "metaDescription": "Explore ScalarField pricing plans for your agentic trading desk: Pro, Ultra, and Enterprise.",
+        "metaDescriptionLen": 92,
+        "canonical": "https://scalarfield.io/pricing",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "The next great trader isn't a person.Pick your plan."
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          3,
+          3,
+          3,
+          2
+        ],
+        "headingHierarchyOk": false,
+        "imgTotal": 31,
+        "imgMissingAlt": 1,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "Organization",
+          "WebSite",
+          "ItemList",
+          "SoftwareApplication"
+        ],
+        "jsonldCount": 4,
+        "ogCount": 6,
+        "twitterCount": 6,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "Scalar Field Legal Docs Login Try Now The next great trader isn't a person. Pick your plan. It's an agent that researches, decides, and executes — 24/7, across every venue. Build yours. Monthly Annually Save 17% Pro Plan Current Plan Usage & Limits 200K context window Up to 10 minutes compute time per query Automation Strategies (automated trading) Monitors (alerts & signals) Strategy templates marketplace Market Data Options data (quotes, greeks, IV, screener) · live + history since 2007 Equities, indices, crypto, forex OHLCV · live + history since 2003 Earnings calendar & results · live + historical Congress & insider trades · live + history since 2009 Institutional holdings & flows · live + history since 1987 Analyst ratings & price targets · live + historical Polymarket prediction markets (events, OHLCV, trades, wallet analytics) · live + historical Economic event releases with revision history · live + historical FRED — 10M+ economic time series (GDP, CPI, unemployment, rates, and more) · live + full history Trading Alpaca (US equities & options) Robinhood (US equities, options & crypto) Polymarket (prediction markets) — 1% fee on trades Jupiter DEX (tokenized assets on Solana) — 1% fee on trades Public.com (coming soon) Webull (coming soon) Research & Reference Real-time news wire (Reuters, Dow Jones, Quartr, and 60+ more) Fundamentals & SEC filings ETF holdings & government bonds Web search Ultra Plan Most Popular Current Plan All Pro features, plus: Usage & Limits 1M context window Up to 15 minutes compute time per query Trading 1% trade fee refunded on Polymarket & Jupiter DEX Market Data 1-minute OHLCV & L1 quotes for options Fundamental data (Morningstar + FactSet) Support & Services 24/7 premium support & SLAs Enterprise Plan Custom Contact Us All Pro features, plus: Usage & Scale Unlimited queries Custom compute and context limits Automation Custom strategy and monitor limits Private team workspaces Brokerage Integrations Custom integrations (Interactive Brokers, Ameritrade, Schwab, and more) Bring-your-own brokerage API Security & Compliance SSO, SAML, RBAC SOC 2, GDPR, HIPAA-ready Support & Services 24/7 premium support & SLAs Dedicated account manager Data & Deployment Private cloud / VPC deployment Custom data source additions Expanded connectors (Bloomberg) Bring-your-own data & custom APIs Your Investment Journey, Our Expert Compass Try for free Scalar Field Company Pricing Blog & updates Terms of Use Social",
+        "ogImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "twImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "blankNoopener": {
+          "count": 5,
+          "examples": [
+            "https://blog.scalarfield.io/",
+            "https://scalarfield.io/terms-of-use",
+            "https://discord.gg/rhW3BBaWzx",
+            "https://x.com/scalar_field_",
+            "mailto:info@scalarfield.io"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 9,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "p"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".bg-transparent"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.85 (foreground color: #849597, background color: #f5f5f3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".lg\\:justify-self-end > .mt-4.items-start.flex > .flex-1.flex-col.flex > .gap-2.justify-between.items-center > .gap-2.items-center.flex > .text-left.text-sm.text-muted > span:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Heading levels should only increase by one",
+          "nodes": [
+            {
+              "target": [
+                ".lg\\:justify-self-end > .justify-between.items-center.flex > h3"
+              ],
+              "summary": "Fix any of the following: Heading order invalid"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 76,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".sm\\:text-2xl"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".hidden.sm\\:inline-block.cursor-pointer:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".hidden.sm\\:inline-block.cursor-pointer:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://www.scalarfield.io/legal": {
+      "url": "https://www.scalarfield.io/legal",
+      "primary": false,
+      "nav": {
+        "ok": false,
+        "error": "page.goto: net::ERR_CONNECTION_RESET at https://www.scalarfield.io/legal"
+      }
+    },
+    "https://scalarfield.io/agentic-etfs": {
+      "url": "https://scalarfield.io/agentic-etfs",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/agentic-etfs"
+      },
+      "data": {
+        "title": "Agentic Trading Strategies | ScalarField",
+        "titleLen": 40,
+        "metaDescription": "Browse agentic trading strategies and market monitors for your AI trading desk. Automate screening, analysis, and execution across assets and venues.",
+        "metaDescriptionLen": 149,
+        "canonical": "https://scalarfield.io/agentic-etfs",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "Strategies"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ],
+        "headingHierarchyOk": false,
+        "imgTotal": 12,
+        "imgMissingAlt": 1,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "Organization",
+          "WebSite",
+          "ItemList",
+          "WebApplication",
+          "BreadcrumbList",
+          "ItemList"
+        ],
+        "jsonldCount": 6,
+        "ogCount": 7,
+        "twitterCount": 6,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 4,
+        "text": "Scalar Field Home MY BOOK Strategies Monitors Threads THE DESK Strategies Monitors FLOW Insider Trades Congress Trades Institutional Flows SEC Filings Whale Flow RESEARCH Congress Analytics Institutional Holdings Analyst Ratings Fundamentals CALENDAR Earnings Calendar Earnings Predictions IPOs & M&A Economic Data REFERENCE News ETF Holdings Government Bonds Prediction Markets Login Strategies Monitors All AI Portfolios Events Smart Money Social Signals Thematic Trend All AI Portfolios Events Smart Money Social Signals Thematic Trend Filter Venue Sort: Date Created Serenity (@AleabitoReddit) Tweet Recommendation Portfolio Live It converts public market commentary from Serenity (@AleabitoReddit) into a rules-based long-only portfolio. Serenity is a popular finance creator known for AI, semiconductor, and supply-chain focused trade ideas. Every day at 3:45 PM ET, the agent reviews the latest 24 hours of tweets, uses Claude Sonnet 4.6 to extract clear US equity and ETF recommendations, updates a capped active recommendation book, and rebalances equal-weight exposure across up to 20 positions. AT 3:45 PM, ON MONDAY THROUGH FRIDAY (ET) TOTAL RETURN — 30D — 7D — MAX DD — Invest Tearsheet Fork Thread Corrected Weekly Leveraged ETF Rotation - Alpaca Paper Live EVERY MINUTE FROM 0 THROUGH 30, AT 10 AM, ON MONDAY THROUGH FRIDAY (ET) TOTAL RETURN — 30D — 7D — MAX DD — Invest Tearsheet Fork Thread Opus 4.8 Agentic Equity ETF Live AT 10:00 AM, ON MONDAY THROUGH FRIDAY (ET) TOTAL RETURN — 30D — 7D — MAX DD — Invest Tearsheet Fork Thread TQQQ Walk-Forward Regime Strategy - Paper Live AT 11:00 AM, ON MONDAY THROUGH FRIDAY (ET) TOTAL RETURN — 30D — 7D — MAX DD — Invest Tearsheet Fork Thread Jane Street 13F Top 20 Follower Live Trades a live Jane Street 13F portfolio tracker. The agent follows Jane Street’s publicly disclosed quarterly holdings, selects the top 20 U.S. stocks and ETFs by reported market value, excludes options, applies a 25% single-position cap, and builds a value-weighted portfolio. A 5-year backtest returned 141.68% versus 68.75% for SPY, with a 20.21% CAGR, 0.95 Sharpe, and -32.10% max drawdown. The agent runs weekly, tracks real-time prices and performance, and rebalances quarterly after new filings are released. AT 10:00 AM, ON MONDAY (ET) TOTAL RETURN — 30D — 7D — MAX DD — Invest Tearsheet Fork Thread UAP/NHI Monthly Equity Exposure Strategy Live Trades a live UAP/NHI exposure portfolio using Claude Sonnet 4.6. UAP stands for Unidentified Anomalous Phenomena — the modern government term for unexplained aerial, space, or underwater observations that were earlier broadly called UFOs. The agent scans for U.S. companies positioned around government disclosure, defense and intelligence contracts, aerospace systems, advanced sensors, nuclear infrastructure, and potential commercial exploitation of UAP-related technologies. It builds a $100,000 conviction-weighted portfolio of up to 10 stocks, tracks real-time prices and performance, and rebalances on the first trading day of each month near market open. EVERY MINUTE FROM 31 THROUGH 59, AT 9 AM, ON MONDAY THROUGH FRIDAY, ON DAYS 1-7 OF THE MONTH (ET) + EVERY MINUTE FROM 0 THROUGH 15, AT 10 AM, ON MONDAY THROUGH FRIDAY, ON DAYS 1-7 OF THE MONTH (ET) TOTAL RETURN — 30D — 7D — MAX DD — Invest Tearsheet Fork Thread Daily Trump-Hype Stock Rebalancer Live Trades a live Trump-hype portfolio tracker using Claude Sonnet 4.6 and web search. The agent scans recent Trump-related public mentions, identifies U.S. stocks with positive hype or policy-linked momentum, builds a hype-weighted portfolio, and rebalances on weekdays at 12:00 PM ET when target weights drift by more than 2%. It caps single-stock exposure at 20%, applies a 20% max-loss limit, exits holdings hit by strong negative Trump sentiment, and uses real-time prices through Alpaca paper trading. AT NOON, ON MONDAY THROUGH FRIDAY (ET) TOTAL RETURN — 30D — 7D — MAX DD — Invest Tearsheet Fork Thread Situational Awareness LP (Leopold Aschenbrenner) portfolio tracker Live Trades a live 13F-based portfolio tracker for Situational Awareness LP, Leopold Aschenbrenner’s AGI-focused fund. The agent reconstructs the fund’s latest disclosed holdings into a value-weighted portfolio, layers in real-time market prices and performance metrics, and rebalances at 11:00 AM ET on weekdays when a newer filing is detected. Public 13F data shows the disclosed portfolio growing from roughly $255M in Q4 2024 to about $13.7B in Q1 2026, with concentrated exposure across AI infrastructure, semiconductors, neoclouds, power, and data-center names. AT 11:00 AM, ON MONDAY THROUGH FRIDAY (ET) TOTAL RETURN — 30D — 7D — MAX DD — Invest Tearsheet Fork Thread Sonnet S&P 500 Multi-Angle Rebalancer Live A Claude Sonnet 4.6-powered AI portfolio strategy where every trade decision, stock selection, position size, and cash allocation is decided by the model. Instead of holding a fixed basket, the agent studies momentum, volatility, volume, technical signals, market trends, VIX, rates, earnings, insider activity, 13F data, and portfolio performance before deciding where capital should go. It can choose what to buy, how much to allocate, and when to keep cash aside if risk looks high. Users control capital, loss limits, and risk rules, while safeguards help avoid trades when data is stale, missing, or unreliable. AT 10:00 AM, ON MONDAY THROUGH FRIDAY (ET) TOTAL RETURN — 30D — 7D — MAX DD — Invest Tearsheet Fork Thread India-born CEO Succession Strategy Live This strategy invests in U.S.-listed companies when a U.S.-born CEO is replaced by an India-born CEO. Historically, this rare leadership transition has been associated with strong long-term returns in companies like Microsoft, Alphabet, Micron, and Palo Alto Networks. The strategy monitors new CEO succession announcements and enters only when a qualifying signal is detected, making it a focused event-driven approach built around leadership change as a potential source of alpha. AT 9:35 AM, ON MONDAY (ET) TOTAL RETURN — 30D — 7D — MAX DD — Invest Tearsheet Fork Thread Open AI GPT-5.4 Multi-Signal S&P 500 Portfolio Live This strategy invests in a conviction-weighted portfolio of S&P 500 stocks, rebalanced automatically every weekday at 11:00 AM ET. It analyzes technical indicators, real-time news sentiment, macro developments, analyst changes, insider buying, politician trades, options flow, and institutional-holding signals, then uses GPT-5.4 to decide which stocks to buy, sell, hold, or resize. The strategy can concentrate more capital in higher-conviction names, reduce exposure when signals weaken, and hold cash when opportunities are not attractive. Investors can allocate their own desired amount, and risk controls such as drawdown-based pausing can be customized by each user. AT 11:00 AM, ON MONDAY THROUGH FRIDAY (ET) TOTAL RETURN — 30D — 7D — MAX DD — Invest Tearsheet Fork Thread",
+        "ogImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "twImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "blankNoopener": {
+          "count": 2,
+          "examples": [
+            "https://discord.gg/rhW3BBaWzx",
+            "https://x.com/scalar_field_"
+          ]
+        },
+        "dupIds": {
+          "count": 1,
+          "examples": [
+            "SVGRepo_iconCarrier x2"
+          ]
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "button-name",
+          "impact": "critical",
+          "count": 1,
+          "help": "Buttons must have discernible text",
+          "nodes": [
+            {
+              "target": [
+                ".p-1\\.5"
+              ],
+              "summary": "Fix any of the following: Element does not have inner text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attribute does not exist, references elemen"
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 26,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "#radix-_R_adhsnkcpb_ > .py-1.select-none.ease-out > .group-hover\\/header\\:text-quiet.text-quietest.text-xs"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.07 (foreground color: #a8b4b5, background color: #fcfcf9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "#radix-_R_edhsnkcpb_ > .py-1.select-none.ease-out > .group-hover\\/header\\:text-quiet.text-quietest.text-xs"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.07 (foreground color: #a8b4b5, background color: #fcfcf9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            },
+            {
+              "target": [
+                "#radix-_R_idhsnkcpb_ > .py-1.select-none.ease-out > .group-hover\\/header\\:text-quiet.text-quietest.text-xs"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.07 (foreground color: #a8b4b5, background color: #fcfcf9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio "
+            }
+          ]
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Heading levels should only increase by one",
+          "nodes": [
+            {
+              "target": [
+                "article:nth-child(1) > .justify-between.gap-3.flex > .min-w-0.gap-2.flex-1 > h3"
+              ],
+              "summary": "Fix any of the following: Heading order invalid"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 44,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                "h1"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".mr-0\\.5"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                "input"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://scalarfield.io/ai-agentic-trading": {
+      "url": "https://scalarfield.io/ai-agentic-trading",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/ai-agentic-trading"
+      },
+      "data": {
+        "title": "What Is AI Agentic Trading? | ScalarField",
+        "titleLen": 41,
+        "metaDescription": "Learn what AI agentic trading means and how Scalar Field combines market data, isolated strategy agents, target-based execution, reconciliation, and NAV tracking.",
+        "metaDescriptionLen": 162,
+        "canonical": "https://scalarfield.io/ai-agentic-trading",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [
+          "What is AI agentic trading?"
+        ],
+        "h1Count": 1,
+        "headingLevels": [
+          1,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          2,
+          3,
+          3,
+          3,
+          3
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 1,
+        "imgMissingAlt": 1,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "Organization",
+          "WebSite",
+          "ItemList",
+          "WebApplication",
+          "FAQPage"
+        ],
+        "jsonldCount": 5,
+        "ogCount": 8,
+        "twitterCount": 4,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "SCALAR FIELD FOR AI AGENTIC TRADING What is AI agentic trading? AI agentic trading uses intelligent agents to move from market research to strategy logic, scheduled execution, and live position management. On Scalar Field, a strategy agent has its own cash allocation, isolated position book, target-based order execution, reconciliation, and NAV tracking. Try Scalar Field Explore agentic trading strategies Research with point-in-time data Use market data such as OHLCV bars, options quotes and Greeks, SEC filings, insider and congressional trades, earnings, economic releases, FRED series, and Polymarket data. Turn logic into a strategy agent A strategy runs scheduled code, has its own cash allocation, maintains an isolated position book, and tracks NAV separately from other strategies. Execute by target position Strategies specify the desired position size. Scalar Field computes the buy or sell delta, checks buying power, routes orders, and reconciles fills with the broker or venue. How Scalar Field makes trading agents practical The core distinction is that a Scalar Field strategy is not just a chat response. It is an automated trading agent connected to a venue, running scheduled code, managing a defined capital allocation, and staying reconciled with the live brokerage state. Isolated position books Multiple strategies can share the same brokerage account, but each strategy only sees and manages its own cash, holdings, and trade history. Brokerage-aware reconciliation Scalar Field checks pending orders, applies fills, compares aggregate strategy positions with broker holdings, and can freeze a strategy when a real mismatch persists. NAV and performance tracking Strategy NAV is computed from cash plus live position values, giving each automated agent its own performance history, charts, win rate, and P&L summary. Venue-specific execution Scalar Field is built around a venue registry spanning brokerages and exchanges such as Alpaca, Public.com, Robinhood, Webull, E*TRADE, Polymarket, and Jupiter DEX. Built from research data to broker-aware execution. Scalar Field connects natural-language research with documented market datasets and trading venues. Use it to screen opportunities, monitor catalysts, build rules, trade through chat, or promote a strategy into an automated agent with its own ledger and lifecycle. Prediction markets Agentic trading strategies Trading docs Data catalog Pricing Markets and data sources Alpaca Paper for US equities Public.com, Robinhood, Webull, E*TRADE, Interactive Brokers, Fidelity, and other brokerages Polymarket prediction markets Jupiter DEX for Solana tokenized assets Options quotes, Greeks, and screeners SEC filings, insider trades, and 13F holdings Earnings, economic releases, and FRED macro series Read the docs behind the workflow This page summarizes the trading and market-data documentation. These references explain how strategies, venues, reconciliation, and data sources work in detail. Strategy agents Read how automated strategies use isolated books, target-based execution, and NAV tracking. Supported brokerages See active venues, asset-class groups, and chat trading functions. Reconciliation Understand pending order tracking, aggregate verification, and freeze/unfreeze behavior. Market data catalog Browse datasets for equities, options, tokenized assets, prediction markets, filings, and macro data. AI agentic trading FAQ What is AI agentic trading? AI agentic trading uses autonomous or semi-autonomous agents to monitor markets, analyze data, manage a strategy position book, and execute trading workflows according to user-defined logic. How does Scalar Field support automated strategy agents? Scalar Field strategy agents run on a schedule, manage their own cash allocation and isolated positions, execute target position sizes, and track NAV over time for performance reporting. Which markets can Scalar Field agents work with? Scalar Field supports workflows across US equities, options, prediction markets, tokenized assets on Jupiter DEX, macro data, SEC filings, earnings, insider trades, and other market datasets. How does Scalar Field keep strategy positions in sync? Scalar Field automatically reconciles pending orders, strategy ledgers, aggregate positions, and broker holdings. If a mismatch persists beyond the settlement grace period, the affected strategy can be frozen until reviewed.",
+        "ogImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "twImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "blankNoopener": {
+          "count": 6,
+          "examples": [
+            "https://scalarfield.io/docs/trading/overview",
+            "https://scalarfield.io/docs/market-data/overview",
+            "https://scalarfield.io/docs/trading/strategies",
+            "https://scalarfield.io/docs/trading/supported-brokerages",
+            "https://scalarfield.io/docs/trading/reconciliation"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 6,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".uppercase"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.18 (foreground color: #d97706, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                "a[href$=\"polymarket\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.18 (foreground color: #d97706, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".hover\\:underline.text-orange-accent[href$=\"agentic-etfs\"]"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 3.18 (foreground color: #d97706, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        }
+      ]
+    },
+    "https://scalarfield.io/terms-of-use": {
+      "url": "https://scalarfield.io/terms-of-use",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/terms-of-use"
+      },
+      "data": {
+        "title": "Terms of Use | ScalarField",
+        "titleLen": 26,
+        "metaDescription": "Read the ScalarField Terms of Use. Understand your rights, responsibilities, and our policies.",
+        "metaDescriptionLen": 94,
+        "canonical": "https://scalarfield.io/terms-of-use",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [],
+        "h1Count": 0,
+        "headingLevels": [],
+        "headingHierarchyOk": true,
+        "imgTotal": 1,
+        "imgMissingAlt": 1,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "Organization",
+          "WebSite",
+          "ItemList"
+        ],
+        "jsonldCount": 3,
+        "ogCount": 6,
+        "twitterCount": 6,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "Go to Scalar Field → Scalar Field Terms of Use Last Update: April 21, 2026 Dear users, welcome to Scalar Field! Scalar Field is your agentic trading desk designed to transform the way one researches, backtests, and executes trading ideas. By accessing and using Scalar Field (\"the Platform\"), you agree to comply with the following Terms of Use. If you do not agree with these terms, please do not use the Platform. 1. ACCEPTANCE OF TERMS By using Scalar Field, you agree to these Terms of Use and our Privacy Policy. Scalar Field reserves the right to update or modify these terms at any time without prior notice. Your continued use of the Platform constitutes acceptance of any changes. 2. DESCRIPTION OF SERVICES Scalar Field is an advanced AI research assistant designed to transform the exploration of trading ideas. The platform enables traders and researchers to analyze vast amounts of data, uncovering insights that support profitable decision-making. With Scalar Field, any blue-sky idea can be effortlessly backtested, ensuring that strategies remain robust and data-driven. Whether for experienced traders or those just starting, Scalar Field serves as a powerful tool for conducting in-depth market analysis and developing innovative trading strategies. Scalar Field is delivered as a web-based platform that provides access to proprietary financial datasets and analytics through multiple data modules/pages (including Economics, Earnings, Options, Insider activity, and Senator activity) and tools such as Stock Screener and Option Screener, in addition to query-based research features. Scalar Field is not a one-time downloadable product. It is a continuously available online service provided via authenticated account access only. The Platform does not offer financial advice, and all insights should be independently verified before making any financial decisions. 3. USER RESPONSIBILITIES You agree to use the Platform lawfully and ethically. You will not use Scalar Field for fraudulent, deceptive, or misleading activities. 4. DATA COLLECTION AND PRIVACY Scalar Field collects and processes user data in accordance with our Privacy Policy. You acknowledge and agree that: The Platform collects certain personal and non-personal information for service enhancement and analytics. The ad and/or landing page may not always explicitly disclose the terms and conditions of data collection practices. Your continued use of the Platform indicates your consent to our data handling procedures. 5. PRICING AND DISCLOSURE OF COSTS Scalar Field may offer both free and paid services. Pricing and subscription details are available on our website. The ad or promotional content may not explicitly disclose all pricing details upfront, but full pricing details are available before purchase. Any charges for services will be clearly communicated before any financial transaction is completed. Plans, Renewals, Cancellation, Credits, and Refunds are described in Section 5A. Service Access and Usage are described in Section 5B. Billing Support is described in Section 5C. 5A. PLANS, RENEWALS, CANCELLATION, CREDITS, AND REFUNDS Plan types: Scalar Field offers paid subscription plans, including Pro and Ultra (“Subscriptions”). Each Subscription may be purchased on a monthly or annual billing cycle (as selected at purchase). Credits and allowances: Subscriptions include a monthly allocation of usage credits and/or allowances, as displayed at the time of purchase. Credits are a usage currency that may be consumed to access and use Platform features, including (i) viewing or retrieving proprietary datasets and content across the Platform (such as data pages/modules and screeners), and (ii) running AI/compute features, including converting into tokens (for AI context/processing) and compute time (for executing workloads). Credits may also apply to other metered usage such as queries or similar platform actions, as displayed within the Platform or at checkout. These allowances renew on a monthly cycle: For monthly Subscriptions, allowances renew each month when the Subscription renews. For annual Subscriptions, allowances also renew each month during the annual term, until the end of the annual Subscription term. Unless explicitly stated at the time of purchase, unused monthly allowances do not carry over to subsequent months. Recurring billing: Subscriptions renew automatically at the end of each billing cycle (monthly or annually, as selected at purchase) unless canceled before the renewal date. By purchasing a Subscription, you authorize Scalar Field and its payment processor to charge the applicable recurring fees until you cancel. How to cancel: You can cancel a Subscription at any time through the Stripe Customer Portal accessible within your Scalar Field account (Profile → Accounts & Billing). Cancellations must be completed through the Stripe Customer Portal to take effect. When cancellation takes effect: Unless otherwise stated at the time of cancellation, canceling a Subscription stops future renewals and the Subscription remains active until the end of the then-current billing period. You will continue to have access to paid features and allowances until the end of that billing period. Annual Subscriptions: Annual Subscriptions are billed upfront for the full annual term. During an active annual Subscription, the account receives monthly allowances that renew each month throughout the annual term. Cancellation stops renewal for the next term but does not refund the current annual term, except where required by law. Refunds and credits: All fees are non-refundable and Scalar Field does not provide refunds or credits for (i) partial subscription periods, (ii) unused subscription allowances, or (iii) periods where service access was available, except where required by law or explicitly agreed by Scalar Field in writing. Customer responsibility: You are responsible for canceling your Subscription before the renewal date to avoid future charges and for managing your usage of subscription allowances and/or credits. 5B. SERVICE ACCESS AND USAGE “Use” of Scalar Field includes logging in and accessing paid features, including viewing data modules/pages, browsing or retrieving datasets, using screeners, and running queries or compute workloads. Because Scalar Field is a continuously available digital service, providing access to paid features during an active subscription period constitutes delivery of the service. 5C. BILLING SUPPORT If you believe you were billed in error or need help with billing or cancellation, contact us at info@scalarfield.io and we will investigate. 6. MISUSE AND MISREPRESENTATION OF DATA Scalar Field does not engage in deceptive practices regarding data use. If you believe that information provided by the Platform is misleading or inaccurate, you may report such instances to our support team for review. The Platform does not assume responsibility for financial decisions made based on AI-generated insights. 7. INTELLECTUAL PROPERTY All content on Scalar Field, including text, images, software, and AI-generated insights, is the property of Scalar Field and is protected by intellectual property laws. Users may not copy, distribute, or resell any part of the Platform without explicit permission. 8. LIMITATION OF LIABILITY Scalar Field provides stock market insights on an \"as-is\" basis and does not guarantee accuracy, reliability, or completeness. Users acknowledge that: The Platform is not responsible for financial losses resulting from reliance on AI-generated insights. Scalar Field shall not be liable for indirect, incidental, or consequential damages related to the use of the Platform. 9. TERMINATION OF USE Scalar Field reserves the right to terminate or restrict access to the Platform for any user violating these Terms of Use. 10. THIRD-PARTY INTEGRATIONS By connecting a supported brokerage account (such as Alpaca, among others) to the Platform, you grant Scalar Field access to your account information and authorization to place transactions in your account at your direction. No brokerage provider warrants or guarantees that Scalar Field will work as advertised or expected. By connecting your self-custody wallet to trade on supported exchanges and decentralized exchanges (such as Polymarket or Jupiter DEX), you acknowledge that Scalar Field facilitates the connection but is not a custodian of your wallet or assets. Transactions are executed on the respective exchange's infrastructure and are subject to that exchange's terms and conditions. Scalar Field does not store your brokerage login credentials or wallet private keys. Any account or transaction data received through third-party integrations is used solely to provide the requested platform features. Before authorizing any integration, you should review these Terms of Use and our Privacy Policy to understand how Scalar Field handles your data. 11. CONTACT INFORMATION If you have any questions about t",
+        "ogImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "twImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "blankNoopener": {
+          "count": 1,
+          "examples": [
+            "mailto:info@scalarfield.io"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 64,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".pt-0 > div:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".pt-0 > div:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(4) > .flex-row.max-\\[1180px\\]\\:flex-col.text-lg > .w-2\\/3.max-\\[600px\\]\\:pt-0.overflow-hidden > .h-auto.whitespace-pre-wrap.break-words"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "page-has-heading-one",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Page should contain a level-one heading",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Page must have a level-one heading"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 16,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(4)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://scalarfield.io/privacy": {
+      "url": "https://scalarfield.io/privacy",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/privacy"
+      },
+      "data": {
+        "title": "Privacy Policy | ScalarField",
+        "titleLen": 28,
+        "metaDescription": "Read the ScalarField Privacy Policy. Learn how we collect, use, and protect your personal information.",
+        "metaDescriptionLen": 102,
+        "canonical": "https://scalarfield.io/privacy",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [],
+        "h1Count": 0,
+        "headingLevels": [],
+        "headingHierarchyOk": true,
+        "imgTotal": 1,
+        "imgMissingAlt": 1,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "Organization",
+          "WebSite",
+          "ItemList"
+        ],
+        "jsonldCount": 3,
+        "ogCount": 6,
+        "twitterCount": 6,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "Go to Scalar Field → Scalar Field Privacy Policy Last Update: April 21, 2026 At Scalar Field, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, share, and safeguard your data when you access and use the Scalar Field platform (\"the Platform\"). By using the Platform, you consent to the practices described in this policy. 1. INFORMATION WE COLLECT We collect the following types of information when you use Scalar Field: Personal Information: When you create an account, we may collect your name, email address, and authentication credentials. If you subscribe to a paid plan, payment information is collected and processed by our third-party payment processor (Stripe) — Scalar Field does not directly store your credit card or bank account details. Usage Data: We automatically collect information about how you interact with the Platform, including queries and searches performed, pages and features accessed, session duration and frequency of use, and device type, browser type, operating system, and IP address. Financial Account Data: If you choose to connect a brokerage account (such as Alpaca, among other supported brokerages), or a self-custody wallet for use with supported exchanges (such as Polymarket or Jupiter DEX), we may receive limited account information necessary to provide the requested features. Scalar Field does not store your brokerage login credentials and is not a custodian of any connected wallets. 2. HOW WE USE YOUR INFORMATION We use the information we collect for the following purposes: To provide, operate, and maintain the Platform and its features. To process transactions and manage your subscription. To personalize and improve your experience on the Platform. To analyze usage patterns and improve our services, content, and functionality. To communicate with you regarding your account, updates, and support requests. To detect, prevent, and address fraud, abuse, and security issues. To comply with legal obligations and enforce our Terms of Use. 3. COOKIES AND TRACKING TECHNOLOGIES Scalar Field uses cookies and similar tracking technologies to enhance your experience. These include: Essential Cookies: Required for the Platform to function properly, including authentication and session management. Analytics Cookies: Used to understand how users interact with the Platform and to improve performance and features. Preference Cookies: Used to remember your settings and preferences across sessions. You can manage cookie preferences through your browser settings. Disabling certain cookies may affect Platform functionality. 4. THIRD-PARTY SERVICES Scalar Field integrates with third-party services to provide certain features. These services have their own privacy policies, and we encourage you to review them: Stripe: Processes payments and manages subscriptions. Scalar Field does not store your payment card details. Brokerage Providers: The Platform allows you to connect accounts from supported brokerages (such as Alpaca, among others) for portfolio and trading features. Account data shared with Scalar Field is limited to what is necessary for the requested functionality. Exchanges and DEXs: The Platform allows you to trade on supported exchanges and decentralized exchanges (such as Polymarket and Jupiter DEX) by connecting your own self-custody wallet. Scalar Field is not a custodian of your wallet or assets. Transaction data may be used to provide the requested features. We are not responsible for the privacy practices of third-party services. Your use of these integrations is subject to their respective terms and privacy policies. 5. DATA SHARING AND DISCLOSURE We do not sell your personal information. We may share your data in the following circumstances: Service Providers: With trusted third-party vendors who assist us in operating the Platform (e.g., hosting, analytics, payment processing), subject to confidentiality obligations. Legal Requirements: When required by law, regulation, legal process, or governmental request. Business Transfers: In connection with a merger, acquisition, or sale of assets, your information may be transferred as part of the transaction. Protection of Rights: To protect the rights, safety, or property of Scalar Field, our users, or the public. 6. DATA SECURITY We implement industry-standard security measures to protect your personal information, including encryption of data in transit and at rest, access controls and authentication safeguards, and regular security assessments. However, no method of electronic transmission or storage is completely secure, and we cannot guarantee absolute security. 7. DATA RETENTION We retain your personal information for as long as your account is active or as needed to provide you with our services. Upon account deletion or termination, we will delete or anonymize your personal data within a reasonable timeframe, unless retention is required by law or for legitimate business purposes (such as resolving disputes or enforcing agreements). 8. YOUR RIGHTS AND CHOICES Depending on your jurisdiction, you may have the following rights regarding your personal data: Access: Request a copy of the personal data we hold about you. Correction: Request correction of inaccurate or incomplete data. Deletion: Request deletion of your personal data, subject to legal and contractual obligations. Opt-Out: Opt out of promotional communications by following the unsubscribe instructions in our emails or contacting us directly. Cookie Management: Manage or disable cookies through your browser settings. To exercise any of these rights, please contact us at info@scalarfield.io. 9. CHILDREN'S PRIVACY Scalar Field is not intended for use by individuals under the age of 18. We do not knowingly collect personal information from minors. If we become aware that we have collected data from a user under 18, we will take steps to delete such information promptly. 10. CHANGES TO THIS POLICY We may update this Privacy Policy from time to time to reflect changes in our practices, technologies, or legal requirements. When we make material changes, we will update the \"Last Update\" date at the top of this page. Your continued use of the Platform after any changes constitutes your acceptance of the updated policy. 11. CONTACT INFORMATION If you have any questions or concerns about this Privacy Policy, please contact us at: info@scalarfield.io By using Scalar Field, you acknowledge that you have read, understood, and agreed to this Privacy Policy.",
+        "ogImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "twImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "blankNoopener": {
+          "count": 1,
+          "examples": [
+            "mailto:info@scalarfield.io"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 59,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".pt-0 > div:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(4) > .flex-row.max-\\[1180px\\]\\:flex-col.text-lg > .w-2\\/3.max-\\[600px\\]\\:pt-0.overflow-hidden > div:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(4) > .flex-row.max-\\[1180px\\]\\:flex-col.text-lg > .w-2\\/3.max-\\[600px\\]\\:pt-0.overflow-hidden > div:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "page-has-heading-one",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Page should contain a level-one heading",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Page must have a level-one heading"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 13,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(4)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://scalarfield.io/cybersecurity-policy": {
+      "url": "https://scalarfield.io/cybersecurity-policy",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/cybersecurity-policy"
+      },
+      "data": {
+        "title": "Cybersecurity Policy | ScalarField",
+        "titleLen": 34,
+        "metaDescription": "Read the ScalarField Cybersecurity Policy. Learn how we protect your data and maintain secure operations.",
+        "metaDescriptionLen": 105,
+        "canonical": "https://scalarfield.io/cybersecurity-policy",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [],
+        "h1Count": 0,
+        "headingLevels": [],
+        "headingHierarchyOk": true,
+        "imgTotal": 1,
+        "imgMissingAlt": 1,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "Organization",
+          "WebSite",
+          "ItemList"
+        ],
+        "jsonldCount": 3,
+        "ogCount": 6,
+        "twitterCount": 6,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "Go to Scalar Field → Scalar Field Cybersecurity Policy Last Update: April 21, 2026 Scalar Field is committed to maintaining a robust cybersecurity program to protect the confidentiality, integrity, and availability of our systems and the data entrusted to us by our users. This policy outlines the key areas of our cybersecurity practices. 1. DATA CLASSIFICATION AND HANDLING Scalar Field classifies data into the following categories to ensure appropriate handling and protection: Personally Identifiable Information (PII): User names, email addresses, and authentication credentials. PII is collected only as necessary, stored in encrypted databases, and access is restricted to authorized personnel and services on a need-to-know basis. Financial Account Data: Account identifiers and portfolio data received from connected brokerage accounts and financial services (e.g., via brokerage OAuth). Scalar Field does not store brokerage login credentials or wallet private keys. Financial data is handled with the highest level of care and is used solely to provide requested platform features. Usage and Analytics Data: Queries, session metadata, device and browser information, and IP addresses. This data is used for service improvement and analytics and is handled in accordance with our Privacy Policy. Payment Data: Payment processing is handled entirely by Stripe, our PCI-DSS-compliant payment processor. Scalar Field does not directly store, process, or transmit credit card or bank account numbers. Data handling procedures are enforced through technical controls, including role-based access, encryption, and audit logging. Employees and contractors are trained on data handling policies and are bound by confidentiality agreements. 2. ACCESS CONTROL AND PRIVILEGED ACCESS MANAGEMENT Scalar Field enforces strict access control measures across all systems: Principle of Least Privilege: Access to production systems, databases, and infrastructure is granted on a need-to-know basis and limited to the minimum permissions required to perform job functions. Multi-Factor Authentication (MFA): MFA is required for all access to cloud infrastructure consoles, code repositories, deployment pipelines, and administrative interfaces. Role-Based Access Control (RBAC): Access permissions are assigned based on defined roles. Privileged access to production databases and infrastructure is limited to a small set of authorized personnel. Session Management: User sessions are managed via secure, HTTP-only cookies over HTTPS. Sessions expire after periods of inactivity and are revocable upon logout or account deactivation. Access Reviews: Access privileges are reviewed periodically. Access is promptly revoked when personnel change roles or leave the organization. 3. ENCRYPTION OF DATA AT REST AND IN TRANSIT Data in Transit: All communications between users and the Scalar Field platform are encrypted using TLS 1.2 or higher (HTTPS). All API calls between the frontend, backend services, and third-party integrations are conducted over encrypted channels. Data at Rest: Sensitive data stored in databases is encrypted at rest using AES-256 encryption (or equivalent), as provided by our cloud infrastructure provider. Encryption keys are managed through the cloud provider's key management service and are rotated in accordance with industry best practices. Secrets Management: API keys, OAuth client secrets, database credentials, and other sensitive configuration values are stored in secure environment variables and secrets management systems. They are never committed to source code repositories. 4. VULNERABILITY MANAGEMENT AND PATCH MANAGEMENT Dependency Scanning: Third-party libraries and dependencies are regularly audited for known vulnerabilities. Automated tools are used to monitor for newly disclosed vulnerabilities in our software supply chain. Patch Management: Critical and high-severity security patches are applied promptly upon release. Non-critical patches are evaluated and applied within a reasonable timeframe as part of regular maintenance cycles. Infrastructure Updates: Operating systems, runtime environments, and container images used in production are kept up to date with the latest security patches. Responsible Disclosure: Scalar Field welcomes responsible security disclosures. Security researchers and users can report vulnerabilities to info@scalarfield.io. 5. INCIDENT RESPONSE AND DISASTER RECOVERY Incident Detection: Scalar Field employs monitoring and alerting systems to detect anomalous activity, unauthorized access attempts, and service disruptions in real time. Incident Response Plan: A documented incident response plan is in place that defines roles, responsibilities, escalation procedures, and communication protocols. The plan covers identification, containment, eradication, recovery, and post-incident review. Notification: In the event of a data breach affecting user personal information, affected users and relevant regulatory authorities will be notified in accordance with applicable laws and regulations. Backups and Recovery: Critical data and systems are backed up regularly. Backups are encrypted and stored in geographically separate locations. Recovery procedures are tested periodically to ensure business continuity. Business Continuity: Our infrastructure is designed for high availability with redundancy across multiple availability zones. Disaster recovery procedures are documented and maintained to minimize downtime in the event of a major incident. 6. PHYSICAL SECURITY Scalar Field's production infrastructure is hosted on managed cloud platforms that maintain SOC 2 Type II, ISO 27001, and other industry-standard certifications for physical security. Physical access to data centers is managed entirely by the cloud provider, with controls including biometric access, 24/7 surveillance, environmental protections, and restricted entry protocols. Corporate workstations used by Scalar Field personnel are protected with full-disk encryption, screen lock policies, and endpoint security software. Remote access to internal systems requires VPN and multi-factor authentication. 7. VENDOR RISK MANAGEMENT Scalar Field relies on a limited set of third-party vendors to provide certain platform features. Each vendor is evaluated for security practices before integration: Payment Processing (Stripe): PCI-DSS Level 1 certified. Scalar Field does not handle or store payment card data directly. Brokerage Integration: Connected brokerage providers are FINRA/SIPC member firms. OAuth-based integration ensures Scalar Field never accesses or stores brokerage login credentials. Account data received is limited to what is necessary for requested platform features. Cloud Infrastructure and Hosting: Production infrastructure is hosted on platforms with SOC 2, ISO 27001, and equivalent certifications. Analytics: Analytics services are configured to minimize data collection and are used solely for product improvement purposes. Vendor relationships are reviewed periodically. Contracts with vendors include data protection and confidentiality provisions. Scalar Field monitors vendor security posture and will discontinue use of any vendor that fails to maintain adequate security standards. 8. POLICY REVIEW AND UPDATES This Cybersecurity Policy is reviewed and updated at least annually, or more frequently as needed in response to changes in our technology, business operations, regulatory requirements, or the threat landscape. Material changes will be reflected in the \"Last Update\" date at the top of this page. 9. CONTACT INFORMATION If you have any questions about this Cybersecurity Policy or wish to report a security concern, please contact us at: info@scalarfield.io",
+        "ogImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "twImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "blankNoopener": {
+          "count": 1,
+          "examples": [
+            "mailto:info@scalarfield.io"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 60,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".pt-0 > div:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(4) > .flex-row.max-\\[1180px\\]\\:flex-col.text-lg > .w-2\\/3.max-\\[600px\\]\\:pt-0.overflow-hidden > div:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(4) > .flex-row.max-\\[1180px\\]\\:flex-col.text-lg > .w-2\\/3.max-\\[600px\\]\\:pt-0.overflow-hidden > ul > li:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "page-has-heading-one",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Page should contain a level-one heading",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Page must have a level-one heading"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 11,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(4)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://scalarfield.io/ai-disclosure": {
+      "url": "https://scalarfield.io/ai-disclosure",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/ai-disclosure"
+      },
+      "data": {
+        "title": "AI Disclosure | ScalarField",
+        "titleLen": 27,
+        "metaDescription": "Read the ScalarField AI Disclosure. Learn how we use artificial intelligence and its limitations.",
+        "metaDescriptionLen": 97,
+        "canonical": "https://scalarfield.io/ai-disclosure",
+        "robotsMeta": "index, follow",
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1",
+        "h1": [],
+        "h1Count": 0,
+        "headingLevels": [],
+        "headingHierarchyOk": true,
+        "imgTotal": 1,
+        "imgMissingAlt": 1,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "Organization",
+          "WebSite",
+          "ItemList"
+        ],
+        "jsonldCount": 3,
+        "ogCount": 6,
+        "twitterCount": 6,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 3,
+        "text": "Go to Scalar Field → Scalar Field AI Disclosure Last Update: May 7, 2026 Scalar Field uses artificial intelligence (\"AI\") technologies to generate financial insights, summarize information, execute trades, and power automated trading agents across connected brokerage accounts, wallets, and prediction market venues. These tools may analyze user-provided data, market information, and other external datasets to produce outputs that may include scenario analysis, portfolio insights, asset comparisons, narrative explanations, and trade orders. AI-generated analysis is provided for informational purposes and should be evaluated carefully. AI-driven trade executions are performed at your direction through agent approval and activation, and carry real financial risk including risk of loss. 1. ABOUT SCALAR FIELD'S USE OF AI Scalar Field uses AI as a tool to deliver platform services, including personalized insights, analysis, and automated trade execution. The AI is not itself a registered investment adviser, broker-dealer, or legal entity. Scalar Field maintains responsibility and supervision over all outputs and executions provided through the platform. AI-powered features on our platform may include, but are not limited to: portfolio analysis, market research summaries, asset screening, risk assessments, scenario modeling, automated trading agents, order execution, portfolio rebalancing, and strategy-based automation across connected venues including US equities, prediction markets, and tokenized assets. 2. AI-ASSISTED TRADE EXECUTION Scalar Field's AI can create and manage automated trading agents that execute buy and sell orders on your behalf through connected accounts, including brokerage accounts, on-chain wallets, and prediction market venues. These agents may operate on a recurring schedule or on-demand. Once you approve and activate an automated agent, trades may execute without per-trade confirmation from you. Before any execution occurs, you must: Connect the relevant brokerage account, wallet, or venue. Set allocation limits and configure risk parameters (e.g., maximum drawdown thresholds). Review and approve agent activation. You retain the ability to pause, resume, or emergency-liquidate any active agent at any time. Execution is subject to market conditions, available liquidity, slippage, partial fills, and venue-specific rules. AI-driven execution does not guarantee favorable pricing, timing, or order fills. 3. NATURE OF AI-GENERATED CONTENT AND EXECUTIONS Any insights, suggestions, analysis, or trade actions generated by AI tools are based solely on the information you provide and the data available to our systems at that moment in time. These outputs and actions: Do not incorporate every factor relevant to your financial situation. May not reflect real-time market developments or breaking news. May become outdated quickly as market conditions change. Apply only at the point in time they are generated and may not remain valid in the future. May result in trade executions that cannot be reversed once orders are filled. Investment decisions and trade executions, including trades in stocks, ETFs, bonds, crypto assets, prediction market contracts, or other instruments, carry significant risk including the risk of loss. You remain solely responsible for evaluating whether any course of action is appropriate for your goals and risk tolerance. 4. NO GUARANTEE OF ACCURACY OR COMPLETENESS AI-generated output may contain inaccuracies, incomplete information, outdated data, or errors, including outputs that are incorrect, misleading, or irrelevant (\"hallucinations\"). Scalar Field makes no representation or warranty regarding the accuracy, completeness, timeliness, or usefulness of any AI-generated output. You should independently verify any information presented and, where appropriate, consult with qualified professionals such as tax advisors, CPAs, attorneys, or financial planners before making financial decisions. 5. LIMITATIONS OF AI TECHNOLOGY Scalar Field's AI systems rely on large datasets, third-party data sources, predictive models, and probabilistic algorithms. As with any rapidly evolving technology, AI tools are subject to: Data Errors or Gaps: Not all relevant or desired information may be captured or available. Model Limitations: AI may misinterpret questions, oversimplify complex requests, or fail to incorporate market, tax, or regulatory nuances. Bias: AI systems may reflect historical or dataset-embedded biases that could affect outputs. Technology Failures: System outages, software bugs, data feed interruptions, cybersecurity incidents, or model defects may impair functionality, delay outputs, or affect service availability. Execution Risks: Orders may experience latency, partial fills, slippage, or rejection due to market conditions, venue outages, or insufficient funds. Scheduling Risks: Scheduled agents may execute at times when market conditions have changed materially from when the strategy was created or last reviewed. All AI-generated output and AI-driven executions are provided on an \"as-is\" basis without warranty of any kind, express or implied. 6. DEPENDENCE ON USER INPUT The quality and applicability of AI-generated output depend heavily on the accuracy, relevance, and completeness of the information you provide. AI tools may not understand qualitative nuances, personal preferences, or unstated assumptions. Vague or incomplete inputs can lead to incorrect, misleading, or inappropriate outputs. Incorrect venue configuration, allocation parameters, or risk settings can lead to unintended trades or losses. You are responsible for providing accurate information, verifying agent configurations, and keeping your profile and preferences up to date. 7. NOT DISCRETIONARY INVESTMENT ADVICE AI-generated output and AI-driven trade executions on Scalar Field: Are not personalized investment advice. Do not take into account your full financial profile. Are not investment research. Should not be relied upon as the sole basis for investment decisions. Where AI executes trades on your behalf through automated agents, such execution is performed at your direction via agent approval and activation. This does not constitute the platform acting as a discretionary investment adviser. You retain ultimate control through approval, pause, and emergency liquidation mechanisms. You should consider your full financial situation, risk capacity, tax circumstances, investment horizon, and other relevant factors when making decisions. Scalar Field does not provide tax, legal, or accounting advice. You are solely responsible for consulting with qualified professionals about capital gains, tax implications, or other specialized considerations. 8. HYPOTHETICAL AND HISTORICAL ANALYSIS If AI tools present hypothetical performance, scenario modeling, or backtested results, please note: These results are not actual performance. They do not represent what you would have earned. They are not guarantees of future results. Results may differ significantly depending on fees, timing, market conditions, and other factors. Past performance, whether real or hypothetical, is not indicative of future returns. Any information on potential returns are projections, not guarantees. 9. USER RESPONSIBILITY You are solely responsible for: Independently evaluating AI-generated output and trade recommendations. Reviewing and approving agent configurations before activation. Monitoring active agents and their positions on an ongoing basis. Using pause and emergency liquidation controls when needed. Understanding the risks specific to each connected venue and asset class. Ensuring all activity aligns with your personal goals and risk tolerance. Consulting qualified human professionals for tax, legal, or other specialized advice. All investments and trade executions involve risk of loss, including the loss of principal. You retain full control over all investment decisions through agent approval, configuration, pause, and liquidation mechanisms. You are under no obligation to follow any output or suggestion provided by AI tools on the platform. 10. CONTACT INFORMATION If you have any questions about this AI Disclosure or wish to learn more about how Scalar Field uses AI, please contact us at: info@scalarfield.io",
+        "ogImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "twImage": "https://w9pqoe0za7uitnaf.public.blob.vercel-storage.com/og/opengraph-image.png",
+        "blankNoopener": {
+          "count": 1,
+          "examples": [
+            "mailto:info@scalarfield.io"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 57,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".pt-0 > div:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(4) > .flex-row.max-\\[1180px\\]\\:flex-col.text-lg > .w-2\\/3.max-\\[600px\\]\\:pt-0.overflow-hidden > div:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(4) > .flex-row.max-\\[1180px\\]\\:flex-col.text-lg > .w-2\\/3.max-\\[600px\\]\\:pt-0.overflow-hidden > div:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 13.5pt (18px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Document should have one main landmark",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Document does not have a main landmark"
+            }
+          ]
+        },
+        {
+          "id": "page-has-heading-one",
+          "impact": "moderate",
+          "count": 1,
+          "help": "Page should contain a level-one heading",
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "summary": "Fix all of the following: Page must have a level-one heading"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 12,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(2)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(3)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            },
+            {
+              "target": [
+                ".max-w-full.justify-center.px-16:nth-child(4)"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://scalarfield.io/docs/market-data/options-quotes": {
+      "url": "https://scalarfield.io/docs/market-data/options-quotes",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/docs/market-data/options-quotes"
+      },
+      "data": {
+        "title": "Options Quotes - Scalar Field",
+        "titleLen": 29,
+        "metaDescription": "Live, intraday (1-minute), and daily historical options quotes with bid/ask/mid prices, contract metadata, and full Greeks. Covers 5,000+ US equity options symbols with intraday history back to August 2020.",
+        "metaDescriptionLen": 206,
+        "canonical": "https://scalarfield.io/docs/market-data/options-quotes",
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1, viewport-fit=cover",
+        "h1": [
+          "Options Quotes",
+          "​Product Overview",
+          "​Querying the Data",
+          "​Column Definitions"
+        ],
+        "h1Count": 4,
+        "headingLevels": [
+          2,
+          3,
+          3,
+          3,
+          3,
+          2,
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          3,
+          2,
+          2,
+          1,
+          2,
+          2,
+          1,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 6,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "WebSite"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 8,
+        "twitterCount": 6,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 4,
+        "text": "Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Scalar Field home page Search... ⌘K Main Site Getting Started Introduction Trading Overview Supported Brokerages Strategies Reconciliation Market Data Overview Insider Trades Congress Trades Institutional Holdings Equity & ETF OHLCV Index OHLCV Crypto OHLCV Forex OHLCV Tokenized OHLCV Latest Price Options Quotes Options Greeks & IV Options Screener Polymarket Data Earnings Economic Releases FRED Data Usage & Pricing Fees Pricing & Credits Execution Limits On this page Product Overview Overview Data Pipeline Live and Intraday Quotes Daily Historical Quotes Call/Put Parity Coverage Supported Modes Querying the Data Basic Usage Parameters Column Definitions Live & Intraday Columns Additional Daily Historical Columns Market Data Options Quotes Live, intraday (1-minute), and daily historical options quotes with bid/ask/mid prices, contract metadata, and full Greeks. Covers 5,000+ US equity options symbols with intraday history back to August 2020. Python function: getOptionsQuotes() Specification Value Delivery Frequency continuous Data Frequency real-time, intraday (1-min), daily Reporting Lag Live snapshots every minute; daily EOD ~14 min before close Coverage 5,000+ U.S. equity options symbols, all strikes and expirations History Since 2007-01-02 Availability Free ​ Product Overview ​ Overview Options Quotes provides comprehensive quote data for U.S. equity options — bid/ask/mid prices, contract metadata, implied volatilities, and full Greeks — at three granularity levels: Live: The latest 1-minute snapshot for any option contract. Intraday historical: 1-minute bars with full Greeks and IV, available from August 2020. Daily historical: End-of-day quotes with additional fields (interest rate, dividend rate, exercise style), available from 2007. The dataset covers 5,000+ underlying symbols across all U.S. options exchanges. Options are identified by their OPRA symbol (e.g., AAPL260213C00280000). ​ Data Pipeline ​ Live and Intraday Quotes Live and intraday options quotes are sourced from a high-frequency options data pipeline that captures strike-level snapshots every minute during market hours: 1-minute strike snapshots: Every minute, a snapshot is captured for each active strike across all expirations for 5,000+ underlying symbols. Smoothed implied volatility: Raw market quotes are cleaned, normalized, and processed through a Smooth Market Value (SMV) system to produce accurate implied volatilities. The SMV system fits a non-arbitrageable smooth curve through strike implied volatilities (see the Options Greeks & Implied Volatility reference for full methodology). Greeks derivation: Delta, gamma, theta, vega, rho, and phi are computed from the smoothed IV surface using a modified binomial pricing engine that accounts for dividends, interest rates, and early exercise (American-style options). Bid/ask IV: Separate implied volatilities are calculated at the bid and ask prices, in addition to the smoothed mid-IV. ​ Daily Historical Quotes Daily end-of-day quotes are sourced from archived Level 1 (L1) data files: Near end-of-day snapshot: Captured approximately 14 minutes before market close to ensure representative end-of-day values. Smoothed Greeks: Same SMV methodology as live/intraday, applied to end-of-day quotes. Additional fields: Daily quotes include the risk-free interest rate, dividend rate, exercise style, and shares per contract. ​ Call/Put Parity The system computes a single set of Greeks (delta, gamma, theta, vega, rho, phi) per strike that is consistent across both the call and the put. A residual yield rate is solved via put-call parity to align call and put implied volatilities, accounting for hard-to-borrow stocks and varying dividend assumptions. ​ Coverage Underlying symbols: 5,000+ U.S. equities and ETFs with listed options. Intraday history: August 2020 to present (1-minute granularity). Daily history: 2007 to present (end-of-day snapshots). Live data: Real-time 1-minute snapshots during market hours. ​ Supported Modes Mode Trigger Granularity Live Omit start and end Latest 1-minute snapshot Intraday historical start/end as 'YYYY-MM-DDTHH:MM:SS' 1-minute bars Daily historical start/end as 'YYYY-MM-DD' End-of-day Note: Intraday mode supports a maximum of 20 trading days per call. For larger ranges, query in smaller chunks. ​ Querying the Data ​ Basic Usage from scalarlib import getOptionsQuotes # Live: latest snapshot with full Greeks quotes = getOptionsQuotes(tickers=['AAPL260213C00280000']) quote_df = quotes['AAPL260213C00280000'] # Live: call + put on the same strike quotes = getOptionsQuotes(tickers=[ 'AAPL260213C00280000', 'AAPL260213P00280000', ]) # Intraday historical: 1-minute bars quotes = getOptionsQuotes( tickers=['AAPL260213C00280000'], start='2026-02-06T10:00:00', end='2026-02-06T10:30:00' ) # Daily historical: end-of-day quotes quotes = getOptionsQuotes( tickers=['AAPL260213C00280000'], start='2026-02-01', end='2026-02-06' ) ​ Parameters Parameter Type Required Description tickers list of str Yes Option symbols in OPRA format (e.g., ['AAPL260213C00280000']). start str No Start date ('YYYY-MM-DD') or datetime ('YYYY-MM-DDTHH:MM:SS', New York time). Omit with end for live mode. end str No End date or datetime. Omit with start for live mode. ​ Column Definitions ​ Live & Intraday Columns Column Type Description ts_recv datetime64[ns] Timestamp in New York time. ticker string Option symbol in OPRA format. Prices bid_px float64 Best bid price. ask_px float64 Best ask price. mid_px float64 Theoretical mid-price (smoothed). Sizes bid_sz int64 Bid size (number of contracts). ask_sz int64 Ask size (number of contracts). Contract Metadata underlying_ticker string Underlying symbol (e.g., AAPL). contract_type string 'call' or 'put'. expiry_date string Expiration date (YYYY-MM-DD). strike_price float64 Strike price. days_to_expiry int64 Calendar days until expiration. years_to_expiry float64 Years until expiration (days / 365.25). Greeks delta float64 Rate of change of option price with respect to underlying price. gamma float64 Rate of change of delta with respect to underlying price. theta float64 Rate of change of option price with respect to time (per day). vega float64 Rate of change of option price with respect to volatility. rho float64 Rate of change of option price with respect to interest rate. phi float64 Rate of change of option price with respect to dividend yield. Implied Volatilities bid_iv float64 Implied volatility at the bid price. mid_iv float64 Implied volatility at the mid price (smoothed). ask_iv float64 Implied volatility at the ask price. Trading volume float64 Daily trading volume. open_interest float64 Open interest. ​ Additional Daily Historical Columns Daily historical mode returns all columns above (except bid_sz / ask_sz) plus: Column Type Description interest_rate float64 Risk-free interest rate used in pricing. dividend_rate float64 Dividend yield used in pricing. exercise_style string 'american' or 'european'. shares_per_contract int64 Shares per contract (typically 100). mid_value float64 Theoretical mid-value. Latest Price Options Greeks & IV Powered by This documentation is built and hosted on Mintlify, a developer documentation platform",
+        "ogImage": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DOptions%2BQuotes%26description%3DLive%252C%2Bintraday%2B%25281-minute%2529%252C%2Band%2Bdaily%2Bhistorical%2Boptions%2Bquotes%2Bwith%2Bbid%252Fask%252Fmid%2Bprices%252C%2Bcontract%2Bmetadata%252C%2Band%2Bfull%2BGreeks.%2BCovers%2B5%252C000%252B%2BUS%2Bequity%2Boptions%2Bsymb%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+        "twImage": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DOptions%2BQuotes%26description%3DLive%252C%2Bintraday%2B%25281-minute%2529%252C%2Band%2Bdaily%2Bhistorical%2Boptions%2Bquotes%2Bwith%2Bbid%252Fask%252Fmid%2Bprices%252C%2Bcontract%2Bmetadata%252C%2Band%2Bfull%2BGreeks.%2BCovers%2B5%252C000%252B%2BUS%2Bequity%2Boptions%2Bsymb%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+        "blankNoopener": {
+          "count": 1,
+          "examples": [
+            "https://scalarfield.io/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "count": 1,
+          "help": "ARIA hidden element must not be focusable or contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "blockquote"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 1,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".items-baseline > span:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 1,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".focus\\:not-sr-only"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://scalarfield.io/docs/market-data/equity-ohlcv": {
+      "url": "https://scalarfield.io/docs/market-data/equity-ohlcv",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/docs/market-data/equity-ohlcv"
+      },
+      "data": {
+        "title": "Equity & ETF OHLCV - Scalar Field",
+        "titleLen": 33,
+        "metaDescription": "Daily and intraday (minute/hour) OHLCV price bars for U.S. equities and ETFs. Covers 10,000+ symbols with daily history back to 2003 and intraday data back to 2 years.",
+        "metaDescriptionLen": 167,
+        "canonical": "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1, viewport-fit=cover",
+        "h1": [
+          "Equity & ETF OHLCV",
+          "​Product Overview",
+          "​Querying the Data",
+          "​Column Definitions"
+        ],
+        "h1Count": 4,
+        "headingLevels": [
+          2,
+          3,
+          3,
+          3,
+          3,
+          2,
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          2,
+          2,
+          1,
+          2,
+          2,
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 6,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "WebSite"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 8,
+        "twitterCount": 6,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 4,
+        "text": "Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Scalar Field home page Search... Ctrl K Main Site Getting Started Introduction Trading Overview Supported Brokerages Strategies Reconciliation Market Data Overview Insider Trades Congress Trades Institutional Holdings Equity & ETF OHLCV Index OHLCV Crypto OHLCV Forex OHLCV Tokenized OHLCV Latest Price Options Quotes Options Greeks & IV Options Screener Polymarket Data Earnings Economic Releases FRED Data Usage & Pricing Fees Pricing & Credits Execution Limits On this page Product Overview Overview Data Pipeline Daily Bars Intraday Bars Coverage Supported Modes Querying the Data Basic Usage Parameters Column Definitions OHLCV Schema Market Data Equity & ETF OHLCV Daily and intraday (minute/hour) OHLCV price bars for U.S. equities and ETFs. Covers 10,000+ symbols with daily history back to 2003 and intraday data back to 2 years. Python function: getOHLCV() Specification Value Delivery Frequency continuous Data Frequency daily, intraday (min/hour) Reporting Lag Daily bars on market close; intraday bars in near-real-time Coverage 10,000+ U.S. equities and ETFs (NYSE, NASDAQ, AMEX, BATS) History Since 2003-01-02 Availability Free ​ Product Overview ​ Overview Equity & ETF OHLCV provides standardized Open, High, Low, Close, and Volume price bars for U.S.-listed equities and exchange-traded funds. The dataset supports daily, hourly, and minute-level granularity, enabling everything from long-horizon backtesting to intraday signal research. Daily bars are maintained in an internal repository that is continuously updated and automatically backfilled from exchange-consolidated trade feeds. Intraday bars (minute and hourly) are sourced from real-time aggregated exchange data. ​ Data Pipeline ​ Daily Bars Scalar Field maintains a repository of daily OHLCV bars sourced from consolidated exchange feeds: Continuous updates: New daily bars are appended as they become available after market close. Automatic backfill: If gaps are detected for any ticker, the system automatically backfills from the upstream exchange-consolidated data provider. Corporate actions: Prices are adjusted for splits and dividends to produce a continuous adjusted price series. ​ Intraday Bars Minute and hourly bars are constructed from real-time trade data: Trade-level aggregation: OHLCV bars are built from tick-level trade data. Each trade carries “sale condition” flags that determine which OHLCV components it updates — for example, certain off-exchange trade conditions may update volume but not the high/low prices. This follows Securities Information Processor (SIP) consolidated processing guidelines. Granularity: 1-minute bars are the base unit; hourly bars are aggregated from minute bars. Timestamps: All intraday timestamps are in New York (Eastern) time. ​ Coverage Universe: 10,000+ U.S.-listed equities and ETFs (NYSE, NASDAQ, AMEX, BATS, and other lit venues). Daily history: Back to 2003 for most liquid names; varies by listing date for newer securities. Intraday history: Approximately 2 years of minute and hourly bars. Update frequency: Daily bars updated on market close; intraday bars available in near-real-time during market hours (typically 10–20 minutes after open, ending 10–20 minutes before close). ​ Supported Modes Mode Trigger Notes Daily historical start/end as 'YYYY-MM-DD' Timeframe defaults to 'day'. Stale parquet data is automatically backfilled. Intraday historical start/end as 'YYYY-MM-DDTHH:MM:SS' Timeframe defaults to 'min'; can set 'hour'. New York timezone. Near-real-time Set start/end to recent datetimes Returns 1-minute bars for the requested window. ​ Querying the Data ​ Basic Usage from scalarlib import getOHLCV # Daily bars for multiple equities data = getOHLCV(tickers=['AAPL', 'MSFT', 'NVDA'], start='2025-01-01', end='2025-12-31') aapl_df = data['AAPL'] # Intraday minute bars data = getOHLCV(tickers=['AAPL'], start='2026-03-24T09:30:00', end='2026-03-24T16:00:00') # Hourly bars with explicit timeframe data = getOHLCV(tickers=['SPY'], start='2025-06-16', end='2025-06-18', timeframe='hour') # Near-real-time: last 30 minutes from datetime import datetime, timedelta now = datetime.now() data = getOHLCV( tickers=['AAPL'], start=(now - timedelta(minutes=30)).strftime('%Y-%m-%dT%H:%M:%S'), end=now.strftime('%Y-%m-%dT%H:%M:%S') ) ​ Parameters Parameter Type Required Description tickers list of str Yes Equity/ETF ticker symbols (e.g., ['AAPL', 'SPY']). start str Yes Start date ('YYYY-MM-DD') or datetime ('YYYY-MM-DDTHH:MM:SS', New York time). end str Yes End date or datetime (same format as start). timeframe str No 'day', 'min', or 'hour'. Default: inferred from date format — date-only defaults to daily, datetime defaults to minute. ​ Column Definitions ​ OHLCV Schema Column Type Description ts_recv datetime64[ns] Bar timestamp. For daily bars, the trading date. For intraday, the bar’s start time in New York time. ticker string Ticker symbol (e.g., AAPL, SPY). open float64 Opening price of the bar. high float64 Highest traded price during the bar. low float64 Lowest traded price during the bar. close float64 Closing price of the bar. volume int64 Number of shares traded during the bar. Institutional Holdings Index OHLCV Powered by This documentation is built and hosted on Mintlify, a developer documentation platform",
+        "ogImage": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DEquity%2B%2526%2BETF%2BOHLCV%26description%3DDaily%2Band%2Bintraday%2B%2528minute%252Fhour%2529%2BOHLCV%2Bprice%2Bbars%2Bfor%2BU.S.%2Bequities%2Band%2BETFs.%2BCovers%2B10%252C000%252B%2Bsymbols%2Bwith%2Bdaily%2Bhistory%2Bback%2Bto%2B2003%2Band%2Bintraday%2Bdata%2Bback%2Bto%2B2%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+        "twImage": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DEquity%2B%2526%2BETF%2BOHLCV%26description%3DDaily%2Band%2Bintraday%2B%2528minute%252Fhour%2529%2BOHLCV%2Bprice%2Bbars%2Bfor%2BU.S.%2Bequities%2Band%2BETFs.%2BCovers%2B10%252C000%252B%2Bsymbols%2Bwith%2Bdaily%2Bhistory%2Bback%2Bto%2B2003%2Band%2Bintraday%2Bdata%2Bback%2Bto%2B2%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+        "blankNoopener": {
+          "count": 1,
+          "examples": [
+            "https://scalarfield.io/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "count": 1,
+          "help": "ARIA hidden element must not be focusable or contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "blockquote"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 1,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".items-baseline > span:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 1,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".focus\\:not-sr-only"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://scalarfield.io/docs/market-data/earnings": {
+      "url": "https://scalarfield.io/docs/market-data/earnings",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/docs/market-data/earnings"
+      },
+      "data": {
+        "title": "Earnings Calendar & Results - Scalar Field",
+        "titleLen": 42,
+        "metaDescription": "Earnings report dates, EPS actuals, and consensus estimates for US equities. Covers both historical results and upcoming scheduled reports.",
+        "metaDescriptionLen": 139,
+        "canonical": "https://scalarfield.io/docs/market-data/earnings",
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1, viewport-fit=cover",
+        "h1": [
+          "Earnings Calendar & Results",
+          "​Product Overview",
+          "​Querying the Data"
+        ],
+        "h1Count": 3,
+        "headingLevels": [
+          2,
+          3,
+          3,
+          3,
+          3,
+          2,
+          1,
+          1,
+          2,
+          2,
+          1,
+          2,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 6,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "WebSite"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 8,
+        "twitterCount": 6,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 4,
+        "text": "Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Scalar Field home page Search... Ctrl K Main Site Getting Started Introduction Trading Overview Supported Brokerages Strategies Reconciliation Market Data Overview Insider Trades Congress Trades Institutional Holdings Equity & ETF OHLCV Index OHLCV Crypto OHLCV Forex OHLCV Tokenized OHLCV Latest Price Options Quotes Options Greeks & IV Options Screener Polymarket Data Earnings Economic Releases FRED Data Usage & Pricing Fees Pricing & Credits Execution Limits On this page Product Overview Overview Data Pipeline Querying the Data Basic Usage Parameters Return Schema Market Data Earnings Calendar & Results Earnings report dates, EPS actuals, and consensus estimates for US equities. Covers both historical results and upcoming scheduled reports. Python function: getEarningsData() Specification Value Delivery Frequency continuous, real-time Data Frequency event-driven (quarterly earnings) Coverage All US equities with earnings reports Source Benzinga Availability Free ​ Product Overview ​ Overview Earnings Calendar & Results provides structured data on quarterly earnings reports for US equities. The dataset includes both historical results (actual EPS vs. consensus estimates) and upcoming scheduled reports (with estimated EPS and release timing). Each row represents a single earnings event for a company — the date of the report, the fiscal period, the time of release, and the actual and estimated EPS values. ​ Data Pipeline Scalar Field proxies earnings data in real-time from the Benzinga API. Each query fetches live data directly — there is no local caching delay. This means upcoming earnings dates and freshly reported results are available as soon as the upstream source publishes them. ​ Querying the Data ​ Basic Usage from scalarlib import getEarningsData # Earnings for specific tickers in a date range data = getEarningsData(['AAPL', 'GOOGL', 'MSFT'], '2025-01-01', '2025-12-31') aapl_earnings = data['AAPL'] # All tickers with earnings in a date range data = getEarningsData(None, '2025-01-01', '2025-12-31') For upcoming earnings, set end_date to a future date. epsActual will be None for reports that have not yet been released. ​ Parameters Parameter Type Required Description tickers list of str or None No Stock symbol(s). None returns all tickers with earnings in the date range. start_date str Yes Start date (YYYY-MM-DD). end_date str Yes End date (YYYY-MM-DD). Use a future date to include upcoming earnings. ​ Return Schema Returns Dict[str, pd.DataFrame] keyed by ticker symbol. Each DataFrame: Column Type Description Date datetime64[ns] Date of the earnings report symbol string Ticker symbol earningsReportPeriod string Fiscal period (e.g. \"2025-Q3\") earnings_time string Time of release (e.g. \"16:30:00\") epsActual float or None Actual earnings per share. None for future earnings that have not yet been reported. epsEstimate float Consensus EPS estimate prior to the report When aligning earnings data with price data, remember that earnings dates may fall on non-trading days. Use getClosestTradingDate() to find the nearest trading session. Polymarket Data Economic Releases Powered by This documentation is built and hosted on Mintlify, a developer documentation platform",
+        "ogImage": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DEarnings%2BCalendar%2B%2526%2BResults%26description%3DEarnings%2Breport%2Bdates%252C%2BEPS%2Bactuals%252C%2Band%2Bconsensus%2Bestimates%2Bfor%2BUS%2Bequities.%2BCovers%2Bboth%2Bhistorical%2Bresults%2Band%2Bupcoming%2Bscheduled%2Breports.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+        "twImage": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DEarnings%2BCalendar%2B%2526%2BResults%26description%3DEarnings%2Breport%2Bdates%252C%2BEPS%2Bactuals%252C%2Band%2Bconsensus%2Bestimates%2Bfor%2BUS%2Bequities.%2BCovers%2Bboth%2Bhistorical%2Bresults%2Band%2Bupcoming%2Bscheduled%2Breports.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+        "blankNoopener": {
+          "count": 1,
+          "examples": [
+            "https://scalarfield.io/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "count": 1,
+          "help": "ARIA hidden element must not be focusable or contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "blockquote"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 1,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".items-baseline > span:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 1,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".focus\\:not-sr-only"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://scalarfield.io/docs/market-data/insider-trades": {
+      "url": "https://scalarfield.io/docs/market-data/insider-trades",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/docs/market-data/insider-trades"
+      },
+      "data": {
+        "title": "Corporate Insider Transactions - Scalar Field",
+        "titleLen": 45,
+        "metaDescription": "Near real-time SEC Form 3/4/5 insider buying and selling activity derived from EDGAR filings. Covers 5,300+ tickers and 97,000+ unique insiders with history back to January 2009. 87% of filings ingested within 5 minutes of SEC acceptance.",
+        "metaDescriptionLen": 238,
+        "canonical": "https://scalarfield.io/docs/market-data/insider-trades",
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1, viewport-fit=cover",
+        "h1": [
+          "Corporate Insider Transactions",
+          "​Product Overview",
+          "​Querying the Data",
+          "​Column Definitions",
+          "​Filtering Reference"
+        ],
+        "h1Count": 5,
+        "headingLevels": [
+          2,
+          3,
+          3,
+          3,
+          3,
+          2,
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          3,
+          2,
+          3,
+          2,
+          1,
+          2,
+          2,
+          2,
+          1,
+          2,
+          2,
+          1,
+          2,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 6,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "WebSite"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 8,
+        "twitterCount": 6,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 4,
+        "text": "Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Scalar Field home page Search... Ctrl K Main Site Getting Started Introduction Trading Overview Supported Brokerages Strategies Reconciliation Market Data Overview Insider Trades Congress Trades Institutional Holdings Equity & ETF OHLCV Index OHLCV Crypto OHLCV Forex OHLCV Tokenized OHLCV Latest Price Options Quotes Options Greeks & IV Options Screener Polymarket Data Earnings Economic Releases FRED Data Usage & Pricing Fees Pricing & Credits Execution Limits On this page Product Overview Overview Data Pipeline & Latency Ingestion Latency (last 7 days) Timestamp Semantics: ts_recv vs filed_at vs transactionDate Insider Filing Delay (transaction date → SEC filing, last 7 days) Coverage Annual Volume Buy/Sell Split Querying the Data Basic Usage Filtering by Insider Parameters Column Definitions Insider Trades Schema Transaction Type Codes Filtering Reference Insider Role Filter Insider Name Filter Market Data Corporate Insider Transactions Near real-time SEC Form 3/4/5 insider buying and selling activity derived from EDGAR filings. Covers 5,300+ tickers and 97,000+ unique insiders with history back to January 2009. 87% of filings ingested within 5 minutes of SEC acceptance. Python function: getInsiderTradesData() Specification Value Delivery Frequency continuous, daily Data Frequency event-driven Reporting Lag 87% within 5 min of SEC acceptance; full coverage within 24h Coverage 5,300+ U.S. equities, 97,000+ insiders, SEC Forms 3/4/5 History Since 2009-01-02 Availability Free ​ Product Overview ​ Overview Corporate Insider Transactions provides structured, near real-time data on insider buying and selling activity derived from SEC Forms 3, 4, and 5 (including amendments 3/A, 4/A, 5/A). The dataset captures non-derivative transactions — direct open-market purchases and dispositions — filed by corporate officers, directors, and beneficial owners (10%+ holders) of U.S. public companies. The dataset contains 3.5M+ transactions spanning 5,300+ tickers and 97,000+ unique insiders, with history back to January 2009. ​ Data Pipeline & Latency Scalar Field ingests insider filings through two complementary paths: Real-time stream: A persistent connection to SEC EDGAR receives filing notifications within seconds of acceptance. Structured transaction data is fetched by accession number and written to the database. If the data is not yet available, the system retries automatically until it arrives. Daily reconciliation: A batch job runs each morning, performing an incremental pull by ticker to catch any filings missed by the real-time stream or delayed in SEC indexing. ​ Ingestion Latency (last 7 days) The gap between when the SEC accepts a filing (filed_at) and when it appears in Scalar Field (ts_recv): Lag % of filings < 1 minute 73% 1–5 minutes 14% 5–60 minutes 9% 1–24 hours 4% > 24 hours 0% 87% of filings are ingested within 5 minutes of SEC acceptance. The remaining ~13% are typically filings where the SEC API indexes the structured data with a short delay; these are caught by automatic retries or, in rare cases, the daily batch reconciliation. ​ Timestamp Semantics: ts_recv vs filed_at vs transactionDate This distinction is critical for backtesting and signal construction: Timestamp Meaning Use Case ts_recv When Scalar Field’s pipeline first ingested the record (UTC → New York time). This is the point-in-time timestamp — the earliest moment this data was available in the system. Point-in-time backtesting. Use this as your event timestamp to avoid look-ahead bias. filed_at When the SEC filing was officially accepted by EDGAR (UTC → New York time). Regulatory timing analysis. Measures the insider’s filing delay relative to the transaction. transactionDate The actual date the insider executed the trade. Event studies. The true economic event date — but note this is only known after the filing lands. ​ Insider Filing Delay (transaction date → SEC filing, last 7 days) How long after the actual trade do insiders file with the SEC: Delay % of filings Same day 4% 1 day 19% 2 days 44% 3–5 days 29% > 5 days 5% Insiders are required to file Form 4 within 2 business days of the transaction. In practice, ~67% comply within 2 days, while ~33% file later. This means that even with a perfect real-time feed, there is an inherent information delay between when an insider trades and when the market can observe it. ​ Coverage Universe: 5,300+ U.S.-listed equities with SEC insider filings (NYSE, NASDAQ, AMEX, OTC issuers). Insiders: 97,000+ unique filing insiders. Filing types: Forms 3 (initial statement of beneficial ownership), 4 (changes in ownership), and 5 (annual summary), plus their amendments (3/A, 4/A, 5/A). Transaction filter: Only non-derivative transactions with acquired/disposed codes — Buy (A) and Sell (D). Derivative transactions (option exercises, conversions) are excluded. History: January 2009 to present, with continuous daily updates. Volume: ~1,500 transactions/day on average; ~270K/year in recent years. ​ Annual Volume Year Transactions 2009 134,566 2010 156,020 2011 152,509 2012 165,646 2013 170,764 2014 171,229 2015 171,205 2016 171,877 2017 181,639 2018 197,736 2019 205,018 2020 234,433 2021 294,368 2022 241,628 2023 245,931 2024 274,757 2025 271,592 ​ Buy/Sell Split Across the full dataset: 49% Buy / 51% Sell, roughly balanced. ​ Querying the Data ​ Basic Usage from scalarlib import getInsiderTradesData # All AAPL insider trades in 2024 df = getInsiderTradesData('AAPL', '2024-01-01', '2024-12-31') # Multiple tickers df = getInsiderTradesData(['AAPL', 'MSFT', 'NVDA'], '2024-01-01', '2024-12-31') # All tickers (universe-wide scan) df = getInsiderTradesData(None, '2024-06-01', '2024-06-30') ​ Filtering by Insider # Filter by insider name (fuzzy, order-independent, case-insensitive) df = getInsiderTradesData('AAPL', '2020-01-01', '2024-12-31', insider_name='Tim Cook') # Filter by role (supports abbreviations: CEO, CFO, COO, CTO, director, VP, etc.) df = getInsiderTradesData(None, '2024-01-01', '2024-12-31', insider_role='CEO') ​ Parameters Parameter Type Required Description tickers str, list, or None No Stock symbol(s). None returns all tickers. start str Yes Start date (YYYY-MM-DD or YYYY-MM-DDTHH:MM:SS). end str Yes End date (same format; date-only is inclusive). insider_name str No Filter by insider name. Fuzzy, order-independent, case-insensitive. \"Tim Cook\" matches \"Cook Timothy D\". insider_role str No Filter by insider role/position. Supports known abbreviations (see below). ​ Column Definitions ​ Insider Trades Schema Column Type Description ts_recv datetime Point-in-time timestamp: when Scalar Field ingested the record (New York time). Use this for backtesting to avoid look-ahead bias. filed_at datetime SEC filing acceptance timestamp (New York time). When the Form 3/4/5 was officially filed with EDGAR. symbol string Ticker symbol of the issuer (e.g., AAPL, MSFT). transactionAmount float Number of shares transacted. transactionPrice float Price per share at which the transaction was executed (USD). transactionType string SEC transaction code (S = open-market sale, P = open-market purchase, A = grant/award, M = exercise/conversion, F = tax withholding, etc.). side string Direction: Buy (acquired) or Sell (disposed). transactionDate date Calendar date the insider executed the trade. name string Full name of the insider as reported in the SEC filing. typeOfOwner string Relationship to issuer (e.g., “Chief Executive Officer”, “Director”, “10% Owner”). postTransactionAmount float Shares held by the insider after the transaction. securityTitle string Description of the security (e.g., “Common Stock”). issuerName string Legal name of the issuing company. accessionNo string SEC EDGAR accession number — unique filing identifier. Construct the EDGAR URL as https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&accession={accessionNo}. ​ Transaction Type Codes Code Meaning Count S Open-market or private sale 1,070K A Grant, award, or other acquisition 724K F Payment of exercise price or tax liability (withholding) 547K M Exercise or conversion of derivative security 546K P Open-market or private purchase 296K J Other acquisition or disposition 114K G Gift 105K D Disposition to the issuer 55K C Conversion of derivative security 49K ​ Filtering Reference ​ Insider Role Filter The insider_role parameter supports these abbreviations and their expansions: Abbreviation Matches CEO Chief Executive Officer CFO Chief Financial Officer COO Chief Operating Officer CTO Chief Technology Officer CIO Chief Information Officer President President Director Director VP / SVP / EVP Vice President / Senior VP / Executive VP Chairman Chairman, Chair General Counsel General Counsel, GC Controller Controller Treasurer Treasurer Secretary Secretary, Corp Sec 10% Owner 10% Owner, Beneficial O",
+        "ogImage": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DCorporate%2BInsider%2BTransactions%26description%3DNear%2Breal-time%2BSEC%2BForm%2B3%252F4%252F5%2Binsider%2Bbuying%2Band%2Bselling%2Bactivity%2Bderived%2Bfrom%2BEDGAR%2Bfilings.%2BCovers%2B5%252C300%252B%2Btickers%2Band%2B97%252C000%252B%2Bunique%2Binsiders%2Bwith%2Bhistory%2Bbac%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+        "twImage": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DCorporate%2BInsider%2BTransactions%26description%3DNear%2Breal-time%2BSEC%2BForm%2B3%252F4%252F5%2Binsider%2Bbuying%2Band%2Bselling%2Bactivity%2Bderived%2Bfrom%2BEDGAR%2Bfilings.%2BCovers%2B5%252C300%252B%2Btickers%2Band%2B97%252C000%252B%2Bunique%2Binsiders%2Bwith%2Bhistory%2Bbac%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+        "blankNoopener": {
+          "count": 1,
+          "examples": [
+            "https://scalarfield.io/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "count": 1,
+          "help": "ARIA hidden element must not be focusable or contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "blockquote"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 1,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".items-baseline > span:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 1,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".focus\\:not-sr-only"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    },
+    "https://scalarfield.io/docs/market-data/institutional-holdings": {
+      "url": "https://scalarfield.io/docs/market-data/institutional-holdings",
+      "primary": false,
+      "nav": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://scalarfield.io/docs/market-data/institutional-holdings"
+      },
+      "data": {
+        "title": "Institutional Holdings (SEC Form 13F) - Scalar Field",
+        "titleLen": 52,
+        "metaDescription": "Real-time SEC Form 13F quarterly filings from institutional investment managers with $100M+ in qualifying assets. Covers 14,000+ institutions, 13,800+ securities, and 85M+ holdings rows with history back to Q1 1987.",
+        "metaDescriptionLen": 215,
+        "canonical": "https://scalarfield.io/docs/market-data/institutional-holdings",
+        "robotsMeta": null,
+        "lang": "en",
+        "viewportMeta": "width=device-width, initial-scale=1, viewport-fit=cover",
+        "h1": [
+          "Institutional Holdings (SEC Form 13F)",
+          "​Product Overview",
+          "​Querying the Data",
+          "​Column Definitions"
+        ],
+        "h1Count": 4,
+        "headingLevels": [
+          2,
+          3,
+          3,
+          3,
+          3,
+          2,
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          3,
+          2,
+          1,
+          2,
+          2,
+          1,
+          2
+        ],
+        "headingHierarchyOk": true,
+        "imgTotal": 6,
+        "imgMissingAlt": 0,
+        "imgEmptyAlt": 0,
+        "jsonld": [
+          "WebSite"
+        ],
+        "jsonldCount": 1,
+        "ogCount": 8,
+        "twitterCount": 6,
+        "forms": [],
+        "formCount": 0,
+        "headSyncScripts": 1,
+        "headStylesheets": 4,
+        "text": "Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Scalar Field home page Search... Ctrl K Main Site Getting Started Introduction Trading Overview Supported Brokerages Strategies Reconciliation Market Data Overview Insider Trades Congress Trades Institutional Holdings Equity & ETF OHLCV Index OHLCV Crypto OHLCV Forex OHLCV Tokenized OHLCV Latest Price Options Quotes Options Greeks & IV Options Screener Polymarket Data Earnings Economic Releases FRED Data Usage & Pricing Fees Pricing & Credits Execution Limits On this page Product Overview Overview Data Pipeline & Latency Quarterly Filing Volume (recent quarters) Timestamp Semantics: ts_recv vs filed_at vs period_of_report Annual Volume (recent years) Coverage Querying the Data Basic Usage Parameters Column Definitions Institutional Holdings Schema Market Data Institutional Holdings (SEC Form 13F) Real-time SEC Form 13F quarterly filings from institutional investment managers with $100M+ in qualifying assets. Covers 14,000+ institutions, 13,800+ securities, and 85M+ holdings rows with history back to Q1 1987. Python function: getInstitutionalHoldings() Specification Value Delivery Frequency continuous, daily Data Frequency quarterly Reporting Lag Real-time from EDGAR stream (< 1 min); daily backfill safety net Coverage 14,000+ institutions, 13,800+ securities, SEC Form 13F History Since 1987-03-31 Availability Free ​ Product Overview ​ Overview Institutional Holdings provides structured, real-time data from SEC Form 13F filings — the quarterly disclosure that institutional investment managers exercising discretion over $100 million or more in qualifying assets must file with the SEC. Each filing’s holdings are flattened into per-security rows, enabling queries by ticker, institution, or time period. The dataset contains 85M+ holdings rows from 14,000+ unique institutions covering 13,800+ securities, with history back to Q1 1987. ​ Data Pipeline & Latency Scalar Field ingests 13F filings through two complementary paths: Real-time stream: A persistent connection to SEC EDGAR receives filing notifications within seconds of acceptance. Holdings and cover page data are fetched by accession number and written to the database. Daily backfill: A safety-net job runs daily, re-processing the last 3 calendar days of filings to catch anything missed by the real-time stream. Bulk historical: Full history back to 1987 is loaded from SEC-API’s monthly archives. ​ Quarterly Filing Volume (recent quarters) Quarter Holdings Rows Unique Filers Q1 2024 2,119,125 7,378 Q2 2024 2,122,293 7,388 Q3 2024 2,408,137 7,432 Q4 2024 2,560,532 8,143 Q1 2025 2,584,750 8,094 Q2 2025 2,579,984 8,107 Q3 2025 2,586,847 8,034 Q4 2025 2,920,349 8,604 Filing volume has grown steadily, with Q4 2025 seeing nearly 2.9M holdings rows from 8,600+ filers. ​ Timestamp Semantics: ts_recv vs filed_at vs period_of_report Timestamp Meaning Use Case ts_recv When Scalar Field’s pipeline first ingested the record (New York time). This is the point-in-time timestamp. Point-in-time backtesting. Use this as your event timestamp to avoid look-ahead bias. filed_at When the 13F filing was submitted to EDGAR (New York time). Filing-date analysis. The official SEC submission timestamp. period_of_report The quarter-end date the filing covers (e.g., 2025-12-31 for Q4 2025). Snapshot analysis. Use to compare holdings across quarters. ​ Annual Volume (recent years) Year Holdings Rows 2020 6,886,918 2021 8,324,009 2022 8,319,390 2023 8,368,360 2024 9,210,087 2025 10,671,930 ​ Coverage Institutions: 14,000+ unique filers (hedge funds, mutual funds, pension funds, insurance companies, bank trust departments, endowments). ~8,600 active filers per quarter in recent periods. Securities: 13,800+ unique tickers in recent quarters. Covers U.S. equity and equity-like securities (ETFs, closed-end funds, certain convertible instruments). History: Q1 1987 to present, with continuous real-time updates. Filing frequency: Quarterly (45 days after quarter-end). Most filings arrive in a concentrated window during the 6th week after quarter-end. ​ Querying the Data ​ Basic Usage from scalarlib import getInstitutionalHoldings # All funds holding AAPL in recent filings df = getInstitutionalHoldings(ticker='AAPL', start='2025-01-01', end='2025-12-31') # Berkshire Hathaway's full portfolio df = getInstitutionalHoldings(institution_name='berkshire & hathaway', start='2025-01-01', end='2026-02-28') # Bridgewater OR Citadel holdings of TSLA df = getInstitutionalHoldings(ticker='TSLA', institution_name='bridgewater | citadel', start='2025-01-01', end='2026-02-28') # Prefix match for institution names df = getInstitutionalHoldings(institution_name='bridg:*', start='2025-01-01', end='2025-12-31') ​ Parameters Parameter Type Required Description ticker str No Stock ticker symbol to filter (e.g., 'AAPL'). institution_name str No Fund/manager name using PostgreSQL to_tsquery syntax. Supports & (AND), | (OR), ! (NOT), :* (prefix). start str Yes Start date (YYYY-MM-DD). end str Yes End date (YYYY-MM-DD). date_column str No 'filed_at' (default) or 'ts_recv'. ​ Column Definitions ​ Institutional Holdings Schema Column Type Description ts_recv datetime Point-in-time timestamp: when Scalar Field ingested the record (New York time). filed_at datetime When the 13F filing was submitted to EDGAR (New York time). fund_name string Name of the institutional investment manager. cik string SEC Central Index Key — unique identifier for the filing entity. ticker string Ticker symbol of the held security. cusip string CUSIP identifier (9-character) for the security. name_of_issuer string Legal name of the security’s issuer. title_of_class string Class of security (e.g., COM, CL A, SH BEN INT). value float Fair market value of the position in thousands of USD (as reported on the 13F). shares float Number of shares or principal amount held. share_type string Type of shares: SH (shares) or PRN (principal). put_call string For options: Put, Call, or null for equity positions. investment_discretion string SOLE, DEFINED, or SHARED — who has investment authority. voting_sole integer Number of shares with sole voting authority. voting_shared integer Number of shares with shared voting authority. voting_none integer Number of shares with no voting authority. period_of_report date Quarter-end date the filing covers. form_type string SEC form type (e.g., 13F-HR, 13F-HR/A for amendments). accession_no string SEC EDGAR accession number — unique filing identifier. Congress Trades Equity & ETF OHLCV Powered by This documentation is built and hosted on Mintlify, a developer documentation platform",
+        "ogImage": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DInstitutional%2BHoldings%2B%2528SEC%2BForm%2B13F%2529%26description%3DReal-time%2BSEC%2BForm%2B13F%2Bquarterly%2Bfilings%2Bfrom%2Binstitutional%2Binvestment%2Bmanagers%2Bwith%2B%2524100M%252B%2Bin%2Bqualifying%2Bassets.%2BCovers%2B14%252C000%252B%2Binstitutions%252C%2B13%252C800%252B%2Bsecuritie%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+        "twImage": "https://scalarfield.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DMarket%2BData%26title%3DInstitutional%2BHoldings%2B%2528SEC%2BForm%2B13F%2529%26description%3DReal-time%2BSEC%2BForm%2B13F%2Bquarterly%2Bfilings%2Bfrom%2Binstitutional%2Binvestment%2Bmanagers%2Bwith%2B%2524100M%252B%2Bin%2Bqualifying%2Bassets.%2BCovers%2B14%252C000%252B%2Binstitutions%252C%2B13%252C800%252B%2Bsecuritie%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253D11154542d97a4c61f61a3723b840366b%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fscalarfield%252F7Htg0x1XClj0OR9n%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253D7Htg0x1XClj0OR9n%2526q%253D85%2526s%253Dc3f21346deed29df10e67fabb45a4ca1%26primaryColor%3D%2523334155%26lightColor%3D%252394a3b8%26darkColor%3D%2523334155%26backgroundLight%3D%2523FFFFFF%26backgroundDark%3D%2523000000&w=1200&q=100",
+        "blankNoopener": {
+          "count": 1,
+          "examples": [
+            "https://scalarfield.io/"
+          ]
+        },
+        "dupIds": {
+          "count": 0,
+          "examples": []
+        },
+        "deprecatedTags": 0
+      },
+      "axe": [
+        {
+          "id": "aria-hidden-focus",
+          "impact": "serious",
+          "count": 1,
+          "help": "ARIA hidden element must not be focusable or contain focusable elements",
+          "nodes": [
+            {
+              "target": [
+                "blockquote"
+              ],
+              "summary": "Fix all of the following: Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "count": 1,
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".items-baseline > span:nth-child(1)"
+              ],
+              "summary": "Fix any of the following: Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "count": 1,
+          "help": "All page content should be contained by landmarks",
+          "nodes": [
+            {
+              "target": [
+                ".focus\\:not-sr-only"
+              ],
+              "summary": "Fix any of the following: Some page content is not contained by landmarks"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "url": "https://scalarfield.io/docs",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/introduction",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/",
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/docs/market-data/options-quotes"
+      ]
+    },
+    {
+      "url": "https://www.scalarfield.io/legal",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/legal",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ]
+    },
+    {
+      "url": "https://blogs.scalarfield.io/",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://blogs.scalarfield.io/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/agentic-etfs",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/agentic-etfs",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/",
+        "https://scalarfield.io/agentic-etfs",
+        "https://scalarfield.io/ai-agentic-trading"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/ai-agentic-trading",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/ai-agentic-trading",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/pricing",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/pricing",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/",
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/ai-agentic-trading"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/terms-of-use",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/terms-of-use",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/",
+        "https://scalarfield.io/pricing"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/privacy",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/privacy",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/cybersecurity-policy",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/cybersecurity-policy",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/ai-disclosure",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/ai-disclosure",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/ai-agentic-trading",
+        "https://scalarfield.io/docs/market-data/options-quotes"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/options-quotes",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/options-quotes",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/equity-ohlcv",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/equity-ohlcv",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/earnings",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/earnings",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/insider-trades",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/insider-trades",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/institutional-holdings",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/institutional-holdings",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/overview",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/overview",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/ai-agentic-trading",
+        "https://scalarfield.io/docs/market-data/options-quotes"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/polymarket-data",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/polymarket-data",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/economic-releases",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/economic-releases",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/fred-data",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/fred-data",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv"
+      ]
+    },
+    {
+      "url": "https://blog.scalarfield.io/",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://blog.scalarfield.io/",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/pricing"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/chat",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/chat",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/agentic-etfs"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/chat?login=true",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/chat?login=true",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/agentic-etfs"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/prediction-markets/polymarket",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/prediction-markets/polymarket",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/ai-agentic-trading"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/trading/overview",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/trading/overview",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/ai-agentic-trading",
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/trading/strategies",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/trading/strategies",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/ai-agentic-trading",
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/trading/supported-brokerages",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/trading/supported-brokerages",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/ai-agentic-trading",
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/trading/reconciliation",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/trading/reconciliation",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/ai-agentic-trading",
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/llms.txt",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/llms.txt",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/introduction",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/introduction",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/congress-trades",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/congress-trades",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/index-ohlcv",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/index-ohlcv",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/crypto-ohlcv",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/crypto-ohlcv",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/forex-ohlcv",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/forex-ohlcv",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/tokenized-ohlcv",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/tokenized-ohlcv",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/latest-price",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/latest-price",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/options-greeks",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/options-greeks",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/market-data/screen-options",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/market-data/screen-options",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/usage/fees",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/usage/fees",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/usage/pricing",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/usage/pricing",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    },
+    {
+      "url": "https://scalarfield.io/docs/usage/execution-limits",
+      "fp": true,
+      "status": 200,
+      "finalUrl": "https://scalarfield.io/docs/usage/execution-limits",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    },
+    {
+      "url": "https://www.ycombinator.com/launches/NSw-scalar-field-reinventing-the-trading-terminal-one-intelligent-agent-at-a-time",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.ycombinator.com/launches/NSw-scalar-field-reinventing-the-trading-terminal-one-intelligent-agent-at-a-time",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ]
+    },
+    {
+      "url": "https://calendly.com/aman-dvds/30min",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://calendly.com/aman-dvds/30min",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/"
+      ]
+    },
+    {
+      "url": "https://discord.gg/rhW3BBaWzx",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://discord.com/invite/rhW3BBaWzx",
+      "method": "HEAD->GET",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/",
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/agentic-etfs"
+      ]
+    },
+    {
+      "url": "https://x.com/scalar_field_",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://x.com/scalar_field_",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/",
+        "https://scalarfield.io/pricing",
+        "https://scalarfield.io/agentic-etfs"
+      ]
+    },
+    {
+      "url": "https://www.mintlify.com/?utm_campaign=poweredBy&utm_medium=referral&utm_source=scalarfield",
+      "fp": false,
+      "status": 200,
+      "finalUrl": "https://www.mintlify.com/?utm_campaign=poweredBy&utm_medium=referral&utm_source=scalarfield",
+      "method": "HEAD",
+      "error": null,
+      "sources": [
+        "https://scalarfield.io/docs/market-data/options-quotes",
+        "https://scalarfield.io/docs/market-data/equity-ohlcv",
+        "https://scalarfield.io/docs/market-data/earnings"
+      ]
+    }
+  ],
+  "forms": [
+    {
+      "page": "https://scalarfield.io/",
+      "forms": [
+        {
+          "action": "",
+          "method": "get",
+          "novalidate": false,
+          "fieldCount": 3,
+          "fields": [
+            {
+              "tag": "textarea",
+              "type": "textarea",
+              "name": "",
+              "required": false,
+              "autocomplete": "off",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "",
+              "labeled": false
+            },
+            {
+              "tag": "input",
+              "type": "file",
+              "name": "",
+              "required": false,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "",
+              "labeled": false
+            },
+            {
+              "tag": "input",
+              "type": "checkbox",
+              "name": "",
+              "required": false,
+              "autocomplete": "",
+              "ariaLabel": "",
+              "ariaLabelledby": "",
+              "placeholder": "",
+              "labeled": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "thirdParty": [
+    {
+      "host": "auth.privy.io",
+      "requests": 375
+    },
+    {
+      "host": "d32mg6h25qsrpf.cloudfront.net",
+      "requests": 74
+    },
+    {
+      "host": "www.google.com",
+      "requests": 41
+    },
+    {
+      "host": "googleads.g.doubleclick.net",
+      "requests": 22
+    },
+    {
+      "host": "api-js.mixpanel.com",
+      "requests": 13
+    },
+    {
+      "host": "explorer-api.walletconnect.com",
+      "requests": 12
+    },
+    {
+      "host": "d4tuoctqmanu0.cloudfront.net",
+      "requests": 12
+    },
+    {
+      "host": "www.googletagmanager.com",
+      "requests": 11
+    },
+    {
+      "host": "www.googleadservices.com",
+      "requests": 11
+    },
+    {
+      "host": "accounts.google.com",
+      "requests": 11
+    },
+    {
+      "host": "mintcdn.com",
+      "requests": 10
+    },
+    {
+      "host": "mintlify.s3.us-west-1.amazonaws.com",
+      "requests": 10
+    },
+    {
+      "host": "raw.githubusercontent.com",
+      "requests": 5
+    },
+    {
+      "host": "www.ycombinator.com",
+      "requests": 3
+    },
+    {
+      "host": "ad.doubleclick.net",
+      "requests": 2
+    }
+  ],
+  "mobileAxe": {
+    "https://scalarfield.io/": [
+      {
+        "id": "button-name",
+        "impact": "critical",
+        "count": 2,
+        "help": "Buttons must have discernible text",
+        "nodes": [
+          {
+            "target": [
+              ".group.p-2.rounded-md"
+            ],
+            "summary": "Fix any of the following: Element does not have inner text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attribute does not exist, references elemen"
+          },
+          {
+            "target": [
+              "button[aria-controls=\"radix-_r_7_\"]"
+            ],
+            "summary": "Fix any of the following: Element does not have inner text that is visible to screen readers aria-label attribute does not exist or is empty aria-labelledby attribute does not exist, references elemen"
+          }
+        ]
+      },
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 2,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              ".text-xl.font-normal.text-muted"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 2.95 (foreground color: #89999d, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio"
+          },
+          {
+            "target": [
+              "span[data-testid=\"react-typed\"] > span:nth-child(1)"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 1.98 (foreground color: #b8b8b8, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+          }
+        ]
+      },
+      {
+        "id": "label",
+        "impact": "critical",
+        "count": 1,
+        "help": "Form elements must have labels",
+        "nodes": [
+          {
+            "target": [
+              "textarea"
+            ],
+            "summary": "Fix any of the following: Element does not have an implicit (wrapped) <label> Element does not have an explicit <label> aria-label attribute does not exist or is empty aria-labelledby attribute does n"
+          }
+        ]
+      },
+      {
+        "id": "landmark-one-main",
+        "impact": "moderate",
+        "count": 1,
+        "help": "Document should have one main landmark",
+        "nodes": [
+          {
+            "target": [
+              "html"
+            ],
+            "summary": "Fix all of the following: Document does not have a main landmark"
+          }
+        ]
+      },
+      {
+        "id": "region",
+        "impact": "moderate",
+        "count": 17,
+        "help": "All page content should be contained by landmarks",
+        "nodes": [
+          {
+            "target": [
+              ".ml-2"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          },
+          {
+            "target": [
+              "h1"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          },
+          {
+            "target": [
+              ".max-w-3xl > .sr-only"
+            ],
+            "summary": "Fix any of the following: Some page content is not contained by landmarks"
+          }
+        ]
+      }
+    ],
+    "https://scalarfield.io/pricing": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "count": 9,
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "nodes": [
+          {
+            "target": [
+              "p"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+          },
+          {
+            "target": [
+              ".bg-transparent"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 2.85 (foreground color: #849597, background color: #f5f5f3, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio"
+          },
+          {
+            "target": [
+              ".lg\\:justify-self-end > .mt-4.items-start.flex > .flex-1.flex-col.flex > .gap-2.justify-between.items-center > .gap-2.items-center.flex > .text-left.text-sm.text-muted > span:nth-child(1)"
+            ],
+            "summary": "Fix any of the following: Element has insufficient color contrast of 2.92 (foreground color: #899a9d, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio"
+          }
+        ]
+      }
+    ]
+  },
+  "responsiveExtra": {
+    "https://scalarfield.io/": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 12,
+        "tinyTapExamples": [
+          {
+            "tag": "button",
+            "text": "",
+            "w": 14,
+            "h": 14,
+            "cls": "outline-none focus:outline-none"
+          },
+          {
+            "tag": "a",
+            "text": "https://www.scalarfield.io/leg",
+            "w": 172,
+            "h": 14,
+            "cls": "underline hover:text-white/70 transition"
+          },
+          {
+            "tag": "a",
+            "text": "Docs",
+            "w": 31,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Blogs",
+            "w": 35,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 43,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Terms of Service",
+            "w": 108,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 86,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Cybersecurity Policy",
+            "w": 127,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "AI Disclosure",
+            "w": 81,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Discord",
+            "w": 47,
+            "h": 16,
+            "cls": "hover:text-white/80 transition-colors"
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 12,
+        "tinyTapExamples": [
+          {
+            "tag": "button",
+            "text": "",
+            "w": 14,
+            "h": 14,
+            "cls": "outline-none focus:outline-none"
+          },
+          {
+            "tag": "a",
+            "text": "https://www.scalarfield.io/leg",
+            "w": 172,
+            "h": 14,
+            "cls": "underline hover:text-white/70 transition"
+          },
+          {
+            "tag": "a",
+            "text": "Docs",
+            "w": 31,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Blogs",
+            "w": 35,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 43,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Terms of Service",
+            "w": 108,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 86,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Cybersecurity Policy",
+            "w": 127,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "AI Disclosure",
+            "w": 81,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Discord",
+            "w": 47,
+            "h": 16,
+            "cls": "hover:text-white/80 transition-colors"
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 12,
+        "tinyTapExamples": [
+          {
+            "tag": "button",
+            "text": "",
+            "w": 14,
+            "h": 14,
+            "cls": "outline-none focus:outline-none"
+          },
+          {
+            "tag": "a",
+            "text": "https://www.scalarfield.io/leg",
+            "w": 172,
+            "h": 14,
+            "cls": "underline hover:text-white/70 transition"
+          },
+          {
+            "tag": "a",
+            "text": "Docs",
+            "w": 31,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Blogs",
+            "w": 35,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 43,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Terms of Service",
+            "w": 108,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Privacy Policy",
+            "w": 86,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Cybersecurity Policy",
+            "w": 127,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "AI Disclosure",
+            "w": 81,
+            "h": 16,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Discord",
+            "w": 47,
+            "h": 16,
+            "cls": "hover:text-white/80 transition-colors"
+          }
+        ]
+      }
+    ],
+    "https://scalarfield.io/pricing": [
+      {
+        "width": 320,
+        "overflowPx": 0,
+        "tinyTapCount": 14,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Options data",
+            "w": 74,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Earnings calendar & results",
+            "w": 154,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Congress & insider trades",
+            "w": 146,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Institutional holdings & flows",
+            "w": 157,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Analyst ratings & price target",
+            "w": 168,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Polymarket prediction markets",
+            "w": 173,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Economic event releases",
+            "w": 141,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "FRED",
+            "w": 30,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 41,
+            "h": 18,
+            "cls": ""
+          },
+          {
+            "tag": "a",
+            "text": "Blog & updates",
+            "w": 98,
+            "h": 18,
+            "cls": ""
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflowPx": 0,
+        "tinyTapCount": 15,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Options data",
+            "w": 74,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Equities, indices, crypto, for",
+            "w": 213,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Earnings calendar & results",
+            "w": 154,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Congress & insider trades",
+            "w": 146,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Institutional holdings & flows",
+            "w": 157,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Analyst ratings & price target",
+            "w": 168,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Polymarket prediction markets",
+            "w": 173,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Economic event releases",
+            "w": 141,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "FRED",
+            "w": 30,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 41,
+            "h": 18,
+            "cls": ""
+          }
+        ]
+      },
+      {
+        "width": 414,
+        "overflowPx": 0,
+        "tinyTapCount": 15,
+        "tinyTapExamples": [
+          {
+            "tag": "a",
+            "text": "Options data",
+            "w": 74,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Equities, indices, crypto, for",
+            "w": 213,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Earnings calendar & results",
+            "w": 154,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Congress & insider trades",
+            "w": 146,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Institutional holdings & flows",
+            "w": 157,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Analyst ratings & price target",
+            "w": 168,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Polymarket prediction markets",
+            "w": 173,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Economic event releases",
+            "w": 141,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "FRED",
+            "w": 30,
+            "h": 16,
+            "cls": "underline-offset-2 hover:underline"
+          },
+          {
+            "tag": "a",
+            "text": "Pricing",
+            "w": 41,
+            "h": 18,
+            "cls": ""
+          }
+        ]
+      }
+    ]
+  },
+  "duplicates": {
+    "titles": [],
+    "descriptions": []
+  },
+  "linkStats": {
+    "fpDiscovered": 41,
+    "extDiscovered": 5,
+    "fpChecked": 41,
+    "extChecked": 5
+  },
+  "requestTotal": 1780,
+  "mixedContent": []
+}

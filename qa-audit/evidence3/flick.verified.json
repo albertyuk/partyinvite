@@ -1,0 +1,121 @@
+{
+  "key": "flick",
+  "checkedAt": "2026-07-06T08:19:21.406Z",
+  "assets": [
+    {
+      "url": "https://cdn.flick.art/cover-new2.mp4",
+      "harnessKB": 14650.2,
+      "realKB": 14650,
+      "status": 200,
+      "encoding": "video/mp4",
+      "type": "video/mp4"
+    },
+    {
+      "url": "https://flick.art/assets/index-C6HZNF9Y.js",
+      "harnessKB": 5844,
+      "realKB": 1624,
+      "status": 200,
+      "encoding": "application/javascript; charset=utf-8",
+      "type": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.flick.art/true.svg",
+      "harnessKB": 5574.3,
+      "realKB": 1765,
+      "status": 200,
+      "encoding": "image/svg+xml",
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "https://cdn.flick.art/system/about.jpg",
+      "harnessKB": 4841.3,
+      "realKB": 4841,
+      "status": 200,
+      "encoding": "image/jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.flick.art/system/mimi.jpg",
+      "harnessKB": 2912.1,
+      "realKB": 2912,
+      "status": 200,
+      "encoding": "image/jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.flick.art/df572068-3caa-4738-bbcf-fa95de1add54/uploads/images/2026/05/2026-05-14T16-30-35_ca5b5c3f-5e3e-4fff-ab6b-2f22248763bf.jpg",
+      "harnessKB": 2728.7,
+      "realKB": 2729,
+      "status": 200,
+      "encoding": "image/jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.flick.art/df572068-3caa-4738-bbcf-fa95de1add54/uploads/images/2026/05/The%20Last%20Stop%20Thumbnail-2.jpg",
+      "harnessKB": 2014.3,
+      "realKB": 2014,
+      "status": 200,
+      "encoding": "image/jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://flick.art/ray.jpg",
+      "harnessKB": 1826.7,
+      "realKB": 1827,
+      "status": 200,
+      "encoding": "image/jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.flick.art/df572068-3caa-4738-bbcf-fa95de1add54/uploads/images/2026/05/2026-05-14T16-30-44_9261928a-5c65-4032-be6a-37a46637a49b.jpg",
+      "harnessKB": 1718.4,
+      "realKB": 1718,
+      "status": 200,
+      "encoding": "image/jpeg",
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://cdn.flick.art/system/seat.png",
+      "harnessKB": 1367,
+      "realKB": 1367,
+      "status": 200,
+      "encoding": "image/png",
+      "type": "image/png"
+    },
+    {
+      "url": "https://cdn.flick.art/system/pricing.png",
+      "harnessKB": 1217.1,
+      "realKB": 1217,
+      "status": 200,
+      "encoding": "image/png",
+      "type": "image/png"
+    },
+    {
+      "url": "https://cdn.flick.art/df572068-3caa-4738-bbcf-fa95de1add54/uploads/images/2026/05/2026-05-14T16-30-32_b55fb0ca-04ae-47c7-b965-c26f65236cb5.png",
+      "harnessKB": 1199.5,
+      "realKB": 1199,
+      "status": 200,
+      "encoding": "image/png",
+      "type": "image/png"
+    }
+  ],
+  "favicon": {
+    "status": 200,
+    "size": 0,
+    "type": "image/vnd.microsoft.icon",
+    "finalUrl": "https://flick.art/favicon.ico",
+    "redirects": 0,
+    "url": "https://flick.art/favicon.ico"
+  },
+  "firstPartyLinkFailuresReChecked": [],
+  "firstPartyAssetFailuresReChecked": [],
+  "notFoundProbe": {
+    "status": 200,
+    "size": 1859,
+    "type": "text/html; charset=utf-8",
+    "finalUrl": "https://flick.art/this-page-does-not-exist-qa-audit-420000",
+    "redirects": 0,
+    "note": "expect 404"
+  },
+  "top12RealTotalMB": 37
+}

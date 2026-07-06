@@ -1,0 +1,276 @@
+{
+  "key": "naive",
+  "checkedAt": "2026-07-06T08:25:50.772Z",
+  "sitemap": {
+    "status": 200,
+    "totalLocs": 223,
+    "sampled": [
+      {
+        "url": "https://naive.ai",
+        "status": 200,
+        "finalUrl": "https://naive.ai/",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 1109
+      },
+      {
+        "url": "https://naive.ai/solutions/agent-native-media-generation",
+        "status": 404,
+        "finalUrl": "https://naive.ai/solutions/agent-native-media-generation",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/employees/seo-geo-manager",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/employees/seo-geo-manager",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/employees/linkedin-tech-recruiter",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/employees/linkedin-tech-recruiter",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/businesses/linkedin-b2b-lead-gen-agency",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/businesses/linkedin-b2b-lead-gen-agency",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/businesses/chrome-extension-business",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/businesses/chrome-extension-business",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/businesses/niche-crm",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/businesses/niche-crm",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/businesses/ai-workflow-automation-agency",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/businesses/ai-workflow-automation-agency",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/businesses/linkedin-ads-agency",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/businesses/linkedin-ads-agency",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/ai-support-agent",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/ai-support-agent",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/blog/introducing-billing",
+        "status": 404,
+        "finalUrl": "https://naive.ai/blog/introducing-billing",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/blog/introducing-email",
+        "status": 404,
+        "finalUrl": "https://naive.ai/blog/introducing-email",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/developers/primitives/cards",
+        "status": 404,
+        "finalUrl": "https://naive.ai/developers/primitives/cards",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/developers/primitives/trading",
+        "status": 404,
+        "finalUrl": "https://naive.ai/developers/primitives/trading",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      }
+    ],
+    "non200": [
+      {
+        "url": "https://naive.ai/solutions/agent-native-media-generation",
+        "status": 404,
+        "finalUrl": "https://naive.ai/solutions/agent-native-media-generation",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/employees/seo-geo-manager",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/employees/seo-geo-manager",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/employees/linkedin-tech-recruiter",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/employees/linkedin-tech-recruiter",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/businesses/linkedin-b2b-lead-gen-agency",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/businesses/linkedin-b2b-lead-gen-agency",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/businesses/chrome-extension-business",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/businesses/chrome-extension-business",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/businesses/niche-crm",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/businesses/niche-crm",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/businesses/ai-workflow-automation-agency",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/businesses/ai-workflow-automation-agency",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/businesses/linkedin-ads-agency",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/businesses/linkedin-ads-agency",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/templates/ai-support-agent",
+        "status": 404,
+        "finalUrl": "https://naive.ai/templates/ai-support-agent",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/blog/introducing-billing",
+        "status": 404,
+        "finalUrl": "https://naive.ai/blog/introducing-billing",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/blog/introducing-email",
+        "status": 404,
+        "finalUrl": "https://naive.ai/blog/introducing-email",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/developers/primitives/cards",
+        "status": 404,
+        "finalUrl": "https://naive.ai/developers/primitives/cards",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      },
+      {
+        "url": "https://naive.ai/developers/primitives/trading",
+        "status": 404,
+        "finalUrl": "https://naive.ai/developers/primitives/trading",
+        "redirects": 0,
+        "type": "text/html; charset=utf-8",
+        "size": 9379
+      }
+    ]
+  },
+  "canonicals": [
+    {
+      "page": "https://usenaive.ai/templates",
+      "canonical": "/templates",
+      "status": 0,
+      "error": "Command failed: curl -sS -o /dev/null -A Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/1",
+      "selfConsistent": false
+    },
+    {
+      "page": "https://usenaive.ai/templates/autonomous-company",
+      "canonical": "/templates/autonomous-company",
+      "status": 0,
+      "error": "Command failed: curl -sS -o /dev/null -A Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/1",
+      "selfConsistent": false
+    }
+  ],
+  "socialImages": [
+    {
+      "url": "https://usenaive.ai/naive-og.png",
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/naive-og.png",
+      "redirects": 0,
+      "type": "image/png",
+      "size": 56390,
+      "isImage": true
+    }
+  ],
+  "favicons": [
+    {
+      "href": "/favicon.svg",
+      "resolved": "https://usenaive.ai/favicon.svg",
+      "status": 200,
+      "finalUrl": "https://usenaive.ai/favicon.svg",
+      "redirects": 0,
+      "type": "image/svg+xml",
+      "size": 16824
+    }
+  ],
+  "regression": [
+    {
+      "url": "https://status.usenaive.ai/",
+      "status": 404,
+      "finalUrl": "https://status.usenaive.ai/",
+      "redirects": 0,
+      "type": "text/plain; charset=utf-8",
+      "size": 107
+    }
+  ]
+}

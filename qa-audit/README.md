@@ -1,6 +1,17 @@
 # Website QA Audit — 7 startup marketing sites
 
-_Outside-in, prospective-user review of publicly served pages. 2026-07-01._
+_Outside-in, prospective-user review of publicly served pages. 2026-07-01; fully re-audited
+2026-07-06._
+
+> **Re-audit 2026-07-06:** every finding was re-verified against a brand-new capture. 127 prior
+> findings still true (including all 4 Criticals), 6 fixed by the sites, 6 changed, and **44 new
+> findings** from new checks (sitemap URL sampling, canonical targets, og:image resolution,
+> `rel=noopener`, duplicate IDs). Standouts: Naive's sitemap points all 223 URLs at the wrong
+> domain (`naive.ai`); Flick's `og:image`/`twitter:image` 404 on every non-blog route; Uplane's
+> footer Careers link dead-ends at `/company/undefined`; Yondu still promotes Automate 2026 as
+> "upcoming" after the event ended. See the status block at the top of
+> [error-audit.md](./error-audit.md) and the "Re-audit (2026-07-06)" section in each report;
+> fresh evidence in [`evidence3/`](./evidence3).
 
 A friendly, non-intrusive review of each company's public marketing site: broken links,
 console/network errors, performance/asset weight, accessibility (axe-core), responsive

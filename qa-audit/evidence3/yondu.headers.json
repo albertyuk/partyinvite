@@ -1,0 +1,222 @@
+{
+  "key": "yondu",
+  "name": "Yondu",
+  "start": "https://www.yondu.ai/",
+  "checkedAt": "2026-07-06T08:22:44.334Z",
+  "canonicalization": {
+    "httpToHttps": {
+      "status": 301,
+      "ttfbMs": 254,
+      "httpVersion": "1.1",
+      "redirectUrl": "https://yondu.ai/",
+      "scheme": "HTTP",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "date": "Mon, 06 Jul 2026 08:22:44 GMT",
+        "content-type": "text/html",
+        "content-length": "166",
+        "location": "https://yondu.ai/",
+        "cf-ray": "a16d341099c201ca-ORD",
+        "cf-cache-status": "HIT",
+        "age": "198784",
+        "cache-control": "private",
+        "server": "cloudflare",
+        "vary": "Accept-Encoding",
+        "surrogate-control": "max-age=432000",
+        "surrogate-key": "yondu.ai / sslRedirect",
+        "x-wf-region": "us-east-1",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "setCookies": [
+        "_cfuvid=.6TaNEkUEdFM9FKHkjlHlqHDrT2dlZlAOd84yNWg_98-1783326164.5769022-1.0.1.1-U_rsO6iKLon75trvKUYUElAD9CS18y76uVWL.KHKMcE; HttpOnly; SameSite=None; Secure; Path=/; Domain=yondu.ai"
+      ],
+      "redirectBlocks": 1
+    },
+    "apex": {
+      "status": 301,
+      "ttfbMs": 453,
+      "httpVersion": "2",
+      "redirectUrl": "https://www.yondu.ai/",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "date": "Mon, 06 Jul 2026 08:22:45 GMT",
+        "content-type": "text/html",
+        "content-length": "166",
+        "location": "https://www.yondu.ai/",
+        "cf-ray": "a16d34134d22eb4a-IAD",
+        "cf-cache-status": "BYPASS",
+        "cache-control": "private",
+        "server": "cloudflare",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "x-wf-region": "us-east-1",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "setCookies": [
+        "_cfuvid=iM.vI.DTx9pKdgOUznMkjh6rnJT7jK0slJFxZ2KQhtU-1783326165.0029433-1.0.1.1-mW5HExqrGLTXLXrsdC11a1a4gKKV9rb8itHfIIgiaP0; HttpOnly; SameSite=None; Secure; Path=/; Domain=yondu.ai"
+      ],
+      "redirectBlocks": 2
+    },
+    "www": {
+      "status": 200,
+      "ttfbMs": 255,
+      "httpVersion": "2",
+      "redirectUrl": "",
+      "scheme": "HTTPS",
+      "size": 0,
+      "numRedirects": 0,
+      "headers": {
+        "date": "Mon, 06 Jul 2026 08:22:45 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "cf-ray": "a16d34153deaad11-IAD",
+        "cf-cache-status": "HIT",
+        "age": "1095880",
+        "last-modified": "Tue, 23 Jun 2026 15:58:04 GMT",
+        "link": "<https://cdn.prod.website-files.com>; rel=preconnect; crossorigin, <https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/css/yondu-ai-09d2f6.webflow.shared.0fe73095e.min.css>; rel=preload; as=style; crossorigin; integrity=\"sha384-D+cwleN5lDMFVYsFTesZuVf67eK+9K51RjooJuNRbiCAbf5AfgnFizBfqvPSON0g\", <https://cdn.prod.website-files.com/68b78b24b8c6d7f8c97cb125/css/yondu-ai-09d2f6.webflow.68d5de3fd18f1e660d11a9bc.38abd66bf.opt.min.css>; rel=preload; as=style; crossorigin; integrity=\"sha384-OKvWa/FxombJHv4aa0eUovac7YHFsd6T4SAyUWWPDXhnzyd/tk40YzrBTndZ2Lxu\", <https://fonts.googleapis.com>; rel=preconnect, <https://fonts.gstatic.com>; rel=preconnect; crossorigin, <https://cdn.intellimize.co>; rel=preconnect, <https://api.intellimize.co>; rel=preconnect; crossorigin, <https://log.intellimize.co>; rel=preconnect; crossorigin, <https://117762784.intellimizeio.com>; rel=preconnect",
+        "server": "cloudflare",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "surrogate-control": "max-age=2147483647",
+        "surrogate-key": "www.yondu.ai 68b78b24b8c6d7f8c97cb125 pageId:68d5de3fd18f1e660d11a9bc",
+        "x-lambda-id": "42714f4c-1cbf-4b58-819e-56895261304e",
+        "x-wf-region": "us-east-1",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      },
+      "setCookies": [
+        "_cfuvid=Y3PZxhlUQogdy7t1UwVaBm0CFmr57osxaB5ICOvDyzU-1783326165.3165324-1.0.1.1-HPN6Jn38FZfZX.RQN.BSAD.wENzM9k69nOOI701cm7I; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.yondu.ai"
+      ],
+      "redirectBlocks": 2
+    }
+  },
+  "pages": {
+    "https://www.yondu.ai/": {
+      "status": 200,
+      "ttfbMs": 299,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "gzip",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "cloudflare",
+        "vary": "accept-encoding"
+      },
+      "cookies": [
+        {
+          "name": "_cfuvid",
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None"
+        }
+      ]
+    },
+    "https://www.yondu.ai/about": {
+      "status": 200,
+      "ttfbMs": 179,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "gzip",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "cloudflare",
+        "vary": "accept-encoding"
+      },
+      "cookies": [
+        {
+          "name": "_cfuvid",
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None"
+        }
+      ]
+    },
+    "https://www.yondu.ai/ourblog": {
+      "status": 200,
+      "ttfbMs": 395,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "gzip",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "cloudflare",
+        "vary": "accept-encoding"
+      },
+      "cookies": [
+        {
+          "name": "_cfuvid",
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None"
+        }
+      ]
+    },
+    "https://www.yondu.ai/careers": {
+      "status": 200,
+      "ttfbMs": 417,
+      "httpVersion": "2",
+      "numRedirects": 0,
+      "contentEncoding": "gzip",
+      "security": {
+        "present": {
+          "strict-transport-security": "max-age=31536000"
+        },
+        "missing": [
+          "content-security-policy",
+          "x-frame-options",
+          "x-content-type-options",
+          "referrer-policy",
+          "permissions-policy",
+          "cross-origin-opener-policy",
+          "x-xss-protection"
+        ],
+        "server": "cloudflare",
+        "vary": "accept-encoding"
+      },
+      "cookies": [
+        {
+          "name": "_cfuvid",
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None"
+        }
+      ]
+    }
+  },
+  "assets": {},
+  "notes": []
+}
